@@ -433,11 +433,11 @@
         <mark key="." line="443" column="0" />
         <mark key="^" line="443" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/comments.html" timestamp="1478674939819">
-        <mark key="[" line="32" column="55" />
-        <mark key="]" line="32" column="55" />
-        <mark key="^" line="32" column="55" />
-        <mark key="." line="32" column="55" />
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/comments.html" timestamp="1478676159124">
+        <mark key="[" line="10" column="106" />
+        <mark key="]" line="10" column="106" />
+        <mark key="^" line="10" column="106" />
+        <mark key="." line="10" column="106" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/database.py" timestamp="1478669552672">
         <mark key="[" line="12" column="29" />
