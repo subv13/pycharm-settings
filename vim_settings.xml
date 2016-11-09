@@ -223,11 +223,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/project/config/database.py" timestamp="1478521008039">
-        <mark key="[" line="60" column="35" />
-        <mark key="]" line="60" column="32" />
-        <mark key="^" line="60" column="32" />
-        <mark key="." line="60" column="32" />
+      <file name="$USER_HOME$/smenateam/lookingappgoods/project/config/database.py" timestamp="1478678399947">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+        <mark key="." line="11" column="31" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappimages/modules/resizer/urls.py" timestamp="1478082524598">
         <mark key="[" line="7" column="49" />
@@ -357,7 +357,7 @@
         <mark key="." line="60" column="81" />
         <mark key="^" line="60" column="81" />
       </file>
-      <file name="/Dummy.txt" timestamp="1478669575272">
+      <file name="/Dummy.txt" timestamp="1478678484271">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/look_detail.html" timestamp="1478673378879">
@@ -556,10 +556,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SearchForm</text>
+        <text>kek</text>
       </register>
       <register name="-" type="4">
-        <text>SearchForm</text>
+        <text>kek</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
