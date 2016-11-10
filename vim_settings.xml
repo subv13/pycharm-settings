@@ -112,11 +112,11 @@
       <file name="$USER_HOME$/smenateam/lookingapp/project/staticfiles/css/admin_main.css" timestamp="1478500970289">
         <mark key="[" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/statistics.html" timestamp="1478758321060">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="34" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/statistics.html" timestamp="1478760090455">
+        <mark key="[" line="5" column="24" />
+        <mark key="]" line="5" column="27" />
+        <mark key="^" line="5" column="27" />
+        <mark key="." line="5" column="27" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/project/wsgi.py" timestamp="1478000485153">
         <mark key="[" line="12" column="49" />
@@ -199,11 +199,11 @@
         <mark key="^" line="163" column="72" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478757582802">
-        <mark key="[" line="8" column="14" />
-        <mark key="]" line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-        <mark key="." line="8" column="11" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478759712451">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/admin.py" timestamp="1478585804354">
         <mark key="[" line="25" column="47" />
@@ -555,48 +555,48 @@
       <jump line="90" column="59" filename="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/base.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsOiBmYWxzZSwK</text>
+      <register name="&quot;" type="4">
+        <text>myChart</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>myChart</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXJsKHInXmNvbW1lbnRzLycsIE1vZGVyYXRpb25Db21tZW50c1ZlaXcuYXNfdmlldygpLCBuYW1lPSdjb21tZW50cycpLAo=</text>
+      <register name="0" type="4">
+        <text>date_joined::date</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRhOiBbMiwgMywgMywgMTcsIDYsIDMsIDddLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdWJpY0ludGVycG9sYXRpb25Nb2RlOiAnbW9ub3RvbmUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsOiBmYWxzZSwK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdWJpY0ludGVycG9sYXRpb25Nb2RlOiAnbW9ub3RvbmUnLAo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>, {
               label: 'oranges',
               data: [2, 29, 5, 5, 2, 3, 10],
               backgroundColor: &quot;rgba(255,153,0,0.4)&quot;
             }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">R1JPVVAgQlkgZGF0ZV9qb2luZWQ7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8Y2FudmFzIGlkPSJteUNoYXJ0IiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCI+PC9jYW52YXM+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Y2FudmFzIGlkPSJteUNoYXJ0IiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCI+PC9jYW52YXM+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
