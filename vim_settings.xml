@@ -199,11 +199,11 @@
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/modules/lookingappgoods/search_indexes.py" timestamp="1478774994813">
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="15" column="38" />
-        <mark key="." line="15" column="38" />
-        <mark key="^" line="15" column="38" />
+      <file name="$USER_HOME$/smenateam/lookingappgoods/modules/lookingappgoods/search_indexes.py" timestamp="1478776528817">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/settings.py" timestamp="1478698143768">
         <mark key="[" line="152" column="0" />
@@ -333,12 +333,12 @@
         <mark key="^" line="99" column="47" />
         <mark key="." line="99" column="47" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/views.py" timestamp="1478775760253">
-        <mark key="'" line="486" column="12" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="54" column="53" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/views.py" timestamp="1478777593186">
+        <mark key="'" line="488" column="12" />
+        <mark key="[" line="34" column="70" />
+        <mark key="]" line="34" column="66" />
+        <mark key="^" line="34" column="66" />
+        <mark key="." line="34" column="66" />
       </file>
       <file name="/a.sql" timestamp="1478001164024">
         <mark key="[" line="0" column="0" />
@@ -381,7 +381,7 @@
         <mark key="^" line="28" column="86" />
         <mark key="." line="28" column="86" />
       </file>
-      <file name="/dummy.sql" timestamp="1478766367333">
+      <file name="/dummy.sql" timestamp="1478776956179">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/templates/moderation/base.html" timestamp="1478775808373">
@@ -405,10 +405,12 @@
       <file name="/Dummy.txt" timestamp="1478761604116">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1476447463267">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1478776836626">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/staticfiles/css/moderation.css" timestamp="1478673777255">
+      <file name="$USER_HOME$/smenateam/lookingappgoods/staticfiles/css/moderation.css" timestamp="1478776662465">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="17" column="21" />
         <mark key="." line="11" column="16" />
@@ -459,10 +461,10 @@
         <mark key="." line="62" column="30" />
         <mark key="^" line="62" column="30" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/modules/lookingappgoods/templates/search/indexes/lookingappgoods/goods_text.txt" timestamp="1478774202434">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/smenateam/lookingappgoods/modules/lookingappgoods/templates/search/indexes/lookingappgoods/goods_text.txt" timestamp="1478776531789">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookinghighload/.gitignore" timestamp="1478172044200">
         <mark key="[" line="0" column="6" />
@@ -599,10 +601,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Jnt7IHF1ZXJ5c3RyaW5nIH19</text>
+        <text>30</text>
       </register>
       <register name="-" type="4">
-        <text>foo</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
@@ -611,31 +613,31 @@
         <text encoding="base64">Jnt7IHF1ZXJ5c3RyaW5nIH19</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">e3sgb2JqZWN0LmRlc2NyaXB0aW9uIH19Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGRlc2NyaXB0aW9uID0gaW5kZXhlcy5DaGFyRmllbGQobW9kZWxfYXR0cj0nZGVzY3JpcHRpb24nKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">eyUgZW5kZm9yICV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">e3sgY29sb3IubmFtZSB9fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">eyUgZm9yIGNvbG9yIGluIG9iamVjdC5tb2RlcmF0ZWRfY29sb3IuYWxsICV9Cg==</text>
+        <text encoding="base64">eyUgZW5kZm9yICV9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZW5kdGh1bWJuYWlsICV9Cg==</text>
+        <text encoding="base64">e3sgY29sb3IubmFtZSB9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">eyUgZm9yIGNvbG9yIGluIG9iamVjdC5tb2RlcmF0ZWRfY29sb3IuYWxsICV9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiB2YWx1ZT0ie3sgaXRlbS5vYmplY3QuaW1hZ2VfdXJsIH19Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyUgZW5kdGh1bWJuYWlsICV9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cD5JbWFnZSBub3QgZm91bmQ8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
