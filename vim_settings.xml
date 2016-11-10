@@ -21,12 +21,12 @@
         <mark key="^" line="41" column="25" />
         <mark key="." line="41" column="25" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" timestamp="1478753189375">
-        <mark key="'" line="135" column="0" />
-        <mark key="[" line="8" column="65" />
-        <mark key="]" line="8" column="52" />
-        <mark key="^" line="8" column="52" />
-        <mark key="." line="8" column="52" />
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" timestamp="1478756103298">
+        <mark key="'" line="9" column="33" />
+        <mark key="[" line="252" column="26" />
+        <mark key="]" line="252" column="25" />
+        <mark key="^" line="252" column="25" />
+        <mark key="." line="252" column="25" />
       </file>
       <file name="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/django/core/files/uploadedfile.py" timestamp="1477473063006">
         <mark key="[" line="91" column="101" />
@@ -61,11 +61,11 @@
         <mark key="^" line="28" column="32" />
         <mark key="." line="28" column="32" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/base.html" timestamp="1478696444909">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/base.html" timestamp="1478756493389">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="43" column="81" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/config/database.py" timestamp="1477567144262">
         <mark key="[" line="11" column="29" />
@@ -111,6 +111,12 @@
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/staticfiles/css/admin_main.css" timestamp="1478500970289">
         <mark key="[" line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/statistics.html" timestamp="1478758321060">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="18" column="34" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/project/wsgi.py" timestamp="1478000485153">
         <mark key="[" line="12" column="49" />
@@ -193,8 +199,11 @@
         <mark key="^" line="163" column="72" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478252638437">
-        <mark key="[" line="0" column="51" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478757582802">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="8" column="11" />
+        <mark key="." line="8" column="11" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/admin.py" timestamp="1478585804354">
         <mark key="[" line="25" column="47" />
@@ -340,7 +349,7 @@
         <mark key="^" line="28" column="86" />
         <mark key="." line="28" column="86" />
       </file>
-      <file name="/dummy.sql" timestamp="1478697669108">
+      <file name="/dummy.sql" timestamp="1478757599428">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappimages/modules/resizer/admin.py" timestamp="1478083066636">
@@ -357,13 +366,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1478701175263">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/look_detail.html" timestamp="1478694122342">
-        <mark key="'" line="45" column="13" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-        <mark key="^" line="12" column="81" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1476447463267">
         <mark key="[" line="0" column="0" />
@@ -383,11 +385,11 @@
       <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/config/auth.py" timestamp="1477887856257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/moderation/admin.py" timestamp="1478751463796">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="^" line="7" column="25" />
-        <mark key="." line="34" column="0" />
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/moderation/admin.py" timestamp="1478756179676">
+        <mark key="[" line="37" column="46" />
+        <mark key="]" line="38" column="15" />
+        <mark key="^" line="38" column="15" />
+        <mark key="." line="38" column="15" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/moderation/forms.py" timestamp="1476867398068">
         <mark key="[" line="9" column="4" />
@@ -425,13 +427,6 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/models.py" timestamp="1478696014708">
-        <mark key="'" line="56" column="55" />
-        <mark key="[" line="57" column="74" />
-        <mark key="]" line="57" column="83" />
-        <mark key="^" line="57" column="83" />
-        <mark key="." line="57" column="83" />
-      </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/management/commands/fill_db.py" timestamp="1476956452431">
         <mark key="[" line="443" column="0" />
         <mark key="]" line="443" column="0" />
@@ -458,8 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="239" column="34" filename="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
-      <jump line="241" column="34" filename="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="82" column="6" filename="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/imagekit/models/fields/__init__.py" />
       <jump line="242" column="21" filename="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/rest_framework/generics.py" />
       <jump line="29" column="36" filename="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/rest_framework/generics.py" />
@@ -545,7 +538,6 @@
       <jump line="54" column="1" filename="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" />
       <jump line="144" column="8" filename="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" />
       <jump line="190" column="17" filename="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" />
-      <jump line="9" column="44" filename="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" />
       <jump line="323" column="69" filename="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/views.py" />
       <jump line="419" column="25" filename="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/views.py" />
       <jump line="470" column="12" filename="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/views.py" />
@@ -558,46 +550,53 @@
       <jump line="2" column="0" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/models.py" />
       <jump line="188" column="0" filename="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" />
       <jump line="137" column="0" filename="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" />
+      <jump line="252" column="32" filename="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" />
+      <jump line="9" column="33" filename="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" />
+      <jump line="90" column="59" filename="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/base.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MgaW1wb3J0IFZpZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsOiBmYWxzZSwK</text>
       </register>
       <register name="-" type="4">
-        <text>True</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGluY2x1ZGUgJ21vZGVyYXRpb24vdXNlcl9zbmlwcGV0Lmh0bWwnIHdpdGggdXNlcj1zdWJzY3JpcHRpb24uc3Vic2NyaWJlciBvbmx5ICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXJsKHInXmNvbW1lbnRzLycsIE1vZGVyYXRpb25Db21tZW50c1ZlaXcuYXNfdmlldygpLCBuYW1lPSdjb21tZW50cycpLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MgaW1wb3J0IFZpZXcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWxsOiBmYWxzZSwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uc2hvcnRjdXRzIGltcG9ydCByZWRpcmVjdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjdWJpY0ludGVycG9sYXRpb25Nb2RlOiAnbW9ub3RvbmUnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0idGV4dCI+PGxhYmVsPtCf0L7QtNC/0LjRgdGH0LjQutC+0LI6PC9sYWJlbD4ge3sgdXNlci5nZXRfc3Vic2NyaWJlcnMuY291bnQgfX08L3A+CiAgICAgICAgPHAgY2xhc3M9InRleHQiPgogICAgICAgICAgICA8bGFiZWw+0KHRgtC40LvQuNGB0YI6PC9sYWJlbD4KICAgICAgICAgICAgeyUgaWYgdXNlci5pc19zdHlsaXN0ICV9CiAgICAgICAgICAgICAgICDQlNCwCiAgICAgICAgICAgIHslIGVsc2UgJX0KICAgICAgICAgICAgICAgINCd0LXRggogICAgICAgICAgICB7JSBlbmRpZiAlfQogICAgICAgIDwvcD4K</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0idGV4dCI+e3sgdXNlci5kYXRlX2pvaW5lZHxkYXRlOiJkIE0gbyBIOmkiIH19PC9wPgo=</text>
+      <register name="4" type="4">
+        <text>, {
+              label: 'oranges',
+              data: [2, 29, 5, 5, 2, 3, 10],
+              backgroundColor: &quot;rgba(255,153,0,0.4)&quot;
+            }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">R1JPVVAgQlkgZGF0ZV9qb2luZWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cCBjbGFzcz0idGV4dCI+PGxhYmVsPtCU0LDRgtCwINGA0LXQs9C40YHRgtGA0LDRhtC40Lg6PC9sYWJlbD48L3A+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICA8Y2FudmFzIGlkPSJteUNoYXJ0IiB3aWR0aD0iNDAwIiBoZWlnaHQ9IjQwMCI+PC9jYW52YXM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
