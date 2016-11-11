@@ -118,10 +118,11 @@
       <file name="$USER_HOME$/smenateam/lookingapp/project/staticfiles/css/admin_main.css" timestamp="1478500970289">
         <mark key="[" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/notifications/rest/serializers.py" timestamp="1478843366401">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/notifications/rest/serializers.py" timestamp="1478845465393">
+        <mark key="[" line="24" column="18" />
+        <mark key="]" line="24" column="19" />
+        <mark key="." line="24" column="19" />
+        <mark key="^" line="24" column="19" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/statistics.html" timestamp="1478843504628">
         <mark key="[" line="22" column="24" />
