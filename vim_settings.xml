@@ -131,12 +131,12 @@
         <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/venvs/lookingapp/local/lib/python2.7/site-packages/rest_framework/authtoken/models.py" timestamp="1478846607036" />
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" timestamp="1478851106146">
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" timestamp="1478853817715">
         <mark key="'" line="9" column="52" />
-        <mark key="[" line="94" column="36" />
-        <mark key="]" line="94" column="38" />
-        <mark key="^" line="94" column="38" />
-        <mark key="." line="94" column="38" />
+        <mark key="[" line="119" column="18" />
+        <mark key="]" line="119" column="20" />
+        <mark key="." line="119" column="20" />
+        <mark key="^" line="119" column="20" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/project/wsgi.py" timestamp="1478000485153">
         <mark key="[" line="12" column="49" />
@@ -435,11 +435,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/serializers.py" timestamp="1478850938095">
-        <mark key="'" line="185" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="70" />
-        <mark key="." line="193" column="8" />
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/serializers.py" timestamp="1478854160173">
+        <mark key="[" line="172" column="44" />
+        <mark key="]" line="172" column="44" />
+        <mark key="." line="172" column="44" />
+        <mark key="^" line="172" column="44" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/staticfiles/css/moderation.css" timestamp="1478781158072">
         <mark key="[" line="7" column="0" />
@@ -535,9 +535,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="67" filename="$USER_HOME$/smenateam/lookingappgoods/moderation/templates/moderation/dashboard.html" />
-      <jump line="107" column="25" filename="$USER_HOME$/smenateam/lookingappgoods/moderation/views.py" />
-      <jump line="40" column="13" filename="$USER_HOME$/smenateam/lookingappgoods/moderation/templates/moderation/dashboard.html" />
       <jump line="113" column="7" filename="$USER_HOME$/smenateam/lookingappgoods/moderation/views.py" />
       <jump line="119" column="37" filename="$USER_HOME$/smenateam/lookingappgoods/moderation/views.py" />
       <jump line="115" column="0" filename="$USER_HOME$/smenateam/lookingappgoods/moderation/views.py" />
@@ -635,53 +632,50 @@
       <jump line="96" column="26" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" />
       <jump line="12" column="8" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" />
       <jump line="9" column="52" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" />
+      <jump line="187" column="8" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/serializers.py" />
+      <jump line="19" column="70" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/serializers.py" />
+      <jump line="194" column="7" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICMgdXNlcm5hbWVfdmFsaWRhdG9yID0gUmVnZXhWYWxpZGF0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>UniqueValidator(queryset=User.objects.all()), ])</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Vycm9yJzogItCb0L7Qs9C40L0g0LTQvtC70LbQtdC9INGB0L7QtNC10YDQttCw0YLRjCDRgtC+0LvRjNC60L4g0LHRg9C60LLRiywg0YbQuNGE0YDRiyDQuCDRgdC40LzQstC+0LvRiyAnXycsICcuJyJ9LAo=</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lX3VuaXF1ZV92YWxpZGF0b3IgPSBVbmlxdWVWYWxpZGF0b3IoCiAgICAgICAgcXVlcnlzZXQ9VXNlci5vYmplY3RzLmFsbCgpLAogICAgICAgIG1lc3NhZ2U9J9Cf0L7Qu9GM0LfQvtCy0LDRgtC10LvRjCDRgSDRgtCw0LrQuNC8INC40LzQtdC90LXQvCDRg9C20LUg0YHRg9GJ0LXRgdGC0LLRg9C10YInKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICMgdXNlcm5hbWVfdmFsaWRhdG9yID0gUmVnZXhWYWxpZGF0b3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>(
-    #     regex='^([A-Za-z_.]+)$',
-    #     message={
-    #         'error': &quot;Логин должен содержать только буквы, цифры и символы '_', '.'&quot;},
-    #     code=None,
-    #     inverse_match=False
-    # )
-    # username_validator(username)</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2Vycm9yJwo=</text>
+        <text encoding="base64">ICAgIGVtYWlsX3VuaXF1ZV92YWxpZGF0b3IgPSBVbmlxdWVWYWxpZGF0b3IoCiAgICAgICAgcXVlcnlzZXQ9VXNlci5vYmplY3RzLmFsbCgpLAogICAgICAgIG1lc3NhZ2U9J9Cf0L7Qu9GM0LfQvtCy0LDRgtC10LvRjCDRgSDRgtCw0LrQuNC8IGVtYWlsINGD0LbQtSDRgdGD0YnQtdGB0YLQstGD0LXRgicpCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKCdrZWsnKQo=</text>
+      <register name="4" type="4">
+        <text>UniqueValidator(queryset=User.objects.all(), 
+                                    message=)</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgVmFsaWRhdGlvbkVycm9yIGFzIGU6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgIGlmIHBhc3N3b3JkMSBhbmQgcGFzc3dvcmQyIGFuZCBwYXNzd29yZDEgIT0gcGFzc3dvcmQyOgogICAgICAgIHJhaXNlIFZhbGlkYXRpb25FcnJvcigKICAgICAgICAgICAgeydlcnJvcic6ICLQn9Cw0YDQvtC70Ywg0Lgg0L/QvtC00YLQstC10YDQttC00LXQvdC40LUg0L3QtSDRgdC+0LLQv9Cw0LTQsNGO0YIuIn0KICAgICAgICApCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5leGNlcHRpb25zIGltcG9ydCBWYWxpZGF0aW9uRXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICBpZiBwYXNzd29yZDEgYW5kIHBhc3N3b3JkMiBhbmQgcGFzc3dvcmQxICE9IHBhc3N3b3JkMjoKICAgICAgICAgICAgcmFpc2UgVmFsaWRhdGlvbkVycm9yKAogICAgICAgICAgICAgICAgeydlcnJvcic6ICLQn9Cw0YDQvtC70Ywg0Lgg0L/QvtC00YLQstC10YDQttC00LXQvdC40LUg0L3QtSDRgdC+0LLQv9Cw0LTQsNGO0YIuIn0KICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lX3ZhbGlkYXRvcih1c2VybmFtZSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICkK</text>
+        <text encoding="base64">ICAgICAgICB2YWxpZGF0ZV9wYXNzd29yZChwYXNzd29yZDEsIHBhc3N3b3JkMikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
