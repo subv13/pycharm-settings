@@ -15,6 +15,25 @@
         <mark key="^" line="20" column="116" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/wsgi.py" timestamp="1477997474767">
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="12" column="55" />
+        <mark key="^" line="12" column="55" />
+        <mark key="." line="12" column="55" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/dialogs/models.py" timestamp="1478699092703">
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="25" />
+        <mark key="^" line="41" column="25" />
+        <mark key="." line="41" column="25" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" timestamp="1478784375007">
+        <mark key="'" line="9" column="33" />
+        <mark key="[" line="252" column="26" />
+        <mark key="]" line="252" column="25" />
+        <mark key="^" line="252" column="25" />
+        <mark key="." line="252" column="25" />
+      </file>
       <file name="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/django/core/files/uploadedfile.py" timestamp="1477473063006">
         <mark key="[" line="91" column="101" />
         <mark key="]" line="91" column="73" />
@@ -54,6 +73,24 @@
         <mark key="^" line="43" column="81" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/config/database.py" timestamp="1477567144262">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="31" />
+        <mark key="." line="11" column="31" />
+        <mark key="^" line="11" column="31" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9641058b-ce34-4fce-b401-695f7c9901fb/console.sql" timestamp="1477290147251">
+        <mark key="[" line="0" column="34" />
+        <mark key="]" line="3" column="21" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_snippet.html" timestamp="1478753177770">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/modules/main/migrations/0002_auto_20160915_0651.py" timestamp="1478000719006">
         <mark key="[" line="10" column="10" />
         <mark key="]" line="10" column="13" />
@@ -78,11 +115,20 @@
         <mark key="^" line="37" column="46" />
         <mark key="." line="57" column="16" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/staticfiles/css/admin_main.css" timestamp="1478500970289">
+        <mark key="[" line="2" column="1" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/statistics.html" timestamp="1478760185037">
         <mark key="[" line="9" column="43" />
         <mark key="]" line="9" column="46" />
         <mark key="^" line="9" column="46" />
         <mark key="." line="9" column="46" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingappgoods/project/wsgi.py" timestamp="1478000485153">
+        <mark key="[" line="12" column="49" />
+        <mark key="]" line="12" column="55" />
+        <mark key="." line="12" column="55" />
+        <mark key="^" line="12" column="55" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/templates/moderation/category_moderation.html" timestamp="1478684814903">
         <mark key="[" line="37" column="101" />
@@ -90,11 +136,29 @@
         <mark key="." line="37" column="101" />
         <mark key="^" line="37" column="101" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingappimages/modules/resizer/views.py" timestamp="1478082502930">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="29" />
+        <mark key="." line="39" column="29" />
+        <mark key="^" line="39" column="29" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/urls.py" timestamp="1477655093146">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="^" line="15" column="0" />
         <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/accounts/profile.html" timestamp="1478425663850">
+        <mark key="[" line="30" column="60" />
+        <mark key="]" line="30" column="66" />
+        <mark key="." line="30" column="66" />
+        <mark key="^" line="30" column="66" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/media.py" timestamp="1478670912884">
+        <mark key="[" line="38" column="70" />
+        <mark key="]" line="38" column="70" />
+        <mark key="." line="38" column="70" />
+        <mark key="^" line="38" column="70" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/config/haystack.py" timestamp="1477484156208">
         <mark key="[" line="29" column="16" />
@@ -104,6 +168,12 @@
       </file>
       <file name="/" timestamp="1477287177470">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/config/media.py" timestamp="1477484074061">
+        <mark key="[" line="42" column="16" />
+        <mark key="]" line="42" column="8" />
+        <mark key="^" line="42" column="8" />
+        <mark key="." line="42" column="8" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/urls.py" timestamp="1477984759105">
         <mark key="[" line="26" column="0" />
@@ -117,11 +187,23 @@
         <mark key="^" line="14" column="57" />
         <mark key="." line="14" column="57" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingappimages/project/settings.py" timestamp="1478522325397">
+        <mark key="[" line="91" column="38" />
+        <mark key="]" line="91" column="48" />
+        <mark key="." line="91" column="48" />
+        <mark key="^" line="91" column="48" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookinghighload/requirements.txt" timestamp="1478259691513">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="6" />
         <mark key="^" line="1" column="6" />
         <mark key="." line="1" column="6" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingappgoods/modules/lookingappgoods/search_indexes.py" timestamp="1478776528817">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/settings.py" timestamp="1478698143768">
         <mark key="[" line="152" column="0" />
@@ -129,7 +211,12 @@
         <mark key="^" line="163" column="72" />
         <mark key="." line="152" column="0" />
       </file>
-      <file name="dbtable:/37706f4c/a6408fda-7b60-490e-9206-040365801b94/postgres.public.lookingappgoods_goods" timestamp="1478761784553" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478759712451">
+        <mark key="[" line="8" column="34" />
+        <mark key="]" line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/admin.py" timestamp="1478585804354">
         <mark key="[" line="25" column="47" />
         <mark key="]" line="25" column="47" />
@@ -148,11 +235,35 @@
         <mark key="." line="5" column="59" />
         <mark key="^" line="5" column="59" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingappgoods/moderation/admin.py" timestamp="1477376486600">
+        <mark key="[" line="24" column="29" />
+        <mark key="]" line="24" column="34" />
+        <mark key="^" line="24" column="34" />
+        <mark key="." line="24" column="34" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/main/urls.py" timestamp="1477914502761">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="41" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/templates/moderation/search.html" timestamp="1478775092186">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="35" />
+        <mark key="." line="25" column="35" />
+        <mark key="^" line="25" column="35" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_detail_feed.html" timestamp="1478688258029">
         <mark key="[" line="12" column="79" />
         <mark key="]" line="12" column="80" />
         <mark key="." line="12" column="80" />
         <mark key="^" line="12" column="80" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingappimages/manage.py" timestamp="1477997441000">
+        <mark key="[" line="5" column="53" />
+        <mark key="]" line="5" column="59" />
+        <mark key="." line="5" column="59" />
+        <mark key="^" line="5" column="59" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/project/config/database.py" timestamp="1478680864960">
         <mark key="[" line="12" column="49" />
@@ -166,11 +277,29 @@
         <mark key="^" line="7" column="52" />
         <mark key="." line="7" column="52" />
       </file>
-      <file name="/Python Console" timestamp="1478774998698">
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/looks.html" timestamp="1478751892366">
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="28" />
+        <mark key="." line="45" column="28" />
+        <mark key="^" line="49" column="34" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_detail_subscriptions.html" timestamp="1478752957448">
+        <mark key="[" line="6" column="96" />
+        <mark key="]" line="6" column="90" />
+        <mark key="^" line="6" column="90" />
+        <mark key="." line="6" column="90" />
+      </file>
+      <file name="/Python Console" timestamp="1478837116486">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1478773214652">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_detail_looks.html" timestamp="1478693677917">
+        <mark key="[" line="8" column="54" />
+        <mark key="]" line="8" column="63" />
+        <mark key="." line="8" column="63" />
+        <mark key="^" line="8" column="63" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/modules/lookingappgoods/models.py" timestamp="1478771594535">
         <mark key="[" line="82" column="0" />
@@ -184,20 +313,35 @@
         <mark key="^" line="91" column="6" />
         <mark key="." line="91" column="6" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_detail_subscribers.html" timestamp="1478752946143">
+        <mark key="[" line="6" column="85" />
+        <mark key="]" line="6" column="83" />
+        <mark key="^" line="6" column="83" />
+        <mark key="." line="6" column="83" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/admin.py" timestamp="1477990905183">
         <mark key="[" line="10" column="19" />
         <mark key="]" line="10" column="24" />
         <mark key="^" line="10" column="24" />
         <mark key="." line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/project/config/storage.py" timestamp="1478774858007" />
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/rest/serializers.py" timestamp="1478088164118">
         <mark key="[" line="99" column="49" />
         <mark key="]" line="99" column="47" />
         <mark key="^" line="99" column="47" />
         <mark key="." line="99" column="47" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/views.py" timestamp="1478780523195">
+        <mark key="'" line="478" column="12" />
+        <mark key="[" line="26" column="67" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="26" column="66" />
+        <mark key="." line="26" column="0" />
+      </file>
       <file name="/a.sql" timestamp="1478001164024">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Django Console" timestamp="1478604893432">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/templates/moderation/tooltip.html" timestamp="1478768738347">
@@ -218,6 +362,11 @@
         <mark key="." line="8" column="41" />
         <mark key="^" line="8" column="41" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingappgoods/project/settings.py" timestamp="1478771455260">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/management/commands/goods_with_color.py" timestamp="1477393052123">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -230,198 +379,6 @@
         <mark key="^" line="28" column="86" />
         <mark key="." line="28" column="86" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingappimages/modules/resizer/admin.py" timestamp="1478083066636">
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="35" />
-        <mark key="." line="14" column="35" />
-        <mark key="^" line="14" column="35" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/staticfiles/css/moderation.css" timestamp="1478781158072">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="21" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/requirements.txt" timestamp="1478260203413">
-        <mark key="[" line="13" column="20" />
-        <mark key="]" line="14" column="7" />
-        <mark key="^" line="14" column="7" />
-        <mark key="." line="14" column="7" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/dialogs/detail.html" timestamp="1477044371118">
-        <mark key="[" line="0" column="46" />
-        <mark key="]" line="0" column="25" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="0" column="25" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/settings.py" timestamp="1477997465907">
-        <mark key="[" line="62" column="24" />
-        <mark key="]" line="62" column="30" />
-        <mark key="." line="62" column="30" />
-        <mark key="^" line="62" column="30" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/management/commands/fill_db.py" timestamp="1476956452431">
-        <mark key="[" line="443" column="0" />
-        <mark key="]" line="443" column="0" />
-        <mark key="." line="443" column="0" />
-        <mark key="^" line="443" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/database.py" timestamp="1478701181730">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="31" />
-        <mark key="." line="13" column="31" />
-        <mark key="^" line="13" column="34" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/wsgi.py" timestamp="1477997474767">
-        <mark key="[" line="12" column="49" />
-        <mark key="]" line="12" column="55" />
-        <mark key="^" line="12" column="55" />
-        <mark key="." line="12" column="55" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/dialogs/models.py" timestamp="1478699092703">
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="25" />
-        <mark key="^" line="41" column="25" />
-        <mark key="." line="41" column="25" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" timestamp="1478784375007">
-        <mark key="'" line="9" column="33" />
-        <mark key="[" line="252" column="26" />
-        <mark key="]" line="252" column="25" />
-        <mark key="^" line="252" column="25" />
-        <mark key="." line="252" column="25" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/config/database.py" timestamp="1477567144262">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="31" />
-        <mark key="." line="11" column="31" />
-        <mark key="^" line="11" column="31" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9641058b-ce34-4fce-b401-695f7c9901fb/console.sql" timestamp="1477290147251">
-        <mark key="[" line="0" column="34" />
-        <mark key="]" line="3" column="21" />
-        <mark key="^" line="3" column="21" />
-        <mark key="." line="3" column="21" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_snippet.html" timestamp="1478753177770">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="33" />
-        <mark key="^" line="11" column="33" />
-        <mark key="." line="11" column="33" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/staticfiles/css/admin_main.css" timestamp="1478500970289">
-        <mark key="[" line="2" column="1" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/project/wsgi.py" timestamp="1478000485153">
-        <mark key="[" line="12" column="49" />
-        <mark key="]" line="12" column="55" />
-        <mark key="." line="12" column="55" />
-        <mark key="^" line="12" column="55" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappimages/modules/resizer/views.py" timestamp="1478082502930">
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="39" column="29" />
-        <mark key="." line="39" column="29" />
-        <mark key="^" line="39" column="29" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/accounts/profile.html" timestamp="1478425663850">
-        <mark key="[" line="30" column="60" />
-        <mark key="]" line="30" column="66" />
-        <mark key="." line="30" column="66" />
-        <mark key="^" line="30" column="66" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/media.py" timestamp="1478670912884">
-        <mark key="[" line="38" column="70" />
-        <mark key="]" line="38" column="70" />
-        <mark key="." line="38" column="70" />
-        <mark key="^" line="38" column="70" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/config/media.py" timestamp="1477484074061">
-        <mark key="[" line="42" column="16" />
-        <mark key="]" line="42" column="8" />
-        <mark key="^" line="42" column="8" />
-        <mark key="." line="42" column="8" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappimages/project/settings.py" timestamp="1478522325397">
-        <mark key="[" line="91" column="38" />
-        <mark key="]" line="91" column="48" />
-        <mark key="." line="91" column="48" />
-        <mark key="^" line="91" column="48" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/modules/lookingappgoods/search_indexes.py" timestamp="1478776528817">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="38" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478759712451">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/moderation/admin.py" timestamp="1477376486600">
-        <mark key="[" line="24" column="29" />
-        <mark key="]" line="24" column="34" />
-        <mark key="^" line="24" column="34" />
-        <mark key="." line="24" column="34" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/main/urls.py" timestamp="1477914502761">
-        <mark key="[" line="10" column="41" />
-        <mark key="]" line="10" column="41" />
-        <mark key="^" line="10" column="41" />
-        <mark key="." line="10" column="41" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/templates/moderation/search.html" timestamp="1478775092186">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="35" />
-        <mark key="." line="25" column="35" />
-        <mark key="^" line="25" column="35" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappimages/manage.py" timestamp="1477997441000">
-        <mark key="[" line="5" column="53" />
-        <mark key="]" line="5" column="59" />
-        <mark key="." line="5" column="59" />
-        <mark key="^" line="5" column="59" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/looks.html" timestamp="1478751892366">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="28" />
-        <mark key="." line="45" column="28" />
-        <mark key="^" line="49" column="34" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_detail_subscriptions.html" timestamp="1478752957448">
-        <mark key="[" line="6" column="96" />
-        <mark key="]" line="6" column="90" />
-        <mark key="^" line="6" column="90" />
-        <mark key="." line="6" column="90" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_detail_looks.html" timestamp="1478693677917">
-        <mark key="[" line="8" column="54" />
-        <mark key="]" line="8" column="63" />
-        <mark key="." line="8" column="63" />
-        <mark key="^" line="8" column="63" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_detail_subscribers.html" timestamp="1478752946143">
-        <mark key="[" line="6" column="85" />
-        <mark key="]" line="6" column="83" />
-        <mark key="^" line="6" column="83" />
-        <mark key="." line="6" column="83" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/views.py" timestamp="1478780523195">
-        <mark key="'" line="478" column="12" />
-        <mark key="[" line="26" column="67" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="26" column="66" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="/Django Console" timestamp="1478604893432">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingappgoods/project/settings.py" timestamp="1478771455260">
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="/dummy.sql" timestamp="1478776956179">
         <mark key="[" line="0" column="0" />
       </file>
@@ -430,6 +387,12 @@
         <mark key="]" line="71" column="96" />
         <mark key="^" line="57" column="96" />
         <mark key="." line="71" column="78" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingappimages/modules/resizer/admin.py" timestamp="1478083066636">
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="35" />
+        <mark key="." line="14" column="35" />
+        <mark key="^" line="14" column="35" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/main.html" timestamp="1477986773437">
         <mark key="[" line="60" column="63" />
@@ -452,6 +415,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingappgoods/staticfiles/css/moderation.css" timestamp="1478781158072">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="21" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/requirements.txt" timestamp="1478260203413">
+        <mark key="[" line="13" column="20" />
+        <mark key="]" line="14" column="7" />
+        <mark key="^" line="14" column="7" />
+        <mark key="." line="14" column="7" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/config/auth.py" timestamp="1477887856257">
         <mark key="[" line="0" column="0" />
       </file>
@@ -460,6 +434,12 @@
         <mark key="]" line="38" column="15" />
         <mark key="^" line="38" column="15" />
         <mark key="." line="38" column="15" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/dialogs/detail.html" timestamp="1477044371118">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/moderation/forms.py" timestamp="1476867398068">
         <mark key="[" line="9" column="4" />
@@ -479,6 +459,12 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="10" column="26" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/settings.py" timestamp="1477997465907">
+        <mark key="[" line="62" column="24" />
+        <mark key="]" line="62" column="30" />
+        <mark key="." line="62" column="30" />
+        <mark key="^" line="62" column="30" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/modules/lookingappgoods/templates/search/indexes/lookingappgoods/goods_text.txt" timestamp="1478776531789">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -497,11 +483,23 @@
         <mark key="^" line="57" column="83" />
         <mark key="." line="57" column="83" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/management/commands/fill_db.py" timestamp="1476956452431">
+        <mark key="[" line="443" column="0" />
+        <mark key="]" line="443" column="0" />
+        <mark key="." line="443" column="0" />
+        <mark key="^" line="443" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/comments.html" timestamp="1478689091159">
         <mark key="[" line="57" column="82" />
         <mark key="]" line="57" column="85" />
         <mark key="^" line="57" column="85" />
         <mark key="." line="57" column="85" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/database.py" timestamp="1478701181730">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+        <mark key="^" line="13" column="34" />
       </file>
       <file name="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/django_selectel_storage/storage.py" timestamp="1477891552738">
         <mark key="[" line="79" column="15" />
