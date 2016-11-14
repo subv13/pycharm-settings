@@ -197,12 +197,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478252638437">
         <mark key="[" line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" timestamp="1479128319783">
-        <mark key="y" line="113" column="8" />
-        <mark key="[" line="135" column="39" />
-        <mark key="]" line="135" column="39" />
-        <mark key="." line="135" column="39" />
-        <mark key="^" line="135" column="39" />
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" timestamp="1479131970742">
+        <mark key="'" line="133" column="28" />
+        <mark key="y" line="148" column="8" />
+        <mark key="[" line="172" column="5" />
+        <mark key="]" line="174" column="14" />
+        <mark key="." line="174" column="14" />
+        <mark key="^" line="174" column="14" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappimages/project/config/database.py" timestamp="1478521111057">
         <mark key="[" line="28" column="35" />
@@ -390,12 +391,13 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/views.py" timestamp="1479124227724">
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/views.py" timestamp="1479132586259">
         <mark key="'" line="25" column="77" />
-        <mark key="[" line="185" column="44" />
-        <mark key="]" line="186" column="7" />
-        <mark key="." line="186" column="7" />
-        <mark key="^" line="186" column="7" />
+        <mark key="y" line="165" column="52" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="203" column="10" />
+        <mark key="." line="187" column="0" />
+        <mark key="^" line="165" column="32" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_detail_subscribers.html" timestamp="1478609072957">
         <mark key="[" line="10" column="73" />
@@ -453,8 +455,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="28" filename="$USER_HOME$/smenateam/lookingapp/project/templates/accounts/profile_edit.html" />
-      <jump line="22" column="39" filename="$USER_HOME$/smenateam/lookingapp/project/templates/accounts/profile_edit.html" />
       <jump line="38" column="28" filename="$USER_HOME$/smenateam/lookingapp/project/templates/accounts/profile_edit.html" />
       <jump line="39" column="39" filename="$USER_HOME$/smenateam/lookingapp/project/templates/accounts/profile_edit.html" />
       <jump line="27" column="20" filename="$USER_HOME$/smenateam/lookingappimages/modules/resizer/views.py" />
@@ -553,46 +553,48 @@
       <jump line="18" column="41" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/views.py" />
       <jump line="185" column="38" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/views.py" />
       <jump line="25" column="77" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/views.py" />
+      <jump line="121" column="25" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" />
+      <jump line="133" column="28" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbiwgY3JlYXRlZCA9IFRva2VuLm9iamVjdHMuZ2V0X29yX2NyZWF0ZSh1c2VyPXVzZXIpCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsKICAgICAgICAgICAgJ2lkJzogdXNlci5pZCwKICAgICAgICAgICAgJ3Rva2VuJzogdG9rZW4ua2V5LAogICAgICAgICAgICAnbmFtZSc6IHVzZXIubmFtZSwKICAgICAgICAgICAgJ2VtYWlsJzogdXNlci5lbWFpbCwKICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJzogdXNlci5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgJ2xvY2F0aW9uJzogdXNlci5sb2NhdGlvbiwKICAgICAgICAgICAgJ2F2YXRhcic6IHVzZXIuYXZhdGFyLAogICAgICAgICAgICAnYmFja2dyb3VuZCc6IHVzZXIuYmFja2dyb3VuZCwKICAgICAgICAgICAgJ2dlbmRlcic6IHVzZXIuZ2VuZGVyLAogICAgICAgICAgICAnaXNfc3R5bGlzdCc6IHVzZXIuaXNfc3R5bGlzdCwKICAgICAgICAgICAgJ2xvb2tzX2NvdW50JzogdXNlci5sb29rX3NldC5maWx0ZXIoZW5hYmxlZD1UcnVlKS5jb3VudCgpLAogICAgICAgICAgICAnc3Vic2NyaWJlcnNfY291bnQnOiB1c2VyLmdldF9zdWJzY3JpYmVycygpLmNvdW50KCksCiAgICAgICAgICAgICdzdWJzY3JpcHRpb25zX2NvdW50JzogdXNlci5nZXRfc3Vic2NyaXB0aW9ucygpLmNvdW50KCksCiAgICAgICAgICAgICdzZXJ2aWNlcyc6IFt7J2lkJzogeC5pZCwgJ3RpdGxlJzogeC50aXRsZX0gZm9yIHggaW4gdXNlci5zZXJ2aWNlcy5hbGwoKV0KICAgICAgICB9KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>_or_create</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTb2NpYWxBY2NvdW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlciA9IFVzZXIub2JqZWN0cy5jcmVhdGVfdXNlcigKICAgICAgICAgICAgICAgIHVzZXJuYW1lPXJlcXVlc3QuZGF0YVsndXNlcl9pZCddLAogICAgICAgICAgICAgICAgbmFtZT1yZXF1ZXN0LmRhdGFbJ25hbWUnXSwKICAgICAgICAgICAgICAgIGVtYWlsPXJlcXVlc3QuZGF0YVsnZW1haWwnXQogICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICB0b2tlbiwgY3JlYXRlZCA9IFRva2VuLm9iamVjdHMuZ2V0X29yX2NyZWF0ZSh1c2VyPXVzZXIpCiAgICAgICAgcmV0dXJuIFJlc3BvbnNlKHsKICAgICAgICAgICAgJ2lkJzogdXNlci5pZCwKICAgICAgICAgICAgJ3Rva2VuJzogdG9rZW4ua2V5LAogICAgICAgICAgICAnbmFtZSc6IHVzZXIubmFtZSwKICAgICAgICAgICAgJ2VtYWlsJzogdXNlci5lbWFpbCwKICAgICAgICAgICAgJ2Rlc2NyaXB0aW9uJzogdXNlci5kZXNjcmlwdGlvbiwKICAgICAgICAgICAgJ2xvY2F0aW9uJzogdXNlci5sb2NhdGlvbiwKICAgICAgICAgICAgJ2F2YXRhcic6IHVzZXIuYXZhdGFyLAogICAgICAgICAgICAnYmFja2dyb3VuZCc6IHVzZXIuYmFja2dyb3VuZCwKICAgICAgICAgICAgJ2dlbmRlcic6IHVzZXIuZ2VuZGVyLAogICAgICAgICAgICAnaXNfc3R5bGlzdCc6IHVzZXIuaXNfc3R5bGlzdCwKICAgICAgICAgICAgJ2xvb2tzX2NvdW50JzogdXNlci5sb29rX3NldC5maWx0ZXIoZW5hYmxlZD1UcnVlKS5jb3VudCgpLAogICAgICAgICAgICAnc3Vic2NyaWJlcnNfY291bnQnOiB1c2VyLmdldF9zdWJzY3JpYmVycygpLmNvdW50KCksCiAgICAgICAgICAgICdzdWJzY3JpcHRpb25zX2NvdW50JzogdXNlci5nZXRfc3Vic2NyaXB0aW9ucygpLmNvdW50KCksCiAgICAgICAgICAgICdzZXJ2aWNlcyc6IFt7J2lkJzogeC5pZCwgJ3RpdGxlJzogeC50aXRsZX0gZm9yIHggaW4gdXNlci5zZXJ2aWNlcy5hbGwoKV0KICAgICAgICB9KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNvY2lhbF9hcHAgPSBTb2NpYWxBY2NvdW50Lm9iamVjdHMuZ2V0KAogICAgICAgIHByb3ZpZGVyPSdmYWNlYm9vaycKICAgICkK</text>
+        <text encoding="base64">ICAgIGRlZiBwb3N0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzb2NpYWxfYWNjb3VudCwgY3JlYXRlZCA9IFNvY2lhbEFjY291bnQub2JqZWN0cy5nZXRfb3JfY3JlYXRlKAogICAgICAgICAgICB1c2VyPXVzZXIsCiAgICAgICAgICAgIHVpZD1yZXF1ZXN0Wyd1c2VyX2lkJ10sCiAgICAgICAgICAgIGxhc3RfbG9naW49ZGF0ZXRpbWUubm93KCksCiAgICAgICAgICAgIGRhdGVfam9pbmVkPWRhdGV0aW1lLm5vdygpCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZW1haWw9cmVxdWVzdC5kYXRhWydlbWFpbCddCg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBWYWxpZGF0aW9uRXJyb3IK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvdmlkZXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIHBhc3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
