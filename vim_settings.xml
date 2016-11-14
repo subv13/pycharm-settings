@@ -232,10 +232,12 @@
         <mark key="^" line="14" column="57" />
         <mark key="." line="14" column="57" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/settings.py" timestamp="1478259815056">
-        <mark key="[" line="122" column="48" />
-        <mark key="]" line="122" column="48" />
-        <mark key="." line="122" column="54" />
+      <file name="$USER_HOME$/smenateam/lookingapp/project/settings.py" timestamp="1479104013781">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="165" column="104" />
+        <mark key="]" line="165" column="104" />
+        <mark key="." line="165" column="106" />
+        <mark key="^" line="137" column="103" />
       </file>
       <file name="$USER_HOME$/smenateam/lookinghighload/requirements.txt" timestamp="1478259691513">
         <mark key="[" line="1" column="6" />
@@ -493,7 +495,6 @@
       <jump line="644" column="62" filename="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="647" column="64" filename="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="36" column="26" filename="$USER_HOME$/smenateam/lookingapp/project/settings.py" />
-      <jump line="0" column="0" filename="$USER_HOME$/smenateam/lookingapp/project/settings.py" />
       <jump line="34" column="25" filename="$USER_HOME$/smenateam/lookingapp/project/settings.py" />
       <jump line="30" column="19" filename="$USER_HOME$/smenateam/lookingappimages/modules/resizer/models.py" />
       <jump line="111" column="10" filename="$USER_HOME$/smenateam/lookingappimages/lookingappimages/settings.py" />
@@ -546,13 +547,14 @@
       <jump line="3" column="13" filename="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/look_detail.html" />
       <jump line="148" column="4" filename="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" />
       <jump line="54" column="1" filename="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/smenateam/lookingapp/project/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>png</text>
       </register>
       <register name="-" type="4">
-        <text>User</text>
+        <text>png</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
