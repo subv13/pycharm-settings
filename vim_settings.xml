@@ -104,10 +104,10 @@
         <mark key="." line="79" column="14" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/database.py" timestamp="1479101883055">
-        <mark key="[" line="13" column="35" />
-        <mark key="]" line="13" column="33" />
-        <mark key="." line="13" column="33" />
-        <mark key="^" line="13" column="33" />
+        <mark key="[" line="10" column="35" />
+        <mark key="]" line="10" column="33" />
+        <mark key="." line="10" column="33" />
+        <mark key="^" line="10" column="33" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/admin.py" timestamp="1478585804354">
         <mark key="[" line="25" column="47" />
@@ -234,9 +234,9 @@
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/settings.py" timestamp="1479104013781">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="165" column="104" />
-        <mark key="]" line="165" column="104" />
-        <mark key="." line="165" column="106" />
+        <mark key="[" line="137" column="104" />
+        <mark key="]" line="137" column="104" />
+        <mark key="." line="137" column="106" />
         <mark key="^" line="137" column="103" />
       </file>
       <file name="$USER_HOME$/smenateam/lookinghighload/requirements.txt" timestamp="1478259691513">
