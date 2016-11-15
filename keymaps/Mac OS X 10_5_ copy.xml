@@ -5,4 +5,7 @@
   <action id="ActivateFavoritesToolWindow" />
   <action id="DuplicatesForm.SendToRight" />
   <action id="FileChooser.GotoProject" />
+  <action id="InsertLiveTemplate">
+    <keyboard-shortcut first-keystroke="alt j" />
+  </action>
 </keymap>
