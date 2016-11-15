@@ -169,6 +169,12 @@
         <mark key="^" line="35" column="87" />
         <mark key="." line="51" column="28" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/look_detail.html" timestamp="1478609574001">
+        <mark key="'" line="8" column="13" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1476447463267">
         <mark key="[" line="0" column="0" />
       </file>
@@ -445,12 +451,11 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/views.py" timestamp="1479187712765">
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/views.py" timestamp="1479190479437">
         <mark key="'" line="25" column="77" />
-        <mark key="[" line="158" column="48" />
-        <mark key="]" line="160" column="42" />
-        <mark key="^" line="160" column="42" />
-        <mark key="." line="160" column="42" />
+        <mark key="[" line="375" column="0" />
+        <mark key="]" line="375" column="0" />
+        <mark key="." line="375" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_detail_subscribers.html" timestamp="1478609072957">
         <mark key="[" line="10" column="73" />
@@ -616,7 +621,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15zb2NpYWwvbG9naW4vZmFjZWJvb2t2Mi8kJywgVXNlckZhY2Vib29rTG9naW5WMi5hc192aWV3KCkpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>k</text>
@@ -628,18 +633,27 @@
         <text encoding="base64">ICAgIHVybChyJ15zb2NpYWwvbG9naW4vZmFjZWJvb2svJCcsIFVzZXJGYWNlYm9va0xvZ2luLmFzX3ZpZXcoKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15zb2NpYWwvbG9naW4vZmFjZWJvb2t2Mi8kJywgVXNlckZhY2Vib29rTG9naW5WMi5hc192aWV3KCkpLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aHR0cHM6Ly9pbnN0YWdyYW0uY29tL2FjY291bnRzL3Bhc3N3b3JkL3Jlc2V0L2NvbmZpcm0va2J3ZmlvLzRoMC0yYTFhZmZiNjE3NjkzOGRjZTNkOTlmMzYwZTczM2UwNi8K</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIHVybChyJ15zb2NpYWwvbG9naW4vZmFjZWJvb2t2Mi8kJywgVXNlckZhY2Vib29rTG9naW5WMi5hc192aWV3KCkpLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Y2xhc3MgVXNlckZhY2Vib29rTG9naQo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>n(APIView):
     &quot;&quot;&quot;
     Вход через facebook, SocialToken не создается
@@ -665,37 +679,8 @@
             'services': [{'id': x.id, 'title': x.title} for x in user.services.all()]
         })</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>def login_with_facebook(request):
-    try:
-        social_account = SocialAccount.objects.get(uid=request.data['user_id'],
-                                                   provider='facebook')
-    except SocialAccount.DoesNotExist:
-        try:
-            user = User.objects.get(email=request.data['email'])
-        except User.DoesNotExist:
-            user = User.objects.create_user(
-                username=request.data['first_name'],
-                email=request.data['email']
-            )
-        social_account = SocialAccount.objects.create(
-            user=user,
-            provider='facebook',
-            uid=request.data['user_id'],
-            last_login=datetime.now(),
-            date_joined=datetime.now()
-        )
-
-    return social_account.user</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
