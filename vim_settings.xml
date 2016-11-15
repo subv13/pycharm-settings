@@ -63,17 +63,27 @@
       <file name="$USER_HOME$/smenateam/lookingapp/project/staticfiles/css/admin_main.css" timestamp="1478500970289">
         <mark key="[" line="2" column="1" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_detail_feed.html" timestamp="1478610263063">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/moderation/templates/moderation/brand_moderation.html" timestamp="1477401249255">
         <mark key="[" line="36" column="38" />
         <mark key="]" line="37" column="32" />
         <mark key="." line="37" column="32" />
         <mark key="^" line="37" column="32" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/serializers.py" timestamp="1479185556947">
-        <mark key="[" line="324" column="35" />
-        <mark key="]" line="324" column="48" />
-        <mark key="." line="324" column="48" />
-        <mark key="^" line="324" column="48" />
+      <file name="$USER_HOME$/smenateam/lookingapp/project/staticfiles/css/moderation.css" timestamp="1478590886385">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/serializers.py" timestamp="1479186996148">
+        <mark key="[" line="324" column="46" />
+        <mark key="]" line="324" column="49" />
+        <mark key="." line="324" column="49" />
+        <mark key="^" line="324" column="49" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/staticfiles/css/moderation.css" timestamp="1477313356681">
         <mark key="[" line="11" column="15" />
@@ -189,6 +199,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="37" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/main/rest/views.py" timestamp="1478441446295">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/models.py" timestamp="1478607491814">
         <mark key="'" line="31" column="23" />
         <mark key="[" line="163" column="38" />
@@ -199,13 +214,13 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478252638437">
         <mark key="[" line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" timestamp="1479185761300">
-        <mark key="'" line="121" column="28" />
-        <mark key="y" line="136" column="8" />
-        <mark key="[" line="153" column="54" />
-        <mark key="]" line="153" column="46" />
-        <mark key="." line="153" column="46" />
-        <mark key="^" line="153" column="46" />
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" timestamp="1479187601811">
+        <mark key="'" line="98" column="28" />
+        <mark key="y" line="113" column="8" />
+        <mark key="[" line="90" column="26" />
+        <mark key="]" line="90" column="22" />
+        <mark key="^" line="90" column="22" />
+        <mark key="." line="90" column="22" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappimages/project/config/database.py" timestamp="1478521111057">
         <mark key="[" line="28" column="35" />
@@ -228,6 +243,11 @@
       <file name="/None" timestamp="1479183890890">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingappimages/requirements.txt" timestamp="1478522074890">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_detail_base.html" timestamp="1478609510794">
         <mark key="'" line="4" column="8" />
         <mark key="[" line="72" column="0" />
@@ -235,7 +255,7 @@
         <mark key="^" line="15" column="43" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1479184180920">
+      <file name="/Python Console" timestamp="1479186744548">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1479115042979">
@@ -308,6 +328,19 @@
       <file name="/Django Console" timestamp="1478604893432">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/tests/locustfile.py" timestamp="1478169961508">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" timestamp="1478610695823">
+        <mark key="'" line="54" column="1" />
+        <mark key="y" line="123" column="0" />
+        <mark key="[" line="183" column="0" />
+        <mark key="]" line="183" column="0" />
+        <mark key="." line="183" column="0" />
+        <mark key="^" line="57" column="18" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/management/commands/goods_with_color.py" timestamp="1477393052123">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
@@ -363,6 +396,11 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="10" column="26" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/main/migrations/0001_initial.py" timestamp="1478253022505">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingappimages/manage.py" timestamp="1477997441000">
         <mark key="[" line="5" column="53" />
         <mark key="]" line="5" column="59" />
@@ -378,6 +416,11 @@
         <mark key="." line="39" column="29" />
         <mark key="^" line="39" column="29" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/media.py" timestamp="1478522463119">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/rest/serializers.py" timestamp="1478088164118">
         <mark key="[" line="99" column="49" />
         <mark key="]" line="99" column="47" />
@@ -391,12 +434,10 @@
         <mark key="." line="48" column="31" />
       </file>
       <file name="$USER_HOME$/venvs/lookingapp/lib/python2.7/site-packages/rest_framework/mixins.py" timestamp="1479183872962" />
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/urls.py" timestamp="1479183079846">
-        <mark key="'" line="12" column="38" />
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="12" column="57" />
-        <mark key="." line="12" column="57" />
-        <mark key="^" line="12" column="57" />
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/urls.py" timestamp="1479187651808">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/moderation/admin.py" timestamp="1478609777238">
         <mark key="[" line="19" column="27" />
@@ -404,13 +445,12 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/views.py" timestamp="1479184188199">
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/views.py" timestamp="1479187712765">
         <mark key="'" line="25" column="77" />
-        <mark key="y" line="165" column="52" />
-        <mark key="[" line="191" column="38" />
-        <mark key="]" line="191" column="62" />
-        <mark key="." line="191" column="62" />
-        <mark key="^" line="191" column="62" />
+        <mark key="[" line="158" column="48" />
+        <mark key="]" line="160" column="42" />
+        <mark key="^" line="160" column="42" />
+        <mark key="." line="160" column="42" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_detail_subscribers.html" timestamp="1478609072957">
         <mark key="[" line="10" column="73" />
@@ -447,6 +487,11 @@
         <mark key="]" line="91" column="73" />
         <mark key="." line="91" column="73" />
         <mark key="^" line="91" column="73" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/user_detail_looks.html" timestamp="1478610259784">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/accounts/profile.html" timestamp="1478425663850">
         <mark key="[" line="30" column="60" />
@@ -570,11 +615,11 @@
       <jump line="125" column="28" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>d</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVybChyJ15zb2NpYWwvbG9naW4vZmFjZWJvb2t2Mi8kJywgVXNlckZhY2Vib29rTG9naW5WMi5hc192aWV3KCkpLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTb2NpYWxBY2NvdW50XD4=</text>
@@ -583,31 +628,74 @@
         <text encoding="base64">ICAgIHVybChyJ15zb2NpYWwvbG9naW4vZmFjZWJvb2svJCcsIFVzZXJGYWNlYm9va0xvZ2luLmFzX3ZpZXcoKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15zb2NpYWwvbG9naW4vZmFjZWJvb2t2Mi8kJywgVXNlckZhY2Vib29rTG9naW5WMi5hc192aWV3KCkpLAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gRmFsc2UK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIHIuc3RhdHVzX2NvZGUgIT0gMjAwOgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Y2xhc3MgVXNlckZhY2Vib29rTG9naQo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>n(APIView):
+    &quot;&quot;&quot;
+    Вход через facebook, SocialToken не создается
+
+    &quot;&quot;&quot;
+    def post(self, request, format=None):
+        user = login_with_facebook(request)
+        token, created = Token.objects.get_or_create(user=user)
+        return Response({
+            'id': user.id,
+            'token': token.key,
+            'name': user.name,
+            'email': user.email,
+            'description': user.description,
+            'location': user.location,
+            'avatar': user.avatar,
+            'background': user.background,
+            'gender': user.gender,
+            'is_stylist': user.is_stylist,
+            'looks_count': user.look_set.filter(enabled=True).count(),
+            'subscribers_count': user.get_subscribers().count(),
+            'subscriptions_count': user.get_subscriptions().count(),
+            'services': [{'id': x.id, 'title': x.title} for x in user.services.all()]
+        })</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgcGFyYW1zPXBhcmFtcykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHIgPSByZXF1ZXN0cy5nZXQoJ2h0dHBzOi8vZ3JhcGguZmFjZWJvb2suY29tL29hdXRoL2FjY2Vzc190b2tlbicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="9" type="4">
+        <text>def login_with_facebook(request):
+    try:
+        social_account = SocialAccount.objects.get(uid=request.data['user_id'],
+                                                   provider='facebook')
+    except SocialAccount.DoesNotExist:
+        try:
+            user = User.objects.get(email=request.data['email'])
+        except User.DoesNotExist:
+            user = User.objects.create_user(
+                username=request.data['first_name'],
+                email=request.data['email']
+            )
+        social_account = SocialAccount.objects.create(
+            user=user,
+            provider='facebook',
+            uid=request.data['user_id'],
+            last_login=datetime.now(),
+            date_joined=datetime.now()
+        )
+
+    return social_account.user</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
