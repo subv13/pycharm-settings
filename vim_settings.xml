@@ -193,14 +193,6 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" timestamp="1479213219316">
-        <mark key="'" line="54" column="1" />
-        <mark key="y" line="123" column="0" />
-        <mark key="[" line="65" column="38" />
-        <mark key="]" line="65" column="36" />
-        <mark key="." line="65" column="36" />
-        <mark key="^" line="65" column="36" />
-      </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/accounts/reset_password_email_message.txt" timestamp="1479205723656">
         <mark key="[" line="4" column="50" />
         <mark key="]" line="5" column="0" />
@@ -554,12 +546,12 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/views.py" timestamp="1479294360183">
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/views.py" timestamp="1479295531787">
         <mark key="'" line="0" column="0" />
-        <mark key="y" line="486" column="27" />
-        <mark key="[" line="216" column="0" />
-        <mark key="]" line="216" column="0" />
-        <mark key="." line="216" column="0" />
+        <mark key="y" line="488" column="27" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
         <mark key="^" line="210" column="36" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/management/commands/get_goods_admitad.py" timestamp="1476956584836">
@@ -685,7 +677,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbCA9IE5vbmUK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmRhdGFbJ2V4cGlyZXNfYXQnXSA9IGRhdGV0aW1lLm5vdygpCg==</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
@@ -697,31 +689,31 @@
         <text encoding="base64">ICAgICAgICAgICAgbGFzdF9sb2dpbj1kYXRldGltZS5ub3coKSwKICAgICAgICAgICAgZGF0ZV9qb2luZWQ9ZGF0ZXRpbWUubm93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBlbWFpbCA9IE5vbmUK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGlmIG5vdCBlbWFpbDoK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAuZGF0YVsnZW1haWwnXSA9IE5vbmUK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVxdWVzdC5kYXRhWydlbWFpbCddOgogICAgICAgICAgICByZXF1ZXN0LmRhdGFbJ2VtYWlsJ10gPSBOb25lCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICByZXF1ZXN0LmRhdGFbJ2V4cGlyZXNfYXQnXSA9IGRhdGV0aW1lLm5vdygpCg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBlbWFpbCA9IE5vbmUK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGlmIG5vdCBlbWFpbDoK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAuZGF0YVsnZW1haWwnXSA9IE5vbmUK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiBub3QgcmVxdWVzdC5kYXRhWydlbWFpbCddOgogICAgICAgICAgICByZXF1ZXN0LmRhdGFbJ2VtYWlsJ10gPSBOb25lCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgZGF0ZXRpbWUK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGhhc2hsaWIK</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0LmRhdGFbJ2V4cGlyZXNfYXQnXSA9IGRhdGV0aW1lLm5vdygpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGhhc2hsaWIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
