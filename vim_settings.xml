@@ -402,12 +402,11 @@
         <mark key="]" line="8" column="74" />
       </file>
       <file name="$USER_HOME$/venvs/lookingapp/lib/python2.7/site-packages/allauth/account/app_settings.py" timestamp="1479304858724" />
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" timestamp="1479303680198">
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/utils.py" timestamp="1479358041988">
         <mark key="y" line="165" column="13" />
-        <mark key="[" line="138" column="15" />
-        <mark key="]" line="138" column="7" />
-        <mark key="^" line="138" column="7" />
-        <mark key="." line="138" column="7" />
+        <mark key="[" line="142" column="0" />
+        <mark key="]" line="142" column="0" />
+        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappimages/project/config/database.py" timestamp="1478521111057">
         <mark key="[" line="28" column="35" />
@@ -502,7 +501,7 @@
         <mark key="." line="62" column="30" />
         <mark key="^" line="62" column="30" />
       </file>
-      <file name="/dummy.sql" timestamp="1479304278064">
+      <file name="/dummy.sql" timestamp="1479358223981">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9641058b-ce34-4fce-b401-695f7c9901fb/console.sql" timestamp="1477290147251">
@@ -532,11 +531,11 @@
         <mark key="." line="3" column="19" />
         <mark key="^" line="3" column="19" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/dialogs/rest/serializers.py" timestamp="1479357036165">
-        <mark key="[" line="55" column="69" />
-        <mark key="]" line="56" column="17" />
-        <mark key="^" line="56" column="17" />
-        <mark key="." line="56" column="17" />
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/dialogs/rest/serializers.py" timestamp="1479358618830">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="55" column="47" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/modules/moderation/templates/moderation/dashboard.html" timestamp="1479276615776">
         <mark key="[" line="3" column="4" />
@@ -699,7 +698,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -711,31 +710,31 @@
         <text encoding="base64">ICAgICAgICByYWlzZSBWYWxpZGF0aW9uRXJyb3IoCiAgICAgICAgICAgICdJRCDQv9C+0LvRjNC30L7QstCw0YLQtdC70Y8g0L3QtSDQstCw0LvQuNC00L3Ri9C5JwogICAgICAgICkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5hdXRodG9rZW4uc2VyaWFsaXplcnMgaW1wb3J0IEF1dGhUb2tlblNlcmlhbGl6ZXIK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgKEFzc3VtaW5nIHRoZSBkZWZhdWx0IGBNb2RlbEJhY2tlbmRgIGF1dGhlbnRpY2F0aW9uIGJhY2tlbmQuKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcmV0dXJucyBgTm9uZWAgZm9yIGlzX2FjdGl2ZT1GYWxzZSB1c2Vycy4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMgRnJvbSBEamFuZ28gMS4xMCBvbndhcmRzIHRoZSBgYXV0aGVudGljYXRlYCBjYWxsIHNpbXBseQo=</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5hdXRodG9rZW4uc2VyaWFsaXplcnMgaW1wb3J0IEF1dGhUb2tlblNlcmlhbGl6ZXIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHVzZXIgPSBhdXRoZW50aWNhdGUoZW1haWw9ZW1haWwsIHBhc3N3b3JkPXBhc3N3b3JkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgKEFzc3VtaW5nIHRoZSBkZWZhdWx0IGBNb2RlbEJhY2tlbmRgIGF1dGhlbnRpY2F0aW9uIGJhY2tlbmQuKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWxpZiBlbWFpbDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgcmV0dXJucyBgTm9uZWAgZm9yIGlzX2FjdGl2ZT1GYWxzZSB1c2Vycy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgdXNlcm5hbWU6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICMgRnJvbSBEamFuZ28gMS4xMCBvbndhcmRzIHRoZSBgYXV0aGVudGljYXRlYCBjYWxsIHNpbXBseQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
