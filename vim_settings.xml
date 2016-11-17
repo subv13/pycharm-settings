@@ -96,6 +96,7 @@
         <mark key="^" line="79" column="14" />
         <mark key="." line="79" column="14" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/haystack.py" timestamp="1479382122654" />
       <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/admin.py" timestamp="1478585804354">
         <mark key="[" line="25" column="47" />
         <mark key="]" line="25" column="47" />
@@ -318,6 +319,12 @@
         <mark key="]" line="12" column="55" />
         <mark key="^" line="12" column="55" />
         <mark key="." line="12" column="55" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/main/search_indexes.py" timestamp="1479381899165">
+        <mark key="[" line="11" column="51" />
+        <mark key="]" line="12" column="58" />
+        <mark key="^" line="12" column="58" />
+        <mark key="." line="12" column="58" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappimages/modules/resizer/urls.py" timestamp="1478082524598">
         <mark key="[" line="7" column="49" />
@@ -748,11 +755,11 @@
       <jump line="46" column="29" filename="$USER_HOME$/smenateam/looking-images/modules/resizer/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgRGV2SGF5c3RhY2tTZXR0aW5ncwo=</text>
+      <register name="&quot;" type="4">
+        <text>model_attr='moderated_brand', null=True</text>
       </register>
       <register name="-" type="4">
-        <text>goods</text>
+        <text>model_attr='moderated_brand', null=True</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
@@ -761,31 +768,31 @@
         <text encoding="base64">ICAgIHVybChyJ15hcGkvdXNlcnMvJywgaW5jbHVkZSgnbW9kdWxlcy5hY2NvdW50cy5yZXN0LnVybHMnKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgRGV2SGF5c3RhY2tTZXR0aW5ncwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUShpc19zZXhfbW9kZXJhdGVkPVRydWUpICYgUShpc19jYXRlZ29yeV9tb2RlcmF0ZWQ9VHJ1ZSkpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUShpc19jb2xvcl9tb2RlcmF0ZWQ9VHJ1ZSkgJiBRKGlzX2JyYW5kX21vZGVyYXRlZD1UcnVlKSAmCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAncmVzdF9mcmFtZXdvcmtfc3dhZ2dlcicsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15hcGktYXV0aC8nLCBpbmNsdWRlKCdyZXN0X2ZyYW1ld29yay51cmxzJykpLAo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBRCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgRGV2SGF5c3RhY2tTZXR0aW5ncwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay51cmxwYXR0ZXJucyBpbXBvcnQgZm9ybWF0X3N1ZmZpeF9wYXR0ZXJucwo=</text>
+        <text encoding="base64">ICAgICAgICAncmVzdF9mcmFtZXdvcmtfc3dhZ2dlcicsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15hcGktYXV0aC8nLCBpbmNsdWRlKCdyZXN0X2ZyYW1ld29yay51cmxzJykpLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">dXJscGF0dGVybnMgPSBmb3JtYXRfc3VmZml4X3BhdHRlcm5zKHVybHBhdHRlcm5zKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
