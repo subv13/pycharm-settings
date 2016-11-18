@@ -612,10 +612,10 @@
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/rest/serializers.py" timestamp="1479386783528">
-        <mark key="[" line="213" column="21" />
-        <mark key="]" line="213" column="21" />
-        <mark key="^" line="211" column="38" />
-        <mark key="." line="213" column="23" />
+        <mark key="[" line="217" column="21" />
+        <mark key="]" line="217" column="21" />
+        <mark key="^" line="215" column="38" />
+        <mark key="." line="217" column="23" />
       </file>
       <file name="$USER_HOME$/venvs/lookingapp/lib/python2.7/site-packages/rest_framework/mixins.py" timestamp="1479389579539" />
       <file name="$USER_HOME$/smenateam/lookingapp/modules/moderation/admin.py" timestamp="1478609777238">
