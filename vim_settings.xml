@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1479451068102">
+      <file name="/a.dummy" timestamp="1479458811327">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/project/urls.py" timestamp="1479455522231">
@@ -16,6 +16,13 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/serializers.py" timestamp="1479305644052">
+        <mark key="'" line="47" column="11" />
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+        <mark key="^" line="48" column="62" />
       </file>
       <file name="$USER_HOME$/venvs/lookingapp/lib/python2.7/site-packages/allauth/account/auth_backends.py" timestamp="1479305172087" />
       <file name="$USER_HOME$/smenateam/looking-goods/modules/moderation/views.py" timestamp="1479371739706">
@@ -107,11 +114,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/views.py" timestamp="1479455607410">
-        <mark key="[" line="72" column="47" />
-        <mark key="]" line="72" column="46" />
-        <mark key="." line="72" column="46" />
-        <mark key="^" line="72" column="46" />
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/views.py" timestamp="1479458847245">
+        <mark key="'" line="79" column="38" />
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/frontend-react/src/apps/look/components/LookProduct.js" timestamp="1479376262663">
         <mark key="[" line="7" column="78" />
@@ -209,10 +217,24 @@
       <file name="vim_settings.xml" timestamp="1479190691805">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/looking-images/modules/resizer/views.py" timestamp="1479360575717">
+        <mark key="'" line="46" column="29" />
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="47" column="50" />
+        <mark key="." line="47" column="50" />
+        <mark key="^" line="47" column="50" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/rest/urls.py" timestamp="1479374788825">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/settings.py" timestamp="1479385330880">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="136" column="0" />
+        <mark key="]" line="136" column="4" />
+        <mark key="." line="136" column="4" />
+        <mark key="^" line="136" column="69" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/models.py" timestamp="1479389462877">
         <mark key="y" line="166" column="35" />
@@ -274,7 +296,6 @@
       <file name="$USER_HOME$/venvs/lookingapp/lib/python2.7/site-packages/rest_framework/mixins.py" timestamp="1479389579539" />
     </filemarks>
     <jumps>
-      <jump line="864" column="61" filename="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="901" column="62" filename="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="519" column="23" filename="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
       <jump line="638" column="8" filename="$USER_HOME$/venvs/lookingappimages/local/lib/python2.7/site-packages/rest_framework/serializers.py" />
@@ -374,10 +395,11 @@
       <jump line="26" column="14" filename="$USER_HOME$/smenateam/lookingapp/modules/main/search_indexes.py" />
       <jump line="57" column="0" filename="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/models.py" />
       <jump line="192" column="8" filename="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/models.py" />
+      <jump line="79" column="38" filename="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>categories</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5wYWdpbmF0aW9uIGltcG9ydCBQYWdlTnVtYmVyUGFnaW5hdGlvbgo=</text>
       </register>
       <register name="-" type="4">
         <text>categories</text>
@@ -389,31 +411,31 @@
         <text encoding="base64">ICAgIHVybChyJ15jYXRlZ29yaWVzLyQnLAogICAgICAgIE1vZGVyYXRlZENhdGVnb3JpZXNMaXN0Vmlldy5hc192aWV3KCksCiAgICAgICAgbmFtZT0nY2F0ZWdvcmllcy1saXN0JyksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yay5wYWdpbmF0aW9uIGltcG9ydCBQYWdlTnVtYmVyUGFnaW5hdGlvbgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHN1YmNhdGVnb3JpZXMgPSAK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG5hbWUgPSBmCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIG8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHN1YmNhdGVnb3JpZXMgPSAK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5hbWUgPSBmCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIG8K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtb2RlbCA9IE1vZGVyYXRlZEJyYW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
