@@ -187,12 +187,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478252638437">
         <mark key="[" line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/serializers.py" timestamp="1479455322061">
-        <mark key="y" line="68" column="16" />
-        <mark key="[" line="35" column="86" />
-        <mark key="]" line="35" column="86" />
-        <mark key="." line="35" column="86" />
-        <mark key="^" line="35" column="86" />
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/serializers.py" timestamp="1479466481695">
+        <mark key="y" line="69" column="16" />
+        <mark key="[" line="65" column="24" />
+        <mark key="]" line="66" column="25" />
+        <mark key="." line="66" column="25" />
+        <mark key="^" line="66" column="25" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/utils.py" timestamp="1479390945977">
         <mark key="[" line="58" column="0" />
@@ -205,7 +205,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1479465796831">
+      <file name="/Python Console" timestamp="1479466893381">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1479464417159">
@@ -255,10 +255,10 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/views.py" timestamp="1479458847245">
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/views.py" timestamp="1479466858753">
         <mark key="'" line="79" column="38" />
-        <mark key="[" line="19" column="33" />
-        <mark key="]" line="19" column="27" />
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="49" />
         <mark key="." line="19" column="27" />
         <mark key="^" line="19" column="27" />
       </file>
@@ -447,12 +447,12 @@
         <mark key="^" line="53" column="59" />
         <mark key="." line="53" column="59" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/main/rest/views.py" timestamp="1479461609623">
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/main/rest/views.py" timestamp="1479466861705">
         <mark key="y" line="219" column="14" />
-        <mark key="[" line="244" column="0" />
-        <mark key="]" line="244" column="0" />
-        <mark key="^" line="244" column="58" />
-        <mark key="." line="244" column="0" />
+        <mark key="[" line="221" column="18" />
+        <mark key="]" line="222" column="3" />
+        <mark key="^" line="222" column="3" />
+        <mark key="." line="222" column="3" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/accounts/reset_password_email_message.html" timestamp="1479274002219">
         <mark key="[" line="7" column="0" />
@@ -771,8 +771,8 @@
       <jump line="79" column="38" filename="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Брэнд</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgINCf0L7QuNGB0Lo6IC9icmFuZHMvP3E9YWQsINCy0LXRgNC90ZHRgiBBZGlkYXMsIEFkbCwgLi4uCg==</text>
       </register>
       <register name="-" type="4">
         <text>Брэнд</text>
@@ -781,7 +781,7 @@
         <text>save(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cD48c3Ryb25nPtCR0YDRjdC90LQ6PC9zdHJvbmc+IHt7IGl0ZW0ub2JqZWN0Lm1vZGVyYXRlZF9icmFuZCB9fTwvcD4K</text>
+        <text encoding="base64">ICAgINCf0L7QuNGB0Lo6IC9icmFuZHMvP3E9YWQsINCy0LXRgNC90ZHRgiBBZGlkYXMsIEFkbCwgLi4uCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0idGV4dC1jZW50ZXIiPtCi0L7QstCw0YDQvtCyINC00LvRjyDQv9C+0LjRgdC60LA6IHt7IHBhZ2luYXRvci5jb3VudCB9fTwvcD4K</text>
