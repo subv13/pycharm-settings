@@ -252,11 +252,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/views.py" timestamp="1479536718487">
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/views.py" timestamp="1479538194795">
         <mark key="'" line="95" column="55" />
-        <mark key="[" line="119" column="0" />
-        <mark key="]" line="119" column="0" />
-        <mark key="." line="119" column="0" />
+        <mark key="[" line="99" column="49" />
+        <mark key="]" line="99" column="50" />
+        <mark key="." line="99" column="50" />
+        <mark key="^" line="100" column="48" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/admin.py" timestamp="1477990905183">
         <mark key="[" line="10" column="19" />
@@ -746,10 +747,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>category</text>
+        <text>Мужской</text>
       </register>
       <register name="-" type="4">
-        <text>category</text>
+        <text>Мужской</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
