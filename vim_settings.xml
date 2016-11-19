@@ -208,7 +208,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1479474994091">
+      <file name="/Python Console" timestamp="1479534330227">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1479464417159">
@@ -253,12 +253,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/views.py" timestamp="1479478573126">
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/views.py" timestamp="1479534399309">
         <mark key="'" line="4" column="24" />
-        <mark key="[" line="113" column="55" />
-        <mark key="]" line="114" column="15" />
-        <mark key="." line="114" column="15" />
-        <mark key="^" line="114" column="15" />
+        <mark key="[" line="115" column="37" />
+        <mark key="]" line="115" column="36" />
+        <mark key="." line="115" column="36" />
+        <mark key="^" line="115" column="36" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/admin.py" timestamp="1477990905183">
         <mark key="[" line="10" column="19" />
@@ -462,7 +462,7 @@
       <file name="/None" timestamp="1479183890890">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4678427e-8fa7-4f87-9e9a-87a0540f7db1/console.sql" timestamp="1479469740064">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4678427e-8fa7-4f87-9e9a-87a0540f7db1/console.sql" timestamp="1479534411683">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="36" />
         <mark key="^" line="0" column="36" />
@@ -559,7 +559,7 @@
         <mark key="." line="62" column="30" />
         <mark key="^" line="62" column="30" />
       </file>
-      <file name="/dummy.sql" timestamp="1479477052846">
+      <file name="/dummy.sql" timestamp="1479534447057">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9641058b-ce34-4fce-b401-695f7c9901fb/console.sql" timestamp="1477290147251">
@@ -742,43 +742,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG1wMSA9IGNhdGVnb3J5LmdldF9kZXNjZW5kYW50cygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3ViY2F0ZWdvcmllcyA9IGNhdGVnb3J5LmdldF9kZXNjZW5kYW50cygpLiBcCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG1wMSA9IGNhdGVnb3J5LmdldF9kZXNjZW5kYW50cygpLmNvdW50KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdjb3VudCc6IDAsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiB0bXA6Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0bXAgPSBnZXRfY2FjaGVkX3RyZWVzKHNlbGYuZ2V0X3F1ZXJ5c2V0KCkuZmlsdGVyKGxldmVsPTApKQoK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2F0ZWdvcmllc19pbmZvWydmZW1hbGVfY2F0ZWdvcmllcyddLmFwcGVuZChjYXRlZ29yeV9pbmZvKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhdGVnb3J5X2luZm9bJ3N1YmNhdGVnb3JpZXMnXS5hcHBlbmQoJ3t9IHt9Jy5mb3JtYXQoc3ViY2F0ZWdvcnkubmFtZSwgc3ViY2F0ZWdvcnkuc2V4KSkK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwcHJpbnQoY2F0ZWdvcmllc19pbmZvKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHN1YmNhdGVnb3J5LnNleCBhbmQgc3ViY2F0ZWdvcnkuc2V4Lm5hbWUgPT0gJ9Cc0YPQttGB0LrQvtC5JzoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIHN1YmNhdGVnb3J5IGluIGl0ZW0uZ2V0X2Rlc2NlbmRhbnRzKCk6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHByaW50ICctLScsIHN1YmNhdGVnb3J5Lm5hbWUsIHN1YmNhdGVnb3J5LnNleC5uYW1lCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
