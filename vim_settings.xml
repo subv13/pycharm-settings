@@ -108,7 +108,7 @@
         <mark key="^" line="79" column="14" />
         <mark key="." line="79" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/haystack.py" timestamp="1479385920237">
+      <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/haystack.py" timestamp="1479732982933">
         <mark key="[" line="48" column="39" />
         <mark key="]" line="48" column="33" />
         <mark key="^" line="48" column="33" />
@@ -358,10 +358,6 @@
         <mark key="]" line="42" column="8" />
         <mark key="^" line="42" column="8" />
         <mark key="." line="42" column="8" />
-      </file>
-      <file name="$USER_HOME$/venvs/looking-goods/lib/python2.7/site-packages/rest_framework/mixins.py" timestamp="1479471140453">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="44" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/wsgi.py" timestamp="1477997474767">
         <mark key="[" line="12" column="49" />
