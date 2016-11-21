@@ -208,7 +208,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1479718082890">
+      <file name="/Python Console" timestamp="1479719327645">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1479464417159">
@@ -523,8 +523,12 @@
         <mark key="^" line="14" column="57" />
         <mark key="." line="14" column="57" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/settings.py" timestamp="1479717385384">
+      <file name="$USER_HOME$/smenateam/lookingapp/project/settings.py" timestamp="1479719994766">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="210" column="34" />
+        <mark key="]" line="210" column="40" />
+        <mark key="^" line="210" column="40" />
+        <mark key="." line="210" column="40" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/management/commands/migrate_categories.py" timestamp="1476969176399">
         <mark key="[" line="57" column="0" />
@@ -760,16 +764,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://goods.dev.lkng.ru/</text>
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>http://goods.dev.lkng.ru/</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByID0gcmVxdWVzdHMuZ2V0KAogICAgICAgICAgICAne31jYXRlZ29yaWVzLz9zZXg9e30nLmZvcm1hdCgKICAgICAgICAgICAgICAgIHNldHRpbmdzLkdPT0RTX1NFUlZJQ0VfQ09ORklHWydiYXNlX3VybCddLCBzZXgpCiAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgIEdPT0RTX1NFUlZJQ0VfQ09ORklHID0gewogICAgICAgICdiYXNlX3VybCc6ICdodHRwOi8vZ29vZHMuZGV2LmxrbmcucnUvJwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByID0gcmVxdWVzdHMuZ2V0KCdodHRwOi8vZ29vZHMuZGV2LmxrbmcucnUvZ29vZHMvc2VhcmNoLz9xPSVzJyAlIHF1ZXJ5KQo=</text>
