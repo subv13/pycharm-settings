@@ -458,11 +458,12 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/models.py" timestamp="1479816014261">
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/models.py" timestamp="1479818505066">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="223" column="52" />
-        <mark key="]" line="230" column="0" />
-        <mark key="." line="230" column="0" />
+        <mark key="[" line="221" column="36" />
+        <mark key="]" line="223" column="39" />
+        <mark key="^" line="223" column="39" />
+        <mark key="." line="223" column="39" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/celerytest/celerytest/celery.py" timestamp="1479795175019">
         <mark key="[" line="0" column="0" />
@@ -811,11 +812,11 @@
       <jump line="18" column="8" filename="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>BooleanField</text>
       </register>
       <register name="-" type="4">
-        <text>start</text>
+        <text>BooleanField</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
@@ -824,31 +825,31 @@
         <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLm5hbWUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBhZ2VzID0gbW9kZWxzLkludGVnZXJGaWVsZCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNsYXNzIE1ldGE6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNrdSA9IG1vZGVscy5DaGFyRmllbGQobnVsbD1UcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdD1GYWxzZSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVscD0nVXNlIGV4aXN0aW5nIGZpbGUgdGhhbiBjb250YWlucyBjYXRlZ29yaWVzIGluZm8nCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdD1GYWxzZSwK</text>
+        <text encoding="base64">ICAgIHNrdSA9IG1vZGVscy5DaGFyRmllbGQobnVsbD1UcnVlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVzdD0ndXNlLWV4aXN0LWNhdGVnb3J5LWluZm8nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdD1GYWxzZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
