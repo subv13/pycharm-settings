@@ -264,12 +264,12 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/views.py" timestamp="1479736974027">
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/views.py" timestamp="1479794027909">
         <mark key="'" line="61" column="16" />
         <mark key="k" line="87" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+        <mark key="[" line="68" column="16" />
+        <mark key="]" line="68" column="16" />
+        <mark key="." line="68" column="16" />
         <mark key="^" line="61" column="32" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/admin.py" timestamp="1477990905183">
@@ -812,10 +812,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contains</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>contains</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
