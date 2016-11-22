@@ -99,11 +99,11 @@
         <mark key="^" line="79" column="14" />
         <mark key="." line="79" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/haystack.py" timestamp="1479732982933">
-        <mark key="[" line="48" column="39" />
-        <mark key="]" line="48" column="33" />
-        <mark key="^" line="48" column="33" />
-        <mark key="." line="48" column="33" />
+      <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/haystack.py" timestamp="1479793423461">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="30" />
+        <mark key="^" line="15" column="29" />
+        <mark key="." line="15" column="30" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/admin.py" timestamp="1478585804354">
         <mark key="[" line="25" column="47" />
@@ -208,7 +208,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1479792162563">
+      <file name="/Python Console" timestamp="1479792882141">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1479464417159">
