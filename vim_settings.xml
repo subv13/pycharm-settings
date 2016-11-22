@@ -458,12 +458,12 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/models.py" timestamp="1479812022663">
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/models.py" timestamp="1479814180819">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="40" column="37" />
-        <mark key="]" line="41" column="54" />
-        <mark key="." line="41" column="54" />
-        <mark key="^" line="41" column="54" />
+        <mark key="[" line="212" column="31" />
+        <mark key="]" line="213" column="33" />
+        <mark key="." line="213" column="33" />
+        <mark key="^" line="213" column="33" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/celerytest/celerytest/celery.py" timestamp="1479795175019">
         <mark key="[" line="0" column="0" />
