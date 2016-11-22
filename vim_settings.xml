@@ -302,13 +302,13 @@
       <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/config/auth.py" timestamp="1477887856257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1479810818958">
+      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1479811430744">
         <mark key="'" line="18" column="8" />
         <mark key="y" line="18" column="8" />
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="37" />
-        <mark key="^" line="23" column="37" />
-        <mark key="." line="23" column="37" />
+        <mark key="[" line="29" column="69" />
+        <mark key="]" line="29" column="65" />
+        <mark key="^" line="29" column="65" />
+        <mark key="." line="29" column="65" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/project/config/haystack.py" timestamp="1478520874894">
         <mark key="[" line="48" column="34" />
@@ -458,12 +458,12 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/models.py" timestamp="1479810424449">
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/models.py" timestamp="1479812022663">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="213" column="35" />
-        <mark key="]" line="214" column="50" />
-        <mark key="." line="214" column="50" />
-        <mark key="^" line="214" column="50" />
+        <mark key="[" line="40" column="37" />
+        <mark key="]" line="41" column="54" />
+        <mark key="." line="41" column="54" />
+        <mark key="^" line="41" column="54" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/celerytest/celerytest/celery.py" timestamp="1479795175019">
         <mark key="[" line="0" column="0" />
@@ -813,16 +813,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>name</text>
+        <text>start</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>start</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJzZXIuYWRkX2FyZ3VtZW50KAogICAgICAgICAgICAnLS1vZmZlcicsCiAgICAgICAgICAgIGFjdGlvbj0nc3RvcmUnLAogICAgICAgICAgICBkZXN0PSdPZmZlcicsCiAgICAgICAgICAgIGhlbHA9J1NwZWNpZnkgb2ZmZXIgbmFtZScKICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgIGRlZiBfX3N0cl9fKHNlbGYpOgogICAgICAgIHJldHVybiBzZWxmLm5hbWUK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVmYXVsdD1GYWxzZSwK</text>
