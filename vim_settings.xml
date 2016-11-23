@@ -323,13 +323,12 @@
       <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/config/auth.py" timestamp="1477887856257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1479887566139">
+      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1479889832980">
         <mark key="'" line="26" column="11" />
-        <mark key="y" line="93" column="8" />
-        <mark key="[" line="73" column="28" />
-        <mark key="]" line="73" column="34" />
-        <mark key="^" line="73" column="34" />
-        <mark key="." line="73" column="34" />
+        <mark key="y" line="97" column="8" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/project/config/haystack.py" timestamp="1478520874894">
         <mark key="[" line="48" column="34" />
@@ -516,14 +515,6 @@
         <mark key="]" line="53" column="59" />
         <mark key="^" line="53" column="59" />
         <mark key="." line="53" column="59" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/main/rest/views.py" timestamp="1479790929875">
-        <mark key="'" line="246" column="8" />
-        <mark key="y" line="246" column="14" />
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="48" column="36" />
-        <mark key="^" line="48" column="36" />
-        <mark key="." line="48" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/celerytest/celerytest/__init__.py" timestamp="1479795181157">
         <mark key="[" line="0" column="23" />
@@ -870,7 +861,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
         <text>data</text>
@@ -882,31 +873,31 @@
         <text encoding="base64">ICAgICMgICAgIGZpbGVfbmFtZSA9ICd7fS5qc29uJy5mb3JtYXQocGFnZSkucmVwbGFjZSgnICcsICdfJykKICAgICMgICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oc2V0dGluZ3MuSlNPTl9ORVdfRElSLCBmaWxlX25hbWUpLCAndycpIGFzIGY6CiAgICAjICAgICAgICAganNvbi5kdW1wKGRhdGEsIGYsIGluZGVudD00KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ZGF0YQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFzay5zdGF0dXMgPSAnZmluaXNoZWQnCg==</text>
+        <text encoding="base64">ZGF0YQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGFzay5zdGF0dXMgPSAnaW5fcHJvZ3Jlc3MnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFzay5zdGF0dXMgPSAnZmluaXNoZWQnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFzay5zdGF0dXMgPSAnaW5fcHJvZ3Jlc3MnCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCBlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBPU0Vycm9yIGFzIGU6CiAgICAgICAgcHJpbnQgZQo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnQgZQo=</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBPU0Vycm9yIGFzIGU6CiAgICAgICAgcHJpbnQgZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBlCg==</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnQgZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
