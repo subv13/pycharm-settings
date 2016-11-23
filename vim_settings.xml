@@ -114,7 +114,7 @@
         <mark key="^" line="79" column="14" />
         <mark key="." line="79" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/haystack.py" timestamp="1479893772147">
+      <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/haystack.py" timestamp="1479906210841">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="^" line="4" column="77" />
@@ -603,7 +603,7 @@
         <mark key="^" line="14" column="57" />
         <mark key="." line="14" column="57" />
       </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/settings.py" timestamp="1479893785506">
+      <file name="$USER_HOME$/smenateam/lookingapp/project/settings.py" timestamp="1479906192266">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="74" />
