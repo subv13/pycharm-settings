@@ -36,7 +36,7 @@
         <mark key="." line="44" column="18" />
         <mark key="^" line="44" column="18" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/fill_db.py" timestamp="1479810721331" />
+      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/fill_db.py" timestamp="1479885702646" />
       <file name="$USER_HOME$/smenateam/lookingappgoods/moderation/templates/moderation/brand_moderation.html" timestamp="1477401249255">
         <mark key="[" line="36" column="38" />
         <mark key="]" line="37" column="32" />
@@ -224,7 +224,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1479881575709">
+      <file name="/Python Console" timestamp="1479886387274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/migrations/0061_goods_update_date.py" timestamp="1479809176126">
@@ -323,13 +323,13 @@
       <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/config/auth.py" timestamp="1477887856257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1479882692622">
-        <mark key="'" line="13" column="10" />
-        <mark key="y" line="67" column="8" />
-        <mark key="[" line="55" column="18" />
-        <mark key="]" line="7" column="8" />
-        <mark key="^" line="7" column="8" />
-        <mark key="." line="7" column="8" />
+      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1479886409883">
+        <mark key="'" line="26" column="11" />
+        <mark key="y" line="86" column="8" />
+        <mark key="[" line="72" column="64" />
+        <mark key="]" line="72" column="63" />
+        <mark key="^" line="72" column="63" />
+        <mark key="." line="72" column="63" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/project/config/haystack.py" timestamp="1478520874894">
         <mark key="[" line="48" column="34" />
@@ -767,7 +767,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="14" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/serializers.py" />
       <jump line="132" column="13" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/serializers.py" />
       <jump line="114" column="21" filename="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/views.py" />
       <jump line="115" column="37" filename="$USER_HOME$/smenateam/lookingappimages/modules/resizer/models.py" />
@@ -867,46 +866,47 @@
       <jump line="18" column="8" filename="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" />
       <jump line="11" column="0" filename="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/admin.py" />
       <jump line="10" column="10" filename="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" />
+      <jump line="26" column="11" filename="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgIGZpbGVfbmFtZSA9ICd7fS5qc29uJy5mb3JtYXQocGFnZSkucmVwbGFjZSgnICcsICdfJykKICAgICMgICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oc2V0dGluZ3MuSlNPTl9ORVdfRElSLCBmaWxlX25hbWUpLCAndycpIGFzIGY6CiAgICAjICAgICAgICAganNvbi5kdW1wKGRhdGEsIGYsIGluZGVudD00KQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHIgPSByZXF1ZXN0cy5nZXQodGFzay5vZmZlci5nb29kc19mZWVkX3VybCwgcGFyYW1zPXBhcmFtcykK</text>
+        <text encoding="base64">ICAgICMgICAgIGZpbGVfbmFtZSA9ICd7fS5qc29uJy5mb3JtYXQocGFnZSkucmVwbGFjZSgnICcsICdfJykKICAgICMgICAgIHdpdGggb3Blbihvcy5wYXRoLmpvaW4oc2V0dGluZ3MuSlNPTl9ORVdfRElSLCBmaWxlX25hbWUpLCAndycpIGFzIGY6CiAgICAjICAgICAgICAganNvbi5kdW1wKGRhdGEsIGYsIGluZGVudD00KQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFzay5zdGF0dXMgPSAnZmluaXNoZWQnCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lLnNsZWVwKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFzay5zdGF0dXMgPSAnaW5fcHJvZ3Jlc3MnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCBpCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHhyYW5nZShwYWdlLm9mZnNldCk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaW50IHBhZ2UK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBPU0Vycm9yIGFzIGU6CiAgICAgICAgcHJpbnQgZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uCg==</text>
+        <text encoding="base64">CiAgICAgICAgcHJpbnQgZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCBlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXNfbGFzdD1UcnVlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
