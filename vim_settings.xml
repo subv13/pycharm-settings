@@ -195,7 +195,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1479987837902">
+      <file name="/Python Console" timestamp="1479992468589">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/migrations/0061_goods_update_date.py" timestamp="1479809176126">
@@ -300,12 +300,13 @@
       <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/config/auth.py" timestamp="1477887856257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1479989286041">
+      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1479993411884">
+        <mark key="d" line="133" column="28" />
         <mark key="'" line="143" column="20" />
-        <mark key="[" line="178" column="0" />
-        <mark key="]" line="178" column="20" />
-        <mark key="." line="178" column="20" />
-        <mark key="^" line="177" column="20" />
+        <mark key="[" line="14" column="32" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+        <mark key="^" line="15" column="30" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/project/config/haystack.py" timestamp="1478520874894">
         <mark key="[" line="48" column="34" />
@@ -475,13 +476,12 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/models.py" timestamp="1479989049671">
-        <mark key="'" line="282" column="0" />
-        <mark key="y" line="284" column="16" />
-        <mark key="[" line="285" column="42" />
-        <mark key="]" line="285" column="46" />
-        <mark key="." line="285" column="46" />
-        <mark key="^" line="285" column="46" />
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/models.py" timestamp="1479990778199">
+        <mark key="'" line="283" column="0" />
+        <mark key="y" line="285" column="16" />
+        <mark key="[" line="250" column="0" />
+        <mark key="]" line="250" column="70" />
+        <mark key="." line="250" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1479968835526">
         <mark key="[" line="0" column="0" />
@@ -511,14 +511,6 @@
         <mark key="]" line="53" column="59" />
         <mark key="^" line="53" column="59" />
         <mark key="." line="53" column="59" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/modules/main/rest/views.py" timestamp="1479790929875">
-        <mark key="'" line="246" column="8" />
-        <mark key="y" line="246" column="14" />
-        <mark key="[" line="48" column="32" />
-        <mark key="]" line="48" column="36" />
-        <mark key="^" line="48" column="36" />
-        <mark key="." line="48" column="36" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/celerytest/celerytest/__init__.py" timestamp="1479795181157">
         <mark key="[" line="0" column="23" />
@@ -652,7 +644,7 @@
         <mark key="." line="62" column="30" />
         <mark key="^" line="62" column="30" />
       </file>
-      <file name="/dummy.sql" timestamp="1479968805923">
+      <file name="/dummy.sql" timestamp="1479990751164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9641058b-ce34-4fce-b401-695f7c9901fb/console.sql" timestamp="1477290147251">
@@ -723,6 +715,11 @@
         <mark key="]" line="36" column="27" />
         <mark key="^" line="36" column="27" />
         <mark key="." line="36" column="27" />
+      </file>
+      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/get_goods_admitad_v2.py" timestamp="1479990718989">
+        <mark key="]" line="55" column="19" />
+        <mark key="^" line="55" column="19" />
+        <mark key="." line="55" column="19" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/celerytest/celerytest/views.py" timestamp="1479796663702">
         <mark key="[" line="5" column="5" />
@@ -846,44 +843,44 @@
       <jump line="143" column="20" filename="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>continue</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>continue</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdXBlcihHb29kc1VwZGF0ZVRhc2ssIHNlbGYpLnNhdmUoKmFyZ3MsICoqa3dhcmdzKQo=</text>
+        <text encoding="base64">ICAgIHIgPSByZXF1ZXN0cy5nZXQocGFnZS50YXNrLm9mZmVyLmdvb2RzX2ZlZWRfdXJsLCBwYXJhbXM9cGFyYW1zKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHBhZ2Uub2YK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCByLmNvbnRlbnQK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2tlaycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgY2xhc3M9ImJ0biBidG4taW5mbyIgaHJlZj0ieyUgdXJsICdtb2RlcmF0aW9uOmNyZWF0ZV9vZmZlcicgJX0iPtCU0L7QsdCw0LLQuNGC0Ywg0L3QvtCy0YvQuTwvYT4K</text>
+        <text encoding="base64">ICAgICAgICByLmRhdGEK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNCI+Cg==</text>
+        <text encoding="base64">ZGVmIGdldF9maWxlKGdvb2RzX2ZlZWRfdXJsKToKICAgIHBhc3MKCgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIGZpbGVuYW1lID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NSwgbnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC90YWJsZT4K</text>
+        <text encoding="base64">ICAgIHAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdGJvZHk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHslIGVuZGZvciAlfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
