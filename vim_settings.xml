@@ -77,18 +77,23 @@
         <mark key="." line="8" column="41" />
         <mark key="^" line="8" column="41" />
       </file>
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/migrations/0053_moderatedcategory_sex.py" timestamp="1479537205904">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="9" column="78" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/lookingappgoods/config/database.py" timestamp="1477567144262">
         <mark key="[" line="11" column="29" />
         <mark key="]" line="11" column="31" />
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/moderation/views.py" timestamp="1479963026356">
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/moderation/views.py" timestamp="1479965127725">
         <mark key="'" line="483" column="33" />
-        <mark key="[" line="493" column="61" />
-        <mark key="]" line="493" column="61" />
-        <mark key="." line="493" column="61" />
-        <mark key="^" line="493" column="61" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="496" column="11" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/celerytest/templates/celery_test.html" timestamp="1479795706227">
         <mark key="[" line="4" column="11" />
@@ -214,7 +219,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1479903937540">
+      <file name="/Python Console" timestamp="1479970814371">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/migrations/0061_goods_update_date.py" timestamp="1479809176126">
@@ -313,11 +318,12 @@
       <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/config/auth.py" timestamp="1477887856257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1479911735255">
-        <mark key="'" line="177" column="22" />
-        <mark key="[" line="195" column="0" />
-        <mark key="]" line="195" column="0" />
-        <mark key="." line="195" column="0" />
+      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1479970806102">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="147" column="41" />
+        <mark key="]" line="148" column="23" />
+        <mark key="." line="148" column="23" />
+        <mark key="^" line="148" column="23" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/project/config/haystack.py" timestamp="1478520874894">
         <mark key="[" line="48" column="34" />
@@ -480,12 +486,17 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/models.py" timestamp="1479962557473">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="236" column="33" />
-        <mark key="]" line="236" column="43" />
-        <mark key="^" line="236" column="43" />
-        <mark key="." line="236" column="43" />
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/models.py" timestamp="1479969715665">
+        <mark key="'" line="274" column="0" />
+        <mark key="[" line="276" column="15" />
+        <mark key="]" line="276" column="18" />
+        <mark key="^" line="276" column="18" />
+        <mark key="." line="276" column="18" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1479968835526">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/celerytest/celerytest/celery.py" timestamp="1479795175019">
         <mark key="[" line="0" column="0" />
@@ -543,6 +554,14 @@
       </file>
       <file name="/None" timestamp="1479183890890">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/moderation/utils.py" timestamp="1479965103325">
+        <mark key="d" line="8" column="4" />
+        <mark key="y" line="8" column="4" />
+        <mark key="[" line="42" column="22" />
+        <mark key="]" line="42" column="22" />
+        <mark key="^" line="26" column="23" />
+        <mark key="." line="42" column="22" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/4678427e-8fa7-4f87-9e9a-87a0540f7db1/console.sql" timestamp="1479808765184">
         <mark key="[" line="23" column="15" />
@@ -649,7 +668,7 @@
         <mark key="." line="62" column="30" />
         <mark key="^" line="62" column="30" />
       </file>
-      <file name="/dummy.sql" timestamp="1479902324316">
+      <file name="/dummy.sql" timestamp="1479968805923">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9641058b-ce34-4fce-b401-695f7c9901fb/console.sql" timestamp="1477290147251">
@@ -745,10 +764,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="8" filename="$USER_HOME$/smenateam/lookingapp/tests/locustfile.py" />
-      <jump line="12" column="11" filename="$USER_HOME$/smenateam/lookingapp/tests/locustfile.py" />
-      <jump line="25" column="0" filename="$USER_HOME$/smenateam/lookingapp/tests/locustfile.py" />
-      <jump line="41" column="4" filename="$USER_HOME$/smenateam/lookingapp/tests/locustfile.py" />
       <jump line="16" column="34" filename="$USER_HOME$/smenateam/lookingapp/modules/notifications/rest/views.py" />
       <jump line="21" column="8" filename="$USER_HOME$/smenateam/lookingapp/modules/notifications/rest/views.py" />
       <jump line="18" column="15" filename="$USER_HOME$/smenateam/lookingapp/tests/locustfile.py" />
@@ -845,46 +860,50 @@
       <jump line="197" column="26" filename="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" />
       <jump line="180" column="22" filename="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" />
       <jump line="483" column="33" filename="$USER_HOME$/smenateam/looking-goods/modules/moderation/views.py" />
+      <jump line="270" column="0" filename="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/models.py" />
+      <jump line="150" column="33" filename="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkamFuCg==</text>
+      <register name="&quot;" type="4">
+        <text>finished_pages_count</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>finished_pages_count</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZS5zdGFydF90aW1lID0gZGF0ZXRpbWUubm93KCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbmlzaGVkX3BhZ2VzX2NvdW50ID0gR29vZHNVcGRhdGVQYWdlLm9iamVjdHMuZmlsdGVyKHN0YXR1cz0nZmluaXNoZWQnKS5jb3VudCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2VzX2NvdW50ID0gR29vLmNvdW50KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRlZiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhc3MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHsjICAgICAgICAgICAgICAgIDx0aD7QntCx0L3QvtCy0LjRgtGMPC90aD4jfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsjICAgICAgICAgICAgICAgIDx0aCBjbGFzcz0idGV4dC1jZW50ZXIiPtCh0YHRi9C70LrQsCDQvdCwINGE0LjQtDwvdGg+I30K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFnZS5zdGFydF90aW1lID0gZGF0ZXRpbWUubm93KCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHsjICAgICAgICAgICAgICAgIDx0aD7Qn9Cw0YDRgtC90ZHRgNGB0LrQsNGPINGB0LXRgtGMPC90aD4jfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250aW51ZQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHsjICAgICAgICAgICAgICAgICAgICA8L3RkPiN9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29udGludWUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHsjICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4taW5mbyIgdmFsdWU9ItCe0LHQvdC+0LLQuNGC0YwiPiN9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsjICAgICAgICAgICAgICAgICAgICA8dGQ+I30K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -921,7 +940,6 @@
         <entry encoding="base64">XDxTb2NpYWxBY2NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>d</entry>
         <entry>ww</entry>
         <entry>;w</entry>
         <entry>155</entry>
@@ -940,6 +958,7 @@
         <entry>454</entry>
         <entry>w\j</entry>
         <entry>2w</entry>
+        <entry>e</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
