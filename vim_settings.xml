@@ -191,7 +191,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1480058512913">
+      <file name="/Python Console" timestamp="1480062100132">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/migrations/0061_goods_update_date.py" timestamp="1479809176126">
@@ -296,7 +296,7 @@
       <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/config/auth.py" timestamp="1477887856257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1480060644698">
+      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1480062071541">
         <mark key="d" line="201" column="12" />
         <mark key="'" line="211" column="19" />
         <mark key="y" line="201" column="12" />
@@ -482,11 +482,11 @@
         <mark key="." line="70" column="83" />
         <mark key="^" line="70" column="83" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1480055625607">
-        <mark key="[" line="0" column="2" />
-        <mark key="]" line="0" column="1" />
-        <mark key="." line="0" column="1" />
-        <mark key="^" line="0" column="1" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1480062092075">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/celerytest/celerytest/celery.py" timestamp="1479795175019">
         <mark key="[" line="0" column="0" />
@@ -649,7 +649,7 @@
         <mark key="." line="62" column="30" />
         <mark key="^" line="62" column="30" />
       </file>
-      <file name="/dummy.sql" timestamp="1480056893280">
+      <file name="/dummy.sql" timestamp="1480062085381">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9641058b-ce34-4fce-b401-695f7c9901fb/console.sql" timestamp="1477290147251">
@@ -848,11 +848,11 @@
       <jump line="211" column="19" filename="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2UudGFzay5maWxlbmFtID0gJ2Rvd25sb2FkaW5nJwo=</text>
+      <register name="&quot;" type="4">
+        <text>in_progress</text>
       </register>
       <register name="-" type="4">
-        <text>CharField</text>
+        <text>in_progress</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
@@ -939,8 +939,8 @@
         <entry>w\j</entry>
         <entry>2w</entry>
         <entry>e</entry>
-        <entry>W</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
