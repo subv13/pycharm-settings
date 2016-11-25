@@ -195,7 +195,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1479992468589">
+      <file name="/Python Console" timestamp="1480047884360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/migrations/0061_goods_update_date.py" timestamp="1479809176126">
@@ -300,13 +300,13 @@
       <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/config/auth.py" timestamp="1477887856257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1479993411884">
-        <mark key="d" line="133" column="28" />
-        <mark key="'" line="143" column="20" />
-        <mark key="[" line="14" column="32" />
-        <mark key="]" line="15" column="30" />
-        <mark key="." line="15" column="30" />
-        <mark key="^" line="15" column="30" />
+      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1480049195329">
+        <mark key="d" line="201" column="12" />
+        <mark key="y" line="201" column="12" />
+        <mark key="[" line="183" column="13" />
+        <mark key="]" line="188" column="19" />
+        <mark key="^" line="188" column="19" />
+        <mark key="." line="188" column="19" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/project/config/haystack.py" timestamp="1478520874894">
         <mark key="[" line="48" column="34" />
@@ -716,8 +716,9 @@
         <mark key="^" line="36" column="27" />
         <mark key="." line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/get_goods_admitad_v2.py" timestamp="1479990718989">
-        <mark key="]" line="55" column="19" />
+      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/get_goods_admitad_v2.py" timestamp="1480048540589">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="42" />
         <mark key="^" line="55" column="19" />
         <mark key="." line="55" column="19" />
       </file>
@@ -741,7 +742,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/base.html" />
       <jump line="1" column="0" filename="$USER_HOME$/smenateam/lookingapp/project/templates/moderation/base.html" />
       <jump line="65" column="22" filename="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" />
       <jump line="5" column="36" filename="$USER_HOME$/smenateam/lookingapp/modules/moderation/views.py" />
@@ -841,46 +841,47 @@
       <jump line="9" column="78" filename="$USER_HOME$/smenateam/looking-goods/modules/moderation/views.py" />
       <jump line="0" column="0" filename="$USER_HOME$/smenateam/looking-goods/modules/moderation/views.py" />
       <jump line="143" column="20" filename="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" />
+      <jump line="199" column="0" filename="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>continue</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>continue</text>
+        <text>ks</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHIgPSByZXF1ZXN0cy5nZXQocGFnZS50YXNrLm9mZmVyLmdvb2RzX2ZlZWRfdXJsLCBwYXJhbXM9cGFyYW1zKQo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIudXRpbHMgaW1wb3J0IEludGVncml0eUVycm9yCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCByLmNvbnRlbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGVsZW1lbnQuZmluZCgnbW9kZWwnKS50ZXh0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gJ2tlaycK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgb2ZmZXJfZXZlbnRzX2NvdW50ID0gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByLmRhdGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGVmIGdldF9maWxlKGdvb2RzX2ZlZWRfdXJsKToKICAgIHBhc3MKCgo=</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbGVuYW1lID0gbW9kZWxzLkNoYXJGaWVsZChtYXhfbGVuZ3RoPTI1NSwgbnVsbD1UcnVlLCBibGFuaz1UcnVlKQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgIHAK</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWdlLnRhc2suc2F2ZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
