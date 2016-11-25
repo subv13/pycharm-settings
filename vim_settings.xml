@@ -296,14 +296,14 @@
       <file name="$USER_HOME$/smenateam/lookingappimages/lookingappimages/config/auth.py" timestamp="1477887856257">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1480055563733">
+      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/update_db.py" timestamp="1480060644698">
         <mark key="d" line="201" column="12" />
         <mark key="'" line="211" column="19" />
         <mark key="y" line="201" column="12" />
-        <mark key="[" line="171" column="46" />
-        <mark key="]" line="171" column="49" />
-        <mark key="^" line="171" column="49" />
-        <mark key="." line="171" column="49" />
+        <mark key="[" line="298" column="33" />
+        <mark key="]" line="298" column="33" />
+        <mark key="^" line="298" column="33" />
+        <mark key="." line="298" column="33" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/project/config/haystack.py" timestamp="1478520874894">
         <mark key="[" line="48" column="34" />
@@ -849,7 +849,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2UudGFzay5maWxlbmFtID0gJ2Rvd25sb2FkaW5nJwo=</text>
       </register>
       <register name="-" type="4">
         <text>CharField</text>
@@ -858,7 +858,7 @@
         <text>save(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7eyBmb3JtLm5hbWUuZXJyb3JzIH19Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2UudGFzay5maWxlbmFtID0gJ2Rvd25sb2FkaW5nJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
