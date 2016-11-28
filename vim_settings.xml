@@ -185,11 +185,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478252638437">
         <mark key="[" line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/serializers.py" timestamp="1480329366776">
-        <mark key="[" line="63" column="29" />
-        <mark key="]" line="64" column="28" />
-        <mark key="." line="64" column="28" />
-        <mark key="^" line="64" column="28" />
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/serializers.py" timestamp="1480333598975">
+        <mark key="[" line="68" column="24" />
+        <mark key="]" line="68" column="24" />
+        <mark key="." line="68" column="24" />
+        <mark key="^" line="68" column="24" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/utils.py" timestamp="1480308504856">
         <mark key="[" line="53" column="45" />
@@ -850,16 +850,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>StringRelatedField</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>StringRelatedField</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHNleCA9IHNlcmlhbGl6ZXJzLlN0cmluZ1JlbGF0ZWRGaWVsZCgpCg==</text>
+        <text encoding="base64">ICAgIG9mZmVyID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPtCh0YLQsNGC0YPRgTo8L3RkPgo=</text>
