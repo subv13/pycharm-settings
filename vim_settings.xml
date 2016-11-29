@@ -81,12 +81,18 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/moderation/views.py" timestamp="1480323895017">
-        <mark key="'" line="493" column="39" />
-        <mark key="[" line="493" column="34" />
-        <mark key="]" line="493" column="40" />
-        <mark key="." line="493" column="40" />
-        <mark key="^" line="493" column="40" />
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/moderation/views.py" timestamp="1480396931795">
+        <mark key="'" line="500" column="39" />
+        <mark key="[" line="491" column="33" />
+        <mark key="]" line="491" column="34" />
+        <mark key="." line="491" column="34" />
+        <mark key="^" line="491" column="33" />
+      </file>
+      <file name="$USER_HOME$/smenateam/looking-goods/README.md" timestamp="1480395937054">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+        <mark key="^" line="1" column="46" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/celerytest/templates/celery_test.html" timestamp="1479795706227">
         <mark key="[" line="4" column="11" />
@@ -105,6 +111,12 @@
         <mark key="]" line="79" column="14" />
         <mark key="^" line="79" column="14" />
         <mark key="." line="79" column="14" />
+      </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/project/config/django/haystack.py" timestamp="1480394912271">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="55" column="110" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/modules/moderation/admin.py" timestamp="1478585804354">
         <mark key="[" line="25" column="47" />
@@ -203,7 +215,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1480310779102">
+      <file name="/Python Console" timestamp="1480396834767">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/migrations/0061_goods_update_date.py" timestamp="1479809176126">
@@ -850,10 +862,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>updated</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>updated</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
@@ -862,31 +874,31 @@
         <text encoding="base64">ICAgIG9mZmVyID0gc2VyaWFsaXplcnMuU2VyaWFsaXplck1ldGhvZEZpZWxkKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPtCh0YLQsNGC0YPRgTo8L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IHVwZGF0ZV90YXNrLmdvb2RzX2NvdW50IH19PC90ZD4K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiBjbGFzcz0iZm9ybS1jb250cm9sIGJ0biBidG4taW5mbyIgdmFsdWU9ItCU0L7QsdCw0LLQuNGC0Ywg0L3QvtCy0YPRjiDQt9Cw0LTQsNGH0YMiPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">0JTQu9GPINC+0LHQvdC+0LLQu9C10L3QuNGPINCx0LDQt9GLINC+0LHRj9C30LDRgtC10LvRjNC90L4g0L3Rg9C20L3QviDQtNC+0LHQsNCy0LjRgtGMIFBZVEhPTklPRU5DT0RJTkc9VVRGLTggL2V0Yy9lbnZpcm9ubWVudAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Ci9iaW4vYmFzaCAtYyAnZG9ja2VyIGV4ZWMgbG9va2luZy1nb29kcy1wb3N0Z3Jlc3FsIHBnX2R1bXAgLVUgcG9zdGdyZXMgLWQgcG9zdGdyZXMgLUZjID4gZ29vZHNfYGRhdGUgKyVkXyVtXyVZYC5kdW1wJwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">L2Jpbi9iYXNoIC1jICdkb2NrZXIgZXhlYyBsb29raW5nLWdvb2RzLXBvc3RncmVzcWwgcGdfZHVtcCAtVSBwb3N0Z3JlcyAtZCBwb3N0Z3JlcyAtRmMgPiBnb29kc19gZGF0ZSArJWRfJW1fJVlgLmR1bXAnCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">L2Jpbi9iYXNoIC1jICdlY2hvIGZpbGUtYGRhdGUgKyVZJW0lZGAuc3FsJwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJvZmZlcl9zZWxlY3RvciIgbmFtZT0ib2ZmZXJfc2VsZWN0b3IiPgogICAgICAgICAgICAgICAgICAgICAgICB7JSBmb3Igb2ZmZXIgaW4gb2ZmZXJzICV9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSJ7eyBvZmZlci5pZCB9fSI+e3sgb2ZmZXIgfX08L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgeyUgZW5kZm9yICV9CiAgICAgICAgICAgICAgICAgICAgPC9zZWxlY3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPtCh0YLQsNGC0YPRgTo8L3RkPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7JSBjc3JmX3Rva2VuICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRkPnt7IHVwZGF0ZV90YXNrLmdvb2RzX2NvdW50IH19PC90ZD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImZvcm0tZ3JvdXAiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -923,7 +935,6 @@
         <entry encoding="base64">XDxTb2NpYWxBY2NvdW50XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>ww</entry>
         <entry>;w</entry>
         <entry>155</entry>
         <entry>s</entry>
@@ -942,6 +953,7 @@
         <entry>q</entry>
         <entry>W</entry>
         <entry>e</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
