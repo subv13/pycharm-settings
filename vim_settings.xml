@@ -197,11 +197,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478252638437">
         <mark key="[" line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/serializers.py" timestamp="1480400646339">
-        <mark key="[" line="69" column="26" />
-        <mark key="]" line="69" column="51" />
-        <mark key="." line="69" column="51" />
-        <mark key="^" line="69" column="51" />
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/serializers.py" timestamp="1480402087635">
+        <mark key="[" line="66" column="33" />
+        <mark key="]" line="67" column="18" />
+        <mark key="." line="67" column="18" />
+        <mark key="^" line="67" column="18" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/utils.py" timestamp="1480308504856">
         <mark key="[" line="53" column="45" />
@@ -438,11 +438,11 @@
         <mark key="^" line="34" column="38" />
         <mark key="." line="34" column="38" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7365aff-4546-4fa0-8406-d3daa3f7e4a2/console.sql" timestamp="1480066811676">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-        <mark key="^" line="5" column="25" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7365aff-4546-4fa0-8406-d3daa3f7e4a2/console.sql" timestamp="1480401932362">
+        <mark key="[" line="13" column="26" />
+        <mark key="]" line="13" column="20" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/project/settings.py" timestamp="1480064486816">
         <mark key="[" line="103" column="26" />
@@ -675,7 +675,7 @@
         <mark key="." line="62" column="30" />
         <mark key="^" line="62" column="30" />
       </file>
-      <file name="/dummy.sql" timestamp="1480329112269">
+      <file name="/dummy.sql" timestamp="1480401761767">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/9641058b-ce34-4fce-b401-695f7c9901fb/console.sql" timestamp="1477290147251">
@@ -870,16 +870,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>добавлено</text>
+        <text>is_deleted</text>
       </register>
       <register name="-" type="4">
-        <text>добавлено</text>
+        <text>is_deleted</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+0KLQvtCy0LDRgNC+0LIg0LTQvtCx0LDQstC70LXQvdC+PC90aD4K</text>
+        <text encoding="base64">U0VMRUNUIGNvdW50KCopCkZST00gbG9va2luZ2FwcGdvb2RzX2dvb2RzCldIRVJFIGlzX2RlbGV0ZWQgaXMgVFJVRTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGg+0JrQvtC70LjRh9C10YHRgtCy0L4g0YLQvtCy0LDRgNC+0LI8L3RoPgo=</text>
