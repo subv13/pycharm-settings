@@ -197,11 +197,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478252638437">
         <mark key="[" line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/serializers.py" timestamp="1480334701705">
-        <mark key="[" line="68" column="11" />
-        <mark key="]" line="68" column="22" />
-        <mark key="." line="68" column="22" />
-        <mark key="^" line="68" column="22" />
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/serializers.py" timestamp="1480397647660">
+        <mark key="[" line="69" column="24" />
+        <mark key="]" line="69" column="24" />
+        <mark key="." line="69" column="24" />
+        <mark key="^" line="69" column="24" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/utils.py" timestamp="1480308504856">
         <mark key="[" line="53" column="45" />
