@@ -203,11 +203,11 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478252638437">
         <mark key="[" line="0" column="51" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/serializers.py" timestamp="1480487937699">
-        <mark key="[" line="51" column="34" />
-        <mark key="]" line="51" column="38" />
-        <mark key="^" line="51" column="38" />
-        <mark key="." line="51" column="38" />
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/serializers.py" timestamp="1480504606326">
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="12" />
+        <mark key="^" line="79" column="12" />
+        <mark key="." line="80" column="12" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/main/utils.py" timestamp="1480488035382">
         <mark key="[" line="53" column="49" />
@@ -877,8 +877,8 @@
       <jump line="139" column="4" filename="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>active_goods_count_expr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="-" type="4">
         <text>active_goods_count_expr</text>
@@ -890,34 +890,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJ3ByaWNlJzogJycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5ub3RhdGUoYWN0aXZlX2dvb2RzX2NvdW50PWFjdGl2ZV9nb29kc19jb3VudF9leHByKS4gXAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ2FzZShXaGVuKGdvb2RzX19pc19kZWxldGVkPUZhbHNlLCB0aGVuPSdnb29kcycpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9iai5tb2RlcmF0ZWRfY2F0ZWdvcnkucGFyZW50Lmljb24udXJsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RpdmVfZ29vZHNfY291bnRfZXhwciA9IENvdW50KAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBvYmoubW9kZXJhdGVkX2NhdGVnb3J5LnBhcmVudDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNhdGVnb3J5X2ljb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5ub3RhdGUoYWN0aXZlX2dvb2RzX2NvdW50PWFjdGl2ZV9nb29kc19jb3VudF9leHByKS4gXAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2FzZShXaGVuKGdvb2RzX19pc19kZWxldGVkPUZhbHNlLCB0aGVuPSdnb29kcycpKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBjYXRlZ29yeV9pY29uCg==</text>
+        <text encoding="base64">ICAgICAgICBhY3RpdmVfZ29vZHNfY291bnRfZXhwciA9IENvdW50KAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNhdGVnb3J5X2ljb24K</text>
       </register>
       <register name="w" type="4">
         <text>e</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVzZXJuYW1lID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKHJlcXVpcmVkPUZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9iai5tb2RlcmF0ZWRfY2F0ZWdvcnkucGFyZW50Lmljb24udXJsCg==</text>
+        <text encoding="base64">ICAgIGRlZiBjYXRlZ29yeV9pY29uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
