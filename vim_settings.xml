@@ -221,7 +221,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1480487651039">
+      <file name="/Python Console" timestamp="1480498298318">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/migrations/0061_goods_update_date.py" timestamp="1479809176126">
@@ -263,11 +263,11 @@
       <file name="/a.sql" timestamp="1478001164024">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/get_brands_icons.py" timestamp="1480477884253">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="^" line="57" column="34" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/smenateam/looking-goods/project/management/commands/get_brands_icons.py" timestamp="1480498418592">
+        <mark key="[" line="56" column="48" />
+        <mark key="]" line="56" column="51" />
+        <mark key="^" line="56" column="51" />
+        <mark key="." line="56" column="51" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/modules/dialogs/models.py" timestamp="1479364423992">
         <mark key="[" line="31" column="36" />
@@ -878,10 +878,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>h</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>h</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
