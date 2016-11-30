@@ -187,10 +187,11 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/admin.py" timestamp="1480427472742">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="28" />
-        <mark key="." line="96" column="0" />
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/admin.py" timestamp="1480479794241">
+        <mark key="[" line="104" column="41" />
+        <mark key="]" line="104" column="47" />
+        <mark key="." line="104" column="47" />
+        <mark key="^" line="104" column="47" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/48472629-8d98-4d73-905b-a53b59f3178d/console.sql" timestamp="1478252638437">
         <mark key="[" line="0" column="51" />
