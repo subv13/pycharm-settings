@@ -60,6 +60,12 @@
         <mark key="^" line="3" column="9" />
         <mark key="." line="3" column="9" />
       </file>
+      <file name="$USER_HOME$/smenateam/lookingapp/modules/accounts/rest/serializers.py" timestamp="1480490347997">
+        <mark key="[" line="167" column="68" />
+        <mark key="]" line="167" column="51" />
+        <mark key="^" line="167" column="51" />
+        <mark key="." line="167" column="51" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingappgoods/staticfiles/css/moderation.css" timestamp="1477313356681">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="16" />
@@ -867,8 +873,8 @@
       <jump line="139" column="4" filename="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>price</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHVzZXJuYW1lID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKHJlcXVpcmVkPUZhbHNlKQo=</text>
       </register>
       <register name="-" type="4">
         <text>price</text>
@@ -880,34 +886,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJ3ByaWNlJzogJycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9iai5tb2RlcmF0ZWRfY2F0ZWdvcnkucGFyZW50Lmljb24udXJsCg==</text>
+        <text encoding="base64">ICAgIHVzZXJuYW1lID0gc2VyaWFsaXplcnMuQ2hhckZpZWxkKHJlcXVpcmVkPUZhbHNlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvYmoubW9kZXJhdGVkX2NhdGVnb3J5LnBhcmVudDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9iai5tb2RlcmF0ZWRfY2F0ZWdvcnkucGFyZW50Lmljb24udXJsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcXMK</text>
+        <text encoding="base64">ICAgICAgICBpZiBvYmoubW9kZXJhdGVkX2NhdGVnb3J5LnBhcmVudDoK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcXMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGQK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGQK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5nb29kc19zZXQuY291bnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>e</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBnZXRfZGVsZXRlZF9nb29kc19jb3VudChzZWxmKToK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi5nb29kc19zZXQuY291bnQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBDYXNlCg==</text>
+        <text encoding="base64">ICAgIGRlZiBnZXRfZGVsZXRlZF9nb29kc19jb3VudChzZWxmKToK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
