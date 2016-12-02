@@ -88,11 +88,10 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/moderation/views.py" timestamp="1480662429479">
-        <mark key="[" line="42" column="74" />
-        <mark key="]" line="42" column="67" />
-        <mark key="^" line="42" column="67" />
-        <mark key="." line="42" column="67" />
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/moderation/views.py" timestamp="1480664753449">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/README.md" timestamp="1480395937054">
         <mark key="[" line="1" column="46" />
@@ -226,7 +225,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1480654771763">
+      <file name="/Python Console" timestamp="1480664638100">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/migrations/0061_goods_update_date.py" timestamp="1479809176126">
@@ -639,11 +638,11 @@
         <mark key="^" line="25" column="12" />
         <mark key="." line="23" column="15" />
       </file>
-      <file name="$USER_HOME$/smenateam/looking-goods/modules/moderation/templates/moderation/base.html" timestamp="1479983825047">
-        <mark key="[" line="34" column="81" />
-        <mark key="]" line="34" column="87" />
-        <mark key="." line="34" column="87" />
-        <mark key="^" line="34" column="87" />
+      <file name="$USER_HOME$/smenateam/looking-goods/modules/moderation/templates/moderation/base.html" timestamp="1480664744525">
+        <mark key="[" line="50" column="35" />
+        <mark key="]" line="50" column="36" />
+        <mark key="." line="50" column="36" />
+        <mark key="^" line="50" column="36" />
       </file>
       <file name="vim_settings.xml" timestamp="1479190691805">
         <mark key="[" line="0" column="0" />
@@ -938,11 +937,11 @@
       <jump line="240" column="26" filename="$USER_HOME$/smenateam/lookingapp/modules/main/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>save(</text>
@@ -951,22 +950,22 @@
         <text encoding="base64">ICAgIHBlcm1pc3Npb25fY2xhc3NlcyA9IElzQXV0aGVudGljYXRlZCwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gU2VhcmNoUXVlcnlTZXQoKS5tb2RlbHMoR29vZHMpLmFsbCgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICMgdXNlcl9pZCA9IHNlcmlhbGl6ZXJzLkludGVnZXJGaWVsZCh3cml0ZV9vbmx5PVRydWUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgdXNlcl9pZCA9IHNlcmlhbGl6ZXJzLkludGVnZXJGaWVsZCh3cml0ZV9vbmx5PVRydWUpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcihSZXBvcnQsIFJlcG9ydEFkbWluKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -975,7 +974,7 @@
         <text>e</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2xhc3MgUmVwb3J0QWRtaW4oYWRtaW4uTW9kZWxBZG1pbik6CiAgICBsaXN0X2Rpc3BsYXkgPSAncmVwb3J0ZWQnLCAnZGF0ZScKCgo=</text>
+        <text encoding="base64">YWRtaW4uc2l0ZS5yZWdpc3RlcihSZXBvcnQsIFJlcG9ydEFkbWluKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
