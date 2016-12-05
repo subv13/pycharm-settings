@@ -9,7 +9,7 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/start_script.py" timestamp="1480910611165">
+      <file name="/start_script.py" timestamp="1480911060361">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/dialogs/detail.html" timestamp="1477044371118">
@@ -731,12 +731,6 @@
         <mark key="]" line="62" column="30" />
         <mark key="." line="62" column="30" />
         <mark key="^" line="62" column="30" />
-      </file>
-      <file name="$USER_HOME$/smenateam/lookingapp/project/urls.py" timestamp="1480679486726">
-        <mark key="[" line="22" column="40" />
-        <mark key="]" line="22" column="43" />
-        <mark key="." line="22" column="43" />
-        <mark key="^" line="22" column="43" />
       </file>
       <file name="/dummy.sql" timestamp="1480674656186">
         <mark key="[" line="0" column="0" />
