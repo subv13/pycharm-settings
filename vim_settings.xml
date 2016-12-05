@@ -9,6 +9,9 @@
         <mark key="^" line="8" column="37" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/start_script.py" timestamp="1480910611165">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/lookingapp/project/templates/dialogs/detail.html" timestamp="1477044371118">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="0" column="25" />
@@ -231,7 +234,7 @@
         <mark key="^" line="2" column="13" />
         <mark key="." line="2" column="13" />
       </file>
-      <file name="/Python Console" timestamp="1480681768944">
+      <file name="/Python Console" timestamp="1480910304690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/modules/lookingappgoods/migrations/0061_goods_update_date.py" timestamp="1479809176126">
