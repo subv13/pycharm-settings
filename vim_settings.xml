@@ -198,7 +198,7 @@
         <mark key="^" line="6" column="57" />
         <mark key="." line="6" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1495110920297">
+      <file name="/Python Console" timestamp="1495112203410">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1495004785715">
@@ -269,6 +269,9 @@
         <mark key="]" line="35" column="30" />
         <mark key="." line="35" column="30" />
         <mark key="^" line="35" column="30" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/atol_test/driver/dto9fptr.py" timestamp="1495111957650">
+        <mark key="'" line="2004" column="8" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templatetags/mainpage_tags.py" timestamp="1491286397994">
         <mark key="[" line="287" column="7" />
@@ -396,10 +399,10 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="66" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/atol_test/driver/dto9base.py" timestamp="1495111012494">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/atol_test/driver/dto9base.py" timestamp="1495112200785">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="72" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/formula1/project/apps/tickets/templates/tickets/ajax/location_list.html" timestamp="1491454972587">
         <mark key="[" line="43" column="0" />
@@ -767,11 +770,11 @@
       <file name="/dummy.sql" timestamp="1495020826446">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/atol_test/main.py" timestamp="1495110491258">
-        <mark key="[" line="3" column="93" />
-        <mark key="]" line="3" column="93" />
-        <mark key="." line="3" column="93" />
-        <mark key="^" line="3" column="93" />
+      <file name="$USER_HOME$/PycharmProjects/atol_test/main.py" timestamp="1495112013939">
+        <mark key="[" line="3" column="88" />
+        <mark key="]" line="3" column="91" />
+        <mark key="." line="3" column="91" />
+        <mark key="^" line="3" column="91" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/galleries/templates/galleries/blocks/gallery.html" timestamp="1487754962420">
         <mark key="[" line="13" column="62" />
@@ -893,9 +896,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" />
-      <jump line="10" column="8" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" />
-      <jump line="255" column="0" filename="$USER_HOME$/smenateam/farfor/farfor/farfor/settings.py" />
       <jump line="29" column="46" filename="$USER_HOME$/smenateam/farfor/farfor/apps/utils/api_mixin.py" />
       <jump line="95" column="4" filename="$USER_HOME$/smenateam/farfor/farfor/apps/utils/api_mixin.py" />
       <jump line="52" column="32" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" />
@@ -993,13 +993,16 @@
       <jump line="187" column="0" filename="$USER_HOME$/smenateam/lrkc/project/apps/home/views.py" />
       <jump line="2" column="34" filename="$USER_HOME$/smenateam/lrkc/project/apps/home/views.py" />
       <jump line="336" column="8" filename="C:/Python27/Lib/ctypes/__init__.py" />
+      <jump line="1658" column="0" filename="$USER_HOME$/PycharmProjects/atol_test/driver/dto9fptr.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/atol_test/driver/dto9fptr.py" />
+      <jump line="2004" column="8" filename="$USER_HOME$/PycharmProjects/atol_test/driver/dto9fptr.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGliZ2NjX3NfZHcyLTEuZGxsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxpYnJhcnkgPSBjdHlwZXMuQ0RMTChsaWJyYXJ5X25hbWUsIG1vZGU9Y3R5cGVzLlJUTERfTE9DQUwpCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>library_name=&quot;C:\\Users\\subv\\Desktop\\atol_drivers\\nt-x86-mingw&quot;, version=9)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
@@ -1008,31 +1011,31 @@
         <text encoding="base64">ICAgICAgICBpZiBhZGRyZXNzLnBvcmNoOgogICAgICAgICAgICByZXN1bHQgKz0gdScsINC/0L7QtNGK0LXQt9C0IOKElnt9Jy5mb3JtYXQoYWRkcmVzcy5wb3JjaCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGliZ2NjX3NfZHcyLTEuZGxsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxpYnJhcnkgPSBjdHlwZXMuQ0RMTChsaWJyYXJ5X25hbWUsIG1vZGU9Y3R5cGVzLlJUTERfTE9DQUwpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGliZ2NjX3NfZHcyLTEuZGxsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgbCBpbiBmLnJlYWRsaW5lcygpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHdpdGggb3BlbignQzpcXFVzZXJzXFxzdWJ2XFxEZXNrdG9wXFxhdG9sX2RyaXZlcnNcXG50LXg4Ni1taW5nd1xcdmVyc2lvbi50eHQnKSBhcyBmOgo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgbCBpbiBmLnJlYWRsaW5lcygpOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkcmVzcywK</text>
+        <text encoding="base64">ICAgIHdpdGggb3BlbignQzpcXFVzZXJzXFxzdWJ2XFxEZXNrdG9wXFxhdG9sX2RyaXZlcnNcXG50LXg4Ni1taW5nd1xcdmVyc2lvbi50eHQnKSBhcyBmOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkcmVzcywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRyZXNzLnBvcmNoLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkcmVzcy5mbG9vcgo=</text>
+        <text encoding="base64">ICAgICAgICBhZGRyZXNzLnBvcmNoLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkcmVzcy5wb3JjaCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWRkcmVzcy5mbG9vcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1104,6 +1107,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
