@@ -778,7 +778,7 @@
       <file name="/dummy.sql" timestamp="1495020826446">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/atol_test/main.py" timestamp="1495195580190">
+      <file name="$USER_HOME$/PycharmProjects/atol_test/main.py" timestamp="1495196828566">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -1123,6 +1123,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
