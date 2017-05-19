@@ -42,6 +42,10 @@
   <action id="GotoBookmark3" />
   <action id="GotoBookmark4" />
   <action id="GotoBookmark5" />
+  <action id="GotoFile" />
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
   <action id="ShowSettings">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
