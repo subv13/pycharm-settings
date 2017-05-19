@@ -620,11 +620,11 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/atol_test/.gitignore" timestamp="1495170195923">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="$USER_HOME$/PycharmProjects/atol_test/.gitignore" timestamp="1495171482506">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/config/django/email.py" timestamp="1490336018488">
         <mark key="[" line="1" column="18" />
@@ -788,7 +788,7 @@
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="68" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495169996242">
+      <file name="/Dummy.txt" timestamp="1495171270255">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1004,11 +1004,11 @@
       <jump line="18" column="32" filename="$USER_HOME$/PycharmProjects/atol_test/driver/dto9fptr.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGliZ2NjX3NfZHcyIC0gMS5kbGwK</text>
+      <register name="&quot;" type="4">
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>library_name=&quot;C:\\Users\\subv\\Desktop\\atol_drivers\\nt-x86-mingw&quot;, version=9)</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
