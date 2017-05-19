@@ -198,7 +198,7 @@
         <mark key="^" line="6" column="57" />
         <mark key="." line="6" column="57" />
       </file>
-      <file name="/Python Console" timestamp="1495177230730">
+      <file name="/Python Console" timestamp="1495179078186">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1495004785715">
@@ -207,7 +207,7 @@
         <mark key="^" line="104" column="74" />
         <mark key="." line="104" column="74" />
       </file>
-      <file name="/fragment.py" timestamp="1495110937336">
+      <file name="/fragment.py" timestamp="1495178541863">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="8" column="30" />
         <mark key="^" line="8" column="30" />
@@ -399,7 +399,7 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="66" column="69" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/atol_test/driver/dto9base.py" timestamp="1495177229240">
+      <file name="$USER_HOME$/PycharmProjects/atol_test/driver/dto9base.py" timestamp="1495179080834">
         <mark key="'" line="263" column="8" />
         <mark key="[" line="181" column="8" />
         <mark key="]" line="181" column="7" />
@@ -778,11 +778,11 @@
       <file name="/dummy.sql" timestamp="1495020826446">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/atol_test/main.py" timestamp="1495177198367">
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-        <mark key="^" line="4" column="24" />
+      <file name="$USER_HOME$/PycharmProjects/atol_test/main.py" timestamp="1495179149622">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/galleries/templates/galleries/blocks/gallery.html" timestamp="1487754962420">
         <mark key="[" line="13" column="62" />
@@ -1007,10 +1007,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHIgPSBmcHRyLlNob3dQcm9wZXJ0aWVzKCkK</text>
+        <text encoding="base64">ICAgIHIgPSBmcHRyLmdldF9EZXZpY2VTaW5nbGVTZXR0aW5nKCJTZWFyY2hEaXIiKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>path</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
@@ -1019,31 +1019,31 @@
         <text encoding="base64">ICAgICAgICBpZiBhZGRyZXNzLnBvcmNoOgogICAgICAgICAgICByZXN1bHQgKz0gdScsINC/0L7QtNGK0LXQt9C0IOKElnt9Jy5mb3JtYXQoYWRkcmVzcy5wb3JjaCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHIgPSBmcHRyLlNob3dQcm9wZXJ0aWVzKCkK</text>
+        <text encoding="base64">ICAgIHIgPSBmcHRyLmdldF9EZXZpY2VTaW5nbGVTZXR0aW5nKCJTZWFyY2hEaXIiKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHIgPSBmcHRyLmdldF9SZXN1bHRDb2RlKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlc3VsdCA9IGZwdHIuR2V0U3RhdHVzKCkK</text>
+        <text encoding="base64">ICAgIHIgPSBmcHRyLlNob3dQcm9wZXJ0aWVzKCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHByaW50ICdrZWsnCg==</text>
+        <text encoding="base64">ICAgIHIgPSBmcHRyLmdldF9SZXN1bHRDb2RlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGliZ2NjX3NfZHcyIC0gMS5kbGwK</text>
+        <text encoding="base64">ICAgIHJlc3VsdCA9IGZwdHIuR2V0U3RhdHVzKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxpYnJhcnkgPSBjdHlwZXMuQ0RMTChsaWJyYXJ5X25hbWUsIG1vZGU9Y3R5cGVzLlJUTERfTE9DQUwpCg==</text>
+        <text encoding="base64">ICAgIHByaW50ICdrZWsnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLmxpYnJhcnkgPSBjdHlwZXMuQ0RMTChsaWJyYXJ5X25hbWUsIG1vZGU9Y3R5cGVzLlJUTERfTE9DQUwpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGliZ2NjX3NfZHcyIC0gMS5kbGwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgbGliZ2NjX3NfZHcyLTEuZGxsCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxpYnJhcnkgPSBjdHlwZXMuQ0RMTChsaWJyYXJ5X25hbWUsIG1vZGU9Y3R5cGVzLlJUTERfTE9DQUwpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgbAo=</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmxpYnJhcnkgPSBjdHlwZXMuQ0RMTChsaWJyYXJ5X25hbWUsIG1vZGU9Y3R5cGVzLlJUTERfTE9DQUwpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
