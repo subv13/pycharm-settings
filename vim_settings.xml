@@ -270,7 +270,7 @@
         <mark key="." line="35" column="30" />
         <mark key="^" line="35" column="30" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/atol_test/driver/dto9fptr.py" timestamp="1495111957650">
+      <file name="$USER_HOME$/PycharmProjects/atol_test/driver/dto9fptr.py" timestamp="1495175622024">
         <mark key="'" line="2004" column="8" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templatetags/mainpage_tags.py" timestamp="1491286397994">
@@ -901,7 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="95" column="4" filename="$USER_HOME$/smenateam/farfor/farfor/apps/utils/api_mixin.py" />
       <jump line="52" column="32" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" />
       <jump line="35" column="22" filename="$USER_HOME$/smenateam/farfor/farfor/tests/locust/order_search.py" />
       <jump line="35" column="31" filename="$USER_HOME$/smenateam/farfor/farfor-courier-api/serializers.py" />
@@ -999,8 +998,9 @@
       <jump line="336" column="8" filename="C:/Python27/Lib/ctypes/__init__.py" />
       <jump line="1658" column="0" filename="$USER_HOME$/PycharmProjects/atol_test/driver/dto9fptr.py" />
       <jump line="0" column="0" filename="$USER_HOME$/PycharmProjects/atol_test/driver/dto9fptr.py" />
-      <jump line="2004" column="8" filename="$USER_HOME$/PycharmProjects/atol_test/driver/dto9fptr.py" />
       <jump line="18" column="32" filename="$USER_HOME$/PycharmProjects/atol_test/driver/dto9fptr.py" />
+      <jump line="1659" column="0" filename="$USER_HOME$/PycharmProjects/atol_test/driver/dto9fptr.py" />
+      <jump line="2004" column="8" filename="$USER_HOME$/PycharmProjects/atol_test/driver/dto9fptr.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
