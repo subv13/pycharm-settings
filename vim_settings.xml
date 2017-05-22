@@ -150,6 +150,12 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1495449781533">
+        <mark key="[" line="2240" column="28" />
+        <mark key="]" line="2241" column="7" />
+        <mark key="." line="2241" column="7" />
+        <mark key="^" line="2241" column="7" />
+      </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/worksheet.html" timestamp="1488369021158">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="29" />
@@ -211,7 +217,7 @@
         <mark key="." line="58" column="69" />
         <mark key="^" line="58" column="69" />
       </file>
-      <file name="/Python Console" timestamp="1494914536750">
+      <file name="/Python Console" timestamp="1495449064755">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -226,11 +232,11 @@
         <mark key="^" line="126" column="13" />
         <mark key="." line="126" column="13" />
       </file>
-      <file name="/fragment.py" timestamp="1493373381599">
+      <file name="/fragment.py" timestamp="1495448315691">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="30" />
-        <mark key="^" line="8" column="30" />
-        <mark key="." line="8" column="30" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" timestamp="1490766009961">
         <mark key="[" line="42" column="0" />
@@ -564,17 +570,20 @@
         <mark key="." line="12" column="150" />
         <mark key="^" line="12" column="150" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" timestamp="1495442859723">
-        <mark key="[" line="97" column="0" />
-        <mark key="]" line="97" column="31" />
-        <mark key="^" line="291" column="48" />
-        <mark key="." line="97" column="31" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" timestamp="1495449111973">
+        <mark key="^" line="297" column="15" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/apps/utils/templatetags/get_field_type.py" timestamp="1488527056473">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
         <mark key="^" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/management/commands/remove_flight_elastic.py" timestamp="1495447235794">
+        <mark key="[" line="37" column="47" />
+        <mark key="]" line="37" column="55" />
+        <mark key="^" line="37" column="55" />
+        <mark key="." line="37" column="55" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/doctors/blocks.py" timestamp="1489140616459">
         <mark key="[" line="34" column="72" />
@@ -882,12 +891,6 @@
         <mark key="^" line="18" column="35" />
         <mark key="." line="18" column="35" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/api/__init__.py" timestamp="1494919753526">
-        <mark key="k" line="300" column="42" />
-        <mark key="[" line="261" column="0" />
-        <mark key="]" line="261" column="0" />
-        <mark key="." line="261" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="100" column="30" filename="$USER_HOME$/smenateam/farfor/farfor/farfor/settings.py" />
@@ -993,43 +996,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBpbmRleC51cGRhdGVfb2JqZWN0KGluc3RhbmNlPW9yZGVyKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>item</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjINCo0LvRkdC8INCyINGC0LXQu9C10LPRgNCw0Lwg0YHQvtC+0LHRidC10L3QuNC1INC+INGC0L7QvCDRh9GC0L4g0L3QtSDRg9C00LDQu9C+0YHRjCDQvtCx0L3QvtCy0LjRgtGMINC00L7QutGD0LzQtdC90YIKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoCiAgICAgICAgICAgICAgICAgICAgICAgICfQndC1INGD0LTQsNC70L7RgdGMINC+0LHQvdC+0LLQuNGC0Ywg0LTQvtC60YPQvNC10L3RgiB7fSBjIGlkIHt9Jy5mb3JtYXQoZG9jX3R5cGUsIGRvY19pZCksCiAgICAgICAgICAgICAgICAgICAgICAgIGV4Y19pbmZvPVRydWUsCiAgICAgICAgICAgICAgICAgICAgKQogICAgICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5kZXggPSBoYXlzdGFja19jb25uZWN0aW9uc1snZGVmYXVsdCddLmdldF91bmlmaWVkX2luZGV4KCkuIFwKICAgICAgICAgICAgICAgIGdldF9pbmRleChPcmRlcikKICAgICAgICAgICAgaW5kZXgudXBkYXRlX29iamVjdChpbnN0YW5jZT1vcmRlcikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBpbmRleC51cGRhdGVfb2JqZWN0KGluc3RhbmNlPW9yZGVyKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNsZWVwKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIHRyaWVzX2NvdW50ID4gMDoKICAgICAgICAgICAgICAgICAgICAjINCo0LvRkdC8INCyINGC0LXQu9C10LPRgNCw0Lwg0YHQvtC+0LHRidC10L3QuNC1INC+INGC0L7QvCDRh9GC0L4g0L7QsdC90L7QstC40YLRjCDQtNC+0LrRg9C80LXQvdGCCiAgICAgICAgICAgICAgICAgICAgIyDRg9C00LDQu9C+0YHRjCDQu9C40YjRjCDRgSDQvdC10YHQutC+0LvRjNC60LjRhSDQv9C+0L/Ri9GC0L7QugogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigKICAgICAgICAgICAgICAgICAgICAgICAgJ9CU0L7QutGD0LzQtdC90YIge30gYyBpZCB7fSDRg9C00LDQu9C+0YHRjCDQvtCx0L3QvtCy0LjRgtGMINGBIHt9INC/0L7Qv9GL0YLQutC4Jy5mb3JtYXQoZG9jX3R5cGUsIGRvY19pZCwgdHJpZXNfY291bnQpLAogICAgICAgICAgICAgICAgICAgICAgICBleGNfaW5mbz1UcnVlLAogICAgICAgICAgICAgICAgICAgICkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICMg0L/QvtCy0YLQvtGA0Y/QtdC8INC+0LHQvdC+0LLQu9C10L3QuNC1Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAnUmVtb3ZlZCB7fSBvcmRlcnMnLmZvcm1hdChsZW4oZGVsdGEpKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAjINCo0LvRkdC8INCyINGC0LXQu9C10LPRgNCw0Lwg0YHQvtC+0LHRidC10L3QuNC1INC+INGC0L7QvCDRh9GC0L4g0L3QtSDRg9C00LDQu9C+0YHRjCDQvtCx0L3QvtCy0LjRgtGMINC00L7QutGD0LzQtdC90YIKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoCiAgICAgICAgICAgICAgICAgICAgICAgICfQndC1INGD0LTQsNC70L7RgdGMINC+0LHQvdC+0LLQuNGC0Ywg0LTQvtC60YPQvNC10L3RgiB7fSBjIGlkIHt9Jy5mb3JtYXQoZG9jX3R5cGUsIGRvY19pZCksCiAgICAgICAgICAgICAgICAgICAgICAgIGV4Y19pbmZvPVRydWUsCiAgICAgICAgICAgICAgICAgICAgKQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBvcmRlciA9IE9yZGVyKGlkPWl0ZW0pCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBmb3IgaXRlbSBpbiBkZWx0YToK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGRvY3VtZW50ICE9IGRvY3VtZW50X3YyOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">bwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhcHR1cmVfc2VudHJ5X21lc3NhZ2UoJ0R1cGxpY2F0ZSBvcmRlcnMgcmVtb3ZlZCcsIGV4dHJhPW9yZGVyKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
