@@ -238,7 +238,7 @@
         <mark key="." line="58" column="69" />
         <mark key="^" line="58" column="69" />
       </file>
-      <file name="/Python Console" timestamp="1495536638823">
+      <file name="/Python Console" timestamp="1495541884896">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -495,7 +495,6 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="239" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/hosts.yml" timestamp="1495539550986" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/config/database.py" timestamp="1488268390165">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="29" />
@@ -569,7 +568,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/71cd3e9e-fc1a-4e44-8243-a05c265848b1/console.sql" timestamp="1489402450556">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/d_bus/broadcasters/utils.py" timestamp="1495534223004" />
       <file name="$USER_HOME$/smenateam/vncenter/frontend/markup/blocks/callme/callme.styl" timestamp="1488194971466">
         <mark key="[" line="115" column="9" />
         <mark key="]" line="115" column="9" />
@@ -594,7 +592,7 @@
         <mark key="." line="12" column="150" />
         <mark key="^" line="12" column="150" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" timestamp="1495537246331">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" timestamp="1495541793235">
         <mark key="^" line="297" column="15" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/apps/utils/templatetags/get_field_type.py" timestamp="1488527056473">
