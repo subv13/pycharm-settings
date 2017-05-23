@@ -48,6 +48,12 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="53" column="15" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/frontend/update_backend.yml" timestamp="1495539673786">
+        <mark key="[" line="15" column="141" />
+        <mark key="]" line="15" column="151" />
+        <mark key="." line="15" column="151" />
+        <mark key="^" line="15" column="151" />
+      </file>
       <file name="$USER_HOME$/smenateam/medcenter/frontend/markup/pages/temp/_all.jade" timestamp="1487755944596">
         <mark key="[" line="23" column="52" />
         <mark key="]" line="23" column="47" />
@@ -201,6 +207,12 @@
         <mark key="]" line="88" column="55" />
         <mark key="^" line="88" column="55" />
         <mark key="." line="88" column="55" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/erp/update_backend.yml" timestamp="1495539661946">
+        <mark key="[" line="15" column="148" />
+        <mark key="]" line="15" column="151" />
+        <mark key="^" line="15" column="151" />
+        <mark key="." line="15" column="151" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/doctors/templates/doctors/detail.html" timestamp="1487657384161">
         <mark key="[" line="131" column="8" />
@@ -483,6 +495,7 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="239" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/hosts.yml" timestamp="1495539550986" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/config/database.py" timestamp="1488268390165">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="29" />
@@ -1007,11 +1020,11 @@
       <jump line="2" column="34" filename="$USER_HOME$/smenateam/lrkc/project/apps/home/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>staging</text>
       </register>
       <register name="-" type="4">
-        <text>diff</text>
+        <text>staging</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
