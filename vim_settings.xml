@@ -196,7 +196,6 @@
         <mark key="^" line="88" column="55" />
         <mark key="." line="88" column="55" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-mobile-frontend/js-apps/src/views/basket/basket/components/promocode/main.jsx" timestamp="1495007110985" />
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/doctors/templates/doctors/detail.html" timestamp="1487657384161">
         <mark key="[" line="131" column="8" />
         <mark key="]" line="131" column="9" />
@@ -221,7 +220,7 @@
         <mark key="." line="58" column="69" />
         <mark key="^" line="58" column="69" />
       </file>
-      <file name="/Python Console" timestamp="1495523322907">
+      <file name="/Python Console" timestamp="1495524657868">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -236,7 +235,7 @@
         <mark key="^" line="126" column="13" />
         <mark key="." line="126" column="13" />
       </file>
-      <file name="/fragment.py" timestamp="1495521394236">
+      <file name="/fragment.py" timestamp="1495524146992">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -369,7 +368,6 @@
         <mark key="^" line="287" column="10" />
         <mark key="." line="287" column="7" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/d_bus/broadcasters/flight.py" timestamp="1495517027069" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/django/cache.py" timestamp="1487926048709">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -481,7 +479,6 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="239" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/hosts.yml" timestamp="1495194263398" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/config/database.py" timestamp="1488268390165">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="29" />
@@ -534,11 +531,12 @@
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/signals.py" timestamp="1495523290338">
-        <mark key="[" line="39" column="59" />
-        <mark key="]" line="39" column="64" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/signals.py" timestamp="1495524554596">
+        <mark key="y" line="44" column="43" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
         <mark key="^" line="39" column="64" />
-        <mark key="." line="39" column="64" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/venvs/vncenter/lib/python2.7/site-packages/forms_builder/forms/urls.py" timestamp="1488542915924">
         <mark key="[" line="9" column="10" />
@@ -555,7 +553,6 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/71cd3e9e-fc1a-4e44-8243-a05c265848b1/console.sql" timestamp="1489402450556">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/d_bus/broadcasters/utils.py" timestamp="1495515025420" />
       <file name="$USER_HOME$/smenateam/vncenter/frontend/markup/blocks/callme/callme.styl" timestamp="1488194971466">
         <mark key="[" line="115" column="9" />
         <mark key="]" line="115" column="9" />
@@ -580,7 +577,7 @@
         <mark key="." line="12" column="150" />
         <mark key="^" line="12" column="150" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" timestamp="1495518629711">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" timestamp="1495523953898">
         <mark key="^" line="297" column="15" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/apps/utils/templatetags/get_field_type.py" timestamp="1488527056473">
@@ -667,8 +664,6 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/models/__init__.py" timestamp="1495004446396" />
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/helpdesk/models.py" timestamp="1494928321605" />
       <file name="$USER_HOME$/smenateam/smenaschool/smenaschool1/smenaschool1/settings.py" timestamp="1493889124793">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -886,7 +881,6 @@
         <mark key="^" line="142" column="34" />
         <mark key="." line="142" column="34" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/constants.py" timestamp="1494919758330" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a7eb659-8ac4-4549-9f76-faf3b4b8d24a/console.sql" timestamp="1494413285565">
         <mark key="[" line="39" column="42" />
         <mark key="]" line="39" column="49" />
@@ -1009,8 +1003,8 @@
       <jump line="2" column="34" filename="$USER_HOME$/smenateam/lrkc/project/apps/home/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Order</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Order</text>
@@ -1019,34 +1013,34 @@
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0X3NhdmUuZGlzY29ubmVjdChzZWxmLmhhbmRsZV9wb3N0X3NhdmUsIHNlbmRlcj1PcmRlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2xkX2luc3RhbmNlID0gc2VuZGVyLm9iamVjdHMuZ2V0KGlkPWluc3RhbmNlLmlkKQoKICAgICAgICAgICAgZGlmZiA9IE1vZGVsRmllbGRzQ29tcGFyYXRvci5nZXRfYWZmZWN0ZWRfZmllbGRzKAogICAgICAgICAgICAgICAgb2xkX2luc3RhbmNlLCBpbnN0YW5jZQogICAgICAgICAgICApCgogICAgICAgICAgICBpZiBkaWZmOgogICAgICAgICAgICAgICAgc2VsZi5faGFuZGxlX3NhdmUoc2VuZGVyLCBpbnN0YW5jZSwgKiprd2FyZ3MpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5faGFuZGxlX3NhdmUoc2VuZGVyLCBpbnN0YW5jZSwgKiprd2FyZ3MpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0X3NhdmUuY29ubmVjdChzZWxmLmhhbmRsZV9zYXZlLCBzZW5kZXI9T3JkZXIpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBhcHBzLm9yZGVycy5tb2RlbHMgaW1wb3J0IE9yZGVyLCBGbGlnaHQK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhcHBzLm9yZGVycy5tb2RlbHMgaW1wb3J0IE9yZGVyLCBGbGlnaHQK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAjINC40LfQvNC10L3QtdC90LjRjywg0YLQviDQv9C40YjQtdC8INCyIEVTCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAjINCV0YHQu9C4INC+0LHRitC10LrRgiDQtdGB0YLRjCDQsiDQsdCw0LfQtSDRgdCy0LXRgNGP0LXQvCDQvdC+0LLRi9C5INC40L3RgdGC0LDQvdGBINGB0L4g0YHRgtCw0YDRi9C8INC4INC10YHQu9C4INCx0YvQu9C4Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzZWxmLl9oYW5kbGVfc2F2ZShzZW5kZXIsIGluc3RhbmNlLCAqKmt3YXJncykK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5faGFuZGxlX3NhdmUoc2VuZGVyLCBpbnN0YW5jZSwgKiprd2FyZ3MpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToKICAgICAgICAgICAgICAgICAgICBzdXBlcihGYXJmb3JSZWFsdGltZVNpZ25hbFByb2Nlc3Nvciwgc2VsZikuaGFuZGxlX3NhdmUoc2VuZGVyLCBpbnN0YW5jZSwgKiprd2FyZ3MpCiAgICAgICAgICAgICAgICBleGNlcHQgKEhheXN0YWNrRXJyb3IsCiAgICAgICAgICAgICAgICAgICAgICAgIEltcHJvcGVybHlDb25maWd1cmVkLAogICAgICAgICAgICAgICAgICAgICAgICBFbGFzdGljc2VhcmNoRXhjZXB0aW9uKSBhcyBlOgogICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigKICAgICAgICAgICAgICAgICAgICAgICAgJ3t9IHdoZW4gYWRkIHt9IHdpdGggaWQge30gaW4gRWxhc3RpY3NlYXJjaCcuZm9ybWF0KAogICAgICAgICAgICAgICAgICAgICAgICAgICAgZS5lcnJvciwKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluc3RhbmNlLl9fY2xhc3NfXy5fX25hbWVfXy5sb3dlcigpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5zdGFuY2UuaWQKICAgICAgICAgICAgICAgICAgICAgICAgKSwKICAgICAgICAgICAgICAgICAgICAgICAgZXhjX2luZm89VHJ1ZSwKICAgICAgICAgICAgICAgICAgICApCg==</text>
+        <text encoding="base64">ICAgICAgICBwb3N0X3NhdmUuY29ubmVjdChzZWxmLmhhbmRsZV9zYXZlLCBzZW5kZXI9T3JkZXIpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhcHBzLm9yZGVycy5tb2RlbHMgaW1wb3J0IE9yZGVyLCBGbGlnaHQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
