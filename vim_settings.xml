@@ -253,11 +253,11 @@
       <file name="/fragment.py" timestamp="1495628076269">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" timestamp="1495599107645">
-        <mark key="[" line="154" column="50" />
-        <mark key="]" line="154" column="50" />
-        <mark key="." line="154" column="50" />
-        <mark key="^" line="154" column="50" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" timestamp="1495634422186">
+        <mark key="[" line="33" column="79" />
+        <mark key="]" line="34" column="29" />
+        <mark key="." line="34" column="29" />
+        <mark key="^" line="34" column="29" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/config/django/email.py" timestamp="1490336018488">
         <mark key="[" line="1" column="18" />
@@ -1055,7 +1055,7 @@
         <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1088,8 +1088,8 @@
         <entry>:w</entry>
         <entry>1450</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
