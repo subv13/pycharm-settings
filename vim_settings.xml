@@ -256,11 +256,11 @@
       <file name="/fragment.py" timestamp="1495533921123">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" timestamp="1495536887991">
-        <mark key="[" line="154" column="62" />
-        <mark key="]" line="154" column="49" />
-        <mark key="." line="154" column="49" />
-        <mark key="^" line="154" column="49" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" timestamp="1495599107645">
+        <mark key="[" line="154" column="50" />
+        <mark key="]" line="154" column="50" />
+        <mark key="." line="154" column="50" />
+        <mark key="^" line="154" column="50" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/config/django/email.py" timestamp="1490336018488">
         <mark key="[" line="1" column="18" />
@@ -546,12 +546,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/signals.py" timestamp="1495536553849">
-        <mark key="[" line="57" column="61" />
-        <mark key="]" line="58" column="48" />
-        <mark key="." line="58" column="48" />
-        <mark key="^" line="58" column="48" />
       </file>
       <file name="$USER_HOME$/venvs/vncenter/lib/python2.7/site-packages/forms_builder/forms/urls.py" timestamp="1488542915924">
         <mark key="[" line="9" column="10" />
@@ -1019,10 +1013,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{{ version if version is defined else 'staging' }}</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>{{ version if version is defined else 'staging' }}</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
