@@ -163,6 +163,11 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1495457404921">
+        <mark key="[" line="2239" column="0" />
+        <mark key="]" line="2239" column="0" />
+        <mark key="." line="2239" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/worksheet.html" timestamp="1488369021158">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="29" />
@@ -211,7 +216,7 @@
         <mark key="^" line="130" column="15" />
         <mark key="." line="131" column="9" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/views.py" timestamp="1495708841205" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/views.py" timestamp="1495710140140" />
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/pages/views.py" timestamp="1490708666971">
         <mark key="[" line="13" column="58" />
         <mark key="]" line="13" column="62" />
@@ -289,6 +294,11 @@
         <mark key="]" line="6" column="21" />
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/models/__init__.py" timestamp="1495709616021">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1495605797337">
         <mark key="[" line="0" column="0" />
@@ -1018,7 +1028,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHNfdG9fY29tcGFyZSA9IGZpcnN0X2luc3RhbmNlLl9tZXRhLmdldF9hbGxfZmllbGRfbmFtZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobz1UcnVlCg==</text>
       </register>
       <register name="-" type="4">
         <text>first_instance._meta.get_all_field_names()</text>
@@ -1030,32 +1040,32 @@
         <text encoding="base64">ICAgICAgICAgICAgZmllbGRzX3RvX2NvbXBhcmUgPSBmaWVsZHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHNfdG9fY29tcGFyZSA9IGZpcnN0X2luc3RhbmNlLl9tZXRhLmdldF9hbGxfZmllbGRfbmFtZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobz1UcnVlCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHNfdG9fY29tcGFyZSA9IGZpcnN0X2luc3RhbmNlLl9tZXRhLmdldF9hbGxfZmllbGRfbmFtZXMoKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3QgZmllbGRzX3RvX2NvbXBhcmUK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>t
         if</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGluc3RhbmNlLl9kCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
