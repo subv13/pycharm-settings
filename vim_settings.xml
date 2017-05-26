@@ -526,6 +526,10 @@
         <mark key="." line="13" column="28" />
         <mark key="^" line="13" column="28" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/requirements.txt" timestamp="1494921398775">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="79" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/email_backends.py" timestamp="1495622080736" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/config/redis.py" timestamp="1487230277291">
         <mark key="[" line="5" column="0" />
@@ -758,12 +762,16 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/d_bus/signals.py" timestamp="1495516204505">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="116" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/geo/models/__init__.py" timestamp="1495604629767" />
-      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/settings_local.py" timestamp="1494564236179">
-        <mark key="[" line="38" column="4" />
-        <mark key="]" line="38" column="6" />
-        <mark key="." line="38" column="6" />
-        <mark key="^" line="38" column="6" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/settings_local.py" timestamp="1495795502853">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="55" />
+        <mark key="^" line="39" column="6" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/admin.py" timestamp="1487575944748">
         <mark key="[" line="4" column="0" />
@@ -798,6 +806,10 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/celery.py" timestamp="1495795356570">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="54" />
+      </file>
       <file name="/dummy.sql" timestamp="1495627984269">
         <mark key="[" line="0" column="0" />
       </file>
@@ -813,7 +825,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495792095544">
+      <file name="/Dummy.txt" timestamp="1495795608724">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1033,7 +1045,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobz1UcnVlCg==</text>
+        <text encoding="base64">ICAgIENFTEVSWV9SRVNVTFRfQkFDS0VORCA9ICdyZWRpczovL2xvY2FsaG9zdDozMjc5Ny81Jwo=</text>
       </register>
       <register name="-" type="4">
         <text>first_instance._meta.get_all_field_names()</text>
@@ -1042,35 +1054,35 @@
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGRzX3RvX2NvbXBhcmUgPSBmaWVsZHMK</text>
+        <text encoding="base64">ICAgIENFTEVSWV9SRVNVTFRfQkFDS0VORCA9ICdyZWRpczovL2xvY2FsaG9zdDo2Mzc5LzUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobz1UcnVlCg==</text>
+        <text encoding="base64">ICAgIENFTEVSWV9SRVNVTFRfQkFDS0VORCA9ICdyZWRpczovL2xvY2FsaG9zdDozMjc5Ny81Jwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHNfdG9fY29tcGFyZSA9IGZpcnN0X2luc3RhbmNlLl9tZXRhLmdldF9hbGxfZmllbGRfbmFtZXMoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobz1UcnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHNfdG9fY29tcGFyZSA9IGZpcnN0X2luc3RhbmNlLl9tZXRhLmdldF9hbGxfZmllbGRfbmFtZXMoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZiBub3QgZmllbGRzX3RvX2NvbXBhcmUK</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>t
         if</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc3RhbmNlLl9kCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc3RhbmNlLl9kCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
