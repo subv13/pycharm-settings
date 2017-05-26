@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/cash/models.py" timestamp="1495781002211" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/urls/main.py" timestamp="1492166821739">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -49,6 +50,7 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="53" column="15" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/extjs/views/__init__.py" timestamp="1495780855521" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/frontend/update_backend.yml" timestamp="1495540748093">
         <mark key="[" line="19" column="110" />
         <mark key="]" line="19" column="122" />
@@ -808,7 +810,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495778721560">
+      <file name="/Dummy.txt" timestamp="1495780585889">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
