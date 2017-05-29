@@ -113,7 +113,7 @@
         <mark key="." line="51" column="23" />
         <mark key="^" line="51" column="23" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders.py" timestamp="1488274496882">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders.py" timestamp="1496035912449">
         <mark key="[" line="215" column="35" />
         <mark key="]" line="215" column="47" />
         <mark key="." line="215" column="47" />
@@ -307,11 +307,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1495605797337">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/models.py" timestamp="1495687066250">
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="196" column="0" />
-        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftStaffList.js" timestamp="1491549074619">
         <mark key="[" line="99" column="52" />
