@@ -240,7 +240,7 @@
         <mark key="." line="58" column="69" />
         <mark key="^" line="58" column="69" />
       </file>
-      <file name="/Python Console" timestamp="1495797090270">
+      <file name="/Python Console" timestamp="1496137690829">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -701,6 +701,12 @@
         <mark key="^" line="1" column="45" />
         <mark key="." line="1" column="45" />
       </file>
+      <file name="$USER_HOME$/smenateam/smenaschool/smenaschool2/smenaschool2/settings.py" timestamp="1496139487371">
+        <mark key="[" line="121" column="0" />
+        <mark key="]" line="122" column="0" />
+        <mark key="^" line="122" column="3" />
+        <mark key="." line="122" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" timestamp="1489123504494">
         <mark key="[" line="32" column="119" />
         <mark key="]" line="32" column="88" />
@@ -787,7 +793,7 @@
         <mark key="^" line="93" column="38" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="/Django Console" timestamp="1487243214388">
+      <file name="/Django Console" timestamp="1496137691633">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/forms/form_sent.html" timestamp="1488536316480">
@@ -1041,7 +1047,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENFTEVSWV9SRVNVTFRfQkFDS0VORCA9ICdyZWRpczovL2xvY2FsaG9zdDozMjc5Ny81Jwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>first_instance._meta.get_all_field_names()</text>
@@ -1053,32 +1059,32 @@
         <text encoding="base64">ICAgIENFTEVSWV9SRVNVTFRfQkFDS0VORCA9ICdyZWRpczovL2xvY2FsaG9zdDo2Mzc5LzUnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENFTEVSWV9SRVNVTFRfQkFDS0VORCA9ICdyZWRpczovL2xvY2FsaG9zdDozMjc5Ny81Jwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZWNobz1UcnVlCg==</text>
+        <text encoding="base64">ZGVmIGZvbyhyZXF1ZXN0LCBzbHVnKToK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaWVsZHNfdG9fY29tcGFyZSA9IGZpcnN0X2luc3RhbmNlLl9tZXRhLmdldF9hbGxfZmllbGRfbmFtZXMoKQo=</text>
+        <text encoding="base64">ICAgIENFTEVSWV9SRVNVTFRfQkFDS0VORCA9ICdyZWRpczovL2xvY2FsaG9zdDozMjc5Ny81Jwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZWNobz1UcnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmaWVsZHNfdG9fY29tcGFyZSA9IGZpcnN0X2luc3RhbmNlLl9tZXRhLmdldF9hbGxfZmllbGRfbmFtZXMoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgZmllbGRzX3RvX2NvbXBhcmUK</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>t
-        if</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBub3QgZmllbGRzX3RvX2NvbXBhcmUK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGluc3RhbmNlLl9kCg==</text>
+      <register name="9" type="4">
+        <text>t
+        if</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
