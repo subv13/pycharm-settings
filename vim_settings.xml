@@ -234,7 +234,7 @@
         <mark key="." line="58" column="69" />
         <mark key="^" line="58" column="69" />
       </file>
-      <file name="/Python Console" timestamp="1496137690829">
+      <file name="/Python Console" timestamp="1496239401574">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -294,7 +294,7 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1495605797337">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1496238326022">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftStaffList.js" timestamp="1491549074619">
@@ -315,7 +315,7 @@
         <mark key="." line="34" column="46" />
         <mark key="^" line="34" column="46" />
       </file>
-      <file name="/a.sql" timestamp="1496234376784">
+      <file name="/a.sql" timestamp="1496239086264">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/smenaschool1/app1/templates/app1/current_date.html" timestamp="1493965214996">
@@ -474,6 +474,7 @@
         <mark key="." line="11" column="12" />
         <mark key="^" line="8" column="11" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7b67c4a-d597-42b5-95fb-41aa645a88ed/console_1.sql" timestamp="1496238900274" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/57878842-5d45-4db5-af94-dbffc7fdca5c/console.sql" timestamp="1487571191782">
         <mark key="[" line="12" column="38" />
       </file>
@@ -803,7 +804,7 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="54" />
       </file>
-      <file name="/dummy.sql" timestamp="1496235360918">
+      <file name="/dummy.sql" timestamp="1496239050537">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/urls.py" timestamp="1488273408492">
@@ -883,6 +884,9 @@
         <mark key="]" line="65" column="35" />
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="35" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7b67c4a-d597-42b5-95fb-41aa645a88ed/console_2.sql" timestamp="1496238940827">
+        <mark key="[" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/models/courier.py" timestamp="1487583825162">
         <mark key="[" line="36" column="23" />
@@ -1076,7 +1080,7 @@
         <text encoding="base64">ICAgICAgICBmaWVsZHNfdG9fY29tcGFyZSA9IGZpcnN0X2luc3RhbmNlLl9tZXRhLmdldF9hbGxfZmllbGRfbmFtZXMoKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>1216</text>
       </register>
     </registers>
     <search>
@@ -1112,6 +1116,7 @@
         <entry>q</entry>
         <entry>625</entry>
         <entry>w</entry>
+        <entry>1216</entry>
       </history-cmd>
       <history-expr />
       <history-input />
