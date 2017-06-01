@@ -868,11 +868,11 @@
         <mark key="^" line="125" column="21" />
         <mark key="." line="125" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7b67c4a-d597-42b5-95fb-41aa645a88ed/console.sql" timestamp="1496300245645">
-        <mark key="[" line="2" column="35" />
-        <mark key="]" line="2" column="36" />
-        <mark key="." line="2" column="36" />
-        <mark key="^" line="2" column="36" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7b67c4a-d597-42b5-95fb-41aa645a88ed/console.sql" timestamp="1496302185543">
+        <mark key="[" line="8" column="37" />
+        <mark key="]" line="8" column="40" />
+        <mark key="." line="8" column="40" />
+        <mark key="^" line="8" column="40" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/middlewares.py" timestamp="1490939336473">
         <mark key="[" line="71" column="0" />
@@ -1051,16 +1051,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>on</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>on</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0VMRUNUICoKRlJPTSBhcnRpY2xlc19hcnRpY2xlIFdIRVJFIHRpdGxlIExJS0UgJyVub24lJzsK</text>
+        <text encoding="base64">U0VMRUNUICogRlJPTSBhcnRpY2xlc19hcnRpY2xlIE9SREVSIEJZIGNyZWF0ZWRfYXQ7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
