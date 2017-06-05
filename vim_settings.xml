@@ -537,12 +537,6 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="239" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/delivery/dishes/models.py" timestamp="1496577110154">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="32" />
-        <mark key="." line="12" column="32" />
-        <mark key="^" line="12" column="32" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/config/database.py" timestamp="1488268390165">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="29" />
@@ -894,7 +888,7 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="54" />
       </file>
-      <file name="/dummy.sql" timestamp="1496577213506">
+      <file name="/dummy.sql" timestamp="1496638646287">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/urls.py" timestamp="1488273408492">
@@ -975,12 +969,6 @@
       <file name="/a.regexp" timestamp="1487930657899">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/weekly_menu.html" timestamp="1496573140733">
-        <mark key="[" line="7" column="79" />
-        <mark key="]" line="8" column="11" />
-        <mark key="." line="8" column="11" />
-        <mark key="^" line="8" column="11" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/OrderList.js" timestamp="1491826372759">
         <mark key="[" line="171" column="64" />
         <mark key="]" line="171" column="64" />
@@ -988,10 +976,10 @@
         <mark key="." line="171" column="64" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/views.py" timestamp="1496573477860">
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="6" />
-        <mark key="^" line="21" column="6" />
-        <mark key="." line="21" column="6" />
+        <mark key="[" line="29" column="15" />
+        <mark key="]" line="29" column="6" />
+        <mark key="^" line="29" column="6" />
+        <mark key="." line="29" column="6" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/dishes/admin.py" timestamp="1496577199276">
         <mark key="[" line="10" column="56" />
