@@ -189,11 +189,13 @@
         <mark key="^" line="6" column="57" />
         <mark key="." line="6" column="57" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/smenaschool-frontend/build/home.html" timestamp="1496907273328">
+      <file name="$USER_HOME$/smenateam/smenaschool/smenaschool-frontend/build/home.html" timestamp="1496917858660">
         <mark key="'" line="40" column="11" />
-        <mark key="y" line="179" column="25" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="36" />
+        <mark key="y" line="180" column="25" />
+        <mark key="[" line="164" column="38" />
+        <mark key="]" line="164" column="37" />
+        <mark key="^" line="164" column="37" />
+        <mark key="." line="164" column="37" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/staticfiles/js/main.js" timestamp="1490335239444">
         <mark key="[" line="183" column="44" />
@@ -231,7 +233,7 @@
         <mark key="^" line="26" column="10" />
         <mark key="." line="26" column="10" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/urls.py" timestamp="1496911101158">
+      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/urls.py" timestamp="1496918363439">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="71" />
         <mark key="^" line="4" column="21" />
@@ -334,10 +336,12 @@
         <mark key="^" line="15" column="66" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/news/articles/templates/articles/index.html" timestamp="1496917734606">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/smenateam/smenaschool/news/articles/templates/articles/index.html" timestamp="1496918657620">
+        <mark key="'" line="35" column="38" />
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="36" column="24" />
+        <mark key="." line="36" column="24" />
+        <mark key="^" line="36" column="24" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/smenaschool-frontend/build/menu.html" timestamp="1496898817184">
         <mark key="y" line="407" column="12" />
@@ -555,7 +559,7 @@
         <mark key="^" line="177" column="64" />
         <mark key="." line="171" column="64" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/views.py" timestamp="1496911514206">
+      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/views.py" timestamp="1496918555908">
         <mark key="'" line="72" column="21" />
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
@@ -728,7 +732,7 @@
         <mark key="^" line="80" column="53" />
         <mark key="." line="80" column="53" />
       </file>
-      <file name="/fragment.py" timestamp="1496908401330">
+      <file name="/fragment.py" timestamp="1496918558907">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/urls.py" timestamp="1496743950730">
@@ -1109,7 +1113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="6" filename="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
       <jump line="286" column="21" filename="$USER_HOME$/smenateam/farfor/farfor-courier-api/views.py" />
       <jump line="2019" column="50" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" />
       <jump line="333" column="36" filename="$USER_HOME$/smenateam/farfor/farfor-courier-api/views.py" />
@@ -1209,6 +1212,7 @@
       <jump line="2" column="0" filename="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/home.html" />
       <jump line="43" column="7" filename="$USER_HOME$/smenateam/smenaschool/delivery/main/views.py" />
       <jump line="68" column="21" filename="$USER_HOME$/smenateam/smenaschool/delivery/main/views.py" />
+      <jump line="35" column="38" filename="$USER_HOME$/smenateam/smenaschool/news/articles/templates/articles/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
