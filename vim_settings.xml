@@ -254,11 +254,11 @@
         <mark key="." line="142" column="0" />
         <mark key="^" line="132" column="17" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/smenaschool-frontend/frontend/markup/blocks/order/order.jade" timestamp="1496904666545">
+      <file name="$USER_HOME$/smenateam/smenaschool/smenaschool-frontend/frontend/markup/blocks/order/order.jade" timestamp="1496913917863">
         <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="16" />
+        <mark key="]" line="2" column="17" />
         <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="16" />
+        <mark key="." line="2" column="17" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/staticfiles/js/main.js" timestamp="1487936515013">
         <mark key="[" line="155" column="0" />
@@ -1063,7 +1063,7 @@
         <mark key="^" line="5" column="40" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/weekly_menu.html" timestamp="1496912114420">
+      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/weekly_menu.html" timestamp="1496913688258">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="4" />
         <mark key="^" line="28" column="3" />
