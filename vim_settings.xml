@@ -190,11 +190,11 @@
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/smenaschool-frontend/build/home.html" timestamp="1496923769612">
         <mark key="'" line="40" column="11" />
-        <mark key="y" line="180" column="25" />
-        <mark key="[" line="164" column="38" />
-        <mark key="]" line="164" column="37" />
-        <mark key="^" line="164" column="37" />
-        <mark key="." line="164" column="37" />
+        <mark key="y" line="246" column="25" />
+        <mark key="[" line="230" column="38" />
+        <mark key="]" line="230" column="37" />
+        <mark key="^" line="230" column="37" />
+        <mark key="." line="230" column="37" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/staticfiles/js/main.js" timestamp="1490335239444">
         <mark key="[" line="183" column="44" />
@@ -256,11 +256,11 @@
         <mark key="." line="142" column="0" />
         <mark key="^" line="132" column="17" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/smenaschool-frontend/frontend/markup/blocks/order/order.jade" timestamp="1497167247095">
-        <mark key="[" line="2" column="16" />
-        <mark key="]" line="2" column="17" />
-        <mark key="^" line="2" column="16" />
-        <mark key="." line="2" column="17" />
+      <file name="$USER_HOME$/smenateam/smenaschool/smenaschool-frontend/frontend/markup/blocks/order/order.jade" timestamp="1497170461753">
+        <mark key="[" line="3" column="18" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/staticfiles/js/main.js" timestamp="1487936515013">
         <mark key="[" line="155" column="0" />
@@ -505,7 +505,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497167459823">
+      <file name="/Dummy.txt" timestamp="1497170547385">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -638,12 +638,12 @@
         <mark key="." line="72" column="0" />
         <mark key="^" line="66" column="69" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/home.html" timestamp="1497166116550">
+      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/home.html" timestamp="1497170277427">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="61" />
-        <mark key="." line="16" column="61" />
-        <mark key="^" line="16" column="61" />
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="." line="1" column="14" />
+        <mark key="^" line="1" column="14" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/build/static/js/main.js" timestamp="1490089212658">
         <mark key="[" line="51" column="21" />
@@ -1212,7 +1212,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAncmVnaXN0cmF0aW9uX2Zvcm0nOiBSZWdpc3RyYXRpb25Gb3JtKCkK</text>
+        <text encoding="base64">ICAgICtmb3JtKCd0eXBlXzInKQo=</text>
       </register>
       <register name="-" type="4">
         <text>LoginForm</text>
@@ -1220,8 +1220,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
       </register>
-      <register name="0" type="4">
-        <text>input__this input__this-phone</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICtmb3JtKCd0eXBlXzInKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAncmVnaXN0cmF0aW9uX2Zvcm0nOiBSZWdpc3RyYXRpb25Gb3JtKCkK</text>
