@@ -203,6 +203,13 @@
         <mark key="." line="183" column="44" />
         <mark key="^" line="183" column="44" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/report/management/commands/make_daily_report.py" timestamp="1496318434787">
+        <mark key="y" line="44" column="12" />
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="38" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/templates/search/indexes/orders/flight_text.txt" timestamp="1488777639486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -761,11 +768,12 @@
         <mark key="." line="142" column="61" />
         <mark key="^" line="142" column="61" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/models.py" timestamp="1497183168978">
-        <mark key="[" line="20" column="23" />
-        <mark key="]" line="20" column="36" />
-        <mark key="." line="20" column="36" />
-        <mark key="^" line="20" column="36" />
+      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/models.py" timestamp="1497185268485">
+        <mark key="y" line="27" column="4" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="40" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="24" column="38" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/.gitignore" timestamp="1496741440195">
         <mark key="[" line="3" column="0" />
@@ -1225,43 +1233,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfcGFzc3dvcmRfcmVwZWF0ID0gZm9ybS5jbGVhbmVkX2RhdGFbJ25ld19wYXNzd29yZF9yZXBlYXQnXQo=</text>
+        <text encoding="base64">ICAgIGRlbGl2ZXJ5X2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>Basket</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfcGFzc3dvcmQgPSBjbGVhbmVkX2RhdGEuZ2V0KCduZXdfcGFzc3dvcmQnKQo=</text>
+        <text encoding="base64">ICAgIGRlbGl2ZXJ5X2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdfcGFzc3dvcmRfcmVwZWF0ID0gZm9ybS5jbGVhbmVkX2RhdGFbJ25ld19wYXNzd29yZF9yZXBlYXQnXQo=</text>
+        <text encoding="base64">ICAgIGRlbGl2ZXJ5X2F0ID0gbW9kZWxzLkRhdGVUaW1lRmllbGQoYXV0b19ub3dfYWRkPVRydWUpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsaWVuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCdhY2NvdW50JykK</text>
+        <text encoding="base64">ICAgICAgICBuZXdfcGFzc3dvcmRfcmVwZWF0ID0gZm9ybS5jbGVhbmVkX2RhdGFbJ25ld19wYXNzd29yZF9yZXBlYXQnXQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBuZXdfcGFzc3dvcmQgIT0gbmV3X3Bhc3N3b3JkX3JlcGVhdDoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCdhY2NvdW50JykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBuZXdfcGFzc3dvcmQgIT0gbmV3X3Bhc3N3b3JkX3JlcGVhdDoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvcm0gCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IH19Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
+        <text encoding="base64">ICAgIGZvcm0gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
