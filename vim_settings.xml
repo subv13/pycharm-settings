@@ -780,6 +780,11 @@
         <mark key="." line="28" column="57" />
         <mark key="^" line="28" column="57" />
       </file>
+      <file name="$USER_HOME$/smenateam/smenaschool/delivery/dishes/views.py" timestamp="1497344901760">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/.gitignore" timestamp="1496741440195">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1234,11 +1239,11 @@
       <jump line="332" column="33" filename="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/account.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>h</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
@@ -1247,31 +1252,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlbGl2ZXJ5X2F0PWRhaWx5X21lbnUuZGF0ZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkaW5uZXJzID0gW10K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGV4Y2VwdCBEYWlseU1lbnUuRG9lc05vdEV4aXN0Ogo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyeToK</text>
+        <text encoding="base64">Y2xhc3MgUG9pbnQzRChQb2ludCk6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uaHR0cCBpbXBvcnQgSHR0cFJlc3BvbnNlUmVkaXJlY3QK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXJscyBpbXBvcnQgcmV2ZXJzZQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsZWFuX3Bob25lCg==</text>
+        <text encoding="base64">cG9pbnQgPSBQb2ludCgxLCAyKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cG9pbnQueiA9IDMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNrZXQuc2F2ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkaW5uZXJzID0gW10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiYXNrZXQuYWRkcmVzcyA9IGFkZHJlc3MK</text>
+        <text encoding="base64">ICAgIGV4Y2VwdCBEYWlseU1lbnUuRG9lc05vdEV4aXN0Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
