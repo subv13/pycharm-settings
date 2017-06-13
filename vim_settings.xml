@@ -573,13 +573,12 @@
         <mark key="^" line="177" column="64" />
         <mark key="." line="171" column="64" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/views.py" timestamp="1497346295813">
+      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/views.py" timestamp="1497348058159">
         <mark key="'" line="52" column="0" />
         <mark key="y" line="109" column="4" />
-        <mark key="[" line="197" column="42" />
-        <mark key="]" line="197" column="29" />
-        <mark key="." line="197" column="29" />
-        <mark key="^" line="197" column="29" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/models/courier.py" timestamp="1487583825162">
         <mark key="[" line="36" column="23" />
@@ -1240,7 +1239,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZvcm0gPQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>h</text>
@@ -1249,34 +1248,34 @@
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvcm0gPSBDaGFuZ2VQYXNzd29yZEZvcm0ocmVxdWVzdC5QT1NUKQo=</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Quc2Vzc2lvblsnYmFza2V0X2lkJ10gPSBiYXNrZXRfaWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZvcm0gPQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgUG9pbnQob2JqZWN0KToK</text>
+        <text encoding="base64">ICAgIGRlbCByZXF1ZXN0LnNlc3Npb25bJ2Jhc2tldF9pZCddCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBfX2luaXRfXyhzZWxmLCB4LCB5KToK</text>
+        <text encoding="base64">ICAgIGJhc2tldF9pZCA9IHJlcXVlc3Quc2Vzc2lvbi5nZXQoJ2Jhc2tldF9pZCcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnggPSB4Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Quc2Vzc2lvblsnYmFza2V0X2lkJ10gPSBiYXNrZXRfaWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxmLnkgPSB5Cg==</text>
+        <text encoding="base64">ICAgIGRlbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3Quc2Vzc2lvblsnYmFza2V0X2lkJ10gPSBiYXNrZXRfaWQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZiBkaXN0YW5jZShzZWxmLCBhbm90aGVyX3BvaW50KToK</text>
+        <text encoding="base64">ICAgIGZvcm0gPQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
