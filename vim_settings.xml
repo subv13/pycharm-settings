@@ -326,11 +326,11 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1497442233438">
-        <mark key="[" line="18" column="19" />
-        <mark key="]" line="18" column="24" />
-        <mark key="^" line="18" column="24" />
-        <mark key="." line="18" column="24" />
+      <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1497446339245">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="46" />
+        <mark key="." line="19" column="17" />
+        <mark key="^" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/news/articles/templates/articles/article_detail.html" timestamp="1496563765751">
         <mark key="[" line="26" column="0" />
@@ -738,7 +738,7 @@
         <mark key="^" line="12" column="98" />
         <mark key="." line="12" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1497345639381">
+      <file name="/Python Console" timestamp="1497446267792">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -1230,43 +1230,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sessions</text>
+        <text>page</text>
       </register>
       <register name="-" type="4">
-        <text>sessions</text>
+        <text>page</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHJlcXVlc3Quc2Vzc2lvblsnYmFza2V0X2lkJ10gPSBiYXNrZXRfaWQK</text>
+      <register name="0" type="4">
+        <text>int(request.args.get('page'))</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnOiBub3cgKyB0aW1lZGVsdGEoZGF5cz0xKQo=</text>
+        <text encoding="base64">ICAgIHBhZ2VfY291bnQgPSBsZW4oU0VTU0lPTlMpIC8gMTAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2lkJzogaSwK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZXNzaW9ucy5hcHBlbmQoewo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHhyYW5nZSgxLCAxMCk6Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIG5vdyA9IGRhdGV0aW1lLm5vdygpCg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNlc3Npb25zID0gW3snaWQnOiBpLCAnY3JlYXRlZF9hdCc6IChub3cgKyB0aW1lZGVsdGEoZGF5cz1pKSkuaXNvZm9ybWF0KCl9CiAgICAgICAgICAgICAgICBmb3IgaQogICAgICAgICAgICAgICAgaW4geHJhbmdlKDEsIDEwKV0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ2NyZWF0ZWRfYXQnOiBub3cgKyB0aW1lZGVsdGEoZGF5cz0xKQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBpIGluIHhyYW5nZSgxLCAxMCk6CiAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lkJzogaSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIF0K</text>
+        <text encoding="base64">ICAgICAgICBzZXNzaW9ucy5hcHBlbmQoewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvciBpIGluIHhyYW5nZSgxLCAxMCk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
