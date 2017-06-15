@@ -326,12 +326,13 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1497505310384">
+      <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1497508558417">
+        <mark key="'" line="16" column="49" />
         <mark key="y" line="27" column="14" />
-        <mark key="[" line="19" column="48" />
-        <mark key="]" line="19" column="54" />
-        <mark key="^" line="19" column="54" />
-        <mark key="." line="19" column="54" />
+        <mark key="[" line="16" column="70" />
+        <mark key="]" line="16" column="70" />
+        <mark key="^" line="16" column="70" />
+        <mark key="." line="16" column="70" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/news/articles/templates/articles/article_detail.html" timestamp="1496563765751">
         <mark key="[" line="26" column="0" />
@@ -739,7 +740,7 @@
         <mark key="^" line="12" column="98" />
         <mark key="." line="12" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1497505317846">
+      <file name="/Python Console" timestamp="1497508565603">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -748,7 +749,7 @@
         <mark key="^" line="80" column="53" />
         <mark key="." line="80" column="53" />
       </file>
-      <file name="/fragment.py" timestamp="1497345895596">
+      <file name="/fragment.py" timestamp="1497508530599">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/urls.py" timestamp="1496743950730">
@@ -1128,7 +1129,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/tests/order_search_elastic/measure_search_speed.py" />
       <jump line="0" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/tests/order_search_elastic/measure_search_speed.py" />
       <jump line="0" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/tests/order_search_elastic/tmp.py" />
       <jump line="80" column="34" filename="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/__init__.py" />
@@ -1228,16 +1228,17 @@
       <jump line="49" column="0" filename="$USER_HOME$/smenateam/smenaschool/delivery/main/views.py" />
       <jump line="332" column="33" filename="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/account.html" />
       <jump line="21" column="9" filename="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/include/menu_item.html" />
+      <jump line="16" column="49" filename="$USER_HOME$/smenateam/kkt_api_mock/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SESSIONS</text>
+        <text>40</text>
       </register>
       <register name="-" type="4">
-        <text>SESSIONS</text>
+        <text>40</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFuc2FjdGlvblw+</text>
+        <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGFwcC5yb3V0ZSgiL3Nlc3Npb25zLyIpCmRlZiBzZXNzaW9uc192aWV3KCk6CiAgICBwYWdlX2NvdW50ID0gY2VpbChsZW4oU0VTU0lPTlMpIC8gMTAuMCkKICAgIHBhZ2UgPSBpbnQocmVxdWVzdC5hcmdzLmdldCgncGFnZScpKSAqIDEwCiAgICBuZXh0X3BhZ2UgPSAoaW50KHJlcXVlc3QuYXJncy5nZXQoJ3BhZ2UnKSkgKyAxKSAqIDEwCiAgICByZXN1bHQgPSB7CiAgICAgICAgJ3BhZ2VfY291bnQnOiBwYWdlX2NvdW50LAogICAgICAgICdzZXNzaW9ucyc6IFNFU1NJT05TW3BhZ2U6bmV4dF9wYWdlXQogICAgfQogICAgcmV0dXJuIGpzb25pZnkocmVzdWx0KQo=</text>
@@ -1274,10 +1275,10 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFuc2FjdGlvblw+</last-search>
+      <last-search encoding="base64">XDw1XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFuc2FjdGlvblw+</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDw1XD4=</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -1290,6 +1291,7 @@
         <entry>order</entry>
         <entry encoding="base64">XDxzZWxmXD4=</entry>
         <entry encoding="base64">XDx0cmFuc2FjdGlvblw+</entry>
+        <entry encoding="base64">XDw1XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>::w</entry>
