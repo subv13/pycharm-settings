@@ -136,11 +136,11 @@
         <mark key="." line="58" column="69" />
         <mark key="^" line="58" column="69" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/forms.py" timestamp="1497182988286">
-        <mark key="[" line="38" column="71" />
-        <mark key="]" line="38" column="60" />
-        <mark key="." line="38" column="60" />
-        <mark key="^" line="38" column="60" />
+      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/forms.py" timestamp="1497519981875">
+        <mark key="[" line="10" column="30" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/.gitignore" timestamp="1487928469898">
         <mark key="[" line="125" column="15" />
@@ -1232,10 +1232,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>40</text>
+        <text>CharField</text>
       </register>
       <register name="-" type="4">
-        <text>40</text>
+        <text>CharField</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
