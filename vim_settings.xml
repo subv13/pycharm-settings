@@ -326,13 +326,13 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1497508558417">
+      <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1497525348253">
         <mark key="'" line="16" column="49" />
         <mark key="y" line="27" column="14" />
-        <mark key="[" line="16" column="70" />
-        <mark key="]" line="16" column="70" />
-        <mark key="^" line="16" column="70" />
-        <mark key="." line="16" column="70" />
+        <mark key="[" line="52" column="17" />
+        <mark key="]" line="52" column="20" />
+        <mark key="^" line="52" column="20" />
+        <mark key="." line="52" column="20" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/news/articles/templates/articles/article_detail.html" timestamp="1496563765751">
         <mark key="[" line="26" column="0" />
