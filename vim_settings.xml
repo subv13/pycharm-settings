@@ -204,13 +204,6 @@
         <mark key="." line="183" column="44" />
         <mark key="^" line="183" column="44" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/report/management/commands/make_daily_report.py" timestamp="1496318434787">
-        <mark key="y" line="44" column="12" />
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="27" column="38" />
-        <mark key="^" line="27" column="38" />
-        <mark key="." line="27" column="38" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/templates/search/indexes/orders/flight_text.txt" timestamp="1488777639486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -454,6 +447,12 @@
         <mark key="]" line="23" column="93" />
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1497600628436">
+        <mark key="[" line="177" column="32" />
+        <mark key="]" line="177" column="34" />
+        <mark key="^" line="177" column="34" />
+        <mark key="." line="177" column="34" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" timestamp="1489123504494">
         <mark key="[" line="32" column="119" />
@@ -774,13 +773,6 @@
         <mark key="]" line="142" column="61" />
         <mark key="." line="142" column="61" />
         <mark key="^" line="142" column="61" />
-      </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/models.py" timestamp="1497246404340">
-        <mark key="y" line="27" column="4" />
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="57" />
-        <mark key="." line="28" column="57" />
-        <mark key="^" line="28" column="57" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/dishes/views.py" timestamp="1497351145857">
         <mark key="[" line="6" column="0" />
@@ -1239,17 +1231,17 @@
       <jump line="16" column="49" filename="$USER_HOME$/smenateam/kkt_api_mock/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBqd3QgaW1wb3J0IERlY29kZUVycm9yCg==</text>
+      <register name="&quot;" type="4">
+        <text>amount</text>
       </register>
       <register name="-" type="4">
-        <text>IndexError</text>
+        <text>amount</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgSW5kZXhFcnJvcjoKICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgdSJzdGF0dXMiOiB1IkVSUk9SIiwKICAgICAgICAgICAgICAgICAgICB1ImVycm9yIjogdSLQndC10LLQtdGA0L3Ri9C5IEpXVC3RgtC+0LrQtdC9IgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICApLCA0MDEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdSdhbW91bnQnOiBvcmRlcl9jaGVjay5hbW91bnQsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ZnJvbSBqd3QgaW1wb3J0IERlY29kZUVycm9yCg==</text>
