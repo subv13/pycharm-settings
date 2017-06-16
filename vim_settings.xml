@@ -9,7 +9,7 @@
         <mark key="^" line="29" column="141" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1491912209188">
+      <file name="/a.dummy" timestamp="1497596649737">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/test.py" timestamp="1491905037076">
@@ -326,13 +326,13 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1497525348253">
+      <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1497596704263">
         <mark key="'" line="16" column="49" />
         <mark key="y" line="27" column="14" />
-        <mark key="[" line="52" column="17" />
-        <mark key="]" line="52" column="20" />
-        <mark key="^" line="52" column="20" />
-        <mark key="." line="52" column="20" />
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="18" />
+        <mark key="^" line="39" column="18" />
+        <mark key="." line="39" column="18" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/news/articles/templates/articles/article_detail.html" timestamp="1496563765751">
         <mark key="[" line="26" column="0" />
@@ -528,7 +528,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497170547385">
+      <file name="/Dummy.txt" timestamp="1497596570261">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -740,7 +740,7 @@
         <mark key="^" line="12" column="98" />
         <mark key="." line="12" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1497518438467">
+      <file name="/Python Console" timestamp="1497596707195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -1238,10 +1238,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>CharField</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>CharField</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
