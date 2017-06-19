@@ -171,7 +171,7 @@
         <mark key="^" line="99" column="53" />
         <mark key="." line="99" column="53" />
       </file>
-      <file name="/a.sql" timestamp="1497852198089">
+      <file name="/a.sql" timestamp="1497852808636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/admin.py" timestamp="1497614125795">
@@ -185,14 +185,6 @@
         <mark key="]" line="6" column="57" />
         <mark key="^" line="6" column="57" />
         <mark key="." line="6" column="57" />
-      </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/smenaschool-frontend/build/home.html" timestamp="1497272005153">
-        <mark key="'" line="40" column="11" />
-        <mark key="y" line="223" column="0" />
-        <mark key="[" line="223" column="0" />
-        <mark key="]" line="239" column="16" />
-        <mark key="^" line="230" column="37" />
-        <mark key="." line="230" column="37" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/staticfiles/js/main.js" timestamp="1490335239444">
         <mark key="[" line="183" column="44" />
@@ -316,14 +308,6 @@
         <mark key="^" line="22" column="26" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/news/articles/migrations/0001_initial.py" timestamp="1496311210281" />
-      <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1497596704263">
-        <mark key="'" line="16" column="49" />
-        <mark key="y" line="27" column="14" />
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="39" column="18" />
-        <mark key="^" line="39" column="18" />
-        <mark key="." line="39" column="18" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/requirements.txt" timestamp="1497618448218" />
       <file name="$USER_HOME$/smenateam/smenaschool/news/articles/templates/articles/article_detail.html" timestamp="1496563765751">
         <mark key="[" line="26" column="0" />
@@ -445,12 +429,12 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1497848776732">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1497853588467">
         <mark key="y" line="54" column="7" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="97" column="34" />
+        <mark key="[" line="151" column="62" />
+        <mark key="]" line="152" column="27" />
+        <mark key="." line="152" column="27" />
+        <mark key="^" line="152" column="27" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" timestamp="1489123504494">
         <mark key="[" line="32" column="119" />
@@ -518,7 +502,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1497596570261">
+      <file name="/Dummy.txt" timestamp="1497853350615">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1240,16 +1224,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>String</text>
+        <text>OrderCheck.TYPE.ARRIVAL_OF_FUND if request.json['type'] == 'sell' else OrderCheck.TYPE.REFUND</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>OrderCheck.TYPE.ARRIVAL_OF_FUND if request.json['type'] == 'sell' else OrderCheck.TYPE.REFUND</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTZXNzaW9uKCkuYWRkKGtrdF9mZF9vcGVuKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2Vzc2lvbigpLmFkZChvcmRlcl9jaGVjaykK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAga2t0X2RldmljZV9zaGlmdC5maXNjYWxfZG9jdW1lbnQgPSByZXF1ZXN0LmZvcm1bJ2ZkJ10K</text>
