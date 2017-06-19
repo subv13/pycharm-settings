@@ -509,7 +509,7 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1497848848988">
+      <file name="/dummy.sql" timestamp="1497850208012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -608,11 +608,11 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1497625759571">
-        <mark key="[" line="61" column="65" />
-        <mark key="]" line="62" column="44" />
-        <mark key="^" line="62" column="44" />
-        <mark key="." line="62" column="44" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1497849786427">
+        <mark key="[" line="71" column="63" />
+        <mark key="]" line="72" column="31" />
+        <mark key="^" line="72" column="31" />
+        <mark key="." line="72" column="31" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/frontend/markup/pages/temp/_all.jade" timestamp="1487755944596">
         <mark key="[" line="23" column="52" />
@@ -729,7 +729,7 @@
         <mark key="^" line="12" column="98" />
         <mark key="." line="12" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1497626040179">
+      <file name="/Python Console" timestamp="1497850189859">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -955,11 +955,11 @@
         <mark key="^" line="132" column="12" />
         <mark key="." line="132" column="12" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders/kkt.py" timestamp="1497625907580">
-        <mark key="[" line="35" column="54" />
-        <mark key="]" line="35" column="53" />
-        <mark key="." line="35" column="53" />
-        <mark key="^" line="35" column="53" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders/kkt.py" timestamp="1497850180230">
+        <mark key="[" line="62" column="70" />
+        <mark key="]" line="62" column="70" />
+        <mark key="." line="62" column="70" />
+        <mark key="^" line="62" column="70" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/routers.py" timestamp="1493014910663">
         <mark key="[" line="49" column="0" />
@@ -1239,11 +1239,11 @@
       <jump line="16" column="49" filename="$USER_HOME$/smenateam/kkt_api_mock/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2t0X2RldmljZV9zaGlmdC5maXNjYWxfZG9jdW1lbnQgPSByZXF1ZXN0LmZvcm1bJ2ZkJ10K</text>
+      <register name="&quot;" type="4">
+        <text>String</text>
       </register>
       <register name="-" type="4">
-        <text>form</text>
+        <text>String</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
