@@ -422,13 +422,13 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1497871292255">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1497937719889">
         <mark key="y" line="54" column="7" />
         <mark key="j" line="148" column="56" />
-        <mark key="[" line="150" column="27" />
-        <mark key="]" line="150" column="27" />
-        <mark key="." line="150" column="27" />
-        <mark key="^" line="150" column="27" />
+        <mark key="[" line="211" column="47" />
+        <mark key="]" line="211" column="47" />
+        <mark key="." line="211" column="47" />
+        <mark key="^" line="211" column="47" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" timestamp="1489123504494">
         <mark key="[" line="32" column="119" />
@@ -919,7 +919,7 @@
         <mark key="^" line="132" column="12" />
         <mark key="." line="132" column="12" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders/kkt.py" timestamp="1497850180230">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders/kkt.py" timestamp="1497937781694">
         <mark key="[" line="62" column="70" />
         <mark key="]" line="62" column="70" />
         <mark key="." line="62" column="70" />
@@ -1203,11 +1203,11 @@
       <jump line="16" column="49" filename="$USER_HOME$/smenateam/kkt_api_mock/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNyZWF0ZWRfYXQ9ZGF0ZXRpbWUuZGF0ZXRpbWUudXRjbm93KCksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICB1cGRhdGVkX2F0PWRhdGV0aW1lLmRhdGV0aW1lLnV0Y25vdygpCg==</text>
+      <register name="&quot;" type="4">
+        <text>v</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IE9yZGVyQ2hlY2suVFlQRS5BUlJJVkFMX09GX0ZVTkQgaWYgY2hlY2tfdHlwZSA9PSAnc2VsbCcgZWxzZSBPcmRlckNoZWNrLlRZUEUuUkVGVU5E</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
