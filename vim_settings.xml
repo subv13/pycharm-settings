@@ -113,11 +113,10 @@
         <mark key="^" line="130" column="15" />
         <mark key="." line="131" column="9" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/settings.py" timestamp="1497165388851">
-        <mark key="[" line="41" column="19" />
-        <mark key="]" line="41" column="19" />
-        <mark key="." line="41" column="19" />
-        <mark key="^" line="41" column="19" />
+      <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/settings.py" timestamp="1497949944822">
+        <mark key="[" line="104" column="0" />
+        <mark key="]" line="104" column="0" />
+        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/formula1/project/apps/tickets/views/pages.py" timestamp="1490596624182">
         <mark key="[" line="58" column="71" />
@@ -487,7 +486,7 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1497944141794">
+      <file name="/dummy.sql" timestamp="1497949487431">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -707,7 +706,7 @@
         <mark key="^" line="12" column="98" />
         <mark key="." line="12" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1497944180196">
+      <file name="/Python Console" timestamp="1497949488184">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -825,7 +824,7 @@
         <mark key="." line="77" column="25" />
         <mark key="^" line="77" column="25" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/config/database.py" timestamp="1497619103466">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/config/database.py" timestamp="1497949420593">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="29" />
         <mark key="." line="4" column="29" />
@@ -1016,7 +1015,7 @@
         <mark key="^" line="16" column="30" />
         <mark key="." line="16" column="30" />
       </file>
-      <file name="/Django Console" timestamp="1497517607368">
+      <file name="/Django Console" timestamp="1497949487955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/cash/citiesCash/TransferList.js" timestamp="1496985568079" />
@@ -1203,11 +1202,11 @@
       <jump line="16" column="49" filename="$USER_HOME$/smenateam/kkt_api_mock/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Kk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Kk</text>
+        <text>Xlients</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
@@ -1219,28 +1218,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2hlY2tfdHlwZSA9IAo=</text>
+        <text encoding="base64">QVVUSF9VU0VSX01PREVMID0gJ21haW4uQ2xpZW50Jwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgT3JkZXJDaGVjay5UWVBFLlJFRlVORAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpc2NhbF9kb2N1bWVudD1yZXF1ZXN0Lmpzb24uZ2V0KCdmZCcpLAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAga2t0X2RldmljZV9zaGlmdC5maXNjYWxfZG9jdW1lbnQgPSByZXF1ZXN0LmZvcm1bJ2ZkJ10K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmRfY2xvc2U9Tm9uZQo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY2hlY2tfdHlwZSA9IAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGVsc2UgT3JkZXJDaGVjay5UWVBFLlJFRlVORAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpc2NhbF9kb2N1bWVudD1yZXF1ZXN0Lmpzb24uZ2V0KCdmZCcpLAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgICAgIGZvcmVpZ25fa2V5cz1bJ0trdERldmljZVNoaWZ0LmZkX2Nsb3NlX2lkJ10pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAga2t0X2RldmljZV9zaGlmdC5maXNjYWxfZG9jdW1lbnQgPSByZXF1ZXN0LmZvcm1bJ2ZkJ10K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgZmRfY2xvc2Vfc2hpZnQgPSByZWxhdGlvbnNoaXAoJ0trdERldmljZVNoaWZ0JywgYmFja19wb3B1bGF0ZXM9J2ZkX2Nsb3NlJywgdXNlbGlzdD1GYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmRfY2xvc2U9Tm9uZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
