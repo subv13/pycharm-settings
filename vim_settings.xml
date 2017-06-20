@@ -422,13 +422,13 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1497937719889">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1497940555747">
         <mark key="y" line="54" column="7" />
         <mark key="j" line="148" column="56" />
-        <mark key="[" line="211" column="47" />
-        <mark key="]" line="211" column="47" />
-        <mark key="." line="211" column="47" />
-        <mark key="^" line="211" column="47" />
+        <mark key="[" line="209" column="62" />
+        <mark key="]" line="209" column="61" />
+        <mark key="." line="209" column="61" />
+        <mark key="^" line="209" column="61" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" timestamp="1489123504494">
         <mark key="[" line="32" column="119" />
@@ -707,7 +707,7 @@
         <mark key="^" line="12" column="98" />
         <mark key="." line="12" column="98" />
       </file>
-      <file name="/Python Console" timestamp="1497875715242">
+      <file name="/Python Console" timestamp="1497939205065">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -1204,10 +1204,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>v</text>
+        <text>Kk</text>
       </register>
       <register name="-" type="4">
-        <text>v</text>
+        <text>Kk</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
