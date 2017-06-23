@@ -458,14 +458,14 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1498124621574">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1498210985095">
         <mark key="'" line="225" column="11" />
         <mark key="y" line="76" column="11" />
         <mark key="j" line="202" column="56" />
-        <mark key="[" line="142" column="8" />
-        <mark key="]" line="142" column="11" />
-        <mark key="." line="142" column="11" />
-        <mark key="^" line="142" column="11" />
+        <mark key="[" line="293" column="40" />
+        <mark key="]" line="293" column="45" />
+        <mark key="." line="293" column="45" />
+        <mark key="^" line="293" column="45" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" timestamp="1489123504494">
         <mark key="[" line="32" column="119" />
@@ -1280,17 +1280,17 @@
       <jump line="221" column="11" filename="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>id</text>
       </register>
       <register name="-" type="4">
-        <text>orders</text>
+        <text>id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhcnRfZGF0ZSA9IGRhdGV0aW1lLnRvZGF5KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdSdpZCc6IGtrdF9kZXZpY2Vfc2hpZnQuaWQsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
