@@ -203,6 +203,13 @@
         <mark key="." line="183" column="44" />
         <mark key="^" line="183" column="44" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/report/management/commands/make_daily_report.py" timestamp="1496318434787">
+        <mark key="y" line="44" column="12" />
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="38" />
+        <mark key="^" line="27" column="38" />
+        <mark key="." line="27" column="38" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/templates/search/indexes/orders/flight_text.txt" timestamp="1488777639486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -638,13 +645,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1498200227022">
-        <mark key="y" line="99" column="14" />
-        <mark key="i" line="102" column="0" />
-        <mark key="[" line="79" column="38" />
-        <mark key="]" line="79" column="40" />
-        <mark key="." line="79" column="40" />
-        <mark key="^" line="79" column="40" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1498215655408">
+        <mark key="y" line="102" column="14" />
+        <mark key="i" line="105" column="0" />
+        <mark key="[" line="96" column="76" />
+        <mark key="]" line="97" column="53" />
+        <mark key="." line="97" column="53" />
+        <mark key="^" line="97" column="53" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/frontend/markup/pages/temp/_all.jade" timestamp="1487755944596">
         <mark key="[" line="23" column="52" />
@@ -808,6 +815,13 @@
         <mark key="." line="142" column="61" />
         <mark key="^" line="142" column="61" />
       </file>
+      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/models.py" timestamp="1497246404340">
+        <mark key="y" line="27" column="4" />
+        <mark key="[" line="28" column="37" />
+        <mark key="]" line="28" column="57" />
+        <mark key="." line="28" column="57" />
+        <mark key="^" line="28" column="57" />
+      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/.gitignore" timestamp="1496741440195">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -869,6 +883,13 @@
         <mark key="." line="41" column="6" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/__init__.py" timestamp="1497619292571" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/constants.py" timestamp="1498215613962">
+        <mark key="y" line="11" column="6" />
+        <mark key="[" line="27" column="31" />
+        <mark key="]" line="27" column="41" />
+        <mark key="." line="27" column="41" />
+        <mark key="^" line="27" column="41" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1495004785715">
         <mark key="[" line="104" column="18" />
         <mark key="]" line="104" column="74" />
@@ -1281,16 +1302,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>id</text>
+        <text>O</text>
       </register>
       <register name="-" type="4">
-        <text>id</text>
+        <text>O</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdSdpZCc6IGtrdF9kZXZpY2Vfc2hpZnQuaWQsCg==</text>
+        <text encoding="base64">Y2xhc3MgT1JERVJfQ0hFQ0tfVFlQRToKICAgIEFSUklWQUxfT0ZfRlVORCA9IDAKICAgIFJFRlVORCA9IDEKCiAgICBDSE9JQ0VTID0gKAogICAgICAgIChBUlJJVkFMX09GX0ZVTkQsIHUn0J/RgNC40YXQvtC0JyksCiAgICAgICAgKFJFRlVORCwgdSfQktC+0LfQstGA0LDRgicpCiAgICApCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
