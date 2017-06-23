@@ -1115,11 +1115,11 @@
       <file name="/Django Console" timestamp="1497949487955">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/management/commands/remove_flights_elastic.py" timestamp="1498201881562">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="38" />
-        <mark key="^" line="86" column="34" />
-        <mark key="." line="88" column="38" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/management/commands/remove_flights_elastic.py" timestamp="1498203275097">
+        <mark key="[" line="88" column="94" />
+        <mark key="]" line="88" column="93" />
+        <mark key="^" line="88" column="93" />
+        <mark key="." line="88" column="93" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/cash/citiesCash/TransferList.js" timestamp="1496985568079" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/local_settings.py" timestamp="1497619357395">
