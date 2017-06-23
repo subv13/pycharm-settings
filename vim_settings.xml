@@ -792,6 +792,7 @@
         <mark key="^" line="80" column="53" />
         <mark key="." line="80" column="53" />
       </file>
+      <file name="$USER_HOME$/venvs/farfor/lib/python2.7/site-packages/haystack/management/commands/update_index.py" timestamp="1498198143789" />
       <file name="/fragment.py" timestamp="1497869599374">
         <mark key="[" line="0" column="0" />
       </file>
@@ -985,11 +986,11 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/management/commands/remove_flight_elastic.py" timestamp="1495447235794">
-        <mark key="[" line="37" column="47" />
-        <mark key="]" line="37" column="55" />
-        <mark key="^" line="37" column="55" />
-        <mark key="." line="37" column="55" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/management/commands/remove_flight_elastic.py" timestamp="1498198013739">
+        <mark key="[" line="70" column="46" />
+        <mark key="]" line="70" column="51" />
+        <mark key="^" line="70" column="51" />
+        <mark key="." line="70" column="51" />
       </file>
       <file name="$USER_HOME$/venvs/farfor_kkt_api/src/farfor-models/farfor_models/__init__.py" timestamp="1497619313104" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/cash/PayonlineList.js" timestamp="1496985550334" />
@@ -1295,10 +1296,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>get</text>
+        <text>rders</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>rders</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
@@ -1310,28 +1311,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB1bmlxdWVfdG9nZXRoZXIgPSAoJ29yZGVyJywgJ3R5cGUnKQo=</text>
+        <text encoding="base64">ICAgIG9wdGlvbl9saXN0ID0gQmFzZUNvbW1hbmQub3B0aW9uX2xpc3QgKyBvcHRzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHUnaWQnOiBra3RfZGV2aWNlX3NoaWZ0LmlkCg==</text>
+        <text encoding="base64">ICAgICkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHUnc3RhdHVzJzogdSdPSycsCg==</text>
+        <text encoding="base64">ICAgICAgICApLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVscD0nRmxpZ2h0IElEJwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgSW50ZWdyaXR5RXJyb3IgYXMgZToK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJy0taWQnLCBhY3Rpb249J3N0b3JlJywgZGVzdD0nZmxpZ2h0X2lkJywgdHlwZT0naW50JywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6IAo=</text>
+        <text encoding="base64">ICAgICAgICBtYWtlX29wdGlvbigK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
