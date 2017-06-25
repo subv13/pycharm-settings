@@ -444,14 +444,14 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1498401194651">
-        <mark key="'" line="218" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1498404070209">
+        <mark key="'" line="219" column="0" />
         <mark key="y" line="77" column="11" />
         <mark key="j" line="203" column="56" />
-        <mark key="[" line="219" column="50" />
-        <mark key="]" line="220" column="7" />
-        <mark key="." line="220" column="7" />
-        <mark key="^" line="220" column="7" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="^" line="212" column="52" />
+        <mark key="." line="220" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" timestamp="1489123504494">
         <mark key="[" line="32" column="119" />
@@ -510,7 +510,7 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1498401900978">
+      <file name="/dummy.sql" timestamp="1498403285680">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -745,7 +745,7 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="47" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1498400669617">
+      <file name="/Python Console" timestamp="1498403622130">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -1270,7 +1270,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>check.get('refund_reason')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
@@ -1282,28 +1282,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZWZ1bmRfcmVhc29uID0gY2hlY2suZ2V0KCdyZWZ1bmRfcmVhc29uJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJfY2hlY2sucmVmdW5kX3JlYXNvbiA9IHJlZnVuZF9yZWFzb24K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdSdyZWZ1bmRfcmVhc29uJzogb3JkZXJfY2hlY2sucmVmdW5kX3JlYXNvbiwK</text>
+        <text encoding="base64">ICAgICAgICBpZiByZWZ1bmRfcmVhc29uOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZGVsdGEK</text>
+        <text encoding="base64">ICAgICAgICByZWZ1bmRfcmVhc29uID0gY2hlY2suZ2V0KCdyZWZ1bmRfcmVhc29uJykK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBhcHBzLnV0aWxzLnNlbnRyeSBpbXBvcnQgY2FwdHVyZV9zZW50cnlfbWVzc2FnZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3JkZXJfY2hlY2sucmVmdW5kX3JlYXNvbiA9IHJlZnVuZF9yZWFzb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiByZWZ1bmRfcmVhc29uOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
