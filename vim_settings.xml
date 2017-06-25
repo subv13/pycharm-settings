@@ -166,7 +166,7 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498387555202">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498398917569">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftStaffList.js" timestamp="1491549074619">
@@ -444,14 +444,14 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1498394915830">
-        <mark key="'" line="225" column="11" />
-        <mark key="y" line="76" column="11" />
-        <mark key="j" line="202" column="56" />
-        <mark key="[" line="244" column="8" />
-        <mark key="]" line="244" column="17" />
-        <mark key="." line="244" column="17" />
-        <mark key="^" line="244" column="17" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1498401194651">
+        <mark key="'" line="218" column="0" />
+        <mark key="y" line="77" column="11" />
+        <mark key="j" line="203" column="56" />
+        <mark key="[" line="219" column="50" />
+        <mark key="]" line="220" column="7" />
+        <mark key="." line="220" column="7" />
+        <mark key="^" line="220" column="7" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" timestamp="1489123504494">
         <mark key="[" line="32" column="119" />
@@ -510,7 +510,7 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1498387545185">
+      <file name="/dummy.sql" timestamp="1498399737509">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -745,7 +745,7 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="47" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1498381708362">
+      <file name="/Python Console" timestamp="1498400669617">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -759,7 +759,7 @@
         <mark key="[" line="216" column="0" />
         <mark key="]" line="217" column="61" />
       </file>
-      <file name="/fragment.py" timestamp="1498201167306">
+      <file name="/fragment.py" timestamp="1498400467854">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/urls.py" timestamp="1496743950730">
@@ -1164,7 +1164,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/tests/order_search_elastic/tmp.py" />
       <jump line="80" column="34" filename="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/__init__.py" />
       <jump line="189" column="20" filename="$USER_HOME$/smenateam/farfor/farfor/apps/d_bus/broadcasters/order.py" />
       <jump line="0" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-courier-api/config/database.py" />
@@ -1264,13 +1263,14 @@
       <jump line="21" column="9" filename="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/include/menu_item.html" />
       <jump line="16" column="49" filename="$USER_HOME$/smenateam/kkt_api_mock/app.py" />
       <jump line="221" column="11" filename="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" />
+      <jump line="219" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>is_returned</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>is_returned</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
@@ -1282,28 +1282,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZGVsdGEK</text>
+        <text encoding="base64">ICAgICAgICByZWZ1bmRfcmVhc29uID0gY2hlY2suZ2V0KCdyZWZ1bmRfcmVhc29uJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdSdyZWZ1bmRfcmVhc29uJzogb3JkZXJfY2hlY2sucmVmdW5kX3JlYXNvbiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBhcHBzLnV0aWxzLnNlbnRyeSBpbXBvcnQgY2FwdHVyZV9zZW50cnlfbWVzc2FnZQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgZGVsdGEK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGpzb24K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMgaW1wb3J0IHRpbWV6b25lCg==</text>
+        <text encoding="base64">ZnJvbSBhcHBzLnV0aWxzLnNlbnRyeSBpbXBvcnQgY2FwdHVyZV9zZW50cnlfbWVzc2FnZQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIwo=</text>
+        <text encoding="base64">aW1wb3J0IGpzb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
