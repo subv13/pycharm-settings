@@ -444,14 +444,14 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1498385785169">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1498387117997">
         <mark key="'" line="225" column="11" />
         <mark key="y" line="76" column="11" />
         <mark key="j" line="202" column="56" />
-        <mark key="[" line="256" column="37" />
-        <mark key="]" line="256" column="37" />
-        <mark key="." line="256" column="37" />
-        <mark key="^" line="256" column="37" />
+        <mark key="[" line="257" column="42" />
+        <mark key="]" line="257" column="54" />
+        <mark key="." line="257" column="54" />
+        <mark key="^" line="257" column="54" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" timestamp="1489123504494">
         <mark key="[" line="32" column="119" />
@@ -848,10 +848,10 @@
         <mark key="." line="41" column="6" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/__init__.py" timestamp="1497619292571" />
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/constants.py" timestamp="1498215613962">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/constants.py" timestamp="1498387135505">
         <mark key="y" line="11" column="6" />
-        <mark key="[" line="27" column="31" />
-        <mark key="]" line="27" column="41" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="23" column="19" />
         <mark key="." line="27" column="41" />
         <mark key="^" line="27" column="41" />
       </file>
@@ -976,11 +976,11 @@
         <mark key="^" line="132" column="12" />
         <mark key="." line="132" column="12" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders/kkt.py" timestamp="1498125312409">
-        <mark key="[" line="60" column="25" />
-        <mark key="]" line="60" column="27" />
-        <mark key="." line="60" column="27" />
-        <mark key="^" line="60" column="27" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders/kkt.py" timestamp="1498387179213">
+        <mark key="[" line="86" column="41" />
+        <mark key="]" line="86" column="55" />
+        <mark key="." line="86" column="55" />
+        <mark key="^" line="86" column="55" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/routers.py" timestamp="1493014910663">
         <mark key="[" line="49" column="0" />
@@ -1267,16 +1267,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>O</text>
+        <text>type</text>
       </register>
       <register name="-" type="4">
-        <text>O</text>
+        <text>type</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgT1JERVJfQ0hFQ0tfVFlQRToKICAgIEFSUklWQUxfT0ZfRlVORCA9IDAKICAgIFJFRlVORCA9IDEKCiAgICBDSE9JQ0VTID0gKAogICAgICAgIChBUlJJVkFMX09GX0ZVTkQsIHUn0J/RgNC40YXQvtC0JyksCiAgICAgICAgKFJFRlVORCwgdSfQktC+0LfQstGA0LDRgicpCiAgICApCg==</text>
+        <text encoding="base64">ICAgIHR5cGUgPSBDb2x1bW4oU21hbGxJbnRlZ2VyKCkpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
