@@ -36,6 +36,16 @@
         <mark key="." line="19" column="122" />
         <mark key="^" line="19" column="122" />
       </file>
+      <file name="$USER_HOME$/smenateam/smenaschool/news/templates/base.html" timestamp="1496561972312">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/smenaschool/smenaschool-frontend/frontend/markup/blocks/layout/layout.jade" timestamp="1496905312230">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/select-day/select-day.jade" timestamp="1489395805559">
         <mark key="[" line="19" column="63" />
         <mark key="]" line="19" column="64" />
@@ -166,8 +176,10 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498404290821">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1498467418558">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftStaffList.js" timestamp="1491549074619">
         <mark key="[" line="99" column="52" />
@@ -510,7 +522,7 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1498465649731">
+      <file name="/dummy.sql" timestamp="1498468618340">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -768,6 +780,11 @@
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" timestamp="1496296990173">
+        <mark key="[" line="188" column="0" />
+        <mark key="]" line="189" column="35" />
+        <mark key="." line="188" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/config/django/email.py" timestamp="1490336018488">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="18" />
@@ -786,6 +803,11 @@
         <mark key="]" line="28" column="57" />
         <mark key="." line="28" column="57" />
         <mark key="^" line="28" column="57" />
+      </file>
+      <file name="$USER_HOME$/smenateam/smenaschool/delivery/dishes/views.py" timestamp="1497351145857">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/.gitignore" timestamp="1496741440195">
         <mark key="[" line="3" column="0" />
@@ -1060,6 +1082,11 @@
         <mark key="]" line="148" column="69" />
         <mark key="." line="148" column="69" />
         <mark key="^" line="148" column="69" />
+      </file>
+      <file name="$USER_HOME$/smenateam/smenaschool/news/articles/models.py" timestamp="1497166371027">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/settings.py" timestamp="1490335361050">
         <mark key="[" line="102" column="0" />
