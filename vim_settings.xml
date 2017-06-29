@@ -453,12 +453,12 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1498713806814">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1498715560442">
         <mark key="'" line="264" column="0" />
-        <mark key="y" line="289" column="15" />
+        <mark key="y" line="300" column="35" />
         <mark key="j" line="248" column="56" />
-        <mark key="[" line="148" column="44" />
-        <mark key="]" line="148" column="49" />
+        <mark key="[" line="300" column="0" />
+        <mark key="]" line="302" column="44" />
         <mark key="." line="148" column="49" />
         <mark key="^" line="148" column="49" />
       </file>
@@ -1284,7 +1284,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdSdjcmVhdGVkX2F0Jzogb3JkZXJfY2hlY2sua2t0X2RldmljZV9zaGlmdC5ra3RfZGV2aWNlLnBvaW50LmNpdHkuY29udmVydF90b19jaXR5X2RhdGV0aW1lKAogICAgICAgICAgICAgICAgcHl0ei51dGMubG9jYWxpemUob3JkZXJfY2hlY2suY3JlYXRlZF9hdCkKICAgICAgICAgICAgKS5zdHJmdGltZSgnJVktJW0tJWRUJUg6JU06JVMnKSwK</text>
       </register>
       <register name="-" type="4">
         <text>order</text>
@@ -1293,7 +1293,7 @@
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLmFkZF91cmxfcnVsZSgnL29yZGVycy8nLCB2aWV3X2Z1bmM9T3JkZXJEZXRhaWxWaWV3LmFzX3ZpZXcoJ29yZGVyLWRldGFpbCcpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdSdjcmVhdGVkX2F0Jzogb3JkZXJfY2hlY2sua2t0X2RldmljZV9zaGlmdC5ra3RfZGV2aWNlLnBvaW50LmNpdHkuY29udmVydF90b19jaXR5X2RhdGV0aW1lKAogICAgICAgICAgICAgICAgcHl0ei51dGMubG9jYWxpemUob3JkZXJfY2hlY2suY3JlYXRlZF9hdCkKICAgICAgICAgICAgKS5zdHJmdGltZSgnJVktJW0tJWRUJUg6JU06JVMnKSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
