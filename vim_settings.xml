@@ -207,13 +207,6 @@
         <mark key="." line="183" column="44" />
         <mark key="^" line="183" column="44" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/report/management/commands/make_daily_report.py" timestamp="1496318434787">
-        <mark key="y" line="44" column="12" />
-        <mark key="[" line="27" column="36" />
-        <mark key="]" line="27" column="38" />
-        <mark key="^" line="27" column="38" />
-        <mark key="." line="27" column="38" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/templates/search/indexes/orders/flight_text.txt" timestamp="1488777639486">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -626,12 +619,11 @@
         <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1498215655408">
-        <mark key="y" line="102" column="14" />
-        <mark key="i" line="105" column="0" />
-        <mark key="[" line="96" column="76" />
-        <mark key="]" line="97" column="53" />
-        <mark key="." line="97" column="53" />
-        <mark key="^" line="97" column="53" />
+        <mark key="y" line="91" column="14" />
+        <mark key="i" line="94" column="0" />
+        <mark key="]" line="6" column="53" />
+        <mark key="." line="6" column="53" />
+        <mark key="^" line="6" column="53" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/frontend/markup/pages/temp/_all.jade" timestamp="1487755944596">
         <mark key="[" line="23" column="52" />
@@ -792,13 +784,6 @@
         <mark key="." line="142" column="61" />
         <mark key="^" line="142" column="61" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/models.py" timestamp="1497246404340">
-        <mark key="y" line="27" column="4" />
-        <mark key="[" line="28" column="37" />
-        <mark key="]" line="28" column="57" />
-        <mark key="." line="28" column="57" />
-        <mark key="^" line="28" column="57" />
-      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/dishes/views.py" timestamp="1497351145857">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -866,10 +851,6 @@
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/constants.py" timestamp="1498387135505">
         <mark key="y" line="11" column="6" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="23" column="19" />
-        <mark key="." line="27" column="41" />
-        <mark key="^" line="27" column="41" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1495004785715">
         <mark key="[" line="104" column="18" />
