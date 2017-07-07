@@ -446,7 +446,7 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1499233733417">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1499409094589">
         <mark key="'" line="263" column="0" />
         <mark key="y" line="299" column="35" />
         <mark key="j" line="247" column="56" />
@@ -743,7 +743,7 @@
         <mark key="[" line="44" column="0" />
         <mark key="]" line="47" column="30" />
       </file>
-      <file name="/Python Console" timestamp="1499146258408">
+      <file name="/Python Console" timestamp="1499408613725">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -757,8 +757,10 @@
         <mark key="[" line="216" column="0" />
         <mark key="]" line="217" column="61" />
       </file>
-      <file name="/fragment.py" timestamp="1498822388057">
+      <file name="/fragment.py" timestamp="1499409210485">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/urls.py" timestamp="1496743950730">
         <mark key="[" line="19" column="11" />
@@ -914,6 +916,7 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="65" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/mixins.py" timestamp="1499409166327" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/courier_service.py" timestamp="1487570341397">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="71" />
@@ -1263,11 +1266,11 @@
       <jump line="219" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBzcWxpdGUzIGltcG9ydCBJbnRlZ3JpdHlFcnJvcgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgT3JkZXIucG9pbnRfaWQgPT0gc2VsZi5qd3RfcGF5bG9hZC5wb2ludF9pZCw=</text>
       </register>
       <register name="-" type="4">
-        <text>kkt_shift_id</text>
+        <text encoding="base64">ICAgICAgICAgICAgT3JkZXIucG9pbnRfaWQgPT0gc2VsZi5qd3RfcGF5bG9hZC5wb2ludF9pZCw=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
