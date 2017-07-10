@@ -19,7 +19,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="126">
+        <list size="127">
           <item index="0" class="java.lang.String" itemvalue="slimit" />
           <item index="1" class="java.lang.String" itemvalue="django-pipeline" />
           <item index="2" class="java.lang.String" itemvalue="smart-select" />
@@ -146,6 +146,7 @@
           <item index="123" class="java.lang.String" itemvalue="uWSGI" />
           <item index="124" class="java.lang.String" itemvalue="farfor-models" />
           <item index="125" class="java.lang.String" itemvalue="dateutil" />
+          <item index="126" class="java.lang.String" itemvalue="farfor-all-logging-client" />
         </list>
       </value>
     </option>
