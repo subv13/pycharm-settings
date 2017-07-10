@@ -507,11 +507,11 @@
         <mark key="." line="88" column="26" />
         <mark key="^" line="88" column="26" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/settings_local.py" timestamp="1495795502853">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="55" />
-        <mark key="^" line="39" column="6" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/settings_local.py" timestamp="1499683581687">
+        <mark key="[" line="59" column="20" />
+        <mark key="]" line="59" column="24" />
+        <mark key="^" line="59" column="24" />
+        <mark key="." line="59" column="24" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/dishes/apps.py" timestamp="1496574669230">
         <mark key="[" line="7" column="11" />
@@ -868,9 +868,6 @@
         <mark key="." line="41" column="6" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/geo/Printer.js" timestamp="1499681534268" />
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/constants.py" timestamp="1498387135505">
-        <mark key="y" line="11" column="6" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1495004785715">
         <mark key="[" line="104" column="18" />
         <mark key="]" line="104" column="74" />
@@ -1160,6 +1157,7 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="35" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/django_rq.py" timestamp="1499683560439" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7b67c4a-d597-42b5-95fb-41aa645a88ed/console_2.sql" timestamp="1496238940827">
         <mark key="[" line="1" column="1" />
       </file>
@@ -1292,10 +1290,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>PrinterResource</text>
+        <text>6379</text>
       </register>
       <register name="-" type="4">
-        <text>PrinterResource</text>
+        <text>6379</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
