@@ -409,11 +409,11 @@
         <mark key="." line="68" column="20" />
         <mark key="^" line="68" column="25" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/orders/kkt/KKTListController.js" timestamp="1499691305486">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="4" column="30" />
-        <mark key="^" line="4" column="30" />
-        <mark key="." line="4" column="30" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/orders/kkt/KKTListController.js" timestamp="1499748474638">
+        <mark key="[" line="4" column="22" />
+        <mark key="]" line="4" column="23" />
+        <mark key="^" line="22" column="41" />
+        <mark key="." line="4" column="23" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/apps/utils/templatetags/get_field_type.py" timestamp="1488527056473">
         <mark key="[" line="6" column="13" />
@@ -1144,7 +1144,7 @@
         <mark key="^" line="33" column="14" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/order/kkt/KKTEditForm.js" timestamp="1499690685235">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/order/kkt/KKTEditForm.js" timestamp="1499748468633">
         <mark key="'" line="76" column="0" />
         <mark key="y" line="40" column="28" />
         <mark key="[" line="62" column="0" />
