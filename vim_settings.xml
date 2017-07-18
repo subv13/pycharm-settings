@@ -365,6 +365,12 @@
         <mark key="^" line="13" column="25" />
         <mark key="." line="239" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/hosts.yml" timestamp="1500353944138">
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="51" column="25" />
+        <mark key="^" line="51" column="25" />
+        <mark key="." line="51" column="25" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/haystack.py" timestamp="1491994629362">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
