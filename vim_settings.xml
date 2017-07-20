@@ -81,11 +81,11 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/cme/route/serializers.py" timestamp="1500471274800">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="23" />
-        <mark key="^" line="13" column="23" />
-        <mark key="." line="13" column="23" />
+      <file name="$USER_HOME$/smenateam/smenaschool/cme/route/serializers.py" timestamp="1500529316411">
+        <mark key="[" line="6" column="62" />
+        <mark key="]" line="6" column="80" />
+        <mark key="^" line="6" column="80" />
+        <mark key="." line="6" column="80" />
       </file>
       <file name="$USER_HOME$/smenateam/looking-goods/project/config/haystack.py" timestamp="1488950287492">
         <mark key="[" line="9" column="36" />
@@ -327,13 +327,12 @@
         <mark key="^" line="102" column="44" />
         <mark key="." line="613" column="17" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/cme/route/views.py" timestamp="1500528091778">
+      <file name="$USER_HOME$/smenateam/smenaschool/cme/route/views.py" timestamp="1500529917160">
         <mark key="'" line="82" column="19" />
         <mark key="y" line="20" column="27" />
-        <mark key="[" line="54" column="48" />
-        <mark key="]" line="54" column="51" />
-        <mark key="." line="54" column="51" />
-        <mark key="^" line="54" column="51" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/extjs/urls.py" timestamp="1499754760087">
         <mark key="[" line="7" column="15" />
@@ -1409,8 +1408,8 @@
       <jump line="72" column="19" filename="$USER_HOME$/smenateam/smenaschool/cme/route/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Создание</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAogICAgYGBgCg==</text>
       </register>
       <register name="-" type="4">
         <text>Создание</text>
@@ -1422,31 +1421,31 @@
         <text encoding="base64">ICAgICIiIgogICAg0KHQvtC30LTQsNC90LjQtSDQvdC+0LLQvtCz0L4g0LzQsNGA0YjRgNGD0YLQsCDQtNC70Y8g0LrRg9GA0YzQtdGA0LAKICAgICIiIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">UHlnbWVudHM9PTIuMi4wCg==</text>
+        <text encoding="base64">ICAgIAogICAgYGBgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">RGphbmdvPT0xLjExCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RGphbmdvPT0xLjExCg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29yZWFwaT09Mi4zLjEK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBvc3Q6Cg==</text>
+        <text encoding="base64">ICAgIGBgYAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBvc3Q6CiAgICDQodC+0LfQtNCw0L3QuNC1INC90L7QstC+0LPQviDQvNCw0YDRiNGA0YPRgtCwINC00LvRjyDQutGD0YDRjNC10YDQsAo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlX3NlCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNlX3Nlcgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSByZXN0X2ZyYW1ld29yayBpbXBvcnQgcm91dGVycwo=</text>
+        <text encoding="base64">UHlnbWVudHM9PTIuMi4wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">RGphbmdvPT0xLjExCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
