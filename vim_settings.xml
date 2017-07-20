@@ -449,11 +449,11 @@
         <mark key="." line="68" column="20" />
         <mark key="^" line="68" column="25" />
       </file>
-      <file name="$USER_HOME$/smenateam/smenaschool/cme/cme/settings.py" timestamp="1500527763508">
-        <mark key="[" line="28" column="30" />
-        <mark key="]" line="28" column="7" />
-        <mark key="^" line="28" column="7" />
-        <mark key="." line="28" column="7" />
+      <file name="$USER_HOME$/smenateam/smenaschool/cme/cme/settings.py" timestamp="1500531288098">
+        <mark key="[" line="99" column="46" />
+        <mark key="]" line="100" column="35" />
+        <mark key="^" line="100" column="35" />
+        <mark key="." line="100" column="35" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/apps/utils/templatetags/get_field_type.py" timestamp="1488527056473">
         <mark key="[" line="6" column="13" />
@@ -1448,7 +1448,7 @@
         <text encoding="base64">RGphbmdvPT0xLjExCg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1481,11 +1481,11 @@
         <entry>:w</entry>
         <entry>1450</entry>
         <entry>W</entry>
-        <entry>wq</entry>
         <entry>q</entry>
         <entry>625</entry>
         <entry>1216</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
