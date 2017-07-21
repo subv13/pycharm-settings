@@ -370,7 +370,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/admin/BannerForm.js" timestamp="1500635881341">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/admin/BannerForm.js" timestamp="1500636936494">
         <mark key="[" line="263" column="27" />
         <mark key="]" line="263" column="28" />
         <mark key="." line="263" column="28" />
@@ -1090,10 +1090,11 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Administrator.js" timestamp="1500635923394">
-        <mark key="[" line="1395" column="0" />
-        <mark key="]" line="1396" column="93" />
-        <mark key="." line="1395" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Administrator.js" timestamp="1500636991634">
+        <mark key="[" line="1396" column="70" />
+        <mark key="]" line="1396" column="70" />
+        <mark key="." line="1396" column="70" />
+        <mark key="^" line="1396" column="70" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/routers.py" timestamp="1493014910663">
         <mark key="[" line="49" column="0" />
@@ -1423,11 +1424,11 @@
       <jump line="72" column="19" filename="$USER_HOME$/smenateam/smenaschool/cme/route/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgaW1ncGFuZWwyID0gY29tcG9uZW50LnF1ZXJ5KCdbbmFtZT1pbWFnZXBhbmVsMl0nKVswXTsKICAgICAgICBpbWdwYW5lbDIudXBkYXRlKCc8aW1nIHNyYz0iJyArIHJlY29yZC5kYXRhLmltYWdlMiArICciIHdpZHRoPSI0MDAiIGhlaWdodD0iNDAwIi8+Jyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>imagepanel1'</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
