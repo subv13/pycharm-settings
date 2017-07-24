@@ -609,7 +609,7 @@
         <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/marketing/Code.js" timestamp="1500874526568" />
-      <file name="/Dummy.txt" timestamp="1500888180954">
+      <file name="/Dummy.txt" timestamp="1500888933898">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -911,6 +911,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="11" column="68" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/mobile_api/views/geo.py" timestamp="1500889469944">
+        <mark key="[" line="79" column="91" />
+        <mark key="]" line="79" column="91" />
+        <mark key="^" line="79" column="91" />
+        <mark key="." line="79" column="91" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/app.py" timestamp="1487582987643">
         <mark key="[" line="34" column="36" />
