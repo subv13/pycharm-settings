@@ -211,7 +211,7 @@
         <mark key="^" line="99" column="53" />
         <mark key="." line="99" column="53" />
       </file>
-      <file name="/a.sql" timestamp="1498118585724">
+      <file name="/a.sql" timestamp="1500891652466">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/admin.py" timestamp="1497614125795">
@@ -605,7 +605,7 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1500875216429">
+      <file name="/dummy.sql" timestamp="1500891915027">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -615,7 +615,7 @@
         <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/marketing/Code.js" timestamp="1500874526568" />
-      <file name="/Dummy.txt" timestamp="1500890337615">
+      <file name="/Dummy.txt" timestamp="1500891604007">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -675,6 +675,12 @@
         <mark key="]" line="171" column="64" />
         <mark key="^" line="177" column="64" />
         <mark key="." line="171" column="64" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/menu/models.py" timestamp="1500891841482">
+        <mark key="[" line="131" column="21" />
+        <mark key="]" line="132" column="3" />
+        <mark key="^" line="132" column="3" />
+        <mark key="." line="132" column="3" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/models/courier.py" timestamp="1487583825162">
         <mark key="[" line="36" column="23" />
