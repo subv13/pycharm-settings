@@ -286,6 +286,11 @@
         <mark key="^" line="102" column="44" />
         <mark key="." line="613" column="17" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/Provider.js" timestamp="1500882674497">
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/extjs/urls.py" timestamp="1499754760087">
         <mark key="[" line="7" column="15" />
         <mark key="]" line="7" column="10" />
@@ -554,7 +559,7 @@
         <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/marketing/Code.js" timestamp="1500874526568" />
-      <file name="/Dummy.txt" timestamp="1500880181241">
+      <file name="/Dummy.txt" timestamp="1500882648011">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -790,6 +795,7 @@
         <mark key="^" line="12" column="98" />
         <mark key="." line="12" column="98" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/admin/ShiftEditProvider.js" timestamp="1500882647737" />
       <file name="/Python Console" timestamp="1500641214492">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1353,28 +1359,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5hZGRGaWx0ZXIoZmlsdGVyX2xpc3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdG9yZS5hZGRGaWx0ZXIoZmlsdGVyX2xpc3QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJvcGVydHk6ICdlbmFibGVkJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsdWU6IHRydWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmaWx0ZXJfbGlzdC5wdXNoKG5ldyBFeHQudXRpbC5GaWx0ZXIoewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvcGVydHk6ICdlbmFibGVkJywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZmlsdGVyX2xpc3QgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICBmaWx0ZXJfbGlzdC5wdXNoKG5ldyBFeHQudXRpbC5GaWx0ZXIoewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc3RvcmUgPSA7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgZmlsdGVyX2xpc3QgPSBbXTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdG9yZS5hZGRGaWx0ZXIoZmlsdGVyX2xpc3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICB2YXIgc3RvcmUgPSA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
