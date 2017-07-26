@@ -24,12 +24,14 @@
         <mark key="." line="139" column="23" />
         <mark key="^" line="139" column="23" />
       </file>
+      <file name="dbtable:/4079dc9f/2a7eb659-8ac4-4549-9f76-faf3b4b8d24a/mysql.geo_printertask" timestamp="1501068936229" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/referral/models.py" timestamp="1491542371693">
         <mark key="[" line="53" column="14" />
         <mark key="]" line="53" column="15" />
         <mark key="^" line="42" column="0" />
         <mark key="." line="53" column="15" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/geo/management/commands/clear_printer_task.py" timestamp="1501068369817" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/frontend/update_backend.yml" timestamp="1495540748093">
         <mark key="[" line="19" column="110" />
         <mark key="]" line="19" column="122" />
@@ -183,11 +185,11 @@
         <mark key="^" line="126" column="13" />
         <mark key="." line="126" column="13" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/templates/dashboard.html" timestamp="1501064505723">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-        <mark key="^" line="7" column="12" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/templates/dashboard.html" timestamp="1501069041052">
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+        <mark key="^" line="9" column="33" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/frontend/markup/blocks/menu/menu.styl" timestamp="1489642423411">
         <mark key="[" line="13" column="22" />
@@ -238,12 +240,12 @@
         <mark key="^" line="6" column="57" />
         <mark key="." line="6" column="57" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/views.py" timestamp="1501066468169">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/views.py" timestamp="1501069241813">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="12" column="50" />
-        <mark key="]" line="12" column="52" />
-        <mark key="^" line="12" column="52" />
-        <mark key="." line="12" column="52" />
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="34" />
+        <mark key="^" line="15" column="34" />
+        <mark key="." line="15" column="34" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/staticfiles/js/main.js" timestamp="1490335239444">
         <mark key="[" line="183" column="44" />
@@ -495,11 +497,11 @@
         <mark key="^" line="57" column="49" />
         <mark key="." line="57" column="49" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/app.py" timestamp="1501066266192">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/app.py" timestamp="1501069497746">
+        <mark key="[" line="24" column="12" />
+        <mark key="]" line="24" column="20" />
+        <mark key="." line="24" column="20" />
+        <mark key="^" line="24" column="20" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/galleries/models.py" timestamp="1487659166879">
         <mark key="[" line="35" column="31" />
@@ -601,6 +603,7 @@
         <mark key="." line="7" column="83" />
         <mark key="^" line="7" column="83" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/geo/models/__init__.py" timestamp="1501069297500" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/settings_local.py" timestamp="1500297537313">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -619,11 +622,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/geo.py" timestamp="1501066126846">
-        <mark key="[" line="200" column="23" />
-        <mark key="]" line="201" column="34" />
-        <mark key="^" line="201" column="34" />
-        <mark key="." line="201" column="34" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/geo.py" timestamp="1501069326941">
+        <mark key="[" line="210" column="4" />
+        <mark key="]" line="210" column="10" />
+        <mark key="^" line="210" column="10" />
+        <mark key="." line="210" column="10" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/forms/form_sent.html" timestamp="1488536316480">
         <mark key="[" line="19" column="40" />
@@ -637,7 +640,7 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1500894291512">
+      <file name="/dummy.sql" timestamp="1501068933158">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -1538,43 +1541,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>city</text>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>city</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QGFwcC50ZWFyZG93bl9yZXF1ZXN0CmRlZiBzZXNzaW9uX2NsZWFyKGV4Y2VwdGlvbj1Ob25lKToKICAgIFNlc3Npb24ucmVtb3ZlKCkKICAgIGlmIGV4Y2VwdGlvbiBhbmQgU2Vzc2lvbi5pc19hY3RpdmU6CiAgICAgICAgU2Vzc2lvbi5yb2xsYmFjaygpCg==</text>
+      <register name="0" type="4">
+        <text>Column(ForeignKey('geo_city.id'))
+    city = relationship(City)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZW9fcHJpbnRlcnRhc2sK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmYXJmb3JfbW9kZWxzIGltcG9ydCBpbml0X2RiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LWUgZ2l0K2dpdEBiaXRidWNrZXQub3JnOmZhcmZvci9mYXJmb3ItbW9kZWxzLmdpdCNlZ2c9ZmFyZm9yX21vZGVscwo=</text>
+        <text encoding="base64">ICAgIHslIGZvciBwcmludGVyIGluIHByaW50ZXJzICV9CiAgICB7JSBlbmRmb3IgJX0K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">LWUgZ2l0K2dpdEBiaXRidWNrZXQub3JnOmZhcmZvci9mYXJmb3ItZC1idXMuZ2l0I2VnZz1mYXJmb3JfZF9idXMK</text>
+      <register name="5" type="4">
+        <text>{
+            'printers': printers
+        }</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U2Vzc2lvbiA9IGluaXRfZGIobWFzdGVyX2NvbmZpZz1zZXR0aW5ncy5NWVNRTF9NQVNURVJfREFUQUJBU0UsCiAgICAgICAgICAgICAgICAgIHNsYXZlX2NvbmZpZz1zZXR0aW5ncy5NWVNRTF9TTEFWRV9EQVRBQkFTRSkK</text>
+        <text encoding="base64">ICAgIF9fdGFibGVuYW1lX18gPSAnZ2VvX2FyZWEnCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkYXRldGltZSBpbXBvcnQgdGltZWRlbHRhCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
