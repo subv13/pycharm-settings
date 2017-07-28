@@ -9,7 +9,7 @@
         <mark key="^" line="29" column="141" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1501060829041">
+      <file name="/a.dummy" timestamp="1501233123521">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/test.py" timestamp="1491905037076">
@@ -511,11 +511,11 @@
         <mark key="^" line="57" column="49" />
         <mark key="." line="57" column="49" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/app.py" timestamp="1501227650823">
-        <mark key="[" line="19" column="26" />
-        <mark key="]" line="19" column="35" />
-        <mark key="." line="19" column="35" />
-        <mark key="^" line="19" column="35" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/app.py" timestamp="1501233199903">
+        <mark key="[" line="33" column="18" />
+        <mark key="]" line="33" column="29" />
+        <mark key="." line="33" column="29" />
+        <mark key="^" line="33" column="29" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/galleries/models.py" timestamp="1487659166879">
         <mark key="[" line="35" column="31" />
@@ -1188,6 +1188,12 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/models/PrinterP.py" timestamp="1501233129722">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/management/commands/remove_flight_elastic.py" timestamp="1498200639973">
         <mark key="[" line="72" column="57" />
         <mark key="]" line="74" column="22" />
@@ -1309,11 +1315,11 @@
         <mark key="^" line="11" column="22" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/models/Printer.py" timestamp="1501227717902">
-        <mark key="[" line="11" column="27" />
-        <mark key="]" line="11" column="15" />
-        <mark key="^" line="11" column="15" />
-        <mark key="." line="11" column="15" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/models/Printer.py" timestamp="1501232612367">
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="19" />
+        <mark key="^" line="8" column="19" />
+        <mark key="." line="8" column="19" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/ManagerCOViewer.js" timestamp="1492516402194">
         <mark key="[" line="148" column="69" />
@@ -1586,8 +1592,8 @@
       <jump line="13" column="26" filename="$USER_HOME$/smenateam/farfor/farfor-print-api-service/config/database.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Base</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Base</text>
@@ -1605,25 +1611,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZHJpdmVybmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICd7fTovL3t9QHt9Ont9L3t9Jy5mb3JtYXQoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGYuZHJpdmVybmFtZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBACg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuICd7fTovL3t9QHt9Ont9L3t9Jy5mb3JtYXQoCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBQR19zZXNzaW9uLnJlbW92ZSgpCiAgICBpZiBleGNlcHRpb24gYW5kIFBHX3Nlc3Npb24uaXNfYWN0aXZlOgogICAgICAgIFBHX3Nlc3Npb24ucm9sbGJhY2soKQo=</text>
+        <text encoding="base64">ICAgICAgICBACg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">U0VMRUNUIEZST00gCg==</text>
+        <text encoding="base64">CiAgICBQR19zZXNzaW9uLnJlbW92ZSgpCiAgICBpZiBleGNlcHRpb24gYW5kIFBHX3Nlc3Npb24uaXNfYWN0aXZlOgogICAgICAgIFBHX3Nlc3Npb24ucm9sbGJhY2soKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0VMRUNUIEZST00gCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
