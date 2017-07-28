@@ -19,7 +19,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="127">
+        <list size="140">
           <item index="0" class="java.lang.String" itemvalue="slimit" />
           <item index="1" class="java.lang.String" itemvalue="django-pipeline" />
           <item index="2" class="java.lang.String" itemvalue="smart-select" />
@@ -147,6 +147,19 @@
           <item index="124" class="java.lang.String" itemvalue="farfor-models" />
           <item index="125" class="java.lang.String" itemvalue="dateutil" />
           <item index="126" class="java.lang.String" itemvalue="farfor-all-logging-client" />
+          <item index="127" class="java.lang.String" itemvalue="PyJWT" />
+          <item index="128" class="java.lang.String" itemvalue="Werkzeug" />
+          <item index="129" class="java.lang.String" itemvalue="Flask_JWT" />
+          <item index="130" class="java.lang.String" itemvalue="Flask-Cors" />
+          <item index="131" class="java.lang.String" itemvalue="flask_apispec" />
+          <item index="132" class="java.lang.String" itemvalue="unicode_slugify" />
+          <item index="133" class="java.lang.String" itemvalue="psycopg2" />
+          <item index="134" class="java.lang.String" itemvalue="marshmallow" />
+          <item index="135" class="java.lang.String" itemvalue="Flask_Bcrypt" />
+          <item index="136" class="java.lang.String" itemvalue="Flask_Caching" />
+          <item index="137" class="java.lang.String" itemvalue="Flask_SQLAlchemy" />
+          <item index="138" class="java.lang.String" itemvalue="Flask-Migrate" />
+          <item index="139" class="java.lang.String" itemvalue="Flask" />
         </list>
       </value>
     </option>
