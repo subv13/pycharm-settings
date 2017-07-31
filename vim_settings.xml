@@ -412,10 +412,11 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/managers.py" timestamp="1501496487867">
-        <mark key="[" line="382" column="0" />
-        <mark key="]" line="382" column="0" />
-        <mark key="." line="382" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/managers.py" timestamp="1501498540252">
+        <mark key="[" line="382" column="54" />
+        <mark key="]" line="382" column="55" />
+        <mark key="." line="382" column="55" />
+        <mark key="^" line="382" column="56" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/utils/geo.py" timestamp="1491280834349">
         <mark key="[" line="239" column="0" />
@@ -1573,17 +1574,17 @@
       <jump line="13" column="26" filename="$USER_HOME$/smenateam/farfor/farfor-print-api-service/config/database.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyX2RhdGFbJ2NsaWVudF9pZCddID0gb3JkZXIuY2xpZW50X2lkCg==</text>
+      <register name="&quot;" type="4">
+        <text>first_name</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>first_name</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YXBwLmFkZF91cmxfcnVsZSgnL2Rhc2hib2FyZC8nLCB2aWV3X2Z1bmM9RGFzaGJvYXJkVmlldy5hc192aWV3KCdkYXNoYm9hcmQnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyX2RhdGFbJ2NsaWVudF9uYW1lJ10gPSBvcmRlci5jbGllbnQuZmlyc3RfbmFtZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG9yZGVyX2RhdGFbJ2NsaWVudF9pZCddID0gb3JkZXIuY2xpZW50X2lkCg==</text>
