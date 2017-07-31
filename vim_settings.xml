@@ -30,11 +30,11 @@
         <mark key="^" line="42" column="0" />
         <mark key="." line="53" column="15" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/sitemap.html" timestamp="1501482363872">
-        <mark key="[" line="15" column="47" />
-        <mark key="]" line="15" column="55" />
-        <mark key="^" line="15" column="55" />
-        <mark key="." line="15" column="55" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/sitemap.html" timestamp="1501483598250">
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="31" />
+        <mark key="^" line="16" column="31" />
+        <mark key="." line="16" column="31" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/frontend/update_backend.yml" timestamp="1495540748093">
         <mark key="[" line="19" column="110" />
@@ -1586,10 +1586,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>safe</text>
+        <text>p</text>
       </register>
       <register name="-" type="4">
-        <text>safe</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
