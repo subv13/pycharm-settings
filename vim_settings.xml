@@ -212,8 +212,8 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1500470941115">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501576325558">
+        <mark key="[" line="0" column="3" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="0" />
       </file>
@@ -332,6 +332,8 @@
         <mark key="^" line="272" column="71" />
         <mark key="." line="272" column="71" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/models/__init__.py" timestamp="1501577343939" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/factories.py" timestamp="1501577875037" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/api/marketing.py" timestamp="1494911038835">
         <mark key="[" line="613" column="17" />
         <mark key="]" line="613" column="17" />
@@ -648,7 +650,7 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="/dummy.sql" timestamp="1501575062424">
+      <file name="/dummy.sql" timestamp="1501576634189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -657,7 +659,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501574520205">
+      <file name="/Dummy.txt" timestamp="1501575863573">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1200,7 +1202,7 @@
         <mark key="^" line="49" column="23" />
         <mark key="." line="49" column="23" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/tasks.py" timestamp="1501573240664">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/tasks.py" timestamp="1501577097723">
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="8" />
         <mark key="." line="139" column="8" />
@@ -1423,11 +1425,11 @@
         <mark key="^" line="11" column="37" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a7eb659-8ac4-4549-9f76-faf3b4b8d24a/console.sql" timestamp="1501575278472">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="44" column="67" />
-        <mark key="^" line="44" column="66" />
-        <mark key="." line="44" column="66" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a7eb659-8ac4-4549-9f76-faf3b4b8d24a/console.sql" timestamp="1501576416102">
+        <mark key="[" line="44" column="50" />
+        <mark key="]" line="44" column="54" />
+        <mark key="^" line="44" column="54" />
+        <mark key="." line="44" column="54" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/staff/OkladStaffList.js" timestamp="1495006752771">
         <mark key="[" line="18" column="42" />
@@ -1545,11 +1547,11 @@
       <jump line="13" column="26" filename="$USER_HOME$/smenateam/farfor/farfor-print-api-service/config/database.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">VVBEQVRFIG5ld3NsZXR0ZXJzX25ld3NsZXR0ZXIgU0VUIHByb2Nlc3NlZF9pZHMgPSAnJyBXSEVSRSBpZCA9IDM2ODsK</text>
+      <register name="&quot;" type="4">
+        <text>NULL</text>
       </register>
       <register name="-" type="4">
-        <text>first_name</text>
+        <text>NULL</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
@@ -1585,7 +1587,7 @@
         <text encoding="base64">ICAgICAgICBpZiBjb21taXQ6Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>119</text>
       </register>
     </registers>
     <search>
@@ -1623,6 +1625,7 @@
         <entry>1216</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>119</entry>
       </history-cmd>
       <history-expr />
       <history-input />
