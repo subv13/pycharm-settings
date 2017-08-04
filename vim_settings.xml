@@ -614,7 +614,12 @@
         <mark key="^" line="22" column="46" />
         <mark key="." line="22" column="46" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/celery.py" timestamp="1501825613159" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/celery.py" timestamp="1501831067893">
+        <mark key="[" line="30" column="19" />
+        <mark key="]" line="30" column="18" />
+        <mark key="." line="30" column="18" />
+        <mark key="^" line="30" column="18" />
+      </file>
       <file name="/dummy.sql" timestamp="1501765435843">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1488,10 +1493,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>default</text>
+        <text>redis://localhost:6379/0</text>
       </register>
       <register name="-" type="4">
-        <text>default</text>
+        <text>redis://localhost:6379/0</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
