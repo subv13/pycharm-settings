@@ -195,11 +195,6 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1501576325558">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftStaffList.js" timestamp="1491549074619">
         <mark key="[" line="99" column="52" />
         <mark key="]" line="99" column="53" />
@@ -427,6 +422,7 @@
         <mark key="^" line="13" column="86" />
         <mark key="." line="13" column="86" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/geo/domain/services/route.py" timestamp="1501926869795" />
       <file name="$USER_HOME$/smenateam/medcenter/project/templates/base.html" timestamp="1487757564994">
         <mark key="[" line="115" column="39" />
         <mark key="]" line="115" column="37" />
@@ -847,7 +843,7 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1501496045856" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1501926814108" />
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/worksheet.html" timestamp="1488369021158">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="29" />
@@ -1158,11 +1154,6 @@
         <mark key="]" line="49" column="23" />
         <mark key="^" line="49" column="23" />
         <mark key="." line="49" column="23" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/tasks.py" timestamp="1501577097723">
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="8" />
-        <mark key="." line="139" column="8" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/print_utils.py" timestamp="1501764093336">
         <mark key="y" line="224" column="30" />
