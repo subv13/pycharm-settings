@@ -72,7 +72,6 @@
         <mark key="^" line="14" column="72" />
         <mark key="." line="14" column="72" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/ExportDataToFormatList.js" timestamp="1501495923819" />
       <file name="$USER_HOME$/smenateam/smenaschool/cme/route/serializers.py" timestamp="1500529316411">
         <mark key="[" line="6" column="62" />
         <mark key="]" line="6" column="80" />
@@ -133,7 +132,6 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/venvs/farfor/src/pybarcode/barcode/codex.py" timestamp="1501756309654" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/erp/update_backend.yml" timestamp="1495540727037">
         <mark key="[" line="19" column="160" />
         <mark key="]" line="19" column="122" />
@@ -176,7 +174,6 @@
         <mark key="." line="16" column="7" />
         <mark key="^" line="16" column="32" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/newsletters/Newsletter.js" timestamp="1501750986590" />
       <file name="$USER_HOME$/smenateam/vncenter/frontend/markup/blocks/menu/menu.styl" timestamp="1489642423411">
         <mark key="[" line="13" column="22" />
         <mark key="]" line="13" column="32" />
@@ -319,7 +316,6 @@
         <mark key="^" line="272" column="71" />
         <mark key="." line="272" column="71" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/models/__init__.py" timestamp="1501577343939" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/api/marketing.py" timestamp="1494911038835">
         <mark key="[" line="613" column="17" />
         <mark key="]" line="613" column="17" />
@@ -404,7 +400,6 @@
         <mark key="^" line="51" column="25" />
         <mark key="." line="51" column="25" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/requirements.txt" timestamp="1501561826700" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/haystack.py" timestamp="1491994629362">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -661,7 +656,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502098091040">
+      <file name="/Dummy.txt" timestamp="1502099395703">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -762,7 +757,6 @@
         <mark key="." line="146" column="64" />
         <mark key="^" line="146" column="64" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/mobile_api/views/auth.py" timestamp="1502084674020" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/Application.js" timestamp="1499765912338">
         <mark key="[" line="38" column="21" />
         <mark key="]" line="38" column="31" />
@@ -793,7 +787,6 @@
         <mark key="^" line="2664" column="54" />
         <mark key="." line="2664" column="54" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/models/newsletter.py" timestamp="1501573621158" />
       <file name="$USER_HOME$/smenateam/medcenter/frontend/markup/pages/temp/_all.jade" timestamp="1487755944596">
         <mark key="[" line="23" column="52" />
         <mark key="]" line="23" column="47" />
@@ -818,7 +811,6 @@
         <mark key="^" line="671" column="80" />
         <mark key="." line="671" column="80" />
       </file>
-      <file name="$USER_HOME$/venvs/farfor/lib/python2.7/site-packages/celery/app/utils.py" timestamp="1501826699540" />
       <file name="$USER_HOME$/smenateam/lrkc/project/staticfiles/js/blocks/templates/schedule.html" timestamp="1489415146766">
         <mark key="[" line="3" column="50" />
         <mark key="]" line="3" column="59" />
@@ -984,7 +976,6 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/models.py" timestamp="1501930840554" />
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/home/urls.py" timestamp="1489402811567">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1027,7 +1018,6 @@
         <mark key="^" line="1933" column="22" />
         <mark key="." line="1933" column="22" />
       </file>
-      <file name="$USER_HOME$/venvs/farfor/src/pybarcode/barcode/base.py" timestamp="1501756236747" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/api.py" timestamp="1500880787057">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
