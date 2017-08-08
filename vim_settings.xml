@@ -877,7 +877,7 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1502176558351">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1502178042908">
         <mark key="[" line="2469" column="103" />
         <mark key="]" line="2470" column="27" />
         <mark key="." line="2470" column="27" />
@@ -1022,11 +1022,11 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Manager.js" timestamp="1500876330420">
-        <mark key="[" line="1932" column="31" />
-        <mark key="]" line="1933" column="22" />
-        <mark key="^" line="1933" column="22" />
-        <mark key="." line="1933" column="22" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Manager.js" timestamp="1502178053412">
+        <mark key="[" line="1359" column="107" />
+        <mark key="]" line="1359" column="107" />
+        <mark key="^" line="1359" column="97" />
+        <mark key="." line="1359" column="107" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/api.py" timestamp="1500880787057">
         <mark key="[" line="5" column="0" />
@@ -1515,11 +1515,11 @@
       <jump line="163" column="8" filename="$USER_HOME$/smenateam/farfor/farfor/apps/geo/domain/services/route.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
