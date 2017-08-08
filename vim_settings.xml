@@ -443,11 +443,11 @@
         <mark key="^" line="13" column="86" />
         <mark key="." line="13" column="86" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/geo/domain/services/route.py" timestamp="1502109544689">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="23" column="12" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/geo/domain/services/route.py" timestamp="1502170690523">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="21" column="12" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/templates/base.html" timestamp="1487757564994">
         <mark key="[" line="115" column="39" />
@@ -656,7 +656,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502113903979">
+      <file name="/Dummy.txt" timestamp="1502170805564">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -877,10 +877,10 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1502109557045">
-        <mark key="[" line="2016" column="12" />
-        <mark key="]" line="2017" column="27" />
-        <mark key="." line="2017" column="27" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1502171043804">
+        <mark key="[" line="2017" column="0" />
+        <mark key="]" line="2017" column="0" />
+        <mark key="." line="2017" column="0" />
         <mark key="^" line="2017" column="27" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/worksheet.html" timestamp="1488369021158">
@@ -1511,8 +1511,8 @@
       <jump line="163" column="8" filename="$USER_HOME$/smenateam/farfor/farfor/apps/geo/domain/services/route.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>5</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUmV0cnlFcnJvcgo=</text>
       </register>
       <register name="-" type="4">
         <text>5</text>
@@ -1524,31 +1524,31 @@
         <text encoding="base64">ICAgIFJPVVRFX1VSTCA9IHUnaHR0cDovL2NhdGFsb2cuYXBpLjJnaXMucnUvMi4wL3RyYW5zcG9ydC9jYWxjdWxhdGVfZGlyZWN0aW9ucycK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUmV0cnlFcnJvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIHJhaXNlIFJldHJ5RXJyb3IK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZnJvbSByZXF1ZXN0cy5leGNlcHRpb25zIGltcG9ydCBSZXRyeUVycm9yCg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiByb3V0ZVsnd2F5J106CiAgICAgICAgICAgIGRpc3RhbmNlID0gaW50KHJvdXRlWyd3YXknXVsnZGlzdGFuY2UnXSkKICAgICAgICAgICAgZmxpZ2h0LnVwZGF0ZV9kaXN0YW5jZShkaXN0YW5jZSwgc2F2ZV9pbW1lZGlhdGVseT1GYWxzZSwgcmV3cml0ZV9kaXN0YW5jZT1UcnVlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgICAgICAjIHJhaXNlIFJldHJ5RXJyb3IK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYucmVuZGVyX3RvX3Jlc3BvbnNlKGNvbnRleHQpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dFsnZXJyb3JzJ10gPSB1J9Cd0LUg0YPQtNCw0LvQvtGB0Ywg0L/QvtC70YPRh9C40YLRjCDQvtGC0LLQtdGCINC+0YIgMmdpcycK</text>
+        <text encoding="base64">ICAgICAgICBpZiByb3V0ZVsnd2F5J106CiAgICAgICAgICAgIGRpc3RhbmNlID0gaW50KHJvdXRlWyd3YXknXVsnZGlzdGFuY2UnXSkKICAgICAgICAgICAgZmxpZ2h0LnVwZGF0ZV9kaXN0YW5jZShkaXN0YW5jZSwgc2F2ZV9pbW1lZGlhdGVseT1GYWxzZSwgcmV3cml0ZV9kaXN0YW5jZT1UcnVlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dFsnc3VjY2VzcyddID0gRmFsc2UK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNlbGYucmVuZGVyX3RvX3Jlc3BvbnNlKGNvbnRleHQpCg==</text>
       </register>
       <register name=":" type="4">
         <text>540</text>
