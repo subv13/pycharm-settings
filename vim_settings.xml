@@ -859,10 +859,10 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1502178042908">
-        <mark key="[" line="2469" column="103" />
-        <mark key="]" line="2470" column="27" />
-        <mark key="." line="2470" column="27" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1502280244986">
+        <mark key="[" line="2019" column="0" />
+        <mark key="]" line="2019" column="0" />
+        <mark key="." line="2019" column="0" />
         <mark key="^" line="2470" column="27" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/worksheet.html" timestamp="1488369021158">
@@ -1508,7 +1508,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUmV0cnlFcnJvcgo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1520,34 +1520,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGlnaHRfZGVzY3JpcHRpb24uZ2V0Rm9ybSgpLnNldFZhbHVlcyh7J2Rpc3RhbmNlJzogZGlzdGFuY2V9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUmV0cnlFcnJvcgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgIGZsaWdodDogcmVjb3JkX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgcGFyYW1zOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgIGZsaWdodDogcmVjb3JkX2lkCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBncmlkLmdldFN0b3JlKCkubG9hZCh7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgcGFyYW1zOiB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZsaWdodF9kZXNjcmlwdGlvbi5nZXRGb3JtKCkuc2V0VmFsdWVzKHsnZGlzdGFuY2UnOiBkYXRhLmRpc3RhbmNlfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBncmlkLmdldFN0b3JlKCkubG9hZCh7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZsaWdodF9kZXNjcmlwdGlvbi5nZXRGb3JtKCkuc2V0VmFsdWVzKHsnZGlzdGFuY2UnOiBkYXRhLmRpc3RhbmNlfSk7Cg==</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>2017</text>
       </register>
     </registers>
     <search>
@@ -1587,6 +1587,7 @@
         <entry>119</entry>
         <entry>540</entry>
         <entry>w</entry>
+        <entry>2017</entry>
       </history-cmd>
       <history-expr />
       <history-input />
