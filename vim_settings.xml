@@ -727,11 +727,11 @@
         <mark key="^" line="45" column="27" />
         <mark key="." line="45" column="27" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/index.py" timestamp="1495688423708">
-        <mark key="[" line="22" column="41" />
-        <mark key="]" line="22" column="40" />
-        <mark key="^" line="22" column="40" />
-        <mark key="." line="22" column="40" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/index.py" timestamp="1502365430239">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="21" column="40" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-mobile-frontend/js-apps/src/services/basket.js" timestamp="1495007215885">
         <mark key="[" line="146" column="58" />
@@ -1508,7 +1508,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUmV0cnlFcnJvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1520,31 +1520,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGlnaHRfZGVzY3JpcHRpb24uZ2V0Rm9ybSgpLnNldFZhbHVlcyh7J2Rpc3RhbmNlJzogZGlzdGFuY2V9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUmV0cnlFcnJvcgo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUmV0cnlFcnJvcgo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgIGZsaWdodDogcmVjb3JkX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgcGFyYW1zOiB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgIGZsaWdodDogcmVjb3JkX2lkCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBncmlkLmdldFN0b3JlKCkubG9hZCh7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgcGFyYW1zOiB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZsaWdodF9kZXNjcmlwdGlvbi5nZXRGb3JtKCkuc2V0VmFsdWVzKHsnZGlzdGFuY2UnOiBkYXRhLmRpc3RhbmNlfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBncmlkLmdldFN0b3JlKCkubG9hZCh7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZsaWdodF9kZXNjcmlwdGlvbi5nZXRGb3JtKCkuc2V0VmFsdWVzKHsnZGlzdGFuY2UnOiBkYXRhLmRpc3RhbmNlfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>2017</text>
