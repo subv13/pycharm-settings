@@ -316,6 +316,12 @@
         <mark key="^" line="272" column="71" />
         <mark key="." line="272" column="71" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/models/__init__.py" timestamp="1502369028581">
+        <mark key="[" line="79" column="71" />
+        <mark key="]" line="79" column="70" />
+        <mark key="^" line="79" column="70" />
+        <mark key="." line="79" column="70" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/api/marketing.py" timestamp="1494911038835">
         <mark key="[" line="613" column="17" />
         <mark key="]" line="613" column="17" />
@@ -417,12 +423,6 @@
         <mark key="]" line="57" column="0" />
         <mark key="^" line="56" column="23" />
         <mark key="." line="57" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/admin.py" timestamp="1502366484385">
-        <mark key="[" line="66" column="25" />
-        <mark key="]" line="66" column="25" />
-        <mark key="." line="66" column="25" />
-        <mark key="^" line="66" column="25" />
       </file>
       <file name="$USER_HOME$/venvs/vncenter/lib/python2.7/site-packages/forms_builder/forms/urls.py" timestamp="1488542915924">
         <mark key="[" line="9" column="10" />
@@ -634,7 +634,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1502172222222">
+      <file name="/dummy.sql" timestamp="1502369275095">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
