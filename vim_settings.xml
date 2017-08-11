@@ -768,12 +768,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/extjs/views/__init__.py" timestamp="1502437178947">
-        <mark key="[" line="2664" column="58" />
-        <mark key="]" line="2664" column="54" />
-        <mark key="^" line="2664" column="54" />
-        <mark key="." line="2664" column="54" />
-      </file>
       <file name="$USER_HOME$/smenateam/medcenter/frontend/markup/pages/temp/_all.jade" timestamp="1487755944596">
         <mark key="[" line="23" column="52" />
         <mark key="]" line="23" column="47" />
@@ -1178,10 +1172,10 @@
         <mark key="^" line="76" column="59" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Administrator.js" timestamp="1502272431106">
-        <mark key="[" line="2607" column="76" />
-        <mark key="]" line="2607" column="69" />
-        <mark key="." line="2607" column="69" />
-        <mark key="^" line="2607" column="69" />
+        <mark key="[" line="2605" column="76" />
+        <mark key="]" line="2605" column="69" />
+        <mark key="." line="2605" column="69" />
+        <mark key="^" line="2605" column="69" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/routers.py" timestamp="1493014910663">
         <mark key="[" line="49" column="0" />
