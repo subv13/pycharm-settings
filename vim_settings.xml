@@ -1525,28 +1525,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUmV0cnlFcnJvcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB9KTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgIGZsaWdodDogcmVjb3JkX2lkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgUmV0cnlFcnJvcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgcGFyYW1zOiB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBncmlkLmdldFN0b3JlKCkubG9hZCh7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyB9KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZsaWdodF9kZXNjcmlwdGlvbi5nZXRGb3JtKCkuc2V0VmFsdWVzKHsnZGlzdGFuY2UnOiBkYXRhLmRpc3RhbmNlfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>2017</text>
