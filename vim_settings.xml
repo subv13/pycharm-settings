@@ -649,7 +649,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502432663656">
+      <file name="/Dummy.txt" timestamp="1502437376746">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -769,7 +769,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/extjs/views/__init__.py" timestamp="1502435608647">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/extjs/views/__init__.py" timestamp="1502437178947">
         <mark key="[" line="2664" column="58" />
         <mark key="]" line="2664" column="54" />
         <mark key="^" line="2664" column="54" />
@@ -1143,6 +1143,7 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/clients/managers/client.py" timestamp="1502437298512" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/models/PrinterP.py" timestamp="1501233129722">
         <mark key="[" line="8" column="13" />
         <mark key="]" line="8" column="13" />
