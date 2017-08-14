@@ -45,7 +45,7 @@
         <mark key="." line="19" column="122" />
         <mark key="^" line="19" column="122" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Report.js" timestamp="1502705479440">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Report.js" timestamp="1502707372934">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="33" />
         <mark key="." line="8" column="0" />
@@ -1048,7 +1048,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/Toolbar.js" timestamp="1502705240832">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/Toolbar.js" timestamp="1502707740861">
         <mark key="y" line="26" column="11" />
         <mark key="[" line="78" column="28" />
         <mark key="]" line="78" column="27" />
@@ -1091,11 +1091,11 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/NewComplexReport.js" timestamp="1502705797011">
-        <mark key="[" line="0" column="37" />
-        <mark key="]" line="0" column="39" />
-        <mark key="^" line="0" column="39" />
-        <mark key="." line="0" column="39" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/NewComplexReport.js" timestamp="1502707780729">
+        <mark key="[" line="22" column="21" />
+        <mark key="]" line="22" column="26" />
+        <mark key="^" line="22" column="26" />
+        <mark key="." line="22" column="26" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1495004785715">
         <mark key="[" line="104" column="18" />
@@ -1573,16 +1573,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>k</text>
+        <text>kek</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>kek</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">RXh0LmRlZmluZSgnRmFyZm9yLmNvbnRyb2xsZXIuUmVwb3J0JywgewogICAgZXh0ZW5kOiAnRXh0LmFwcC5Db250cm9sbGVyJywK</text>
+        <text encoding="base64">ICAgIHNob3dSZXBvcnQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICBjb25zb2xlLmxvZygna2VrJykKICAgIH0K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICovCg==</text>
