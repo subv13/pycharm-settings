@@ -660,7 +660,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502442524481">
+      <file name="/Dummy.txt" timestamp="1502693123157">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -756,11 +756,11 @@
         <mark key="." line="146" column="64" />
         <mark key="^" line="146" column="64" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1502691441439">
-        <mark key="[" line="73" column="63" />
-        <mark key="]" line="74" column="7" />
-        <mark key="^" line="74" column="7" />
-        <mark key="." line="74" column="7" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1502693016675">
+        <mark key="[" line="107" column="40" />
+        <mark key="]" line="107" column="42" />
+        <mark key="^" line="107" column="42" />
+        <mark key="." line="107" column="42" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/Application.js" timestamp="1499765912338">
         <mark key="[" line="38" column="21" />
@@ -1243,6 +1243,10 @@
         <mark key="^" line="122" column="3" />
         <mark key="." line="122" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/report2.py" timestamp="1502692936847">
+        <mark key="[" line="918" column="0" />
+        <mark key="]" line="918" column="100" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/serializers.py" timestamp="1495022560061">
         <mark key="[" line="31" column="79" />
         <mark key="]" line="32" column="7" />
@@ -1342,6 +1346,7 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/AdministratorViewer.js" timestamp="1502693122184" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/referral/utils.py" timestamp="1491472236966">
         <mark key="[" line="32" column="21" />
         <mark key="]" line="32" column="21" />
@@ -1534,7 +1539,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1vZHVsZV9saXN0ID0gWydhZG1pbmlzdHJhdG9yJywgJ2NvbnRlbnQnLCAnc3VwZXJ2aXNvcicsICdhY2NvdW50YW50JywgJ21hbmFnZXJfY28nLCAnbWFya2V0ZXInXQo=</text>
       </register>
       <register name="-" type="4">
         <text>;</text>
@@ -1543,7 +1548,7 @@
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmbGlnaHRfZGVzY3JpcHRpb24uZ2V0Rm9ybSgpLnNldFZhbHVlcyh7J2Rpc3RhbmNlJzogZGlzdGFuY2V9KTsK</text>
+        <text encoding="base64">ICAgIG1vZHVsZV9saXN0ID0gWydhZG1pbmlzdHJhdG9yJywgJ2NvbnRlbnQnLCAnc3VwZXJ2aXNvcicsICdhY2NvdW50YW50JywgJ21hbmFnZXJfY28nLCAnbWFya2V0ZXInXQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
