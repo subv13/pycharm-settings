@@ -346,11 +346,11 @@
         <mark key="^" line="79" column="70" />
         <mark key="." line="79" column="70" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/calculations.py" timestamp="1502709521551">
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="^" line="174" column="64" />
-        <mark key="." line="265" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/calculations.py" timestamp="1502790191025">
+        <mark key="[" line="211" column="75" />
+        <mark key="]" line="211" column="75" />
+        <mark key="^" line="211" column="75" />
+        <mark key="." line="211" column="75" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/api/marketing.py" timestamp="1494911038835">
         <mark key="[" line="613" column="17" />
@@ -688,7 +688,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1502688929843">
+      <file name="/dummy.sql" timestamp="1502790440734">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -868,7 +868,7 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="36" column="3" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/SummaryTable.js" timestamp="1502789259705">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/SummaryTable.js" timestamp="1502790260466">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -944,11 +944,6 @@
         <mark key="]" line="2019" column="0" />
         <mark key="." line="2019" column="0" />
         <mark key="^" line="2470" column="27" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/controllers.py" timestamp="1502691456625">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/worksheet.html" timestamp="1488369021158">
         <mark key="[" line="4" column="23" />
