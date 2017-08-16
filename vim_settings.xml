@@ -599,11 +599,11 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1502876810882">
-        <mark key="[" line="45" column="35" />
-        <mark key="]" line="45" column="46" />
-        <mark key="^" line="45" column="46" />
-        <mark key="." line="45" column="46" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1502878132631">
+        <mark key="[" line="45" column="32" />
+        <mark key="]" line="45" column="40" />
+        <mark key="^" line="45" column="40" />
+        <mark key="." line="45" column="40" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/quality_reviews/QualityReviewStatusStore.js" timestamp="1500639140520">
         <mark key="[" line="6" column="11" />
@@ -1052,7 +1052,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/models.py" timestamp="1502875493666" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/models.py" timestamp="1502878112917" />
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/home/urls.py" timestamp="1489402811567">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1617,16 +1617,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>c</text>
+        <text>cash_price</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>cash_price</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdSdjYXNoX3ByaWNlJzogb3JkZXIuY2FzaF9wcmljZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdSdjYXNoX3ByaWNlJzogb3JkZXIuY2FzaF9wcmljZSwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fSk7Cg==</text>
