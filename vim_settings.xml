@@ -599,11 +599,11 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1502875413926">
-        <mark key="[" line="43" column="40" />
-        <mark key="]" line="43" column="40" />
-        <mark key="^" line="43" column="40" />
-        <mark key="." line="43" column="40" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1502876810882">
+        <mark key="[" line="45" column="35" />
+        <mark key="]" line="45" column="46" />
+        <mark key="^" line="45" column="46" />
+        <mark key="." line="45" column="46" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/quality_reviews/QualityReviewStatusStore.js" timestamp="1500639140520">
         <mark key="[" line="6" column="11" />
@@ -694,7 +694,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1502790440734">
+      <file name="/dummy.sql" timestamp="1502876871470">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -1617,16 +1617,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>c</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl0aGlzLnN0b3JlID0gRXh0LmNyZWF0ZSgnRXh0LmRhdGEuQXJyYXlTdG9yZScsIHsKCQkJZmllbGRzOiBbCgkJCQl7CgkJCQkJbmFtZSA6ICd0aXRsZScsCgkJCQkJdHlwZSA6ICd0ZXh0JwoJCQkJfSwKCQkJCXsKCQkJCQluYW1lIDogJ2NvdW50JywKCQkJCQl0eXBlIDogJ3RleHQnCgkJCQl9LAoJCQkJewoJCQkJCW5hbWUgOiAnYXZlcmFnZV9jaGVjaycsCgkJCQkJdHlwZSA6ICd0ZXh0JywKCQkJCQlzb3J0VHlwZSA6IGZ1bmN0aW9uKHYpIHsKICAgICAgICAgICAgICAgICAgICAgICAgdmFyIG4gPSBwYXJzZUZsb2F0KHYpOwogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gaXNOYU4obikgPyAtMSA6IG47CiAgICAgICAgICAgICAgICAgICAgfQoJCQkJfSwKCQkJCXsKCQkJCQluYW1lIDogJ3BlcmNlbnQnLAoJCQkJCXR5cGUgOiAndGV4dCcsCiAgICAgICAgICAgICAgICAgICAgc29ydFR5cGUgOiBmdW5jdGlvbih2KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHZhciBuID0gcGFyc2VGbG9hdCh2LnN1YnN0cmluZygwLCB2LnNlYXJjaCgnJScpKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBpc05hTihuKSA/IC0xIDogbjsKICAgICAgICAgICAgICAgICAgICB9CgkJCQl9LAoJCQkJewoJCQkJCW5hbWUgOiAnYW1vdW50JywKCQkJCQl0eXBlIDogJ3RleHQnCgkJCQl9LAoJCQkJewoJCQkJCW5hbWUgOiAnYW1vdW50X3BlcmNlbnQnLAoJCQkJCXR5cGUgOiAndGV4dCcKCQkJCX0sCgkJCQl7CiAgICAgICAgICAgICAgICAgICAgbmFtZSA6ICdjYXRlZ29yeScsCiAgICAgICAgICAgICAgICAgICAgdHlwZSA6ICd0ZXh0JwogICAgICAgICAgICAgICAgfQoJCQldLAogICAgICAgICAgICBncm91cEZpZWxkOiAnY2F0ZWdvcnknCgkJfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdSdjYXNoX3ByaWNlJzogb3JkZXIuY2FzaF9wcmljZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">fSk7Cg==</text>
