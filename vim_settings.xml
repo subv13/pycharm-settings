@@ -108,11 +108,10 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1503055857395">
-        <mark key="[" line="49" column="25" />
-        <mark key="]" line="50" column="29" />
-        <mark key="^" line="50" column="29" />
-        <mark key="." line="50" column="29" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1503060875039">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/cme/wsgi.py" timestamp="1500547608769">
         <mark key="[" line="15" column="50" />
@@ -598,13 +597,13 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1503056047297">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1503061464252">
         <mark key="'" line="98" column="32" />
-        <mark key="y" line="23" column="17" />
-        <mark key="[" line="107" column="36" />
-        <mark key="]" line="107" column="27" />
-        <mark key="." line="107" column="27" />
-        <mark key="^" line="107" column="27" />
+        <mark key="y" line="96" column="27" />
+        <mark key="[" line="134" column="57" />
+        <mark key="]" line="134" column="71" />
+        <mark key="." line="134" column="71" />
+        <mark key="^" line="134" column="71" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/quality_reviews/QualityReviewStatusStore.js" timestamp="1500639140520">
         <mark key="[" line="6" column="11" />
@@ -690,7 +689,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1503058132729">
+      <file name="/dummy.sql" timestamp="1503060508226">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -943,6 +942,11 @@
         <mark key="]" line="2019" column="0" />
         <mark key="." line="2019" column="0" />
         <mark key="^" line="2470" column="27" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/controllers.py" timestamp="1502691456625">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/worksheet.html" timestamp="1488369021158">
         <mark key="[" line="4" column="23" />
@@ -1270,7 +1274,7 @@
         <mark key="^" line="132" column="12" />
         <mark key="." line="132" column="12" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders/kkt.py" timestamp="1503035838507">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders/kkt.py" timestamp="1503060623944">
         <mark key="[" line="89" column="43" />
         <mark key="]" line="89" column="43" />
         <mark key="." line="89" column="43" />
@@ -1620,44 +1624,44 @@
       <jump line="98" column="32" filename="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>FiscalDocumentSerializer</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Str</text>
+        <text>number</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>FiscalDocumentSerializer</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEB1c2VfYXJncyhBUElTY2hlbWEoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBudW1iZXIgPSAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcl9pZCA9IGZpZWxkcy5JbnQocmVxdWlyZWQ9VHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIGlkID0gZmllbGRzLkludCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG51bWJlciA9Cg==</text>
+        <text encoding="base64">Y2xhc3MgS2t0U2hpZnQoU2NoZW1hKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICMgdSd3YXNfcmVmdW5kJzogd2FzX3JlZnVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICMgdSd1cmwnOiBvcmRlcl9jaGVjay51cmwsCg==</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICMgdSdhbW91bnQnOiBvcmRlcl9jaGVjay5hbW91bnQsCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBra3RfZGV2aWNlX3NoaWZ0Ogo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgdSd0eXBlJzogb3JkZXJfY2hlY2sudHlwZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoewogICAgICAgICAgICAgICAgdSdzdGF0dXMnOiB1J0VSUk9SJywKICAgICAgICAgICAgICAgIHUnZXJyb3InOiB1J9Ch0LzQtdC90LAg0YEg0YLQsNC60LjQvCBJRCDQtNC70Y8g0YPRgdGC0YDQvtC50YHRgtCy0LAg0JrQmtCiINC90LUg0L3QsNC50LTQtdC90LAnCiAgICAgICAgICAgIH0pLCA0MDQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICMgdSdvcmRlcl9pZCc6IG9yZGVyX2NoZWNrLm9yZGVyX2lkLAo=</text>
+        <text encoding="base64">ICAgICAgICBudW1iZXIgPSAK</text>
       </register>
       <register name=":" type="4">
         <text>2017</text>
