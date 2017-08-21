@@ -603,13 +603,13 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1503309624006">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1503311441173">
         <mark key="'" line="8" column="0" />
         <mark key="y" line="24" column="0" />
-        <mark key="[" line="99" column="19" />
-        <mark key="]" line="99" column="19" />
-        <mark key="^" line="99" column="56" />
-        <mark key="." line="99" column="19" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="74" column="56" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/quality_reviews/QualityReviewStatusStore.js" timestamp="1500639140520">
         <mark key="[" line="6" column="11" />
@@ -1619,8 +1619,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>2</text>
@@ -1632,19 +1632,19 @@
         <text encoding="base64">ICAgIGZkX251bWJlciA9IGZpZWxkcy5JbnQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdSdjaGVjayc6IHNlbGYuX3BhY2tfa2t0X29yZGVyX2NoZWNrKGNoZWNrKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAjIGRlc2VyaWFsaXplPWxhbWJkYSBjaGVjazogY2hlY2tbJ2ZkX251bWJlciddCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZkX251bWJlciA9IGZpZWxkcy5JbnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBwYWNrX2trdF9kZXZpY2Vfc2hpZnQoY2xzLCBra3RfZGV2aWNlX3NoaWZ0KToKICAgICAgICByZXR1cm4gewogICAgICAgICAgICB1J2lkJzoga2t0X2RldmljZV9zaGlmdC5pZCwKICAgICAgICAgICAgdSdudW1iZXInOiBra3RfZGV2aWNlX3NoaWZ0Lm51bWJlciwKICAgICAgICAgICAgdSdjcmVhdGVkX2F0Jzoga2t0X2RldmljZV9zaGlmdC5ra3RfZGV2aWNlLnBvaW50LmNpdHkuY29udmVydF90b19jaXR5X2RhdGV0aW1lKAogICAgICAgICAgICAgICAgcHl0ei51dGMubG9jYWxpemUoa2t0X2RldmljZV9zaGlmdC5jcmVhdGVkX2F0KQogICAgICAgICAgICApLnN0cmZ0aW1lKCclWS0lbS0lZFQlSDolTTolUycpLAogICAgICAgICAgICB1J2Nsb3NlZF9hdCc6IGtrdF9kZXZpY2Vfc2hpZnQua2t0X2RldmljZS5wb2ludC5jaXR5LmNvbnZlcnRfdG9fY2l0eV9kYXRldGltZSgKICAgICAgICAgICAgICAgIHB5dHoudXRjLmxvY2FsaXplKGtrdF9kZXZpY2Vfc2hpZnQuY2xvc2VkX2F0KQogICAgICAgICAgICApLnN0cmZ0aW1lKCclWS0lbS0lZFQlSDolTTolUycpIGlmIGtrdF9kZXZpY2Vfc2hpZnQuY2xvc2VkX2F0IGVsc2UgTm9uZSwKICAgICAgICAgICAgdSdzdGF0ZSc6IHUnb3BlbmVkJyBpZiBra3RfZGV2aWNlX3NoaWZ0LnN0YXRlID09IEtrdERldmljZVNoaWZ0LlNUQVRFLk9QRU5FRCBlbHNlIHUnY2xvc2VkJwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0W3UncmVmdW5kX3JlYXNvbiddID0gb3JkZXJfY2hlY2sucmVmdW5kX3JlYXNvbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdSdra3Rfc2hpZnRfbGlzdCc6IG1hcChzZWxmLnBhY2tfa2t0X2RldmljZV9zaGlmdCwgcGFnZS5vYmplY3RfbGlzdCksCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBvcmRlcl9jaGVjay5yZWZ1bmRfcmVhc29uIGlzIG5vdCBOb25lOgo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1653,10 +1653,10 @@
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdSdzdGF0ZSc6IHUnb3BlbmVkJyBpZiBra3RfZGV2aWNlX3NoaWZ0LnN0YXRlID09IEtrdERldmljZVNoaWZ0LlNUQVRFLk9QRU5FRCBlbHNlIHUnY2xvc2VkJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdSd3YXNfcmVmdW5kJzogd2FzX3JlZnVuZAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKS5zdHJmdGltZSgnJVktJW0tJWRUJUg6JU06JVMnKSBpZiBra3RfZGV2aWNlX3NoaWZ0LmNsb3NlZF9hdCBlbHNlIE5vbmUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdSd1cmwnOiBvcmRlcl9jaGVjay51cmwsCg==</text>
       </register>
       <register name=":" type="4">
         <text>2017</text>
