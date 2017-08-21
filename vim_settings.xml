@@ -597,13 +597,12 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1503062630300">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1503290854898">
         <mark key="'" line="98" column="32" />
         <mark key="y" line="96" column="27" />
-        <mark key="[" line="272" column="0" />
-        <mark key="]" line="272" column="0" />
-        <mark key="." line="272" column="0" />
-        <mark key="^" line="134" column="71" />
+        <mark key="[" line="229" column="0" />
+        <mark key="]" line="229" column="0" />
+        <mark key="." line="229" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/quality_reviews/QualityReviewStatusStore.js" timestamp="1500639140520">
         <mark key="[" line="6" column="11" />
@@ -1625,7 +1624,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>number</text>
@@ -1637,7 +1636,7 @@
         <text encoding="base64">ICAgIEB1c2VfYXJncyhBUElTY2hlbWEoKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -1646,22 +1645,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlkID0gZmllbGRzLkludCgpCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Y2xhc3MgS2t0U2hpZnQoU2NoZW1hKToK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlkID0gZmllbGRzLkludCgpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y2xhc3MgS2t0U2hpZnQoU2NoZW1hKToK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBra3RfZGV2aWNlX3NoaWZ0Ogo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGpzb25pZnkoewogICAgICAgICAgICAgICAgdSdzdGF0dXMnOiB1J0VSUk9SJywKICAgICAgICAgICAgICAgIHUnZXJyb3InOiB1J9Ch0LzQtdC90LAg0YEg0YLQsNC60LjQvCBJRCDQtNC70Y8g0YPRgdGC0YDQvtC50YHRgtCy0LAg0JrQmtCiINC90LUg0L3QsNC50LTQtdC90LAnCiAgICAgICAgICAgIH0pLCA0MDQK</text>
+        <text encoding="base64">ICAgICAgICBpZiBra3RfZGV2aWNlX3NoaWZ0Ogo=</text>
       </register>
       <register name=":" type="4">
         <text>2017</text>
