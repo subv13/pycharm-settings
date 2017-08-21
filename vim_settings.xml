@@ -1659,7 +1659,7 @@
         <text encoding="base64">ICAgICAgICAgICAgdSd1cmwnOiBvcmRlcl9jaGVjay51cmwsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>2017</text>
+        <text>843</text>
       </register>
     </registers>
     <search>
@@ -1700,6 +1700,7 @@
         <entry>540</entry>
         <entry>w</entry>
         <entry>2017</entry>
+        <entry>843</entry>
       </history-cmd>
       <history-expr />
       <history-input />
