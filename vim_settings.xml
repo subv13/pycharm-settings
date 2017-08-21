@@ -278,7 +278,7 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/urls.py" timestamp="1503056136149">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/urls.py" timestamp="1503297222879">
         <mark key="[" line="7" column="64" />
         <mark key="]" line="7" column="68" />
         <mark key="." line="7" column="68" />
@@ -495,7 +495,7 @@
         <mark key="." line="68" column="20" />
         <mark key="^" line="68" column="25" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/utils/mixins.py" timestamp="1503293052256" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/utils/mixins.py" timestamp="1503296373775" />
       <file name="$USER_HOME$/smenateam/smenaschool/cme/cme/settings.py" timestamp="1500532790077">
         <mark key="[" line="90" column="17" />
         <mark key="]" line="90" column="47" />
@@ -598,13 +598,13 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1503294803043">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1503297520470">
         <mark key="'" line="8" column="0" />
         <mark key="y" line="183" column="23" />
-        <mark key="[" line="302" column="22" />
-        <mark key="]" line="302" column="22" />
-        <mark key="^" line="302" column="22" />
-        <mark key="." line="302" column="22" />
+        <mark key="[" line="222" column="58" />
+        <mark key="]" line="222" column="63" />
+        <mark key="^" line="222" column="63" />
+        <mark key="." line="222" column="63" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/quality_reviews/QualityReviewStatusStore.js" timestamp="1500639140520">
         <mark key="[" line="6" column="11" />
@@ -690,7 +690,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1503060508226">
+      <file name="/dummy.sql" timestamp="1503297161920">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -699,7 +699,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503034682274">
+      <file name="/Dummy.txt" timestamp="1503296664477">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -830,12 +830,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1503055768871">
-        <mark key="[" line="105" column="48" />
-        <mark key="]" line="106" column="36" />
-        <mark key="^" line="106" column="36" />
-        <mark key="." line="106" column="36" />
-      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1503055768871" />
       <file name="$USER_HOME$/smenateam/medcenter/frontend/markup/pages/temp/_all.jade" timestamp="1487755944596">
         <mark key="[" line="23" column="52" />
         <mark key="]" line="23" column="47" />
@@ -1060,7 +1055,6 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/models.py" timestamp="1502878112917" />
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/home/urls.py" timestamp="1489402811567">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1626,10 +1620,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>f</text>
+        <text>OPENED</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>OPENED</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
