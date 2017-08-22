@@ -695,7 +695,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1503382168373">
+      <file name="/dummy.sql" timestamp="1503382858636">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -1273,12 +1273,6 @@
         <mark key="]" line="39" column="13" />
         <mark key="^" line="39" column="13" />
         <mark key="." line="39" column="13" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/geo/domain/services/geocoding.py" timestamp="1503325904440">
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="12" />
-        <mark key="^" line="242" column="7" />
-        <mark key="." line="248" column="12" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/departments/urls.py" timestamp="1489139342004">
         <mark key="[" line="5" column="41" />
