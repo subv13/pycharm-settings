@@ -605,9 +605,9 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1503393946242">
-        <mark key="[" line="44" column="68" />
-        <mark key="]" line="44" column="43" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1503406552783">
+        <mark key="[" line="75" column="28" />
+        <mark key="]" line="75" column="51" />
         <mark key="." line="44" column="43" />
         <mark key="^" line="44" column="43" />
       </file>
@@ -1611,7 +1611,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>11</text>
+        <text>Чек с таким ID не найден</text>
       </register>
       <register name="-" type="4">
         <text>11</text>
@@ -1620,7 +1620,7 @@
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="4">
-        <text>Заказ с таким ID на точке устройства ККТ не найден</text>
+        <text>Чек с таким ID не найден</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHVybCA9IGZpZWxkcy5TdHIoKQo=</text>
