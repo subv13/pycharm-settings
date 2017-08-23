@@ -48,6 +48,15 @@
         <mark key="." line="19" column="122" />
         <mark key="^" line="19" column="122" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/ComplexReportPanel.js" timestamp="1503482152339">
+        <mark key="t" line="86" column="31" />
+        <mark key="y" line="207" column="23" />
+        <mark key="j" line="208" column="20" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="217" column="51" />
+        <mark key="." line="217" column="51" />
+        <mark key="^" line="217" column="51" />
+      </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/select-day/select-day.jade" timestamp="1489395805559">
         <mark key="[" line="19" column="63" />
         <mark key="]" line="19" column="64" />
@@ -709,7 +718,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503324255699">
+      <file name="/Dummy.txt" timestamp="1503481926970">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -867,11 +876,10 @@
         <mark key="^" line="36" column="3" />
         <mark key="." line="36" column="3" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/SummaryTable.js" timestamp="1503470128101">
-        <mark key="[" line="24" column="32" />
-        <mark key="]" line="24" column="43" />
-        <mark key="." line="24" column="43" />
-        <mark key="^" line="24" column="43" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/SummaryTable.js" timestamp="1503482743054">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/ComplexReport.js" timestamp="1502705722210">
         <mark key="[" line="0" column="38" />
@@ -944,6 +952,11 @@
         <mark key="]" line="2019" column="0" />
         <mark key="." line="2019" column="0" />
         <mark key="^" line="2470" column="27" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/controllers.py" timestamp="1502691456625">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/worksheet.html" timestamp="1488369021158">
         <mark key="[" line="4" column="23" />
@@ -1129,12 +1142,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/NewComplexReport.js" timestamp="1503468018884">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/NewComplexReport.js" timestamp="1503481729997">
         <mark key="y" line="25" column="8" />
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="42" />
-        <mark key="^" line="26" column="42" />
-        <mark key="." line="26" column="42" />
+        <mark key="[" line="39" column="93" />
+        <mark key="]" line="39" column="98" />
+        <mark key="^" line="39" column="98" />
+        <mark key="." line="39" column="98" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1495004785715">
         <mark key="[" line="104" column="18" />
@@ -1617,11 +1630,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>name</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>amount_percent</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
@@ -1630,31 +1643,31 @@
         <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnOiAnNS4g0J/QviDRgdGC0LDRgtGD0YHRgyDQutC70LjQtdC90YLQvtCyJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF0sCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sbGFwc2libGU6IHRydWUK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NhdGVnb3J5JzogdScyLiDQn9C+INC40YHQv9C+0LvQvdC10L3QvdGL0LwnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JvdXBIZWFkZXJUcGw6ICd7bmFtZX0nLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NhdGVnb3J5JzogdScyLiDQn9C+INC40YHQv9C+0LvQvdC10L3QvdGL0LwnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnR5cGU6ICdncm91cGluZycsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NhdGVnb3J5JzogdScyLiDQn9C+INC40YHQv9C+0LvQvdC10L3QvdGL0LwnLAo=</text>
+        <text encoding="base64">ICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NhdGVnb3J5JzogdScxLiDQn9C+INGB0YLQsNGC0YPRgdCw0LwnLAo=</text>
+        <text encoding="base64">ICAgIGZlYXR1cmVzOiBbCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3BlcmNlbnRfc3VtJzogJzEwMCUnLAogICAgICAgICAgICAnY2F0ZWdvcnknOiB1JzEuINCf0L4g0YHRgtCw0YLRg9GB0LDQvCcsCg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZmVhdHVyZXM6IFsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmdHlwZTogJ2dyb3VwaW5nJywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBncm91cEhlYWRlclRwbDogJ3tuYW1lfScsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29sbGFwc2libGU6IHRydWUKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgXQ==</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
