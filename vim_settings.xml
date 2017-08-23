@@ -805,11 +805,12 @@
         <mark key="." line="146" column="64" />
         <mark key="^" line="146" column="64" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1503467964923">
-        <mark key="[" line="548" column="43" />
-        <mark key="]" line="549" column="7" />
-        <mark key="^" line="549" column="7" />
-        <mark key="." line="549" column="7" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1503473826646">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="516" column="0" />
+        <mark key="]" line="516" column="45" />
+        <mark key="." line="516" column="0" />
+        <mark key="^" line="422" column="13" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/Application.js" timestamp="1502705804450" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/delivery/delivery_and_payment.html" timestamp="1495534726879">
@@ -1514,8 +1515,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="39" filename="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/__init__.py" />
-      <jump line="10" column="79" filename="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" />
       <jump line="0" column="0" filename="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" />
       <jump line="80" column="0" filename="$USER_HOME$/smenateam/vncenter/project/apps/feedback/forms.py" />
       <jump line="88" column="10" filename="$USER_HOME$/smenateam/vncenter/project/staticfiles/js/main.js" />
@@ -1614,46 +1613,48 @@
       <jump line="256" column="26" filename="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" />
       <jump line="249" column="77" filename="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" />
       <jump line="8" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" />
+      <jump line="328" column="21" filename="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" />
+      <jump line="25" column="0" filename="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhc190YWJsZSA9IHJlcXVlc3QuUE9TVC5nZXQoJ2FzX3RhYmxlJywgVHJ1ZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnOiAnNS4g0J/QviDRgdGC0LDRgtGD0YHRgyDQutC70LjQtdC90YLQvtCyJywK</text>
       </register>
       <register name="-" type="4">
-        <text>11</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>Чек с таким ID не найден</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgJ25hbWUnOiAnNS4g0J/QviDRgdGC0LDRgtGD0YHRgyDQutC70LjQtdC90YLQvtCyJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhc190YWJsZSA9IHJlcXVlc3QuUE9TVC5nZXQoJ2FzX3RhYmxlJywgVHJ1ZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVybCA9IGZpZWxkcy5TdHIoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRpbnVlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NhdGVnb3J5JzogdScyLiDQn9C+INC40YHQv9C+0LvQvdC10L3QvdGL0LwnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">KirQlNC10YLQsNC70Lgg0LfQsNC60LDQt9CwKioK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NhdGVnb3J5JzogdScyLiDQn9C+INC40YHQv9C+0LvQvdC10L3QvdGL0LwnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gR2Vvc1BvaW50KGZsb2F0KGxvbmdpdHVkZSksIGZsb2F0KGxhdGl0dWRlKSksIHJlc3BvbnNlLnVybAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NhdGVnb3J5JzogdScyLiDQn9C+INC40YHQv9C+0LvQvdC10L3QvdGL0LwnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NhdGVnb3J5JzogdScxLiDQn9C+INGB0YLQsNGC0YPRgdCw0LwnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3BlcmNlbnRfc3VtJzogJzEwMCUnLAogICAgICAgICAgICAnY2F0ZWdvcnknOiB1JzEuINCf0L4g0YHRgtCw0YLRg9GB0LDQvCcsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NhdGVnb3J5JzogdScxLiDQn9C+INGB0YLQsNGC0YPRgdCw0LwnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
