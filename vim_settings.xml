@@ -48,6 +48,12 @@
         <mark key="." line="19" column="122" />
         <mark key="^" line="19" column="122" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Report.js" timestamp="1503483488805">
+        <mark key="y" line="257" column="21" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="221" column="22" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/ComplexReportPanel.js" timestamp="1503482152339">
         <mark key="t" line="86" column="31" />
         <mark key="y" line="207" column="23" />
@@ -1142,12 +1148,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/NewComplexReport.js" timestamp="1503481729997">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/NewComplexReport.js" timestamp="1503483553242">
         <mark key="y" line="25" column="8" />
-        <mark key="[" line="39" column="93" />
-        <mark key="]" line="39" column="98" />
-        <mark key="^" line="39" column="98" />
-        <mark key="." line="39" column="98" />
+        <mark key="[" line="39" column="102" />
+        <mark key="]" line="39" column="102" />
+        <mark key="^" line="39" column="102" />
+        <mark key="." line="39" column="102" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1495004785715">
         <mark key="[" line="104" column="18" />
@@ -1630,11 +1636,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>amount_percent</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
