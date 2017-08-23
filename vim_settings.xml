@@ -527,11 +527,11 @@
         <mark key="^" line="11" column="39" />
         <mark key="." line="11" column="39" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/urls.py" timestamp="1502689601360">
-        <mark key="[" line="11" column="4" />
-        <mark key="]" line="11" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/urls.py" timestamp="1503468007558">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/news/news/settings.py" timestamp="1496561829783">
         <mark key="[" line="57" column="17" />
@@ -700,7 +700,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1503402871341">
+      <file name="/dummy.sql" timestamp="1503468001959">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -805,11 +805,11 @@
         <mark key="." line="146" column="64" />
         <mark key="^" line="146" column="64" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1502864273634">
-        <mark key="[" line="214" column="16" />
-        <mark key="]" line="214" column="23" />
-        <mark key="^" line="214" column="23" />
-        <mark key="." line="214" column="23" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1503467964923">
+        <mark key="[" line="548" column="43" />
+        <mark key="]" line="549" column="7" />
+        <mark key="^" line="549" column="7" />
+        <mark key="." line="549" column="7" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/Application.js" timestamp="1502705804450">
         <mark key="[" line="43" column="28" />
@@ -1090,6 +1090,13 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/Toolbar.js" timestamp="1502787796468">
+        <mark key="y" line="4" column="30" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="6" column="41" />
+        <mark key="^" line="60" column="57" />
+        <mark key="." line="60" column="57" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/extjs/utils1.py" timestamp="1496144871647">
         <mark key="[" line="624" column="88" />
         <mark key="]" line="624" column="88" />
@@ -1125,6 +1132,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/NewComplexReport.js" timestamp="1503468018884">
+        <mark key="y" line="25" column="8" />
+        <mark key="[" line="26" column="42" />
+        <mark key="]" line="26" column="42" />
+        <mark key="^" line="26" column="42" />
+        <mark key="." line="26" column="42" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1495004785715">
         <mark key="[" line="104" column="18" />
@@ -1610,8 +1624,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Чек с таким ID не найден</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBhc190YWJsZSA9IHJlcXVlc3QuUE9TVC5nZXQoJ2FzX3RhYmxlJywgVHJ1ZSkK</text>
       </register>
       <register name="-" type="4">
         <text>11</text>
@@ -1623,31 +1637,31 @@
         <text>Чек с таким ID не найден</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybCA9IGZpZWxkcy5TdHIoKQo=</text>
+        <text encoding="base64">ICAgICAgICBhc190YWJsZSA9IHJlcXVlc3QuUE9TVC5nZXQoJ2FzX3RhYmxlJywgVHJ1ZSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KirQlNC10YLQsNC70Lgg0LfQsNC60LDQt9CwKioK</text>
+        <text encoding="base64">ICAgIHVybCA9IGZpZWxkcy5TdHIoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gR2Vvc1BvaW50KGZsb2F0KGxvbmdpdHVkZSksIGZsb2F0KGxhdGl0dWRlKSksIHJlc3BvbnNlLnVybAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">KirQlNC10YLQsNC70Lgg0LfQsNC60LDQt9CwKioK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gR2Vvc1BvaW50KGZsb2F0KGxvbmdpdHVkZSksIGZsb2F0KGxhdGl0dWRlKSksIHJlc3BvbnNlLnVybAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0W3UncmVmdW5kX3JlYXNvbiddID0gb3JkZXJfY2hlY2sucmVmdW5kX3JlYXNvbgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBvcmRlcl9jaGVjay5yZWZ1bmRfcmVhc29uIGlzIG5vdCBOb25lOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
