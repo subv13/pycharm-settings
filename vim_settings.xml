@@ -123,12 +123,12 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1503556030470">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1503557689726">
         <mark key="y" line="55" column="7" />
-        <mark key="[" line="45" column="68" />
-        <mark key="]" line="27" column="17" />
-        <mark key="^" line="27" column="17" />
-        <mark key="." line="27" column="17" />
+        <mark key="[" line="33" column="31" />
+        <mark key="]" line="34" column="53" />
+        <mark key="." line="34" column="53" />
+        <mark key="^" line="34" column="53" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/cme/wsgi.py" timestamp="1500547608769">
         <mark key="[" line="15" column="50" />
@@ -232,7 +232,7 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503556172648">
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1503557239787">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="." line="0" column="17" />
@@ -1636,10 +1636,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>self</text>
+        <text>cash_price</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
@@ -1648,28 +1648,28 @@
         <text encoding="base64">ICAgIHF1YW50aXR5ID0gZmllbGRzLkludCgpCiAgICBwcmljZSA9IGZpZWxkcy5JbnQoKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgaXRlbXMgPSBmaWVsZHMuTmVzdGVkKEl0ZW1TZXJpYWxpemVyLCBtYW55PVRydWUsIGF0dHJpYnV0ZT0naXRlbV9jb2xsZWN0aW9uJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBfYXNfb25lX2l0ZW0ob3JkZXIpOgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGRlZiBfYXNfb25lX2l0ZW0ob3JkZXIpOgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZXJpYWxpemVyID0gSXRlbVNlcmlhbGl6ZXIobWFueT1UcnVlKQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
