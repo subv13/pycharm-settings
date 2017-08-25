@@ -9,7 +9,7 @@
         <mark key="^" line="29" column="141" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1503055894386">
+      <file name="/a.dummy" timestamp="1503643350086">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/test.py" timestamp="1491905037076">
@@ -53,15 +53,6 @@
         <mark key="[" line="220" column="0" />
         <mark key="]" line="221" column="22" />
         <mark key="." line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/ComplexReportPanel.js" timestamp="1503482152339">
-        <mark key="t" line="86" column="31" />
-        <mark key="y" line="207" column="23" />
-        <mark key="j" line="208" column="20" />
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="217" column="51" />
-        <mark key="." line="217" column="51" />
-        <mark key="^" line="217" column="51" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/select-day/select-day.jade" timestamp="1489395805559">
         <mark key="[" line="19" column="63" />
@@ -414,7 +405,7 @@
         <mark key="^" line="53" column="10" />
         <mark key="." line="53" column="10" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/requirements.txt" timestamp="1503046162192">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/requirements.txt" timestamp="1503643591756">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="22" column="13" />
         <mark key="." line="22" column="13" />
@@ -713,7 +704,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1503556168976">
+      <file name="/dummy.sql" timestamp="1503643482290">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
