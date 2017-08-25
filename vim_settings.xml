@@ -804,7 +804,7 @@
         <mark key="^" line="146" column="64" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/migrations/0004_auto__add_kktfiscaldocument__del_field_ordercheck_fiscal_document__add.py" timestamp="1503653751328" />
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1503551206361">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1503668170703">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="515" column="23" />
         <mark key="]" line="515" column="26" />
@@ -1008,7 +1008,7 @@
         <mark key="^" line="3367" column="94" />
         <mark key="." line="3367" column="94" />
       </file>
-      <file name="/Python Console" timestamp="1503552729248">
+      <file name="/Python Console" timestamp="1503667512513">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -1132,12 +1132,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/NewComplexReport.js" timestamp="1503487878588">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/NewComplexReport.js" timestamp="1503668244336">
         <mark key="y" line="27" column="8" />
-        <mark key="[" line="47" column="53" />
-        <mark key="]" line="47" column="59" />
-        <mark key="." line="47" column="59" />
-        <mark key="^" line="47" column="59" />
+        <mark key="[" line="53" column="52" />
+        <mark key="]" line="53" column="52" />
+        <mark key="^" line="52" column="28" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1495004785715">
         <mark key="[" line="104" column="18" />
@@ -1622,7 +1622,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICDQp9GD0YLQutCwINC/0LXRgNC10LTQtdC70LDRgtGMINGH0YLQvtCx0Ysg0LIg0L7RhNC0INGD0YXQvtC00LjQu9CwINC90L7RgNC8INGG0LXQvdCwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvb2xiYXIudXAoKS51cCgpLnNldExvYWRpbmcoZmFsc2UpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>cash_price</text>
@@ -1631,34 +1631,34 @@
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHF1YW50aXR5ID0gZmllbGRzLkludCgpCiAgICBwcmljZSA9IGZpZWxkcy5JbnQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvb2xiYXIudXAoKS51cCgpLnNldExvYWRpbmcoZmFsc2UpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICDQp9GD0YLQutCwINC/0LXRgNC10LTQtdC70LDRgtGMINGH0YLQvtCx0Ysg0LIg0L7RhNC0INGD0YXQvtC00LjQu9CwINC90L7RgNC8INGG0LXQvdCwCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICMgaXRlbXMgPSBmaWVsZHMuTmVzdGVkKEl0ZW1TZXJpYWxpemVyLCBtYW55PVRydWUsIGF0dHJpYnV0ZT0naXRlbV9jb2xsZWN0aW9uJykK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBFeHQuYWxlcgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICDQp9GD0YLQutCwINC/0LXRgNC10LTQtdC70LDRgtGMINGH0YLQvtCx0Ysg0LIg0L7RhNC0INGD0YXQvtC00LjQu9CwINC90L7RgNC8INGG0LXQvdCwCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICMgaXRlbXMgPSBmaWVsZHMuTmVzdGVkKEl0ZW1TZXJpYWxpemVyLCBtYW55PVRydWUsIGF0dHJpYnV0ZT0naXRlbV9jb2xsZWN0aW9uJykK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGRlZiBfYXNfb25lX2l0ZW0ob3JkZXIpOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBzdGF0aWNtZXRob2QgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGRlZiBfYXNfb25lX2l0ZW0ob3JkZXIpOgo=</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
