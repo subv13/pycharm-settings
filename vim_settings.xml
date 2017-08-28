@@ -48,6 +48,15 @@
         <mark key="." line="19" column="122" />
         <mark key="^" line="19" column="122" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/ComplexReportPanel.js" timestamp="1503900307165">
+        <mark key="t" line="86" column="31" />
+        <mark key="y" line="207" column="23" />
+        <mark key="j" line="208" column="20" />
+        <mark key="[" line="214" column="0" />
+        <mark key="]" line="217" column="51" />
+        <mark key="." line="217" column="51" />
+        <mark key="^" line="217" column="51" />
+      </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/select-day/select-day.jade" timestamp="1489395805559">
         <mark key="[" line="19" column="63" />
         <mark key="]" line="19" column="64" />
@@ -205,11 +214,11 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/ReportPanel.js" timestamp="1503488950047">
-        <mark key="[" line="12" column="5" />
-        <mark key="]" line="12" column="5" />
-        <mark key="^" line="12" column="5" />
-        <mark key="." line="12" column="5" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/ReportPanel.js" timestamp="1503900328792">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="33" />
+        <mark key="^" line="24" column="33" />
+        <mark key="." line="24" column="33" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/smenaschool1/app1/templates/app1/hello_world.html" timestamp="1493962932504">
         <mark key="[" line="6" column="30" />
@@ -441,6 +450,7 @@
         <mark key="^" line="15" column="66" />
         <mark key="." line="83" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/ReportChart.js" timestamp="1503900250715" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/app.py" timestamp="1497619426343">
         <mark key="[" line="30" column="30" />
         <mark key="]" line="30" column="40" />
@@ -687,7 +697,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1503650632107">
+      <file name="/dummy.sql" timestamp="1503899759850">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -696,7 +706,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503896479604">
+      <file name="/Dummy.txt" timestamp="1503900256049">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -793,7 +803,7 @@
         <mark key="^" line="146" column="64" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/migrations/0004_auto__add_kktfiscaldocument__del_field_ordercheck_fiscal_document__add.py" timestamp="1503653751328" />
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1503898994714">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1503900151276">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="515" column="23" />
         <mark key="]" line="515" column="26" />
@@ -1010,7 +1020,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/fragment.py" timestamp="1503556098746">
+      <file name="/fragment.py" timestamp="1503900043537">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
