@@ -804,7 +804,7 @@
         <mark key="^" line="146" column="64" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/migrations/0004_auto__add_kktfiscaldocument__del_field_ordercheck_fiscal_document__add.py" timestamp="1503653751328" />
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1503668170703">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1503894015200">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="515" column="23" />
         <mark key="]" line="515" column="26" />
