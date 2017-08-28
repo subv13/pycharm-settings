@@ -417,12 +417,6 @@
         <mark key="." line="15" column="16" />
         <mark key="^" line="15" column="16" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/managers.py" timestamp="1503896023461">
-        <mark key="[" line="194" column="0" />
-        <mark key="]" line="194" column="0" />
-        <mark key="." line="194" column="0" />
-        <mark key="^" line="381" column="56" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/utils/geo.py" timestamp="1491280834349">
         <mark key="[" line="239" column="0" />
         <mark key="]" line="239" column="0" />
@@ -519,12 +513,7 @@
         <mark key="^" line="34" column="71" />
         <mark key="." line="34" column="71" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/templates/export_1c.xml" timestamp="1503895580061">
-        <mark key="[" line="12" column="37" />
-        <mark key="]" line="12" column="40" />
-        <mark key="^" line="12" column="40" />
-        <mark key="." line="12" column="40" />
-      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/templates/export_1c.xml" timestamp="1503895580061" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/urls.py" timestamp="1503468007558">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -804,7 +793,7 @@
         <mark key="^" line="146" column="64" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/migrations/0004_auto__add_kktfiscaldocument__del_field_ordercheck_fiscal_document__add.py" timestamp="1503653751328" />
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1503895209135">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/views.py" timestamp="1503898994714">
         <mark key="'" line="25" column="0" />
         <mark key="[" line="515" column="23" />
         <mark key="]" line="515" column="26" />
@@ -942,11 +931,8 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1503896430680">
-        <mark key="[" line="2019" column="0" />
-        <mark key="]" line="2019" column="0" />
-        <mark key="." line="2019" column="0" />
-        <mark key="^" line="2470" column="27" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1503897237863">
+        <mark key="^" line="2484" column="27" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/worksheet.html" timestamp="1488369021158">
         <mark key="[" line="4" column="23" />
@@ -1009,7 +995,7 @@
         <mark key="^" line="3367" column="94" />
         <mark key="." line="3367" column="94" />
       </file>
-      <file name="/Python Console" timestamp="1503667512513">
+      <file name="/Python Console" timestamp="1503898988119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -1319,6 +1305,7 @@
         <mark key="^" line="122" column="3" />
         <mark key="." line="122" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/media/1c_reports/1cExport_09082017.xml" timestamp="1503897913053" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/serializers.py" timestamp="1495022560061">
         <mark key="[" line="31" column="79" />
         <mark key="]" line="32" column="7" />
