@@ -880,12 +880,6 @@
         <mark key="." line="40" column="10" />
         <mark key="^" line="40" column="10" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/__init__.py" timestamp="1501494217070">
-        <mark key="[" line="669" column="51" />
-        <mark key="]" line="671" column="80" />
-        <mark key="^" line="671" column="80" />
-        <mark key="." line="671" column="80" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/requests_retry_session.py" timestamp="1502175820649">
         <mark key="[" line="35" column="38" />
         <mark key="]" line="36" column="3" />
