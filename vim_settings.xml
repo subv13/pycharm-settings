@@ -136,13 +136,6 @@
         <mark key="." line="40" column="40" />
         <mark key="^" line="40" column="40" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/FilterSalesTable.js" timestamp="1503916246478">
-        <mark key="'" line="57" column="1" />
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="30" />
-        <mark key="." line="3" column="30" />
-        <mark key="^" line="3" column="30" />
-      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/cme/wsgi.py" timestamp="1500547608769">
         <mark key="[" line="15" column="50" />
         <mark key="]" line="15" column="62" />
@@ -651,7 +644,7 @@
         <mark key="." line="32" column="88" />
         <mark key="^" line="32" column="88" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/templates/report_template/bill_farfor3.html" timestamp="1501754199499">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/templates/report_template/bill_farfor3.html" timestamp="1503998547387">
         <mark key="[" line="950" column="42" />
         <mark key="]" line="951" column="34" />
         <mark key="." line="951" column="34" />
@@ -743,7 +736,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503995379148">
+      <file name="/Dummy.txt" timestamp="1503998388818">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
