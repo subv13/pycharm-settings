@@ -30,6 +30,11 @@
         <mark key="." line="139" column="23" />
         <mark key="^" line="139" column="23" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/common/flux-apps/menu/react-components/container.jsx" timestamp="1504097438641">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/referral/models.py" timestamp="1491542371693">
         <mark key="[" line="53" column="14" />
         <mark key="]" line="53" column="15" />
@@ -194,6 +199,7 @@
         <mark key="." line="40" column="18" />
         <mark key="^" line="40" column="18" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/build/slotMachine.html" timestamp="1504097378429" />
       <file name="$USER_HOME$/smenateam/vncenter/.gitignore" timestamp="1487928469898">
         <mark key="[" line="125" column="15" />
         <mark key="]" line="126" column="13" />
@@ -728,7 +734,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504093736443">
+      <file name="/Dummy.txt" timestamp="1504097378715">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1494,11 +1500,6 @@
         <mark key="^" line="17" column="34" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/orders/Order.js" timestamp="1504073888387">
-        <mark key="y" line="20" column="11" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="31" column="5" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/layout/markup/blocks/orderSheet/orderSheet.styl" timestamp="1494918411248">
         <mark key="[" line="124" column="28" />
         <mark key="]" line="125" column="21" />
@@ -1693,7 +1694,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheUluZm86IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1705,31 +1706,31 @@
         <text>orders.kkt.CheckListStore</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheUluZm86IHRydWUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5SW5mbzogdHJ1ZQogICAgfSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheUluZm86IHRydWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5SW5mbzogdHJ1ZQogICAgfSksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5SW5mbzogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBkaXNwbGF5SW5mbzogdHJ1ZQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5SW5mbzogdHJ1ZQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtYXhfbGlkZG1pdCA9IDUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
+        <text encoding="base64">ICAgICAgICBtYXhfbGlkZG1pdCA9IDUK</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
