@@ -658,7 +658,6 @@
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/urls.py" timestamp="1504093051691">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
-        <mark key="^" line="25" column="31" />
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/orders/kkt/Check.js" timestamp="1504087575021">
@@ -1178,11 +1177,6 @@
         <mark key="]" line="12" column="10" />
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="10" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/api.py" timestamp="1504093403195">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/orders/kkt.py" timestamp="1503991313017" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/OrderDetail.js" timestamp="1504094185822">
