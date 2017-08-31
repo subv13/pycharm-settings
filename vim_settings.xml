@@ -697,6 +697,7 @@
         <mark key="^" line="79" column="7" />
         <mark key="." line="79" column="7" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/production/erp/pre-release/update_backend.yml" timestamp="1504166104769" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/admin.py" timestamp="1487575944748">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
