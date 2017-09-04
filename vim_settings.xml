@@ -742,7 +742,7 @@
         <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/kkt/HistoryCheckList.js" timestamp="1504154770122" />
-      <file name="/Dummy.txt" timestamp="1504510588309">
+      <file name="/Dummy.txt" timestamp="1504515598814">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1233,7 +1233,7 @@
         <mark key="^" line="4" column="18" />
         <mark key="." line="4" column="18" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/courier_service/__init__.py" timestamp="1503310267566">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/courier_service/__init__.py" timestamp="1504515598509">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -1268,6 +1268,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
         <mark key="^" line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/courier_service.py" timestamp="1504515627432">
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="11" column="50" />
+        <mark key="." line="11" column="50" />
+        <mark key="^" line="11" column="50" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/utils/__init__.py" timestamp="1488348130953">
         <mark key="[" line="18" column="0" />
@@ -1692,11 +1698,11 @@
       <jump line="79" column="54" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/api.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>pw</text>
       </register>
       <register name="-" type="4">
-        <text>mr</text>
+        <text>pw</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
