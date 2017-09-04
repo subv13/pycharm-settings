@@ -411,7 +411,7 @@
         <mark key="." line="28" column="0" />
         <mark key="^" line="22" column="26" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/OrderListFilter.js" timestamp="1504172945916" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/OrderListFilter.js" timestamp="1504503093594" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/admin/BannerForm.js" timestamp="1500636936494">
         <mark key="[" line="263" column="27" />
         <mark key="]" line="263" column="28" />
@@ -742,7 +742,7 @@
         <mark key="^" line="5" column="19" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/kkt/HistoryCheckList.js" timestamp="1504154770122" />
-      <file name="/Dummy.txt" timestamp="1504181841112">
+      <file name="/Dummy.txt" timestamp="1504503093942">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -969,12 +969,8 @@
         <mark key="^" line="137" column="22" />
         <mark key="." line="137" column="22" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/kkt/CheckListFilter.js" timestamp="1504182432479">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/kkt/CheckListFilter.js" timestamp="1504502427457">
         <mark key="y" line="48" column="24" />
-        <mark key="[" line="3" column="21" />
-        <mark key="]" line="3" column="22" />
-        <mark key="^" line="3" column="15" />
-        <mark key="." line="3" column="22" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/config/django/database.py" timestamp="1489385291112">
         <mark key="[" line="14" column="28" />
@@ -988,12 +984,11 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="9" column="66" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/orders/kkt/CheckListController.js" timestamp="1504182306482">
-        <mark key="y" line="19" column="15" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="28" />
-        <mark key="^" line="26" column="19" />
-        <mark key="." line="24" column="28" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/orders/kkt/CheckListController.js" timestamp="1504503425939">
+        <mark key="y" line="32" column="15" />
+        <mark key="[" line="68" column="8" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/home/templates/home/blocks/address.html" timestamp="1487657681112">
         <mark key="[" line="0" column="14" />
@@ -1327,10 +1322,10 @@
         <mark key="." line="21" column="33" />
         <mark key="^" line="21" column="33" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Administrator.js" timestamp="1502272431106">
-        <mark key="[" line="2607" column="76" />
-        <mark key="]" line="2607" column="69" />
-        <mark key="." line="2607" column="69" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Administrator.js" timestamp="1504503447998">
+        <mark key="[" line="2353" column="23" />
+        <mark key="]" line="2353" column="23" />
+        <mark key="." line="2353" column="23" />
         <mark key="^" line="2607" column="69" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/routers.py" timestamp="1493014910663">
@@ -1688,43 +1683,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFmdGVycmVuZGVyOiBmdW5jdGlvbiAoZ3JpZCkgewogICAgICAgICAgICAgICAgICAgIGdyaWQudmlldy5nZXRTdG9yZSgpLmFkZEZpbHRlcihFeHQudXRpbC5GaWx0ZXIoewogICAgICAgICAgICAgICAgICAgICAgICBpZDogJ2NpdHknLAogICAgICAgICAgICAgICAgICAgICAgICBwcm9wZXJ0eTogJ29yZGVyX19jaXR5JywKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGN1cnJlbnRfY2l0eV9pZAogICAgICAgICAgICAgICAgICAgIH0pKTsKICAgICAgICAgICAgICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAgIHJlZjogJ2NoZWNrTGlzdCcsCiAgICAgICAgICAgIHNlbGVjdG9yOiAna2t0Y2hlY2tsaXN0JwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU6IGN1cnJlbnRfY2l0eV9pZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJvcGVydHk6ICdvcmRlcl9fY2l0eScsCg==</text>
+        <text encoding="base64">ICAgIGFwcGx5RmlsdGVyczogZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWQ6ICdjaXR5JywK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygna2VrJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBncmlkLnZpZXcuZ2V0U3RvcmUoKS5hZGRGaWx0ZXIoRXh0LnV0aWwuRmlsdGVyKHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgY2l0eV9maWVsZCA9IHZpZXcuZG93bignZm9ybScpLmdldEZvcm0oKS5maW5kRmllbGQoJ2NpdHknKTsKICAgICAgICAgICAgICAgICAgICBjaXR5X2ZpZWxkLnNldFZhbHVlKGN1cnJlbnRfY2l0eV9pZCk7CiAgICAgICAgICAgICAgICAgICAgY2l0eV9maWVsZC5zZXRSZWFkT25seSh0cnVlKTsKICAgICAgICAgICAgICAgICAgICB2YXIgcG9pbnRfZmllbGQgPSB2aWV3LmRvd24oJ2Zvcm0nKS5nZXRGb3JtKCkuZmluZEZpZWxkKCdwb2ludCcpOwogICAgICAgICAgICAgICAgICAgIHBvaW50X2ZpZWxkLmdldFN0b3JlKCkuZmlsdGVyKCdjaXR5JywgY3VycmVudF9jaXR5X2lkKTs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRDaGVja0xpc3QoKS5nZXRTdG9yZSgpLmFkZEZpbHRlcigpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
