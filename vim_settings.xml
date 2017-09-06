@@ -728,7 +728,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1504689908622">
+      <file name="/dummy.sql" timestamp="1504700110221">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
@@ -874,11 +874,11 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1504689442682">
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="18" column="20" />
-        <mark key="^" line="18" column="20" />
-        <mark key="." line="18" column="20" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1504699624541">
+        <mark key="[" line="75" column="42" />
+        <mark key="]" line="75" column="55" />
+        <mark key="^" line="75" column="55" />
+        <mark key="." line="75" column="55" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/frontend/markup/pages/temp/_all.jade" timestamp="1487755944596">
         <mark key="[" line="23" column="52" />
@@ -1190,12 +1190,12 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/api.py" timestamp="1504690005077">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/api.py" timestamp="1504699656602">
         <mark key="d" line="74" column="36" />
-        <mark key="[" line="84" column="28" />
-        <mark key="]" line="84" column="59" />
-        <mark key="." line="84" column="59" />
-        <mark key="^" line="84" column="59" />
+        <mark key="[" line="100" column="61" />
+        <mark key="]" line="100" column="67" />
+        <mark key="." line="100" column="67" />
+        <mark key="^" line="100" column="67" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/OrderDetail.js" timestamp="1504688562508">
         <mark key="y" line="55" column="36" />
@@ -1713,17 +1713,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/kkt/CheckDetail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>email</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBidW5kbGUuZGF0YVsnc25vJ10gPSB1J9CV0J3QktCUJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>email</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgZW1haWwgPSBidG4udXAoJ2Zvcm0nKS5nZXRGb3JtKCkuZmluZEZpZWxkKCdvcmRlcl9pZCcpLmdldFZhbHVlKCk7CgogICAgICAgIGlmIChlbWFpbCA9PT0gJycpIHsKICAgICAgICAgICAgRXh0Lk1zZy5hbGVydCgn0J/Qo9Ch0KLQntCZIEVNQUlMJykKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBidW5kbGUuZGF0YVsnc25vJ10gPSB1J9CV0J3QktCUJwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
