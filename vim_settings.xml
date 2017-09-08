@@ -418,7 +418,7 @@
         <mark key="^" line="53" column="10" />
         <mark key="." line="53" column="10" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/requirements.txt" timestamp="1503646703728">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/requirements.txt" timestamp="1504852877773">
         <mark key="[" line="21" column="19" />
         <mark key="]" line="22" column="13" />
         <mark key="." line="22" column="13" />
@@ -523,11 +523,6 @@
         <mark key="]" line="90" column="47" />
         <mark key="^" line="90" column="47" />
         <mark key="." line="90" column="47" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/orders/kkt/KKTListController.js" timestamp="1504676807691">
-        <mark key="y" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="13" column="6" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/apps/utils/templatetags/get_field_type.py" timestamp="1488527056473">
         <mark key="[" line="6" column="13" />
@@ -1332,7 +1327,7 @@
         <mark key="^" line="132" column="12" />
         <mark key="." line="132" column="12" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders/kkt.py" timestamp="1504847245980">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders/kkt.py" timestamp="1504852751495">
         <mark key="[" line="96" column="60" />
         <mark key="]" line="97" column="3" />
         <mark key="." line="97" column="3" />
