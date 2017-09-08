@@ -158,6 +158,13 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/staff/courierApplication/CourierApplicationUserForm.js" timestamp="1504861933199">
+        <mark key="y" line="69" column="12" />
+        <mark key="[" line="6" column="77" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/erp/update_backend.yml" timestamp="1502687809590">
         <mark key="[" line="19" column="160" />
         <mark key="]" line="19" column="122" />
@@ -330,6 +337,12 @@
         <mark key="]" line="3" column="17" />
         <mark key="^" line="3" column="17" />
         <mark key="." line="3" column="17" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/staff/courierApplication/PasswordForm.js" timestamp="1504862098873">
+        <mark key="[" line="13" column="6" />
+        <mark key="]" line="14" column="3" />
+        <mark key="." line="14" column="3" />
+        <mark key="^" line="14" column="3" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/staticfiles/js/main.js" timestamp="1487936515013">
         <mark key="[" line="155" column="0" />
@@ -731,7 +744,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504693497739">
+      <file name="/Dummy.txt" timestamp="1504862123229">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1170,13 +1183,6 @@
         <mark key="." line="12" column="10" />
         <mark key="^" line="12" column="10" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/api.py" timestamp="1504701530942">
-        <mark key="d" line="74" column="36" />
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="^" line="100" column="67" />
-        <mark key="." line="102" column="0" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/OrderDetail.js" timestamp="1504688562508">
         <mark key="y" line="55" column="36" />
         <mark key="j" line="0" column="4" />
@@ -1395,6 +1401,13 @@
         <mark key="]" line="256" column="3" />
         <mark key="." line="256" column="3" />
         <mark key="^" line="256" column="3" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Operator.js" timestamp="1504615866903">
+        <mark key="y" line="1093" column="19" />
+        <mark key="[" line="630" column="35" />
+        <mark key="]" line="630" column="35" />
+        <mark key="." line="630" column="35" />
+        <mark key="^" line="630" column="35" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/clinics/templates/clinics/doctors.html" timestamp="1487763746438">
         <mark key="[" line="25" column="132" />
@@ -1683,44 +1696,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/kkt/CheckDetail.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnUK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIG51bWJlciA9IENvbHVtbihJbnRlZ2VyKCkpCg==</text>
+      <register name="0" type="4">
+        <text>genNumericPassword</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbnUK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gTWF0aC5mbG9vcihNYXRoLnJhbmRvbSgpICogOTAwMDAwMDApICsgMTAwMDAwMDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5kZWxldGVfY29sdW1uKHUna2t0X2trdGRldmljZScsICdhc19vbmVfaXRlbScpCg==</text>
+        <text encoding="base64">ICAgIGdlbk51bWVyaWNQYXNzd29yZDogZnVuY3Rpb24gKCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAjIERlbGV0aW5nIGZpZWxkICdLa3REZXZpY2UuYXNfb25lX2l0ZW0nCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIGtlZXBfZGVmYXVsdD1GYWxzZSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5uZXh0KCkuZm9jdXMoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHNlbGYuZ2YoJ2RqYW5nby5kYi5tb2RlbHMuZmllbGRzLkJvb2xlYW5GaWVsZCcpKGRlZmF1bHQ9RmFsc2UpLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhpcy5uZXh0KCkuc2V0VmFsdWUodGhpcy5nZW5OdW1lcmljUGFzc3dvcmQoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkYi5hZGRfY29sdW1uKHUna2t0X2trdGRldmljZScsICdhc19vbmVfaXRlbScsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBoYW5kbGVyOiBmdW5jdGlvbigpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIEFkZGluZyBmaWVsZCAnS2t0RGV2aWNlLmFzX29uZV9pdGVtJwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
