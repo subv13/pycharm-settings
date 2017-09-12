@@ -120,11 +120,12 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1505125396194">
-        <mark key="[" line="86" column="18" />
-        <mark key="]" line="86" column="22" />
-        <mark key="." line="86" column="22" />
-        <mark key="^" line="86" column="22" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1505192873922">
+        <mark key="'" line="86" column="43" />
+        <mark key="[" line="86" column="42" />
+        <mark key="]" line="86" column="39" />
+        <mark key="." line="86" column="39" />
+        <mark key="^" line="86" column="39" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/cme/wsgi.py" timestamp="1500547608769">
         <mark key="[" line="15" column="50" />
@@ -763,12 +764,7 @@
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/geo/CityAliasUnited.js" timestamp="1505129308241">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="19" />
-        <mark key="^" line="12" column="19" />
-        <mark key="." line="12" column="19" />
-      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/geo/CityAliasUnited.js" timestamp="1505129308241" />
       <file name="/code.py" timestamp="1490704241986">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1088,12 +1084,7 @@
         <mark key="." line="1" column="18" />
         <mark key="^" line="1" column="17" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/geo/City.js" timestamp="1505123266557">
-        <mark key="[" line="64" column="21" />
-        <mark key="]" line="64" column="20" />
-        <mark key="^" line="64" column="20" />
-        <mark key="." line="64" column="20" />
-      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/geo/City.js" timestamp="1505123266557" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/staticfiles/frontend/source/pages/order_complete/main.js" timestamp="1492512365181">
         <mark key="[" line="141" column="63" />
         <mark key="]" line="142" column="61" />
@@ -1613,7 +1604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3439" column="8" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" />
       <jump line="50" column="32" filename="$USER_HOME$/smenateam/farfor/farfor/apps/d_bus/broadcasters/flight.py" />
       <jump line="47" column="8" filename="$USER_HOME$/smenateam/farfor/farfor/farfor/settings_local.py" />
       <jump line="543" column="46" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/api.py" />
@@ -1713,6 +1703,7 @@
       <jump line="73" column="30" filename="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/orders/kkt/CheckListController.js" />
       <jump line="3" column="20" filename="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/kkt/CheckDetail.js" />
       <jump line="0" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/kkt/CheckDetail.js" />
+      <jump line="86" column="43" filename="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
