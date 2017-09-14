@@ -53,13 +53,6 @@
         <mark key="^" line="649" column="29" />
         <mark key="." line="638" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/ManagerTabPanel.js" timestamp="1504179653765">
-        <mark key="y" line="329" column="0" />
-        <mark key="[" line="343" column="37" />
-        <mark key="]" line="343" column="39" />
-        <mark key="." line="343" column="39" />
-        <mark key="^" line="343" column="39" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/frontend/update_backend.yml" timestamp="1495540748093">
         <mark key="[" line="19" column="110" />
         <mark key="]" line="19" column="122" />
@@ -169,6 +162,13 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/staff/courierApplication/CourierApplicationUserForm.js" timestamp="1504861933199">
+        <mark key="y" line="69" column="12" />
+        <mark key="[" line="6" column="77" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/erp/update_backend.yml" timestamp="1502687809590">
         <mark key="[" line="19" column="160" />
         <mark key="]" line="19" column="122" />
@@ -180,6 +180,13 @@
         <mark key="]" line="131" column="9" />
         <mark key="^" line="130" column="15" />
         <mark key="." line="131" column="9" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/staff/StaffForm.js" timestamp="1505383009857">
+        <mark key="y" line="221" column="35" />
+        <mark key="[" line="209" column="31" />
+        <mark key="]" line="209" column="30" />
+        <mark key="." line="209" column="30" />
+        <mark key="^" line="209" column="30" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/geo/CitySimpleStore.js" timestamp="1505310463497">
         <mark key="[" line="5" column="22" />
@@ -755,7 +762,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505379256725">
+      <file name="/Dummy.txt" timestamp="1505383357457">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -813,6 +820,13 @@
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/kitchen_service/AccountStore.js" timestamp="1505212955023">
         <mark key="[" line="5" column="33" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/OrderList.js" timestamp="1505209949082">
+        <mark key="y" line="190" column="12" />
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="197" column="30" />
+        <mark key="^" line="177" column="64" />
+        <mark key="." line="171" column="64" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/store/StoreTransferFilter.js" timestamp="1505123375087" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/menu/models.py" timestamp="1500891841482">
@@ -992,13 +1006,6 @@
         <mark key="]" line="137" column="60" />
         <mark key="^" line="137" column="22" />
         <mark key="." line="137" column="22" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/kkt/CheckListFilter.js" timestamp="1504603858326">
-        <mark key="y" line="98" column="16" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="^" line="106" column="41" />
-        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/config/django/database.py" timestamp="1489385291112">
         <mark key="[" line="14" column="28" />
@@ -1209,11 +1216,11 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="25" column="23" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Manager.js" timestamp="1504871624733">
-        <mark key="[" line="1577" column="16" />
-        <mark key="]" line="1577" column="16" />
-        <mark key="^" line="1577" column="16" />
-        <mark key="." line="1577" column="16" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Manager.js" timestamp="1505383730170">
+        <mark key="[" line="1606" column="0" />
+        <mark key="]" line="1607" column="19" />
+        <mark key="." line="1607" column="19" />
+        <mark key="^" line="1607" column="19" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/settings.py" timestamp="1501065085430">
         <mark key="[" line="13" column="0" />
@@ -1248,6 +1255,13 @@
         <mark key="]" line="125" column="56" />
         <mark key="." line="125" column="56" />
         <mark key="^" line="125" column="56" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/staff/courierApplicationUser/EditForm.js" timestamp="1505383348685">
+        <mark key="y" line="0" column="16" />
+        <mark key="[" line="21" column="25" />
+        <mark key="]" line="21" column="31" />
+        <mark key="." line="21" column="31" />
+        <mark key="^" line="21" column="31" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/frontend/markup/blocks/layout/layout.jade" timestamp="1489151054098">
         <mark key="[" line="11" column="12" />
@@ -1457,11 +1471,11 @@
         <mark key="." line="122" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/report2.py" timestamp="1505378977848" />
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/staff/erpUser/EditForm.js" timestamp="1504873074516">
-        <mark key="[" line="28" column="19" />
-        <mark key="]" line="28" column="22" />
-        <mark key="^" line="28" column="22" />
-        <mark key="." line="28" column="22" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/staff/erpUser/EditForm.js" timestamp="1505383433368">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="18" />
+        <mark key="^" line="28" column="18" />
+        <mark key="." line="28" column="18" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/main_page/api/geo.py" timestamp="1505124035814">
         <mark key="[" line="8" column="18" />
@@ -1483,6 +1497,13 @@
         <mark key="]" line="256" column="3" />
         <mark key="." line="256" column="3" />
         <mark key="^" line="256" column="3" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Operator.js" timestamp="1504615866903">
+        <mark key="y" line="1093" column="19" />
+        <mark key="[" line="630" column="35" />
+        <mark key="]" line="630" column="35" />
+        <mark key="." line="630" column="35" />
+        <mark key="^" line="630" column="35" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/kitchen_service/AccountForm.js" timestamp="1505211692133">
         <mark key="[" line="2" column="17" />
@@ -1647,13 +1668,6 @@
         <mark key="^" line="142" column="34" />
         <mark key="." line="142" column="34" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/geo/CityStore.js" timestamp="1505310440185">
-        <mark key="y" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="2" />
-        <mark key="." line="9" column="23" />
-        <mark key="^" line="9" column="23" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/d_bus/middleware.py" timestamp="1500296760922">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -1783,43 +1797,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>position</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>position</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRXh0LnV0aWwuRmlsdGVyKHsK</text>
+      <register name="0" type="4">
+        <text>record.data.username</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBxdWFsaXR5UmV2aWV3c01vb2RSZXBvcnRTdG9yZS5hZGRGaWx0ZXIoRXh0LnV0aWwuRmlsdGVyKHsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBxdWFsaXR5UmV2aWV3c01vb2RSZXBvcnRTdG9yZS5hZGRGaWx0ZXIoRXh0LnV0aWwuRmlsdGVyKHsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAocmVjb2RlLmRhdGEubW9iaWxlKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBxdWFsaXR5UmV2aWV3c01vb2RSZXBvcnRTdG9yZS5hZGRGaWx0ZXIoRXh0LnV0aWwuRmlsdGVyKHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb21wb25lbnQucXVlcnkoJ1thY3Rpb249Y2hhbmdlX3VzZXJdJylbMF0uaGlkZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBxdWFsaXR5UmV2aWV3c01vb2RSZXBvcnRTdG9yZS5hZGRGaWx0ZXIoRXh0LnV0aWwuRmlsdGVyKHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdHlsZTogJ21hcmdpbi1sZWZ0OiA0cHg7JywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmbGV4OiAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
