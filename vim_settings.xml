@@ -745,7 +745,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505730489480">
+      <file name="/Dummy.txt" timestamp="1505736229962">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -923,7 +923,12 @@
         <mark key="." line="40" column="10" />
         <mark key="^" line="40" column="10" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/__init__.py" timestamp="1505726390144" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/__init__.py" timestamp="1505736224676">
+        <mark key="[" line="1379" column="35" />
+        <mark key="]" line="1380" column="7" />
+        <mark key="^" line="1380" column="7" />
+        <mark key="." line="1380" column="7" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/requests_retry_session.py" timestamp="1502175820649">
         <mark key="[" line="35" column="38" />
         <mark key="]" line="36" column="3" />
