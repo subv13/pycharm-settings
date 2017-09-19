@@ -631,8 +631,8 @@
         <mark key="^" line="54" column="78" />
         <mark key="." line="54" column="78" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1505799977812">
-        <mark key="'" line="291" column="7" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" timestamp="1505804718545">
+        <mark key="'" line="337" column="25" />
         <mark key="y" line="362" column="15" />
         <mark key="[" line="394" column="14" />
         <mark key="]" line="394" column="18" />
@@ -1615,7 +1615,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/smenateam/lrkc/project/staticfiles/js/main.js" />
       <jump line="165" column="0" filename="$USER_HOME$/smenateam/lrkc/project/apps/home/views.py" />
       <jump line="120" column="14" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" />
       <jump line="649" column="23" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/api.py" />
@@ -1715,6 +1714,7 @@
       <jump line="291" column="7" filename="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" />
       <jump line="1580" column="20" filename="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/api/basket.py" />
       <jump line="220" column="42" filename="$USER_HOME$/smenateam/farfor/farfor/apps/mobile_api/views/basket.py" />
+      <jump line="337" column="25" filename="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/views/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
