@@ -1201,11 +1201,7 @@
         <mark key="^" line="224" column="59" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Manager.js" timestamp="1505806998160">
-        <mark key="y" line="1661" column="4" />
-        <mark key="[" line="298" column="0" />
-        <mark key="]" line="298" column="0" />
-        <mark key="^" line="1674" column="3" />
-        <mark key="." line="298" column="0" />
+        <mark key="^" line="289" column="3" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/settings.py" timestamp="1501065085430">
         <mark key="[" line="13" column="0" />
@@ -1600,6 +1596,13 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="35" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/kkt/CheckList.js" timestamp="1505818557687">
+        <mark key="y" line="40" column="12" />
+        <mark key="[" line="46" column="40" />
+        <mark key="]" line="46" column="30" />
+        <mark key="." line="46" column="30" />
+        <mark key="^" line="46" column="30" />
+      </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/doctors/models.py" timestamp="1493373133664">
         <mark key="[" line="61" column="18" />
         <mark key="]" line="61" column="17" />
@@ -1747,16 +1750,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>check</text>
+        <text>phone</text>
       </register>
       <register name="-" type="4">
-        <text>check</text>
+        <text>phone</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGdlbmVyYXRlQ291cmllclBhc3N3b3JkOiBmdW5jdGlvbiAoYnV0dG9uKSB7CiAgICAgICAgRXh0LkFqYXgucmVxdWVzdCh7CiAgICAgICAgICAgIHVybDogJy9leHRqcy9zdGFmZi9zdGFmZi9nZW5lcmF0ZV9jb3VyaWVyX3Bhc3N3b3JkLycsCiAgICAgICAgICAgIG1ldGhvZDogJ0dFVCcsCiAgICAgICAgICAgIHN1Y2Nlc3M6IGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgICAgICAgICAgdmFyIGRhdGEgPSBKU09OLnBhcnNlKHJlc3BvbnNlLnJlc3BvbnNlVGV4dCk7CiAgICAgICAgICAgICAgICBidXR0b24udXAoJ1t4dHlwZT1zdGFmZmVkaXRmb3JtXScpCiAgICAgICAgICAgICAgICAgICAgLmdldEZvcm0oKQogICAgICAgICAgICAgICAgICAgIC5maW5kRmllbGQoJ2NvdXJpZXJfcGFzc3dvcmQnKQogICAgICAgICAgICAgICAgICAgIC5zZXRWYWx1ZShkYXRhWydwYXNzd29yZCddKQogICAgICAgICAgICB9CiAgICAgICAgfSk7CiAgICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaGVhZGVyOiAn0KLQtdC70LXRhNC+0L0g0LrQu9C40LXQvdGC0LAnLAogICAgICAgICAgICAgICAgZGF0YUluZGV4OiAncGhvbmUnLAogICAgICAgICAgICAgICAgZmxleDogMC41CiAgICAgICAgICAgIH0sCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">PCFET0NUWVBFIGh0bWw+Cg==</text>
