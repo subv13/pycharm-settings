@@ -1128,7 +1128,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/fragment.py" timestamp="1505823774789">
+      <file name="/fragment.py" timestamp="1505897071336">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="1" />
         <mark key="." line="0" column="1" />
@@ -1209,12 +1209,11 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/app.py" timestamp="1505894873287">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/app.py" timestamp="1505897094883">
         <mark key="y" line="53" column="16" />
-        <mark key="[" line="69" column="40" />
-        <mark key="]" line="69" column="61" />
-        <mark key="^" line="69" column="61" />
-        <mark key="." line="69" column="61" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/admin/FlatPageList.js" timestamp="1505740554718" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/django/cache.py" timestamp="1487926048709">
@@ -1802,7 +1801,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuCg==</text>
       </register>
       <register name="-" type="4">
         <text>cashier</text>
@@ -1814,31 +1813,31 @@
         <text encoding="base64">cHl0aG9uLWRhdGV1dGlsPT0yLjYuMAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJlcXVlc3QuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTRUNSRVRfS0VZID0gJylCR0t3KHQ1QXtKNCkhOEoyNHA1LUItQzRwWnlIeH0nCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIEpXVDoK</text>
+        <text encoding="base64">ICAgICAgICBTRUNSRVRfS0VZID0gJylCR0t3KHQ1QXtKNCkhOEoyNHA1LUItQzRwWnlIeH0nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIEpXVDoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">V2Vya3pldWc9PTAuMTIuMgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">U1FMQWxjaGVteT09MS4wLjEyCg==</text>
+        <text encoding="base64">V2Vya3pldWc9PTAuMTIuMgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">c2l4PT0xLjExLjAK</text>
+        <text encoding="base64">U1FMQWxjaGVteT09MS4wLjEyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHl0ej09MjAxNi40Cg==</text>
+        <text encoding="base64">c2l4PT0xLjExLjAK</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
