@@ -19,7 +19,7 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="140">
+        <list size="142">
           <item index="0" class="java.lang.String" itemvalue="slimit" />
           <item index="1" class="java.lang.String" itemvalue="django-pipeline" />
           <item index="2" class="java.lang.String" itemvalue="smart-select" />
@@ -160,6 +160,8 @@
           <item index="137" class="java.lang.String" itemvalue="Flask_SQLAlchemy" />
           <item index="138" class="java.lang.String" itemvalue="Flask-Migrate" />
           <item index="139" class="java.lang.String" itemvalue="Flask" />
+          <item index="140" class="java.lang.String" itemvalue="SQLAlchemy-Paginator" />
+          <item index="141" class="java.lang.String" itemvalue="first" />
         </list>
       </value>
     </option>
