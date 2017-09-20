@@ -721,12 +721,12 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/templates/check.html" timestamp="1505893078445">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/templates/check.html" timestamp="1505894859731">
         <mark key="y" line="34" column="15" />
-        <mark key="[" line="39" column="43" />
-        <mark key="]" line="39" column="52" />
-        <mark key="^" line="39" column="52" />
-        <mark key="." line="39" column="52" />
+        <mark key="[" line="39" column="34" />
+        <mark key="]" line="39" column="44" />
+        <mark key="^" line="39" column="44" />
+        <mark key="." line="39" column="44" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/README.MD" timestamp="1505477992731">
         <mark key="[" line="18" column="16" />
@@ -1113,7 +1113,7 @@
         <mark key="^" line="340" column="49" />
         <mark key="." line="340" column="49" />
       </file>
-      <file name="/Python Console" timestamp="1505893410634">
+      <file name="/Python Console" timestamp="1505894820542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftPromotionList.js" timestamp="1491549182283">
@@ -1209,12 +1209,12 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/app.py" timestamp="1505893218018">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/app.py" timestamp="1505894873287">
         <mark key="y" line="53" column="16" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="69" column="40" />
+        <mark key="]" line="69" column="61" />
+        <mark key="^" line="69" column="61" />
+        <mark key="." line="69" column="61" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/admin/FlatPageList.js" timestamp="1505740554718" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/django/cache.py" timestamp="1487926048709">
