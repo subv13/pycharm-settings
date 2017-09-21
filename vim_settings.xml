@@ -1488,11 +1488,11 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/deployment/playbooks/staging/update" timestamp="1505988295185">
-        <mark key="[" line="17" column="175" />
-        <mark key="]" line="22" column="30" />
-        <mark key="." line="22" column="30" />
-        <mark key="^" line="22" column="30" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/deployment/playbooks/staging/update" timestamp="1505989616258">
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="22" column="37" />
+        <mark key="." line="22" column="37" />
+        <mark key="^" line="22" column="37" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/track/models.py" timestamp="1500378871461">
         <mark key="[" line="0" column="0" />
