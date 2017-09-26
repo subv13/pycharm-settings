@@ -1072,11 +1072,11 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1506248016954">
-        <mark key="[" line="1987" column="0" />
-        <mark key="]" line="1987" column="0" />
-        <mark key="^" line="1992" column="34" />
-        <mark key="." line="1987" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1506405830407">
+        <mark key="[" line="1901" column="13" />
+        <mark key="]" line="1902" column="11" />
+        <mark key="^" line="1902" column="11" />
+        <mark key="." line="1902" column="11" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/worksheet.html" timestamp="1488369021158">
         <mark key="[" line="4" column="23" />
@@ -1171,7 +1171,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/fragment.py" timestamp="1506242846551">
+      <file name="/fragment.py" timestamp="1506405774699">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -1183,6 +1183,7 @@
         <mark key="^" line="19" column="10" />
         <mark key="." line="19" column="10" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" timestamp="1506405733226" />
       <file name="$USER_HOME$/smenateam/vncenter/project/config/django/email.py" timestamp="1490336018488">
         <mark key="[" line="1" column="18" />
         <mark key="]" line="1" column="18" />
@@ -1274,9 +1275,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/sms/tasks.py" timestamp="1506332285472">
-        <mark key="y" line="42" column="15" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/admin.py" timestamp="1496917515592">
         <mark key="[" line="12" column="6" />
@@ -1847,7 +1845,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbGlnaHQuc2F2ZSgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -1859,13 +1857,13 @@
         <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgR2VvTGltaXRFeGNlcHRpb24oJ9Cf0YDQtdCy0YvRiNC10L0g0LvQuNC80LjRgiDQt9Cw0L/RgNC+0YHQvtCyINC00LvRjyAyR0lTIChyb3V0ZSknKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmbGlnaHQuc2F2ZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGh0dHA6IC8vIGQ4NjMxMDc4ZjMxODQwYjY5MGU1OWU0YmFlMWIzNDk0OmUyMTQ0MTllOWFmYTQ5YzZiMDAyZWFmMWVlNTJhZDMwIEAgc2VudHJ5LnNtZW5hdGVzdC5ydSAvIDY5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGh0dHA6IC8vIGQ4NjMxMDc4ZjMxODQwYjY5MGU1OWU0YmFlMWIzNDk0OmUyMTQ0MTllOWFmYTQ5YzZiMDAyZWFmMWVlNTJhZDMwIEAgc2VudHJ5LnNtZW5hdGVzdC5ydSAvIDY5Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -1874,10 +1872,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByYWlzZSBHZW9MaW1pdEV4Y2VwdGlvbign0J/RgNC10LLRi9GI0LXQvSDQu9C40LzQuNGCINC30LDQv9GA0L7RgdC+0LIg0LTQu9GPIDJHSVMgKHJvdXRlKScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByYWlzZSBHZW9MaW1pdEV4Y2VwdGlvbign0J/RgNC10LLRi9GI0LXQvSDQu9C40LzQuNGCINC30LDQv9GA0L7RgdC+0LIg0LTQu9GPIDJHSVMgKHJvdXRlKScpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
