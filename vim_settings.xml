@@ -54,11 +54,6 @@
         <mark key="^" line="649" column="29" />
         <mark key="." line="638" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/clients.py" timestamp="1505974016167">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/frontend/update_backend.yml" timestamp="1495540748093">
         <mark key="[" line="19" column="110" />
         <mark key="]" line="19" column="122" />
@@ -267,7 +262,7 @@
         <mark key="^" line="6" column="57" />
         <mark key="." line="6" column="57" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/local_settings.py" timestamp="1506401424128">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/local_settings.py" timestamp="1506403336428">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -361,11 +356,6 @@
         <mark key="]" line="24" column="10" />
         <mark key="^" line="24" column="10" />
         <mark key="." line="24" column="10" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/menu/extjs/api.py" timestamp="1505999766381">
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/staticfiles/js/main.js" timestamp="1487936515013">
         <mark key="[" line="155" column="0" />
@@ -499,11 +489,6 @@
         <mark key="]" line="51" column="25" />
         <mark key="^" line="51" column="25" />
         <mark key="." line="51" column="25" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/requirements.txt" timestamp="1506246016131">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/haystack.py" timestamp="1491994629362">
         <mark key="[" line="83" column="0" />
@@ -1305,22 +1290,12 @@
         <mark key="." line="101" column="56" />
         <mark key="^" line="101" column="56" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/templates/home.html" timestamp="1505986086943">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="13" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/orders/kkt.py" timestamp="1506402271103" />
       <file name="$USER_HOME$/smenateam/vncenter/frontend/markup/blocks/layout/layout.jade" timestamp="1489151054098">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
         <mark key="." line="11" column="12" />
         <mark key="^" line="8" column="11" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/migrations/0017_auto__add_field_kktdevice_company__add_field_kktdevice_address__add_fi.py" timestamp="1505908791825">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/urls.py" timestamp="1501234348734">
         <mark key="[" line="5" column="0" />
@@ -1403,11 +1378,6 @@
         <mark key="." line="11" column="50" />
         <mark key="^" line="11" column="50" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/robots.txt" timestamp="1505994616210">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="131" column="30" />
-        <mark key="." line="125" column="0" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/utils/__init__.py" timestamp="1488348130953">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -1419,11 +1389,6 @@
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="51" />
         <mark key="." line="6" column="51" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/templates/base.html" timestamp="1505986463455">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/migrations/0039_rename_datetime_of_sending.py" timestamp="1488455627599">
         <mark key="[" line="865" column="34" />
