@@ -115,11 +115,11 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1506417390814">
-        <mark key="[" line="48" column="45" />
-        <mark key="]" line="48" column="46" />
-        <mark key="^" line="48" column="46" />
-        <mark key="." line="48" column="46" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1506419652583">
+        <mark key="[" line="37" column="67" />
+        <mark key="]" line="37" column="68" />
+        <mark key="^" line="37" column="68" />
+        <mark key="." line="37" column="68" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/cme/wsgi.py" timestamp="1500547608769">
         <mark key="[" line="15" column="50" />
@@ -943,7 +943,7 @@
         <mark key="^" line="214" column="23" />
         <mark key="." line="214" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1506321788411">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1506418532826">
         <mark key="[" line="6" column="50" />
         <mark key="]" line="6" column="66" />
         <mark key="^" line="6" column="66" />
@@ -1211,7 +1211,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/models.py" timestamp="1506412759523">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/models.py" timestamp="1506419110762">
         <mark key="[" line="284" column="0" />
         <mark key="]" line="284" column="80" />
         <mark key="." line="298" column="0" />
@@ -1851,10 +1851,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(</text>
+        <text>Int</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
