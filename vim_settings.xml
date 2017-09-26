@@ -120,7 +120,7 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1506419652583">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1506433318322">
         <mark key="[" line="37" column="67" />
         <mark key="]" line="37" column="68" />
         <mark key="^" line="37" column="68" />
@@ -328,11 +328,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/urls.py" timestamp="1505713582398">
-        <mark key="[" line="7" column="79" />
-        <mark key="]" line="7" column="82" />
-        <mark key="." line="7" column="82" />
-        <mark key="^" line="7" column="82" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/urls.py" timestamp="1506433388344">
+        <mark key="[" line="7" column="71" />
+        <mark key="]" line="7" column="65" />
+        <mark key="." line="7" column="65" />
+        <mark key="^" line="7" column="65" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/staff.py" timestamp="1506431112487">
         <mark key="[" line="129" column="0" />
@@ -1917,16 +1917,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>csrf_exempt</text>
+        <text>device</text>
       </register>
       <register name="-" type="4">
-        <text>csrf_exempt</text>
+        <text>device</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZGVjb3JhdG9ycy5jc3JmIGltcG9ydCBjc3JmX2V4ZW1wdAo=</text>
+        <text encoding="base64">YXBwLmFkZF91cmxfcnVsZSgnL2trdC9kZXZpY2UvaW5mby8nLCB2aWV3X2Z1bmM9RGV2aWNlSW5mb1ZpZXcuYXNfdmlldygnZGV2aWNlLWluZm8nKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
