@@ -15,6 +15,7 @@
         <mark key="^" line="29" column="141" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/templates/report_template/bill_farfor.html" timestamp="1506412559422" />
       <file name="/a.dummy" timestamp="1506410030735">
         <mark key="[" line="0" column="0" />
       </file>
@@ -114,11 +115,11 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1505903843447">
-        <mark key="[" line="12" column="31" />
-        <mark key="]" line="12" column="31" />
-        <mark key="^" line="12" column="31" />
-        <mark key="." line="12" column="31" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1506412800938">
+        <mark key="[" line="48" column="45" />
+        <mark key="]" line="48" column="46" />
+        <mark key="^" line="48" column="46" />
+        <mark key="." line="48" column="46" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/cme/wsgi.py" timestamp="1500547608769">
         <mark key="[" line="15" column="50" />
@@ -181,6 +182,7 @@
         <mark key="^" line="4" column="10" />
         <mark key="." line="4" column="10" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/constants.py" timestamp="1506412733857" />
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/forms.py" timestamp="1497954434425">
         <mark key="[" line="40" column="17" />
         <mark key="]" line="40" column="18" />
@@ -687,6 +689,7 @@
         <mark key="." line="32" column="88" />
         <mark key="^" line="32" column="88" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/templates/report_template/bill_farfor3.html" timestamp="1506412212818" />
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/select-day/select-day.styl" timestamp="1489397389698">
         <mark key="[" line="102" column="17" />
         <mark key="]" line="102" column="14" />
@@ -786,7 +789,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506410081321">
+      <file name="/Dummy.txt" timestamp="1506412641205">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1208,7 +1211,11 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/models.py" timestamp="1506346843118" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/models.py" timestamp="1506412759523">
+        <mark key="[" line="284" column="0" />
+        <mark key="]" line="284" column="80" />
+        <mark key="." line="298" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/home/urls.py" timestamp="1489402811567">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1464,11 +1471,11 @@
         <mark key="." line="21" column="16" />
         <mark key="^" line="21" column="16" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders/__init__.py" timestamp="1505472352834">
-        <mark key="[" line="183" column="14" />
-        <mark key="]" line="183" column="12" />
-        <mark key="." line="183" column="12" />
-        <mark key="^" line="183" column="12" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/orders/__init__.py" timestamp="1506412786447">
+        <mark key="[" line="120" column="54" />
+        <mark key="]" line="120" column="55" />
+        <mark key="." line="120" column="55" />
+        <mark key="^" line="120" column="55" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/.gitignore" timestamp="1489136988519">
         <mark key="[" line="131" column="14" />
@@ -1702,13 +1709,6 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="28" column="4" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/kkt/CheckDetail.js" timestamp="1506335988966">
-        <mark key="y" line="6" column="8" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-        <mark key="^" line="117" column="40" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/geo/domain/services/limits.py" timestamp="1506339762657" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-tests/lottery/check_is_order_lottery_participiant.py" timestamp="1492144730939">
         <mark key="[" line="65" column="30" />
@@ -1850,44 +1850,44 @@
       <jump line="11" column="29" filename="$USER_HOME$/smenateam/farfor/farfor-ofd-service/templates/404.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxpZ2h0Y29tbWVudAo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgR2VvTGltaXRFeGNlcHRpb24oJ9Cf0YDQtdCy0YvRiNC10L0g0LvQuNC80LjRgiDQt9Cw0L/RgNC+0YHQvtCyINC00LvRjyAyR0lTIChyb3V0ZSknKQo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi50b3RhbF9hbW91bnQgKyBpbnQoc2VsZi5kZWxpdmVyeV9jb3N0KSAtIGludChzZWxmLnBheV9ib251cykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxpZ2h0Y29tbWVudAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VsZi4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3RhdHVzPSdjb21wbGV0ZWQnCiAgICAgICAgICAgIGZsaWdodGNvbW1lbnQK</text>
+        <text encoding="base64">ICAgICAgICAoU09VUkNFLk1PQklMRV9BUFBfSU9TLCB1J0lPUy3Qv9GA0LjQu9C+0LbQtdC90LjQtScpLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmbGlnaHQuc2F2ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAoU09VUkNFLk1PQklMRV9BUFBfV0lORE9XUywgdSdXaW5kb3dzIFBob25lLdC/0YDQuNC70L7QttC10L3QuNC1JyksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZsaWdodD1mbGlnaHQsCg==</text>
+        <text encoding="base64">ICAgICAgICAoU09VUkNFLk1PQklMRV9BUFBfQU5EUk9JRCwgdSdBbmRyb2lkLdC/0YDQuNC70L7QttC10L3QuNC1JyksCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNT0JJTEVfQVBQX1dJTkRPV1MgPSAnbW9iaWxlX3dpbmRvd3MnCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNT0JJTEVfQVBQX0lPUyA9ICdtb2JpbGVfaW9zJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKQo=</text>
+        <text encoding="base64">ICAgICAgICBNT0JJTEVfQVBQX0FORFJPSUQgPSAnbW9iaWxlX2FuZHJvaWQnCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRleHQ9ZGF0YS5nZXQoJ2NvbW1lbnQnKQo=</text>
+        <text encoding="base64">ICAgICAgICBNT0JJTEVfQVBQX1dJTkRPV1MgPSAnbW9iaWxlX3dpbmRvd3MnCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxpZ2h0LmZsaWdodGNvbW1lbnQgPSBGbGlnaHRDb21tZW50Lm9iamVjdHMuY3JlYXRlKAo=</text>
+        <text encoding="base64">ICAgICAgICBNT0JJTEVfQVBQX0lPUyA9ICdtb2JpbGVfaW9zJwo=</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
