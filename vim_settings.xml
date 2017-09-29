@@ -864,11 +864,10 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/users/urls.py" timestamp="1506433031769">
-        <mark key="[" line="1" column="41" />
-        <mark key="]" line="1" column="41" />
-        <mark key="." line="1" column="41" />
-        <mark key="^" line="10" column="57" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/users/urls.py" timestamp="1506664916304">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/venvs/farfor/src/farfor-all-logging-client/farfor_all_logging_client/client.py" timestamp="1506339558667" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/lottery/utils.py" timestamp="1492492893807">
@@ -1925,8 +1924,8 @@
       <jump line="11" column="29" filename="$USER_HOME$/smenateam/farfor/farfor-ofd-service/templates/404.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZGVjb3JhdG9ycy5jc3JmIGltcG9ydCBjc3JmX2V4ZW1wdAo=</text>
       </register>
       <register name="-" type="4">
         <text>Int</text>
@@ -1938,31 +1937,31 @@
         <text encoding="base64">YXBwLmFkZF91cmxfcnVsZSgnL2trdC9kZXZpY2UvaW5mby8nLCB2aWV3X2Z1bmM9RGV2aWNlSW5mb1ZpZXcuYXNfdmlldygnZGV2aWNlLWluZm8nKSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB8IG9yZGVyX2NoZWNrX2xpc3QgfCBPYmplY3RbXSB8INCh0L/QuNGB0L7QuiDRh9C10LrQvtCyICAgICAgICAgICAgICB8Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZGVjb3JhdG9ycy5jc3JmIGltcG9ydCBjc3JmX2V4ZW1wdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHVybChyJ15lL2xvZ291dC8kJywgJ3VzZXJfbG9nb3V0JywgbmFtZT0idXNlcl9sb2dvdXQiKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBgYGAK</text>
+        <text encoding="base64">ZnJvbSAudmlld3MgaW1wb3J0IEF1dGhVc2VyVmlldwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwYWdlPVtJbnRdIC0g0KHRgtGA0LDQvdC40YbQsC4g0J/QviDRg9C80L7Qu9GH0LDQvdC40Y4gLSAxCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYWdlX3NpemU9W0ludF0gLSDQmtC+0LvQuNGH0LXRgdGC0LLQviDRjdC70LXQvNC10L3RgtC+0LIg0L3QsCDRgdGC0YDQsNC90LjRhtC1LiDQn9C+INGD0LzQvtC70YfQsNC90LjRjiAtIDEwCg==</text>
+        <text encoding="base64">ICB8IG9yZGVyX2NoZWNrX2xpc3QgfCBPYmplY3RbXSB8INCh0L/QuNGB0L7QuiDRh9C10LrQvtCyICAgICAgICAgICAgICB8Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBgYGAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAqKk9wdGlvbmFsOioqICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICBgYGAK</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICBwYWdlPVtJbnRdIC0g0KHRgtGA0LDQvdC40YbQsC4g0J/QviDRg9C80L7Qu9GH0LDQvdC40Y4gLSAxCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBra3Rfc2hpZnRfaWQ9W0ludF0gLSBJRCDRgdC80LXQvdGLCg==</text>
+        <text encoding="base64">ICBwYWdlX3NpemU9W0ludF0gLSDQmtC+0LvQuNGH0LXRgdGC0LLQviDRjdC70LXQvNC10L3RgtC+0LIg0L3QsCDRgdGC0YDQsNC90LjRhtC1LiDQn9C+INGD0LzQvtC70YfQsNC90LjRjiAtIDEwCg==</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
