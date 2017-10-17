@@ -137,6 +137,12 @@
         <mark key="^" line="15" column="62" />
         <mark key="." line="15" column="62" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/app.py" timestamp="1508219668200">
+        <mark key="[" line="4" column="23" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-mobile-frontend/js-apps/src/views/basket/basket/main.jsx" timestamp="1508219003275">
         <mark key="[" line="301" column="77" />
         <mark key="]" line="302" column="26" />
@@ -161,7 +167,7 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/erp/update_backend.yml" timestamp="1502687809590">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/erp/update_backend.yml" timestamp="1508219294285">
         <mark key="[" line="19" column="160" />
         <mark key="]" line="19" column="122" />
         <mark key="^" line="19" column="122" />
