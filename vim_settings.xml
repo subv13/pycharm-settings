@@ -864,7 +864,7 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508319485874">
+      <file name="/Dummy.txt" timestamp="1508325315950">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1026,11 +1026,11 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/extjs/views/__init__.py" timestamp="1508316039238">
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="^" line="214" column="23" />
-        <mark key="." line="214" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/extjs/views/__init__.py" timestamp="1508325994215">
+        <mark key="[" line="1213" column="91" />
+        <mark key="]" line="1213" column="91" />
+        <mark key="^" line="1213" column="91" />
+        <mark key="." line="1213" column="91" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1506418532826">
         <mark key="[" line="6" column="50" />
@@ -1968,11 +1968,11 @@
       <jump line="4" column="57" filename="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>72683b0e50eb783033ff08c1bd042a7dfd92ac2f</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
