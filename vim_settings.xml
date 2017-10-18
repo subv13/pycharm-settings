@@ -412,13 +412,6 @@
         <mark key="^" line="272" column="71" />
         <mark key="." line="272" column="71" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/requirements.txt" timestamp="1508240203468">
-        <mark key="'" line="4" column="57" />
-        <mark key="[" line="19" column="12" />
-        <mark key="]" line="20" column="12" />
-        <mark key="^" line="20" column="12" />
-        <mark key="." line="20" column="12" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/models/__init__.py" timestamp="1502369028581">
         <mark key="[" line="79" column="71" />
         <mark key="]" line="79" column="70" />
@@ -1773,6 +1766,7 @@
         <mark key="^" line="28" column="3" />
         <mark key="." line="28" column="4" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/erp/update_frontend.yml" timestamp="1508332414748" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-tests/lottery/check_is_order_lottery_participiant.py" timestamp="1492144730939">
         <mark key="[" line="65" column="30" />
         <mark key="]" line="65" column="35" />
