@@ -574,6 +574,11 @@
         <mark key="^" line="75" column="62" />
         <mark key="." line="71" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/admin.py" timestamp="1508313024131">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/venvs/vncenter/lib/python2.7/site-packages/forms_builder/forms/urls.py" timestamp="1488542915924">
         <mark key="[" line="9" column="10" />
         <mark key="]" line="9" column="10" />
@@ -603,6 +608,7 @@
         <mark key="." line="115" column="37" />
         <mark key="^" line="115" column="37" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/subapps/salary/models.py" timestamp="1508313384355" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/update_backend.yml" timestamp="1487586842974">
         <mark key="[" line="12" column="149" />
         <mark key="]" line="12" column="150" />
@@ -857,7 +863,7 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508301309105">
+      <file name="/Dummy.txt" timestamp="1508313333187">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1355,6 +1361,7 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/subapps/salary/migrations/0001_initial.py" timestamp="1508313381369" />
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/admin.py" timestamp="1496917515592">
         <mark key="[" line="12" column="6" />
         <mark key="]" line="12" column="10" />
@@ -1953,8 +1960,8 @@
       <jump line="4" column="57" filename="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/requirements.txt" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>72683b0e50eb783033ff08c1bd042a7dfd92ac2f</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>72683b0e50eb783033ff08c1bd042a7dfd92ac2f</text>
@@ -1969,10 +1976,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHF1YWxpdHlSZXZpZXdTdG9yZS5maXJzdCgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpcyA9IFJlZGlzKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHF1YWxpdHlSZXZpZXdTdG9yZS5maXJzdCgpKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICByZWRpcyA9IFJlZGlzKCkK</text>
@@ -1984,13 +1991,13 @@
         <text encoding="base64">ICAgICAgICByZWRpcyA9IFJlZGlzKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHNldHRpbmdzCg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpcyA9IFJlZGlzKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aHR0cHM6Ly9zdWJ2MTNAYml0YnVja2V0Lm9yZy9mYXJmb3IvZmFyZm9yLWFsbC1sb2dnaW5nLWNsaWVudC5naXQK</text>
+        <text encoding="base64">aW1wb3J0IHNldHRpbmdzCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aHR0cHM6Ly9zdWJ2MTNAYml0YnVja2V0Lm9yZy9mYXJmb3IvZmFyZm9yLWFsbC1sb2dnaW5nLWNsaWVudC5naXQK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
