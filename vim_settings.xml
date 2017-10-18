@@ -165,12 +165,6 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/erp/update_backend.yml" timestamp="1508219294285">
-        <mark key="[" line="19" column="160" />
-        <mark key="]" line="19" column="122" />
-        <mark key="^" line="19" column="122" />
-        <mark key="." line="19" column="122" />
-      </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/doctors/templates/doctors/detail.html" timestamp="1487657384161">
         <mark key="[" line="131" column="8" />
         <mark key="]" line="131" column="9" />
@@ -298,11 +292,6 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/kitchen_service/extjs/views/__init__.py" timestamp="1508235328440">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/staticfiles/js/main.js" timestamp="1490335239444">
         <mark key="[" line="183" column="44" />
         <mark key="]" line="183" column="44" />
@@ -404,6 +393,7 @@
         <mark key="]" line="104" column="0" />
         <mark key="." line="104" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/templates/base-extjs.html" timestamp="1508301172518" />
       <file name="$USER_HOME$/smenateam/medcenter/project/staticfiles/js/main.js" timestamp="1487936515013">
         <mark key="[" line="155" column="0" />
         <mark key="]" line="155" column="4" />
@@ -861,7 +851,7 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508238503967">
+      <file name="/Dummy.txt" timestamp="1508301309105">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
