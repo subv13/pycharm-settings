@@ -269,7 +269,7 @@
         <mark key="." line="6" column="21" />
         <mark key="^" line="6" column="21" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftStaffList.js" timestamp="1491549074619">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftStaffList.js" timestamp="1508315837695">
         <mark key="[" line="99" column="52" />
         <mark key="]" line="99" column="53" />
         <mark key="^" line="99" column="53" />
@@ -863,7 +863,7 @@
         <mark key="^" line="6" column="13" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508313333187">
+      <file name="/Dummy.txt" timestamp="1508317261425">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1025,7 +1025,7 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/extjs/views/__init__.py" timestamp="1505393381855">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/extjs/views/__init__.py" timestamp="1508316039238">
         <mark key="[" line="214" column="0" />
         <mark key="]" line="214" column="0" />
         <mark key="^" line="214" column="23" />
@@ -1187,6 +1187,7 @@
         <mark key="^" line="22" column="11" />
         <mark key="." line="22" column="11" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftStaff.js" timestamp="1508316985676" />
       <file name="$USER_HOME$/smenateam/formula1/project/apps/tickets/templates/tickets/ajax/location_list.html" timestamp="1491454972587">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -1402,6 +1403,7 @@
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Shift.js" timestamp="1508316214457" />
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/dishes/models.py" timestamp="1496897034457">
         <mark key="[" line="77" column="29" />
         <mark key="]" line="77" column="25" />
