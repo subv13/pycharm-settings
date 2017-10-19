@@ -304,6 +304,12 @@
         <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/Shift.js" timestamp="1508326643154" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/tmp.md" timestamp="1508396774145">
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="19" column="106" />
+        <mark key="." line="19" column="106" />
+        <mark key="^" line="19" column="106" />
+      </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/doctors/admin.py" timestamp="1489407481893">
         <mark key="[" line="30" column="62" />
         <mark key="]" line="31" column="13" />
@@ -1918,11 +1924,11 @@
       <jump line="14" column="19" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC5maWx0ZXIoY3JlYXRlZF9hdF9fZGF5PTE4LCBjcmVhdGVkX2F0X19tb250aD0xMCwgY3JlYXRlZF9hdF9feWVhcj0yMDE3KQo=</text>
+      <register name="&quot;" type="4">
+        <text>ERP</text>
       </register>
       <register name="-" type="4">
-        <text>all</text>
+        <text>ERP</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
@@ -1931,31 +1937,31 @@
         <text encoding="base64">ICAgICAgICByZWRpcyA9IFJlZGlzKAogICAgICAgICAgICBob3N0PXNldHRpbmdzLlNJRF9SRURJUy5IT1NULAogICAgICAgICAgICBwb3J0PXNldHRpbmdzLlNJRF9SRURJUy5QT1JULAogICAgICAgICAgICBkYj1zZXR0aW5ncy5TSURfUkVESVMuREIKICAgICAgICApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5maWx0ZXIoY3JlYXRlZF9hdF9fZGF5PTE4LCBjcmVhdGVkX2F0X19tb250aD0xMCwgY3JlYXRlZF9hdF9feWVhcj0yMDE3KQo=</text>
+        <text encoding="base64">ICAgIGBgYAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2hpZnRzID0gU2hpZnQub2JqZWN0c1wK</text>
+        <text encoding="base64">ICAgIGJiIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIGBgYGJhc2gK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Rwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgc2hpZnRfc3RhZmYuc3RhZmYubGFzdF9uYW1lLCBzaGlmdF9zdGFmZi5zdGFmZi5maXJzdF9uYW1lCg==</text>
+        <text encoding="base64">ICAgIC5maWx0ZXIoY3JlYXRlZF9hdF9fZGF5PTE4LCBjcmVhdGVkX2F0X19tb250aD0xMCwgY3JlYXRlZF9hdF9feWVhcj0yMDE3KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBzaGlmdF9zdGFmZi5zdGFmZi5wb3NpdGlvbi5zYWxhcnlfY2FsY3VsYXRpb25fcG9saWN5LmdldF9jb25jcmV0ZV9wb2xpY3koKS5yYXRlX3Blcl9ob3VyID09IDA6Cg==</text>
+        <text encoding="base64">c2hpZnRzID0gU2hpZnQub2JqZWN0c1wK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGZvciBzaGlmdF9zdGFmZiBpbiBzaGlmdC5zaGlmdHN0YWZmX3NldC5maWx0ZXIocG9zaXRpb25fX2luPXBvc2l0aW9ucyk6Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9ucyA9IFBvc2l0aW9uLm9iamVjdHMuZmlsdGVyKGNpdHk9c2hpZnQucG9pbnQuY2l0eSwgY2F0ZWdvcnlfX25hbWU9J9Ca0YPRgNGM0LXRgCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Zm9yIHNoaWZ0IGluIHNoaWZ0czoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgc2hpZnRfc3RhZmYuc3RhZmYubGFzdF9uYW1lLCBzaGlmdF9zdGFmZi5zdGFmZi5maXJzdF9uYW1lCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
