@@ -318,11 +318,11 @@
         <mark key="^" line="287" column="10" />
         <mark key="." line="287" column="7" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/restore_lost_flights.py" timestamp="1508412807117">
-        <mark key="[" line="12" column="78" />
-        <mark key="]" line="12" column="75" />
-        <mark key="." line="12" column="75" />
-        <mark key="^" line="12" column="75" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/restore_lost_flights.py" timestamp="1508417237545">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="24" column="30" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/frontend/markup/static/stylus/common.styl" timestamp="1489149970376">
         <mark key="[" line="26" column="9" />
@@ -1865,44 +1865,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC4ocG9pbnRfX2lkPTk1KQo=</text>
+        <text encoding="base64">ICAgIC5maWx0ZXIocG9pbnRfX2lkPTQ3KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>[</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>datetime.strptime(lost_flight['created_at'],
-                                     &quot;%Y-%m-%dT%H:%M:%SZ&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZXhpc3RlZF9mbGlnaHRzX2lkcyA9IFtmbGlnaHQuaWQgZm9yIGZsaWdodCBpbiBmbGlnaHRzXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC4ocG9pbnRfX2lkPTk1KQo=</text>
+        <text encoding="base64">ICAgIC5maWx0ZXIocG9pbnRfX2lkPTQ3KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIlWS0lbS0lZFQlSDolTTolU1oiKSwK</text>
+        <text encoding="base64">ICAgIC4ocG9pbnRfX2lkPTk1KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaW50IGRhdGV0aW1lLnN0cnB0aW1lKGxvc3RfZmxpZ2h0WydjcmVhdGVkX2F0J10sICIlWS0lbS0lZFQlSDolTTolU1oiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIlWS0lbS0lZFQlSDolTTolU1oiKSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CmZvciBsb3N0X2ZsaWdodCBpbiBsb3N0X2ZsaWdodHNbOjFdOgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaW50IGRhdGV0aW1lLnN0cnB0aW1lKGxvc3RfZmxpZ2h0WydjcmVhdGVkX2F0J10sICIlWS0lbS0lZFQlSDolTTolU1oiKQo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CmZvciBsb3N0X2ZsaWdodCBpbiBsb3N0X2ZsaWdodHNbOjFdOgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yIGxvc3RfZmxpZ2h0IGluIGxvc3RfZmxpZ2h0c1s6MV06Cg==</text>
+        <text encoding="base64">ICAgIHByaW50IGRhdGV0aW1lLnN0cnB0aW1lKGxvc3RfZmxpZ2h0WydjcmVhdGVkX2F0J10sICIlWS0lbS0lZFQlSDolTTolU1oiKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHB5dHoK</text>
+        <text encoding="base64">Zm9yIGxvc3RfZmxpZ2h0IGluIGxvc3RfZmxpZ2h0c1s6MV06Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHB5dHoK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
