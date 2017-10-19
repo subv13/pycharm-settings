@@ -318,6 +318,12 @@
         <mark key="^" line="287" column="10" />
         <mark key="." line="287" column="7" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/restore_lost_flights.py" timestamp="1508412807117">
+        <mark key="[" line="12" column="78" />
+        <mark key="]" line="12" column="75" />
+        <mark key="." line="12" column="75" />
+        <mark key="^" line="12" column="75" />
+      </file>
       <file name="$USER_HOME$/smenateam/vncenter/frontend/markup/static/stylus/common.styl" timestamp="1489149970376">
         <mark key="[" line="26" column="9" />
         <mark key="]" line="26" column="10" />
@@ -628,6 +634,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1508409813858">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/news/news/settings.py" timestamp="1496561829783">
         <mark key="[" line="57" column="17" />
@@ -1094,7 +1106,6 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/views.py" timestamp="1508407642500" />
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/worksheet.html" timestamp="1488369021158">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="29" />
@@ -1221,12 +1232,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/models.py" timestamp="1508409152697">
-        <mark key="[" line="638" column="57" />
-        <mark key="]" line="639" column="60" />
-        <mark key="^" line="639" column="60" />
-        <mark key="." line="639" column="60" />
-      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/models.py" timestamp="1508409152697" />
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/home/urls.py" timestamp="1489402811567">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -1859,43 +1865,44 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpZD1sb3N0X2ZsaWdodFsnaWQnXSwK</text>
+        <text encoding="base64">ICAgIC4ocG9pbnRfX2lkPTk1KQo=</text>
       </register>
       <register name="-" type="4">
-        <text>lost_flight['created_at']</text>
+        <text>filter</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGpzb24uZHVtcChzZXJpYWxpemFibGVfZmxpZ2h0cywgZiwgY2xzPURqYW5nb0pTT05FbmNvZGVyKQo=</text>
+      <register name="0" type="4">
+        <text>datetime.strptime(lost_flight['created_at'],
+                                     &quot;%Y-%m-%dT%H:%M:%SZ&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZD1sb3N0X2ZsaWdodFsnaWQnXSwK</text>
+        <text encoding="base64">ICAgIC4ocG9pbnRfX2lkPTk1KQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIGxvc3RfZmxpZ2h0IGluIGxvc3RfZmxpZ2h0czoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICIlWS0lbS0lZFQlSDolTTolU1oiKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvciBvcmRlcgo=</text>
+        <text encoding="base64">ICAgIHByaW50IGRhdGV0aW1lLnN0cnB0aW1lKGxvc3RfZmxpZ2h0WydjcmVhdGVkX2F0J10sICIlWS0lbS0lZFQlSDolTTolU1oiKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZD1sb3N0X2ZsaWdodFsnaWQnXSwK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcnM9bG9zdF9mbGlnaHRbJ29yZGVycyddLAo=</text>
+        <text encoding="base64">CmZvciBsb3N0X2ZsaWdodCBpbiBsb3N0X2ZsaWdodHNbOjFdOgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICB0eXBlPU5vbmUK</text>
+        <text encoding="base64">ICAgIHByaW50IGRhdGV0aW1lLnN0cnB0aW1lKGxvc3RfZmxpZ2h0WydjcmVhdGVkX2F0J10sICIlWS0lbS0lZFQlSDolTTolU1oiKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0dXM9J2NvbXBsZXRlZCcsCg==</text>
+        <text encoding="base64">Zm9yIGxvc3RfZmxpZ2h0IGluIGxvc3RfZmxpZ2h0c1s6MV06Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzaGlmdF9zdGFmZj1Ob25lLAo=</text>
+        <text encoding="base64">aW1wb3J0IHB5dHoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1ZXN0X2dvb2dsZT1Ob25lLAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
