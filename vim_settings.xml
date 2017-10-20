@@ -843,7 +843,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508489721313">
+      <file name="/Dummy.txt" timestamp="1508494536190">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1004,7 +1004,12 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/extjs/views/__init__.py" timestamp="1508407803861" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/extjs/views/__init__.py" timestamp="1508494616866">
+        <mark key="[" line="2473" column="24" />
+        <mark key="]" line="2473" column="61" />
+        <mark key="^" line="2473" column="61" />
+        <mark key="." line="2473" column="61" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1506418532826">
         <mark key="[" line="6" column="50" />
         <mark key="]" line="6" column="66" />
@@ -1929,11 +1934,11 @@
       <jump line="10" column="38" filename="$USER_HOME$/smenateam/farfor/farfor/tmp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>\</text>
       </register>
       <register name="-" type="4">
-        <text>filter</text>
+        <text>\</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
