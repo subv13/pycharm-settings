@@ -332,6 +332,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="28" />
       </file>
+      <file name="$USER_HOME$/venvs/redis_test/lib/python2.7/site-packages/redis/client.py" timestamp="1508847572395" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/management/commands/remove_empty_flights_elastic.py" timestamp="1501934718940">
         <mark key="[" line="14" column="31" />
         <mark key="]" line="14" column="31" />
@@ -1401,6 +1402,12 @@
         <mark key="." line="7" column="83" />
         <mark key="^" line="7" column="83" />
       </file>
+      <file name="$USER_HOME$/smenateam/redis_test/main.py" timestamp="1508848465811">
+        <mark key="[" line="15" column="8" />
+        <mark key="]" line="15" column="13" />
+        <mark key="." line="15" column="13" />
+        <mark key="^" line="15" column="13" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/orders/kkt/Check.js" timestamp="1506254334757">
         <mark key="[" line="24" column="34" />
         <mark key="]" line="26" column="15" />
@@ -2000,40 +2007,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>success</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCgyKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygi0KPRgdC/0LXRiNC90L4g0LfQsNC70L7Qs9C40YDQvtCy0LDQuyIpCg==</text>
+        <text encoding="base64">ICAgICMgICAgIGNvbm5lY3Rpb25zLmFwcGVuZChSZWRpcy5mcm9tX3VybCgncmVkaXM6Ly9sb2NhbGhvc3Q6MzI3NjkvMCcpKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZWRpc19jbGllbnQuc2V0KCd0aW1lJykK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZWRpc19jbGllbnQpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LWUgZ2l0K2h0dHBzOi8vYml0YnVja2V0Lm9yZy9yZWJyYW5jaC9mbGFzay1jb25maWd1cmF0aW9uc0AxYTA5NWJhNjg3MDM4NmYzZTVlOTc1YTE3ZTNhMWJiNzc2N2FkMzJkI2VnZz1mbGFza19jb25maWd1cmF0aW9ucwo=</text>
+        <text encoding="base64">ICAgICAgICBwcmludChyZWRpc19jbGllbnQpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGphbmdvLXBpY2tsZWZpZWxkPT0wLjMuMgo=</text>
+        <text encoding="base64">ICAgICAgICBzbGVlcCgyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Rmxhc2stU29ja2V0SU89PTIuOC4xCg==</text>
+        <text encoding="base64">ICAgIHdoaWxlIFRydWU6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
