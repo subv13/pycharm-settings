@@ -66,7 +66,7 @@
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/farfor-notifications-api-service.conf" timestamp="1508825516888">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/farfor-notifications-api-service.conf" timestamp="1508826977370">
         <mark key="[" line="28" column="8" />
         <mark key="]" line="28" column="8" />
         <mark key="^" line="4" column="8" />
@@ -342,7 +342,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1508824215452">
+      <file name="/dummy.sql" timestamp="1508827763355">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/settings_local.py" timestamp="1508823683042">
@@ -352,7 +352,7 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="32" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508825369394">
+      <file name="/Dummy.txt" timestamp="1508827682608">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -406,11 +406,11 @@
         <mark key="^" line="72" column="26" />
         <mark key="." line="72" column="26" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/utils/channel_manager.py" timestamp="1508824997734">
-        <mark key="[" line="14" column="46" />
-        <mark key="]" line="15" column="15" />
-        <mark key="^" line="15" column="15" />
-        <mark key="." line="15" column="15" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/utils/channel_manager.py" timestamp="1508827203208">
+        <mark key="[" line="29" column="21" />
+        <mark key="]" line="29" column="11" />
+        <mark key="^" line="29" column="11" />
+        <mark key="." line="29" column="11" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/menu/models.py" timestamp="1500891841482">
         <mark key="[" line="131" column="21" />
@@ -1224,6 +1224,13 @@
         <mark key="^" line="272" column="71" />
         <mark key="." line="272" column="71" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/requirements.txt" timestamp="1508828184865">
+        <mark key="'" line="4" column="57" />
+        <mark key="[" line="24" column="13" />
+        <mark key="]" line="24" column="13" />
+        <mark key="^" line="19" column="20" />
+        <mark key="." line="24" column="13" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/models/__init__.py" timestamp="1502369028581">
         <mark key="[" line="79" column="71" />
         <mark key="]" line="79" column="70" />
@@ -1984,8 +1991,8 @@
       <jump line="10" column="38" filename="$USER_HOME$/smenateam/farfor/farfor/tmp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>fr</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>fr</text>
@@ -2003,25 +2010,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fIGltcG9ydCBhYnNvbHV0ZV9pbXBvcnQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">REVMRVRFIAo=</text>
+        <text encoding="base64">LWUgZ2l0K2h0dHBzOi8vYml0YnVja2V0Lm9yZy9yZWJyYW5jaC9mbGFzay1jb25maWd1cmF0aW9uc0AxYTA5NWJhNjg3MDM4NmYzZTVlOTc1YTE3ZTNhMWJiNzc2N2FkMzJkI2VnZz1mbGFza19jb25maWd1cmF0aW9ucwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ05BTUUnOiAnbXlzcWwnLAo=</text>
+        <text encoding="base64">ZGphbmdvLXBpY2tsZWZpZWxkPT0wLjMuMgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Rmxhc2stU29ja2V0SU89PTIuOC4xCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhbGFyeS5zYXZlKHVwZGF0ZV9maWVsZHM9W3UnY3JlYXRlZF9hdCddKQo=</text>
+        <text encoding="base64">Z3JlZW5sZXQ9PTAuNC4xMQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhbGFyeS5jcmVhdGVkX2F0ID0gc2FsYXJ5X2RhdGV0aW1lCg==</text>
+        <text encoding="base64">aXRzZGFuZ2Vyb3VzPT0wLjI0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">SmluamEyPT0yLjgK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
