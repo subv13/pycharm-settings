@@ -354,11 +354,11 @@
         <mark key="^" line="33" column="37" />
         <mark key="." line="33" column="37" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508838953265">
+      <file name="/Dummy.txt" timestamp="1508842066084">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+        <mark key="]" line="0" column="3" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="3" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/thread_local_manager.py" timestamp="1500294175565">
         <mark key="[" line="22" column="40" />
