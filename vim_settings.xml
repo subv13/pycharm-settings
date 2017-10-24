@@ -477,6 +477,13 @@
         <mark key="." line="39" column="12" />
         <mark key="^" line="39" column="12" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/tmp.md" timestamp="1508820812847">
+        <mark key="y" line="17" column="0" />
+        <mark key="[" line="23" column="16" />
+        <mark key="]" line="23" column="20" />
+        <mark key="^" line="23" column="20" />
+        <mark key="." line="23" column="20" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/basket/order-complete-info-status.html" timestamp="1492498148588">
         <mark key="[" line="117" column="0" />
         <mark key="]" line="119" column="46" />
@@ -1916,16 +1923,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>18</text>
+        <text>erp</text>
       </register>
       <register name="-" type="4">
-        <text>18</text>
+        <text>erp</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlYWNoX3NoaWZ0LnBvaW50LmNpdHksCg==</text>
+        <text encoding="base64">NC4g0KHQvNC+0YLRgNC40Lwg0LIg0YHRg9C/0LXRgNCy0LjQt9C+0YDQtSDQvdCwINGB0LXRgNCy0LXRgNC1INC60LDQutC+0Lkg0LjQvdGB0YLQsNC90YEg0L3QtdCw0LrRgtC40LLQvdGL0LkgKHJlbGVhc2UtMSDQuNC70LggcmVsZWFzZS0yKQo1LiDQktGL0LPRgNGD0LbQsNC10LwgRVJQCiAgICBgYGBiYXNoCiAgICBhbnNpYmxlLXBsYXlib29rIC1pIGRlcGxveW1lbnQvaG9zdHMueW1sIGRlcGxveW1lbnQvcGxheWJvb2tzL3Byb2R1Y3Rpb24vZXJwL3ByZS1yZWxlYXNlL3VwZGF0ZV9hbGwueW1sIC0tZXh0cmEtdmFycz0idGFyZ2V0X2luc3RhbmNlPTzQvdCw0LfQstCw0L3QuNC1INC90LXQsNC60YLQuNCy0L3QvtCz0L4g0LjQvdGB0YLQsNC90YHQsD4iCiAgICBgYGAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
