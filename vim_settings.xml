@@ -66,7 +66,7 @@
         <mark key="." line="19" column="11" />
         <mark key="^" line="19" column="38" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/farfor-notifications-api-service.conf" timestamp="1508229300955">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/farfor-notifications-api-service.conf" timestamp="1508825516888">
         <mark key="[" line="28" column="8" />
         <mark key="]" line="28" column="8" />
         <mark key="^" line="4" column="8" />
@@ -352,7 +352,7 @@
         <mark key="^" line="32" column="46" />
         <mark key="." line="32" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508822038420">
+      <file name="/Dummy.txt" timestamp="1508825369394">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -406,11 +406,11 @@
         <mark key="^" line="72" column="26" />
         <mark key="." line="72" column="26" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/utils/channel_manager.py" timestamp="1508823651033">
-        <mark key="[" line="28" column="30" />
-        <mark key="]" line="28" column="24" />
-        <mark key="^" line="28" column="24" />
-        <mark key="." line="28" column="24" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/utils/channel_manager.py" timestamp="1508824997734">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="15" column="15" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="15" column="15" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/menu/models.py" timestamp="1500891841482">
         <mark key="[" line="131" column="21" />
@@ -735,11 +735,11 @@
         <mark key="^" line="865" column="36" />
         <mark key="." line="865" column="36" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/settings.py" timestamp="1508823681778">
-        <mark key="[" line="33" column="65" />
-        <mark key="]" line="33" column="41" />
-        <mark key="." line="33" column="41" />
-        <mark key="^" line="33" column="41" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/settings.py" timestamp="1508825343343">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="3" />
+        <mark key="." line="17" column="3" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/staff/StaffSalaryList.js" timestamp="1508743743389" />
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/57878842-5d45-4db5-af94-dbffc7fdca5c/console.sql" timestamp="1487571191782">
@@ -1984,11 +1984,11 @@
       <jump line="10" column="38" filename="$USER_HOME$/smenateam/farfor/farfor/tmp.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>fr</text>
       </register>
       <register name="-" type="4">
-        <text>clientaudit</text>
+        <text>fr</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
