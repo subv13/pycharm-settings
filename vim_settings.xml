@@ -157,6 +157,12 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/notification_factories.py" timestamp="1508836469430">
+        <mark key="[" line="43" column="20" />
+        <mark key="]" line="43" column="15" />
+        <mark key="^" line="43" column="15" />
+        <mark key="." line="43" column="15" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/settings.py" timestamp="1506401455591">
         <mark key="[" line="26" column="31" />
         <mark key="]" line="27" column="112" />
@@ -345,12 +351,12 @@
       <file name="/dummy.sql" timestamp="1508829775525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/settings_local.py" timestamp="1508823683042">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/settings_local.py" timestamp="1508836848390">
         <mark key="y" line="1" column="15" />
-        <mark key="[" line="32" column="18" />
-        <mark key="]" line="32" column="46" />
-        <mark key="^" line="32" column="46" />
-        <mark key="." line="32" column="46" />
+        <mark key="[" line="33" column="34" />
+        <mark key="]" line="33" column="37" />
+        <mark key="^" line="33" column="37" />
+        <mark key="." line="33" column="37" />
       </file>
       <file name="/Dummy.txt" timestamp="1508827682608">
         <mark key="[" line="0" column="0" />
