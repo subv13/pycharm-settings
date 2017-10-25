@@ -48,6 +48,7 @@
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="68" />
       </file>
+      <file name="$USER_HOME$/venvs/farfor-notifications-api-service/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1508924656559" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/api.py" timestamp="1500635065755">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="50" column="0" />
@@ -352,6 +353,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="28" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" timestamp="1508395150573">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+      </file>
       <file name="$USER_HOME$/venvs/redis_test/lib/python2.7/site-packages/redis/client.py" timestamp="1508847572395" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/management/commands/remove_empty_flights_elastic.py" timestamp="1501934718940">
         <mark key="[" line="14" column="31" />
@@ -429,11 +435,10 @@
         <mark key="^" line="72" column="26" />
         <mark key="." line="72" column="26" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/utils/channel_manager.py" timestamp="1508827203208">
-        <mark key="[" line="29" column="21" />
-        <mark key="]" line="29" column="11" />
-        <mark key="^" line="29" column="11" />
-        <mark key="." line="29" column="11" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/utils/channel_manager.py" timestamp="1508925220468">
+        <mark key="[" line="27" column="23" />
+        <mark key="]" line="31" column="8" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/menu/models.py" timestamp="1508915627530">
         <mark key="[" line="131" column="21" />
@@ -672,6 +677,16 @@
       </file>
       <file name="$USER_HOME$/venvs/farfor-notifications-api-service/src/farfor-models/farfor_models/notification_center.py" timestamp="1508923122893" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/subapps/salary/migrations/0001_initial.py" timestamp="1508313381369" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1508767050203">
+        <mark key="[" line="569" column="0" />
+        <mark key="]" line="569" column="0" />
+        <mark key="." line="569" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/FlightForm.js" timestamp="1508744487444">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/admin.py" timestamp="1496917515592">
         <mark key="[" line="12" column="6" />
         <mark key="]" line="12" column="10" />
@@ -1034,11 +1049,12 @@
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/apps/d_bus/listener.py" timestamp="1508923782922">
-        <mark key="[" line="70" column="108" />
-        <mark key="]" line="71" column="19" />
-        <mark key="." line="71" column="19" />
-        <mark key="^" line="71" column="19" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/apps/d_bus/listener.py" timestamp="1508925498658">
+        <mark key="'" line="78" column="10" />
+        <mark key="[" line="19" column="5" />
+        <mark key="]" line="19" column="14" />
+        <mark key="." line="19" column="14" />
+        <mark key="^" line="19" column="14" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/config/database.py" timestamp="1508231587691" />
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/select-day/select-day.jade" timestamp="1489395805559">
@@ -1558,6 +1574,7 @@
         <mark key="^" line="14" column="54" />
         <mark key="." line="33" column="12" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py" timestamp="1508925422575" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/models/courier.py" timestamp="1501224020528">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="17" column="70" />
@@ -1724,7 +1741,7 @@
         <mark key="^" line="340" column="49" />
         <mark key="." line="340" column="49" />
       </file>
-      <file name="/Python Console" timestamp="1506432699807">
+      <file name="/Python Console" timestamp="1508925486470">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/quality_reviews/api.py" timestamp="1500642539373">
@@ -1984,8 +2001,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="139" column="0" filename="$USER_HOME$/smenateam/formula1/project/staticfiles/js/analytics.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/results/validate_product_before_add/validate_product_before_add_2.txt" />
       <jump line="971" column="44" filename="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/api/basket.py" />
       <jump line="46" column="55" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/tests/create_order_by_operator/create_order_by_operator.py" />
       <jump line="47" column="12" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/tests/create_order_by_operator/create_order_by_operator.py" />
@@ -2084,46 +2099,48 @@
       <jump line="14" column="19" filename="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
       <jump line="10" column="38" filename="$USER_HOME$/smenateam/farfor/farfor/tmp.py" />
       <jump line="54" column="22" filename="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/apps/web/app.py" />
+      <jump line="84" column="46" filename="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/apps/d_bus/listener.py" />
+      <jump line="78" column="10" filename="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/apps/d_bus/listener.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzay5leHQuc29ja2V0aW8gaW1wb3J0IFNvY2tldElPCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVldWUgPSBDaGFubmVsTWFuYWdlci5jcmVhdGVfcXVldWUoY2hhbm5lbCwgc2V0dGluZ3MuUkFCQklUTVEuUVVFVUVfTkFNRSkK</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICBzbGVlcCgyKQ==</text>
+        <text>=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICMgICAgIGNvbm5lY3Rpb25zLmFwcGVuZChSZWRpcy5mcm9tX3VybCgncmVkaXM6Ly9sb2NhbGhvc3Q6MzI3NjkvMCcpKQo=</text>
+      <register name="0" type="4">
+        <text>{u'x-delayed-type': u'fanout'}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzay5leHQuc29ja2V0aW8gaW1wb3J0IFNvY2tldElPCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVldWUgPSBDaGFubmVsTWFuYWdlci5jcmVhdGVfcXVldWUoY2hhbm5lbCwgc2V0dGluZ3MuUkFCQklUTVEuUVVFVUVfTkFNRSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2hhbm5lbE1hbmFnZXIuZGVjbGFyZV9leGNoYW5nZShjaGFubmVsLCBzZXR0aW5ncy5SQUJCSVRNUS5FWENIQU5HRV9OQU1FLCB7dSd4LWRlbGF5ZWQtdHlwZSc6IHUnZmFub3V0J30pCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2hhbm5lbCA9IENoYW5uZWxNYW5hZ2VyLmNyZWF0ZV9jaGFubmVsKGNvbm5lY3Rpb24pCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZWRpc19jbGllbnQuc2V0KCd0aW1lJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbiA9IENoYW5uZWxNYW5hZ2VyLmNyZWF0ZV9jb25uZWN0aW9uKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZWRpc19jbGllbnQpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29ubmVjdGlvbiA9IENoYW5uZWxNYW5hZ2VyLmNyZWF0ZV9jb25uZWN0aW9uKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB3aGlsZSBUcnVlOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludChyZWRpc19jbGllbnQpCg==</text>
+        <text encoding="base64">aQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
