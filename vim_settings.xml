@@ -374,14 +374,7 @@
       <file name="/dummy.sql" timestamp="1508829775525">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/settings_local.py" timestamp="1508836848390">
-        <mark key="y" line="1" column="15" />
-        <mark key="[" line="33" column="34" />
-        <mark key="]" line="33" column="37" />
-        <mark key="^" line="33" column="37" />
-        <mark key="." line="33" column="37" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1508922982914">
+      <file name="/Dummy.txt" timestamp="1508936244856">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -534,13 +527,6 @@
         <mark key="]" line="39" column="12" />
         <mark key="." line="39" column="12" />
         <mark key="^" line="39" column="12" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/tmp.md" timestamp="1508820812847">
-        <mark key="y" line="17" column="0" />
-        <mark key="[" line="23" column="16" />
-        <mark key="]" line="23" column="20" />
-        <mark key="^" line="23" column="20" />
-        <mark key="." line="23" column="20" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/basket/order-complete-info-status.html" timestamp="1492498148588">
         <mark key="[" line="117" column="0" />
@@ -982,13 +968,6 @@
         <mark key="]" line="20" column="11" />
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/restore_lost_cash_transfer.py" timestamp="1508428049630">
-        <mark key="y" line="55" column="7" />
-        <mark key="[" line="72" column="36" />
-        <mark key="]" line="72" column="34" />
-        <mark key="." line="72" column="34" />
-        <mark key="^" line="72" column="34" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/erp/update_frontend.yml" timestamp="1508332414748" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-tests/lottery/check_is_order_lottery_participiant.py" timestamp="1492144730939">
@@ -1545,6 +1524,7 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/geo/CityAliasUnited.js" timestamp="1508936254895" />
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/index.html" timestamp="1496567121150">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -1558,13 +1538,6 @@
       </file>
       <file name="/a.regexp" timestamp="1487930657899">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/sockets/sid_store.py" timestamp="1508238215926">
-        <mark key="y" line="37" column="8" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="10" column="35" />
-        <mark key="." line="48" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/managers.py" timestamp="1508215729996" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/mixins/api_view_mixins.py" timestamp="1505730530607">
@@ -1635,13 +1608,6 @@
         <mark key="." line="23" column="47" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/SuperOperatorViewer.js" timestamp="1508326621350" />
-      <file name="$USER_HOME$/smenateam/farfor/farfor/restore_salaries.py" timestamp="1508770095480">
-        <mark key="y" line="75" column="31" />
-        <mark key="[" line="12" column="20" />
-        <mark key="]" line="16" column="20" />
-        <mark key="." line="16" column="20" />
-        <mark key="^" line="16" column="20" />
-      </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/urls.py" timestamp="1488543051910">
         <mark key="[" line="40" column="17" />
         <mark key="]" line="40" column="10" />
