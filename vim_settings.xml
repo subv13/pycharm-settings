@@ -168,11 +168,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/notification_factories.py" timestamp="1509081561009">
-        <mark key="[" line="62" column="37" />
-        <mark key="]" line="62" column="49" />
-        <mark key="." line="62" column="49" />
-        <mark key="^" line="62" column="49" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/notification_factories.py" timestamp="1509083874120">
+        <mark key="[" line="77" column="34" />
+        <mark key="]" line="77" column="44" />
+        <mark key="." line="77" column="44" />
+        <mark key="^" line="77" column="44" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/settings.py" timestamp="1506401455591">
         <mark key="[" line="26" column="31" />
@@ -355,10 +355,10 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1509081534683">
+      <file name="/dummy.sql" timestamp="1509082951760">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509080735401">
+      <file name="/Dummy.txt" timestamp="1509082927506">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1978,7 +1978,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24ubm90aWZpY2F0aW9uX29iamVjdHMuYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ21vZGVsJzoK</text>
       </register>
       <register name="-" type="4">
         <text>config</text>
@@ -1990,31 +1990,31 @@
         <text>get_session().query(cls).filter_by(key=key).first()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24ubm90aWZpY2F0aW9uX29iamVjdHMuYWxsKCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ21vZGVsJzoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb24ubm90aWZpY2F0aW9uX29iamVjdHMuYWxsKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ29iamVjdCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ29iamVjdCc6IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ29iamVjdCcK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25zX3R5cGVfZW5hYmxlZCA9IGNpdHlfaWQgaW4gY2l0aWVzX3dpdGhfZW5hYmxlZF9ub3RpZmljYXRpb25zCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJ29iamVjdCc6IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRlZmF1bHQK</text>
+        <text encoding="base64">ICAgICAgICBub3RpZmljYXRpb25zX3R5cGVfZW5hYmxlZCA9IGNpdHlfaWQgaW4gY2l0aWVzX3dpdGhfZW5hYmxlZF9ub3RpZmljYXRpb25zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgQXR0cmlidXRlRXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRlZmF1bHQK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRic2FmZV9kZWNvZGUoZ2V0X3Nlc3Npb24oKS5xdWVyeShjbHMpLmZpbHRlcl9ieShrZXk9a2V5KS5maXJzdCgpLnZhbHVlKQo=</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgQXR0cmlidXRlRXJyb3I6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRic2FmZV9kZWNvZGUoZ2V0X3Nlc3Npb24oKS5xdWVyeShjbHMpLmZpbHRlcl9ieShrZXk9a2V5KS5maXJzdCgpLnZhbHVlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
