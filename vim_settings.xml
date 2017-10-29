@@ -90,12 +90,6 @@
         <mark key="." line="32" column="88" />
         <mark key="^" line="32" column="88" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a7eb659-8ac4-4549-9f76-faf3b4b8d24a/console.sql" timestamp="1505908735594">
-        <mark key="[" line="49" column="25" />
-        <mark key="]" line="49" column="24" />
-        <mark key="^" line="49" column="24" />
-        <mark key="." line="49" column="24" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/admin/MenuSiteTag.js" timestamp="1502176615208">
         <mark key="[" line="26" column="5" />
         <mark key="]" line="19" column="32" />
@@ -340,12 +334,6 @@
         <mark key="^" line="871" column="14" />
         <mark key="." line="885" column="2" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1505908628016">
-        <mark key="[" line="0" column="109" />
-        <mark key="]" line="0" column="106" />
-        <mark key="^" line="0" column="106" />
-        <mark key="." line="0" column="106" />
-      </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/galleries/models.py" timestamp="1487659166879">
         <mark key="[" line="35" column="31" />
         <mark key="]" line="35" column="30" />
@@ -458,6 +446,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505983484947">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/templates/search/indexes/orders/flight_text.txt" timestamp="1488777639486">
         <mark key="[" line="0" column="0" />
@@ -675,12 +666,6 @@
         <mark key="]" line="0" column="14" />
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e8e2f17-13e9-4716-b770-cb99f80b13d6/console.sql" timestamp="1496575420258">
-        <mark key="[" line="0" column="23" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/departments/urls.py" timestamp="1489139342004">
         <mark key="[" line="5" column="41" />
@@ -993,6 +978,12 @@
         <mark key="." line="256" column="3" />
         <mark key="^" line="256" column="3" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1505908628016">
+        <mark key="[" line="0" column="109" />
+        <mark key="]" line="0" column="106" />
+        <mark key="^" line="0" column="106" />
+        <mark key="." line="0" column="106" />
+      </file>
       <file name="/a.regexp" timestamp="1487930657899">
         <mark key="[" line="0" column="0" />
       </file>
@@ -1062,12 +1053,6 @@
         <mark key="^" line="90" column="47" />
         <mark key="." line="90" column="47" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3b9b6cc9-6d4d-4ffa-9e34-a6d69f6cc791/console.sql" timestamp="1501574548138">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/calculations.py" timestamp="1502790191025">
         <mark key="[" line="211" column="75" />
         <mark key="]" line="211" column="75" />
@@ -1078,6 +1063,12 @@
         <mark key="[" line="284" column="0" />
         <mark key="]" line="284" column="80" />
         <mark key="." line="298" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/6e8e2f17-13e9-4716-b770-cb99f80b13d6/console.sql" timestamp="1496575420258">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/settings.py" timestamp="1501065085430">
         <mark key="[" line="13" column="0" />
@@ -1096,9 +1087,6 @@
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="51" />
         <mark key="." line="6" column="51" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505983484947">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/users/views.py" timestamp="1506606883695">
         <mark key="[" line="188" column="0" />
@@ -1141,9 +1129,6 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="39" column="10" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7b67c4a-d597-42b5-95fb-41aa645a88ed/console_2.sql" timestamp="1496238940827">
-        <mark key="[" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/news/articles/views.py" timestamp="1496563549650">
         <mark key="[" line="18" column="17" />
@@ -1216,6 +1201,12 @@
         <mark key="]" line="40" column="18" />
         <mark key="." line="40" column="18" />
         <mark key="^" line="40" column="18" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7b67c4a-d597-42b5-95fb-41aa645a88ed/console.sql" timestamp="1496309701672">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/django_basic/.gitignore" timestamp="1491803573986">
         <mark key="[" line="1" column="5" />
@@ -1292,12 +1283,6 @@
         <mark key="^" line="17" column="66" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1501924090825">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="18" />
-        <mark key="^" line="6" column="18" />
-        <mark key="." line="6" column="18" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/signals.py" timestamp="1506416141529">
         <mark key="[" line="57" column="0" />
         <mark key="]" line="57" column="0" />
@@ -1356,6 +1341,12 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/3b9b6cc9-6d4d-4ffa-9e34-a6d69f6cc791/console.sql" timestamp="1501574548138">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/celery.py" timestamp="1501831067893">
         <mark key="[" line="30" column="19" />
         <mark key="]" line="30" column="18" />
@@ -1386,9 +1377,6 @@
         <mark key="." line="139" column="42" />
         <mark key="^" line="139" column="42" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/71cd3e9e-fc1a-4e44-8243-a05c265848b1/console.sql" timestamp="1489402450556">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/home/views.py" timestamp="1487757890091">
         <mark key="[" line="142" column="28" />
         <mark key="]" line="142" column="34" />
@@ -1406,9 +1394,6 @@
         <mark key="]" line="11" column="12" />
         <mark key="." line="11" column="12" />
         <mark key="^" line="8" column="11" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/57878842-5d45-4db5-af94-dbffc7fdca5c/console.sql" timestamp="1487571191782">
-        <mark key="[" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" timestamp="1495689167336">
         <mark key="[" line="277" column="22" />
@@ -1485,6 +1470,12 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1502434435750">
+        <mark key="[" line="0" column="10" />
+        <mark key="]" line="0" column="9" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="9" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/management/commands/remove_flight_elastic.py" timestamp="1498200639973">
         <mark key="[" line="72" column="57" />
         <mark key="]" line="74" column="22" />
@@ -1545,12 +1536,6 @@
         <mark key="^" line="121" column="37" />
         <mark key="." line="121" column="37" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7b67c4a-d597-42b5-95fb-41aa645a88ed/console.sql" timestamp="1496309701672">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="5" column="40" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/menu/extjs/api.py" timestamp="1505999766381">
         <mark key="[" line="104" column="0" />
         <mark key="]" line="104" column="0" />
@@ -1598,6 +1583,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1501924090825">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="18" />
+        <mark key="^" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/urls.py" timestamp="1497273086691">
         <mark key="[" line="5" column="44" />
         <mark key="]" line="6" column="0" />
@@ -1622,11 +1613,26 @@
         <mark key="^" line="125" column="21" />
         <mark key="." line="125" column="21" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/2a7eb659-8ac4-4549-9f76-faf3b4b8d24a/console.sql" timestamp="1505908735594">
+        <mark key="[" line="49" column="25" />
+        <mark key="]" line="49" column="24" />
+        <mark key="^" line="49" column="24" />
+        <mark key="." line="49" column="24" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ab307617-a1d2-4f5b-bf32-fc6ae256f482/console.sql" timestamp="1501224266545">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/weekly_menu.html" timestamp="1496913688258">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="4" />
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="3" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/57878842-5d45-4db5-af94-dbffc7fdca5c/console.sql" timestamp="1487571191782">
+        <mark key="[" line="12" column="38" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/templates/home.html" timestamp="1505986086943">
         <mark key="[" line="6" column="0" />
@@ -1708,17 +1714,14 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="25" column="23" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/71cd3e9e-fc1a-4e44-8243-a05c265848b1/console.sql" timestamp="1489402450556">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Operator.js" timestamp="1492516701968">
         <mark key="[" line="445" column="60" />
         <mark key="]" line="445" column="23" />
         <mark key="^" line="445" column="23" />
         <mark key="." line="445" column="23" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ab307617-a1d2-4f5b-bf32-fc6ae256f482/console.sql" timestamp="1501224266545">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="11" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/haystack.py" timestamp="1491994629362">
         <mark key="[" line="83" column="0" />
@@ -1783,12 +1786,6 @@
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1502434435750">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
-      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/track/models.py" timestamp="1500378871461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -1818,6 +1815,9 @@
         <mark key="]" line="13" column="68" />
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="68" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7b67c4a-d597-42b5-95fb-41aa645a88ed/console_2.sql" timestamp="1496238940827">
+        <mark key="[" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1502097383485">
         <mark key="[" line="53" column="11" />
@@ -2123,6 +2123,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed 2</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
