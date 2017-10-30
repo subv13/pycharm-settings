@@ -243,6 +243,12 @@
         <mark key="^" line="277" column="24" />
         <mark key="." line="277" column="24" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/kitchen_operational_service/release/update.yml" timestamp="1509356915505">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
+        <mark key="^" line="5" column="18" />
+      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/cme/settings.py" timestamp="1500532790077">
         <mark key="[" line="90" column="17" />
         <mark key="]" line="90" column="47" />
@@ -2027,10 +2033,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>staging</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text>staging</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
