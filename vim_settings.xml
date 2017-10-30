@@ -659,6 +659,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/frontend/update_backend.yml" timestamp="1509363648141">
+        <mark key="[" line="44" column="47" />
+        <mark key="]" line="44" column="47" />
+        <mark key="^" line="44" column="47" />
+        <mark key="." line="44" column="47" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/README.md" timestamp="1509355757799">
         <mark key="[" line="9" column="7" />
         <mark key="]" line="9" column="19" />
@@ -671,11 +677,11 @@
         <mark key="]" line="569" column="0" />
         <mark key="." line="569" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/erp/update_backend.yml" timestamp="1509361036047">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="56" />
-        <mark key="^" line="11" column="31" />
-        <mark key="." line="11" column="31" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/erp/update_backend.yml" timestamp="1509363825591">
+        <mark key="[" line="54" column="45" />
+        <mark key="]" line="54" column="45" />
+        <mark key="^" line="54" column="45" />
+        <mark key="." line="54" column="45" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/FlightForm.js" timestamp="1508744487444">
         <mark key="[" line="15" column="0" />
@@ -2065,8 +2071,8 @@
       <jump line="78" column="10" filename="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/apps/d_bus/listener.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJlY29tZTogdHJ1ZQo=</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -2078,31 +2084,31 @@
         <text encoding="base64">ICAgIC0gbmFtZTogItCe0LHQvdC+0LLQu9C10L3QuNC1INCx0Y3QutC10L3QtNCwIEVSUCDQvdCwINGC0LXRgdGC0L7QstC+0Lwg0YHQtdGA0LLQtdGA0LUiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJlY29tZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX21ldGhvZDogInN1Igo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJlY29tZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lOiB0cnVlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIG5hbWU6ICLQktGL0LPRgNGD0LfQutCwINC40LfQvNC10L3QtdC90LjQuSDQuNC3INGA0LXQv9C+0LfQuNGC0L7RgNC40Y8iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX3VzZXI6ICJmYXJmb3IiCiAgICAgICAgICAgIGJlY29tZTogdHJ1ZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGhvc3RzOiBlcnAtc3RhZ2luZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX3VzZXI6ICJmYXJmb3IiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIC0gc3VwZXJ2aXNvcmN0bDogIm5hbWU9J2ZhcmZvci1mcm9udGVuZDonIHN0YXRlPXJlc3RhcnRlZCIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogItCf0LXRgNC10LfQsNC/0YPRgdC6INCy0YHQtdGFINC/0YDQvtGG0LXRgdGB0L7QsiDQv9GA0L7QtdC60YLQsCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogItCd0LDQutCw0YLRi9Cy0LDQvdC40LUg0LzQuNCz0YDQsNGG0LjQuSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX21ldGhvZDogInN1IgogICAgICAgICAgICBuYW1lOiAi0J3QsNC60LDRgtGL0LLQsNC90LjQtSDQvNC40LPRgNCw0YbQuNC5Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogItCh0LHQvtGAINGB0YLQsNGC0LjQutC4Igo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
