@@ -27,6 +27,12 @@
         <mark key="." line="139" column="23" />
         <mark key="^" line="139" column="23" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/requirements.in" timestamp="1509441081552">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="10" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="3" column="10" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/frontend/update_backend.yml" timestamp="1495540748093">
         <mark key="[" line="19" column="110" />
         <mark key="]" line="19" column="122" />
@@ -1278,13 +1284,6 @@
         <mark key="^" line="272" column="71" />
         <mark key="." line="272" column="71" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/requirements.txt" timestamp="1508828184865">
-        <mark key="'" line="4" column="57" />
-        <mark key="[" line="24" column="13" />
-        <mark key="]" line="24" column="13" />
-        <mark key="^" line="19" column="20" />
-        <mark key="." line="24" column="13" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/models/__init__.py" timestamp="1502369028581">
         <mark key="[" line="79" column="71" />
         <mark key="]" line="79" column="70" />
@@ -1444,13 +1443,6 @@
         <mark key="]" line="7" column="63" />
         <mark key="^" line="7" column="63" />
         <mark key="." line="7" column="63" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/apps/web/app.py" timestamp="1509094267589">
-        <mark key="'" line="54" column="22" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="38" />
-        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/quality_reviews/QualityReviewIsClosedStore.js" timestamp="1500642831113">
         <mark key="[" line="7" column="66" />
@@ -1695,6 +1687,7 @@
         <mark key="^" line="13" column="62" />
         <mark key="." line="13" column="62" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/requirements.txt" timestamp="1509441295788" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Supervisor.js" timestamp="1508483061160">
         <mark key="[" line="340" column="0" />
         <mark key="]" line="340" column="49" />
