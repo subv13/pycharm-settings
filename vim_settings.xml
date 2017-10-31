@@ -84,6 +84,12 @@
         <mark key="^" line="58" column="69" />
       </file>
       <file name="$USER_HOME$/venvs/farfor-notifications-api-service/src/farfor-d-bus/farfor_d_bus/message_data_accumulator.py" timestamp="1508240131676" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/.gitignore" timestamp="1509435362169">
+        <mark key="[" line="0" column="6" />
+        <mark key="]" line="1" column="6" />
+        <mark key="^" line="1" column="6" />
+        <mark key="." line="1" column="6" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/apps/d_bus/dispatchers/order.py" timestamp="1509081510204">
         <mark key="[" line="30" column="75" />
         <mark key="]" line="31" column="15" />
@@ -379,7 +385,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509369206603">
+      <file name="/Dummy.txt" timestamp="1509433784493">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -655,11 +661,12 @@
         <mark key="^" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/frontend/update_backend.yml" timestamp="1509369008731">
-        <mark key="[" line="0" column="3" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/frontend/update_backend.yml" timestamp="1509434703735">
+        <mark key="d" line="16" column="13" />
+        <mark key="y" line="72" column="10" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/README.md" timestamp="1509371476071">
         <mark key="[" line="2" column="8" />
@@ -673,11 +680,11 @@
         <mark key="]" line="569" column="0" />
         <mark key="." line="569" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/erp/update_backend.yml" timestamp="1509369066507">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="10" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="16" column="10" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/erp/update_backend.yml" timestamp="1509435451640">
+        <mark key="[" line="83" column="35" />
+        <mark key="]" line="83" column="33" />
+        <mark key="^" line="83" column="33" />
+        <mark key="." line="83" column="33" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/FlightForm.js" timestamp="1508744487444">
         <mark key="[" line="15" column="0" />
@@ -1742,11 +1749,11 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="25" column="23" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/frontend/update_mobile_frontend.yml" timestamp="1509367887028">
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="18" />
-        <mark key="." line="21" column="18" />
-        <mark key="^" line="21" column="18" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/frontend/update_mobile_frontend.yml" timestamp="1509433774723">
+        <mark key="[" line="17" column="70" />
+        <mark key="]" line="17" column="68" />
+        <mark key="." line="17" column="68" />
+        <mark key="^" line="17" column="68" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/extjs/views/mixins.py" timestamp="1508769368533" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/api.py" timestamp="1506254294961">
@@ -1855,11 +1862,11 @@
         <mark key="^" line="132" column="12" />
         <mark key="." line="132" column="12" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/erp/update_frontend.yml" timestamp="1509369096549">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="12" />
-        <mark key="." line="29" column="12" />
-        <mark key="^" line="9" column="3" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/erp/update_frontend.yml" timestamp="1509435389842">
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="63" />
+        <mark key="." line="27" column="63" />
+        <mark key="^" line="27" column="63" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/departments/urls.py" timestamp="1489139342004">
         <mark key="[" line="5" column="41" />
@@ -1880,11 +1887,11 @@
         <mark key="^" line="122" column="3" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/frontend/update_desktop_frontend.yml" timestamp="1509367820115">
-        <mark key="[" line="21" column="18" />
-        <mark key="]" line="21" column="18" />
-        <mark key="^" line="21" column="18" />
-        <mark key="." line="21" column="18" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/frontend/update_desktop_frontend.yml" timestamp="1509434838023">
+        <mark key="[" line="27" column="63" />
+        <mark key="]" line="27" column="62" />
+        <mark key="^" line="27" column="62" />
+        <mark key="." line="27" column="62" />
       </file>
       <file name="$USER_HOME$/smenateam/formula1/project/config/django/database.py" timestamp="1490352454254">
         <mark key="[" line="10" column="25" />
@@ -2069,44 +2076,44 @@
       <jump line="78" column="10" filename="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/apps/d_bus/listener.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHVybGxpYjIK</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>ood</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0ID0gJ3t9INC30LDQstC10YDRiNC40Lsg0YDQsNC30LLRkdGA0YLRi9Cy0LDQvdC40LUge30t0LLQtdGA0YHQuNC4INC90LAge30uJy5mb3JtYXQoCiAgICAgICAgICAgIGNscy5fZ2V0X2RldmVsb3Blcl9uYW1lKCksCiAgICAgICAgICAgIGNscy5SRUxFQVNFX1RZUEVbcmVsZWFzZV90eXBlXSwKICAgICAgICAgICAgY2xzLlNFUlZFUlNbc2VydmVyX25hbWVdCiAgICAgICAgKQoKICAgICAgICBkYXRhID0gewogICAgICAgICAgICAnYXR0YWNobWVudHMnOiBbCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgJ2NvbG9yJzogJ2dvb2QnLAogICAgICAgICAgICAgICAgICAgICd0ZXh0JzogdGV4dAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICBdCiAgICAgICAgfQoKICAgICAgICByZXF1ZXN0cy5wb3N0KGNscy5ub3RpZmljYXRpb25fdXJsLCBqc29uPWRhdGEpCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvY2FsX2FjdGlvbjogPgogICAgICAgICAgICAgIGNvbW1hbmQgcHl0aG9uIHNsYWNrX25vdGlmaWVyLnB5CiAgICAgICAgICAgICAgLS1zdGF0ZT1maW5pc2hlZAogICAgICAgICAgICAgIC0tc2VydmVyX25hbWU9Int7IGludmVudG9yeV9ob3N0bmFtZSB9fSIKICAgICAgICAgICAgICAtLXJlbGVhc2VfdHlwZT1zdGFnaW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHVybGxpYjIK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHVybGxpYgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAtIGZhaWw6IG1zZz0i0KPQv9GBIgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxvY2FsX2FjdGlvbjogImNvbW1hbmQgcHl0aG9uIHNsYWNrX25vdGlmaWVyLnB5IC0tc3RhdGU9ZmFpbGVkIC0tc2VydmVyX25hbWU9e3sgaW52ZW50b3J5X2hvc3RuYW1lIH19IC0tcmVsZWFzZV90eXBlPXN0YWdpbmciCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxvY2FsX2FjdGlvbjogImNvbW1hbmQgcHl0aG9uIHNsYWNrX25vdGlmaWVyLnB5IC0tc3RhdGU9ZmFpbGVkIC0tc2VydmVyX25hbWU9e3sgaW52ZW50b3J5X2hvc3RuYW1lIH19IC0tcmVsZWFzZV90eXBlPXN0YWdpbmciCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxvY2FsX2FjdGlvbjogImNvbW1hbmQgcHl0aG9uIHNsYWNrX25vdGlmaWVyLnB5IC0tc3RhdGU9ZmluaXNoZWQgLS1zZXJ2ZXJfbmFtZT17eyBpbnZlbnRvcnlfaG9zdG5hbWUgfX0gLS1yZWxlYXNlX3R5cGU9c3RhZ2luZyIK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKS5lbmNvZGUodSd1dGY4JyksCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGxvY2FsX2FjdGlvbjogImNvbW1hbmQgcHl0aG9uIHNsYWNrX25vdGlmaWVyLnB5IC0tc3RhdGU9ZmluaXNoZWQgLS1zZXJ2ZXJfbmFtZT17eyBpbnZlbnRvcnlfaG9zdG5hbWUgfX0gLS1yZWxlYXNlX3R5cGU9c3RhZ2luZyIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNscy5TRVJWRVJTW3NlcnZlcl9uYW1lXQo=</text>
+        <text encoding="base64">ICAgICAgICAtIG5hbWU6ICLQntGC0L/RgNCw0LLQutCwINGD0LLQtdC00L7QvNC70LXQvdC40Y8g0LIgU2xhY2sg0L4g0LfQsNCy0LXRgNGI0LXQvdC40Lgg0LLRi9Cz0YDRg9C30LrQuCIKICAgICAgICAgIGxvY2FsX2FjdGlvbjogImNvbW1hbmQgcHl0aG9uIHNsYWNrX25vdGlmaWVyLnB5IC0tc3RhdGU9ZmluaXNoZWQgLS1zZXJ2ZXJfbmFtZT17eyBpbnZlbnRvcnlfaG9zdG5hbWUgfX0gLS1yZWxlYXNlX3R5cGU9c3RhZ2luZyIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNscy5SRUxFQVNFX1RZUEVbcmVsZWFzZV90eXBlXSwK</text>
+        <text encoding="base64">ICAgICAgICAgIGxvY2FsX2FjdGlvbjogImNvbW1hbmQgcHl0aG9uIHNsYWNrX25vdGlmaWVyLnB5IC0tc3RhdGU9ZmluaXNoZWQgLS1zZXJ2ZXJfbmFtZT17eyBpbnZlbnRvcnlfaG9zdG5hbWUgfX0gLS1yZWxlYXNlX3R5cGU9c3RhZ2luZyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mb3JtYXQoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAtLXJlbGVhc2VfdHlwZT1zdGFnaW5nCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
