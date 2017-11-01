@@ -331,6 +331,7 @@
         <mark key="^" line="0" column="14" />
         <mark key="." line="0" column="14" />
       </file>
+      <file name="src:table:/4079dc9f/2a7eb659-8ac4-4549-9f76-faf3b4b8d24a/farfor.newsletters_newsletterchunk" timestamp="1509520961490" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/.gitignore" timestamp="1505913289057">
         <mark key="[" line="1" column="5" />
         <mark key="]" line="2" column="16" />
@@ -457,7 +458,7 @@
         <mark key="^" line="272" column="71" />
         <mark key="." line="272" column="71" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/models/__init__.py" timestamp="1509519787656">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/newsletters/models/__init__.py" timestamp="1509521069769">
         <mark key="[" line="79" column="71" />
         <mark key="]" line="79" column="70" />
         <mark key="^" line="79" column="70" />
@@ -896,6 +897,9 @@
         <mark key="]" line="30" column="18" />
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
+      </file>
+      <file name="/dummy.sql" timestamp="1509521723772">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
         <mark key="[" line="4" column="9" />
