@@ -919,7 +919,7 @@
         <mark key="." line="0" column="27" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/settings_local.py" timestamp="1509528319385" />
-      <file name="/Dummy.txt" timestamp="1509532994425">
+      <file name="/Dummy.txt" timestamp="1509537285917">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1129,12 +1129,12 @@
         <mark key="." line="40" column="10" />
         <mark key="^" line="40" column="10" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/notificationCenter/widgetManagers/Widget.js" timestamp="1509536313149">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/notificationCenter/widgetManagers/Widget.js" timestamp="1509537394152">
         <mark key="'" line="14" column="56" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="24" column="30" />
-        <mark key="." line="24" column="30" />
-        <mark key="^" line="24" column="30" />
+        <mark key="[" line="44" column="61" />
+        <mark key="]" line="44" column="60" />
+        <mark key="." line="44" column="60" />
+        <mark key="^" line="44" column="60" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Store.js" timestamp="1509450910702">
         <mark key="[" line="976" column="0" />
@@ -2109,11 +2109,11 @@
       <jump line="11" column="56" filename="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/notificationCenter/widgetManagers/Widget.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDQmtC+0LvQuNGH0LXRgdGC0LLQviDQstC40LTQttC10YIK</text>
+      <register name="&quot;" type="4">
+        <text>Element</text>
       </register>
       <register name="-" type="4">
-        <text>disposeWidgetByWidgetElement</text>
+        <text>Element</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
@@ -2122,31 +2122,31 @@
         <text encoding="base64">ICAgIDM1NjkwMDgsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDQmtC+0LvQuNGH0LXRgdGC0LLQviDQstC40LTQttC10YIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDQmtC+0LvQuNGH0LXRgdGC0LLQviDQstC40LTQttC10YIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuX2Rpc3Bvc2VXaWRnZXRCeVdpZGdldEVsZW1lbnQodGhpcy5fd2lkZ2V0c1swXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHRoaXMuX3dpZGdldHMubGVuZ3RoID49IHRoaXMuX21heFdpZGdldHNDb3VudCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuX2Rpc3Bvc2VXaWRnZXRCeVdpZGdldEVsZW1lbnQodGhpcy5fd2lkZ2V0c1swXSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2hpbGUgKHRoaXMuX3dpZGdldHMubGVuZ3RoID49IHRoaXMuX21heFdpZGdldHNDb3VudCkgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuYwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
