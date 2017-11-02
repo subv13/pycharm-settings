@@ -398,7 +398,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/settings_local.py" timestamp="1509528319385" />
-      <file name="/Dummy.txt" timestamp="1509625735174">
+      <file name="/Dummy.txt" timestamp="1509626534526">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1584,11 +1584,11 @@
         <mark key="." line="146" column="64" />
         <mark key="^" line="146" column="64" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/Application.js" timestamp="1509445691098">
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/Application.js" timestamp="1509626522812">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="16" />
         <mark key="^" line="39" column="16" />
-        <mark key="." line="49" column="0" />
+        <mark key="." line="71" column="16" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/delivery/delivery_and_payment.html" timestamp="1495534726879">
         <mark key="[" line="45" column="68" />
@@ -1607,14 +1607,6 @@
         <mark key="]" line="26" column="19" />
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/service/notificationCenter/RealTimeNotificationService.js" timestamp="1509608386227">
-        <mark key="d" line="105" column="36" />
-        <mark key="y" line="104" column="49" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="80" />
-        <mark key="." line="132" column="0" />
-        <mark key="^" line="114" column="79" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1506418532826">
         <mark key="[" line="6" column="50" />
