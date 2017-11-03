@@ -399,7 +399,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/settings_local.py" timestamp="1509528319385" />
-      <file name="/Dummy.txt" timestamp="1509700437467">
+      <file name="/Dummy.txt" timestamp="1509701591231">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -679,11 +679,6 @@
         <mark key="^" line="2" column="70" />
         <mark key="." line="2" column="70" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/NewComplexReport.js" timestamp="1509514145366">
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1508767050203">
         <mark key="[" line="569" column="0" />
         <mark key="]" line="569" column="0" />
@@ -875,6 +870,7 @@
         <mark key="^" line="39" column="13" />
         <mark key="." line="39" column="13" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/common/utils/url-parser.js" timestamp="1509701565530" />
       <file name="$USER_HOME$/smenateam/smenaschool/cme/track/models.py" timestamp="1500378871461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -1952,11 +1948,6 @@
         <mark key="]" line="27" column="62" />
         <mark key="^" line="27" column="62" />
         <mark key="." line="27" column="62" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Operator.js" timestamp="1509611295426">
-        <mark key="[" line="582" column="0" />
-        <mark key="]" line="582" column="0" />
-        <mark key="." line="582" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/formula1/project/config/django/database.py" timestamp="1490352454254">
         <mark key="[" line="10" column="25" />
