@@ -384,7 +384,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/settings_local.py" timestamp="1509528319385" />
-      <file name="/Dummy.txt" timestamp="1509702400353">
+      <file name="/Dummy.txt" timestamp="1509716021822">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1565,14 +1565,6 @@
         <mark key="." line="40" column="10" />
         <mark key="^" line="40" column="10" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/notificationCenter/widgetManagers/Widget.js" timestamp="1509616465178">
-        <mark key="d" line="24" column="47" />
-        <mark key="'" line="14" column="56" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="30" column="11" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/SummaryTable.js" timestamp="1503911172058">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="38" />
@@ -1621,6 +1613,7 @@
         <mark key="." line="0" column="14" />
         <mark key="^" line="0" column="14" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/controllers.py" timestamp="1509716021393" />
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/worksheet.html" timestamp="1488369021158">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="29" />
