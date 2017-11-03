@@ -399,7 +399,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/settings_local.py" timestamp="1509528319385" />
-      <file name="/Dummy.txt" timestamp="1509627181275">
+      <file name="/Dummy.txt" timestamp="1509700112153">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -971,6 +971,7 @@
         <mark key="^" line="46" column="48" />
         <mark key="." line="46" column="48" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/auth/services/auth.js" timestamp="1509700101363" />
       <file name="$USER_HOME$/smenateam/vncenter/project/config/django/database.py" timestamp="1489153013691">
         <mark key="[" line="22" column="27" />
         <mark key="]" line="22" column="28" />
