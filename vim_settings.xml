@@ -1103,11 +1103,11 @@
         <mark key="^" line="4" column="14" />
         <mark key="." line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/SummaryTable.js" timestamp="1503911172058">
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="38" />
-        <mark key="." line="10" column="26" />
-        <mark key="^" line="10" column="26" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/SummaryTable.js" timestamp="1510034266670">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/orders/kkt/CheckListStore.js" timestamp="1504688082753">
         <mark key="[" line="6" column="15" />
@@ -1416,7 +1416,7 @@
         <mark key="." line="17" column="68" />
         <mark key="^" line="17" column="68" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/NewComplexReport.js" timestamp="1509514145366">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/NewComplexReport.js" timestamp="1510034369590">
         <mark key="[" line="235" column="0" />
         <mark key="]" line="235" column="0" />
         <mark key="." line="235" column="0" />
@@ -2051,11 +2051,11 @@
       <jump line="63" column="64" filename="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/notificationCenter/factories/NotificationWidgetFactory.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcxMjMxMjMnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>нотификаций</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
