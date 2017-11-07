@@ -108,11 +108,13 @@
         <mark key="^" line="14" column="72" />
         <mark key="." line="14" column="72" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/notificationCenter/factories/NotificationWidgetFactory.js" timestamp="1510031440038">
-        <mark key="[" line="505" column="13" />
-        <mark key="]" line="505" column="43" />
-        <mark key="." line="505" column="43" />
-        <mark key="^" line="505" column="43" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/notificationCenter/factories/NotificationWidgetFactory.js" timestamp="1510032786612">
+        <mark key="'" line="63" column="64" />
+        <mark key="y" line="476" column="15" />
+        <mark key="[" line="520" column="69" />
+        <mark key="]" line="520" column="26" />
+        <mark key="." line="520" column="26" />
+        <mark key="^" line="520" column="26" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/route/serializers.py" timestamp="1500529316411">
         <mark key="[" line="6" column="62" />
@@ -834,8 +836,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/constants/Notifications.js" timestamp="1510031526338">
-        <mark key="[" line="40" column="82" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/constants/Notifications.js" timestamp="1510032272930">
+        <mark key="[" line="40" column="81" />
         <mark key="]" line="40" column="91" />
         <mark key="^" line="40" column="91" />
         <mark key="." line="40" column="91" />
@@ -891,7 +893,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510029833203">
+      <file name="/Dummy.txt" timestamp="1510032106017">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1053,11 +1055,11 @@
         <mark key="^" line="1115" column="34" />
         <mark key="." line="1115" column="34" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/service/notificationCenter/RealTimeNotificationService.js" timestamp="1510031031918">
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="92" />
-        <mark key="^" line="142" column="34" />
-        <mark key="." line="142" column="34" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/service/notificationCenter/RealTimeNotificationService.js" timestamp="1510032567895">
+        <mark key="[" line="144" column="61" />
+        <mark key="]" line="144" column="61" />
+        <mark key="^" line="144" column="61" />
+        <mark key="." line="144" column="61" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/models.py" timestamp="1509694609970">
         <mark key="[" line="6" column="50" />
@@ -1317,6 +1319,7 @@
         <mark key="." line="142" column="61" />
         <mark key="^" line="142" column="61" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/utils/packers.py" timestamp="1510032790386" />
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/.gitignore" timestamp="1496741440195">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1898,6 +1901,10 @@
         <mark key="." line="69" column="3" />
         <mark key="^" line="69" column="3" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/VersionSentinel.js" timestamp="1510032159742">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="61" />
+      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/weekly_menu.html" timestamp="1496913688258">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="4" />
@@ -1942,7 +1949,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="55" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/tests/create_order_by_operator/create_order_by_operator.py" />
       <jump line="47" column="12" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/tests/create_order_by_operator/create_order_by_operator.py" />
       <jump line="88" column="38" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/results/create_order_by_operator/create_order_by_operator.txt" />
       <jump line="1280" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/results/create_order_by_operator/create_order_by_operator.txt" />
@@ -2042,46 +2048,47 @@
       <jump line="84" column="46" filename="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/apps/d_bus/listener.py" />
       <jump line="78" column="10" filename="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/apps/d_bus/listener.py" />
       <jump line="11" column="56" filename="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/notificationCenter/widgetManagers/Widget.js" />
+      <jump line="63" column="64" filename="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/notificationCenter/factories/NotificationWidgetFactory.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLlRZUEVfTkFNRVNbdGhpcy5UWVBFUy5DSEFOR0VfTE9HXSA9ICfQmNGB0YLQvtGA0LjRjyDQuNC30LzQtdC90LXQvdC40LknOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcxMjMxMjMnKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>CHANGE_LOG</text>
+        <text>нотификаций</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLlRZUEVfTkFNRVNbdGhpcy5UWVBFUy5DSEFOR0VfTE9HXSA9ICfQmNGB0YLQvtGA0LjRjyDQuNC30LzQtdC90LXQvdC40LknOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBGYXJmb3Iudmlldy5ub3RpZmljYXRpb25DZW50ZXIud2lkZ2V0TWFuYWdlcnMuV2lkZ2V0LnNob3cobm90aWZpY2F0aW9uKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCcxMjMxMjMnKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhhbmRsZXI6IEZhcmZvci52aWV3Lgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRleHQ6ICfQndCw0L/QvtC80L3QuNGC0Ywg0L/QvtC30LbQtScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgewo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">RXh0LkRhdGUuZm9ybWF0KEV4dC5EYXRlLnBhcnNlKG5vdGlmaWNhdGlvbi5jcmVhdGVkLCAnWS1tLWRUSDppOnMnKSwgJ0g6aSBkLW0tWScpICsgJzxici8+JyArCiAgICAgICAgICAgICAgICAgICAgJzxiPtCjINC90LXQutC+0YLQvtGA0YvRhSDRgdC+0YLRgNGD0LTQvdC40LrQvtCyINGB0LrQvtGA0L4g0LfQsNC60LDQvdGH0LjQstCw0Y7RgtGB0Y8g0LzQtdC00LrQvdC40LbQutC4INC40LvQuCDRgtGA0LXQsdGD0LXRgtGB0Y8g0L/QtdGA0LXQsNGC0YLQtdGB0YLQsNGG0LjRjzwvYj48YnIvPicgKwogICAgICAgICAgICAgICAgICAgICc8YSBocmVmPSIjIiI+0J/RgNC+0YHQvNC+0YLRgNC10YLRjCDRgdC/0LjRgdC+0Log0YHQvtGC0YDRg9C00L3QuNC60L7QsjwvYT4n</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhhbmRsZXI6IEZhcmZvci52aWV3Lm5vdGlmaWNhdGlvbkNlbnRlci5mYWN0b3JpZXMuX2hhbmRsZXJzLnJlc29sdmVOb3RpZmljYXRpb24uYmluZChudWxsLCBub3RpZmljYXRpb24pCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSwgNTAwKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
