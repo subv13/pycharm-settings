@@ -469,6 +469,12 @@
         <mark key="^" line="79" column="70" />
         <mark key="." line="79" column="70" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/farfor/config/apps/geo.py" timestamp="1510203901080">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="4" />
+        <mark key="^" line="7" column="4" />
+        <mark key="." line="7" column="4" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/tests/push_notifications.py" timestamp="1509617412933">
         <mark key="[" line="7" column="34" />
         <mark key="]" line="8" column="17" />
@@ -547,6 +553,7 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
+      <file name="$USER_HOME$/venvs/farfor-dj-1.6/lib/python2.7/site-packages/django/conf/__init__.py" timestamp="1510203773285" />
       <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1502097383485">
         <mark key="[" line="53" column="11" />
         <mark key="]" line="53" column="10" />
@@ -904,7 +911,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510146856772">
+      <file name="/Dummy.txt" timestamp="1510203653578">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1295,10 +1302,10 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1510147064191">
+      <file name="/Python Console" timestamp="1510203774688">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1510147070427">
+      <file name="/fragment.py" timestamp="1510203785509">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
