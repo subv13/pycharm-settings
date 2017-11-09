@@ -1370,10 +1370,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/farfor/settings_local.py" timestamp="1510146748236">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/farfor/settings_local.py" timestamp="1510202450534">
+        <mark key="[" line="1" column="69" />
+        <mark key="]" line="2" column="3" />
+        <mark key="." line="2" column="3" />
+        <mark key="^" line="2" column="3" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/Toolbar.js" timestamp="1509514845570">
         <mark key="[" line="3" column="41" />
@@ -1682,9 +1683,9 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/farfor/settings.py" timestamp="1510146891235">
-        <mark key="[" line="60" column="14" />
-        <mark key="]" line="60" column="37" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/farfor/settings.py" timestamp="1510202443167">
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="69" />
         <mark key="^" line="60" column="37" />
         <mark key="." line="60" column="37" />
       </file>
@@ -2072,7 +2073,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNFQ1JFVF9LRVkgPSAnKUJHS3codDVBe0o0KSE4SjI0cDUtQi1DNHBaeUh4fScK</text>
+        <text encoding="base64">ICAgIFNFQ1JFVF9LRVkgPSAnb2pxZXIqIUBfIyU9IWsmMHRvOXpsa0AkMWlxcyExY2grI3duaz1qMyM4MGM0b2J3cj0nCg==</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -2081,7 +2082,7 @@
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0aGlzLnVwKCd3aW5kb3cnKS5oaWRlKCkK</text>
+        <text encoding="base64">ICAgIFNFQ1JFVF9LRVkgPSAnb2pxZXIqIUBfIyU9IWsmMHRvOXpsa0AkMWlxcyExY2grI3duaz1qMyM4MGM0b2J3cj0nCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFNFQ1JFVF9LRVkgPSAnKUJHS3codDVBe0o0KSE4SjI0cDUtQi1DNHBaeUh4fScK</text>
