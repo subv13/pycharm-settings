@@ -925,7 +925,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510203653578">
+      <file name="/Dummy.txt" timestamp="1510209882360">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1888,6 +1888,14 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/local_settings.py" timestamp="1510209649385">
+        <mark key="y" line="2" column="21" />
+        <mark key="j" line="1" column="21" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/ab307617-a1d2-4f5b-bf32-fc6ae256f482/console.sql" timestamp="1501224266545">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2101,43 +2109,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBQcmludGVyVGFza0xvZyA9IGdldF9tb2RlbCgnZ2VvJywgJ1ByaW50ZXJUYXNrTG9nJykK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lID0gJ215c3FsJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>models</text>
+        <text>mysql</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xhc3MgRGV2KEJhc2UpOgogICAgREVCVUcgPSBUcnVlCg==</text>
+        <text encoding="base64">ICAgICAgICBzY2hlbWUgPSAnbXlzcWwnCiAgICAgICAgaG9zdCA9ICcxMjcuMC4wLjEnCiAgICAgICAgcG9ydCA9IDMyNzkzCiAgICAgICAgdXNlcm5hbWUgPSAncm9vdCcKICAgICAgICBwYXNzd29yZCA9ICdrZWsnCiAgICAgICAgbmFtZSA9ICdmYXJmb3InCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBQcmludGVyVGFza0xvZyA9IGdldF9tb2RlbCgnZ2VvJywgJ1ByaW50ZXJUYXNrTG9nJykK</text>
+        <text encoding="base64">ICAgICAgICBuYW1lID0gJ215c3FsJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBQcmludGVyVGFzayA9IGdldF9tb2RlbCgnZ2VvJywgJ1ByaW50ZXJUYXNrJykK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzd29yZCA9ICdrZWsnCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBQcmludGVyID0gZ2V0X21vZGVsKCdnZW8nLCAnUHJpbnRlcicpCg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VybmFtZSA9ICdmYXJmb3InCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwb3J0ID0gMzI3OTMK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBob3N0ID0gJzEyNy4wLjAuMScK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBmcm9tIGRqYW5nby5kYi5tb2RlbHMgaW1wb3J0IGdldF9tb2RlbAo=</text>
+        <text encoding="base64">ICAgICAgICBzY2hlbWUgPSAnbXlzcWwnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ29faG9zdHMucmV2ZXJzZSBpbXBvcnQgcmV2ZXJzZV9ob3N0Cg==</text>
+        <text encoding="base64">IyBQcmludGVyVGFza0xvZyA9IGdldF9tb2RlbCgnZ2VvJywgJ1ByaW50ZXJUYXNrTG9nJykK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBQcmludGVyVGFzayA9IGdldF9tb2RlbCgnZ2VvJywgJ1ByaW50ZXJUYXNrJykK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBQcmludGVyID0gZ2V0X21vZGVsKCdnZW8nLCAnUHJpbnRlcicpCg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
