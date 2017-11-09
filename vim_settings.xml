@@ -925,7 +925,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510209882360">
+      <file name="/Dummy.txt" timestamp="1510221674760">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1027,11 +1027,11 @@
         <mark key="^" line="45" column="27" />
         <mark key="." line="45" column="27" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/tools/haystack/signals.py" timestamp="1510205077882">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="20" />
-        <mark key="." line="6" column="20" />
-        <mark key="^" line="6" column="20" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/tools/haystack/signals.py" timestamp="1510221881796">
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="24" column="43" />
+        <mark key="^" line="24" column="43" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/ProductSalesTable.js" timestamp="1503915716956">
         <mark key="[" line="3" column="23" />
@@ -1320,7 +1320,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1510208118895">
+      <file name="/Python Console" timestamp="1510221535112">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1510203785509">
@@ -1841,6 +1841,7 @@
         <mark key="." line="10" column="32" />
         <mark key="^" line="10" column="32" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/orders/models.py" timestamp="1510221674505" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/frontend/Banner.js" timestamp="1500633968549">
         <mark key="[" line="11" column="22" />
         <mark key="]" line="11" column="22" />
@@ -1889,7 +1890,7 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/local_settings.py" timestamp="1510209649385">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/local_settings.py" timestamp="1510221933804">
         <mark key="y" line="2" column="21" />
         <mark key="j" line="1" column="21" />
         <mark key="[" line="16" column="0" />
