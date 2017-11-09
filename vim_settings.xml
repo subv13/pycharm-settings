@@ -362,6 +362,7 @@
         <mark key="." line="19" column="106" />
         <mark key="^" line="19" column="106" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/clients/models.py" timestamp="1510206372702" />
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/doctors/admin.py" timestamp="1489407481893">
         <mark key="[" line="30" column="62" />
         <mark key="]" line="31" column="13" />
@@ -855,6 +856,11 @@
         <mark key="]" line="16" column="24" />
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/clients/receivers.py" timestamp="1510206345175">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/admin.py" timestamp="1487575944748">
         <mark key="[" line="4" column="0" />
@@ -2083,7 +2089,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICdoYXlzdGFjaycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>models</text>
@@ -2095,31 +2101,31 @@
         <text encoding="base64">Y2xhc3MgRGV2KEJhc2UpOgogICAgREVCVUcgPSBUcnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICdoYXlzdGFjaycsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICdoYXlzdGFjaycsCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JycnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBjb25maWd1cmF0aW9ucyBpbXBvcnQgc2V0dXAgYXMgY29uZmlndXJhdGlvbnNfc2V0dXAK</text>
+        <text encoding="base64">ICAgICAgICBhdWRpdC5zYXZlKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhdWRpdC5zdGFtcCA9IHN0YW1wCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zX3NldHVwKCkK</text>
+        <text encoding="base64">ICAgIGlmIHN0YW1wOgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhZmY9c3RhZmYpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3RhdHVzPSdkZWxldGVkJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZ3VyYXRpb25zX3NldHVwKCkK</text>
+        <text encoding="base64">ICAgIGF1ZGl0ID0gQ2xpZW50QXVkaXQub2JqZWN0cy5jcmVhdGUoY2xpZW50PWNsaWVudCwK</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
