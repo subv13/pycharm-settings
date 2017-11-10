@@ -1432,11 +1432,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/farfor/settings_local.py" timestamp="1510304387174">
-        <mark key="[" line="85" column="26" />
-        <mark key="]" line="85" column="26" />
-        <mark key="." line="85" column="26" />
-        <mark key="^" line="87" column="4" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/farfor/settings_local.py" timestamp="1510305342385">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/Toolbar.js" timestamp="1509514845570">
         <mark key="[" line="3" column="41" />
@@ -1750,10 +1749,10 @@
         <mark key="^" line="15" column="20" />
         <mark key="." line="15" column="20" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/farfor/settings.py" timestamp="1510296900720">
-        <mark key="[" line="24" column="36" />
-        <mark key="]" line="24" column="35" />
-        <mark key="." line="24" column="35" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/farfor/settings.py" timestamp="1510305334875">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="105" column="0" />
         <mark key="^" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/routers.py" timestamp="1493014910663">
@@ -2164,8 +2163,8 @@
       <jump line="46" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/farfor/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>S</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>S</text>
@@ -2177,47 +2176,28 @@
         <text encoding="base64">IyBlbmNvZGluZz11dGY4Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGVmYXVsdF9hcHBfY29uZmlnID0gJ2FwcHMudG9vbHMuYXBwLlRvb2xzQXBwJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGVmYXVsdF9hcHBfY29uZmlnID0gJ2FwcHMuc3RhZmYuYXBwcy5TdGFmZkNvbmZpZycK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZlcmJvc2VfbmFtZSA9ICdUb29scycK</text>
+        <text encoding="base64">ICAgICAgICAnZGVmYXVsdCc6ICJzb3V0aC5kYi5teXNxbCIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNPVVRIX0RBVEFCQVNFX0FEQVBURVIgPSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NvdXRoJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ZGVmYXVsdF9hcHBfY29uZmlnID0gJ2FwcHMudG9vbHMuYXBwLlRvb2xzQXBwJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmYXVsdF9hcHBfY29uZmlnID0gJ2FwcHMuc3RhZmYuYXBwcy5TdGFmZkNvbmZpZycK</text>
       </register>
-      <register name="8" type="4">
-        <text>class StaffApp(AppConfig):
-    def ready(self):
-        Staff = apps.get_model('staff', 'Staff')
-        Shift = apps.get_model('staff', 'Shift')
-        ShiftStaff = apps.get_model('staff', 'ShiftStaff')
-
-        def adopt_orphan_staff_shifts(instance, **kwargs):
-            # найти все смены сотрудников без смены за дату смены и привязать их к этой смене
-            shift_date = instance.date_from.astimezone(pytz.timezone(instance.point.city.timezone)).date()
-            ShiftStaff.objects \
-                .filter(point=instance.point, date=shift_date) \
-                .update(shift=instance)
-
-        def create_medical_cards_for_new_staff(instance, **kwargs):
-            created = kwargs['created']
-            if created or not instance.medical_card:
-                instance.create_examinations()
-
-        post_save.connect(adopt_orphan_staff_shifts, sender=Shift)
-        post_save.connect(create_medical_cards_for_new_staff, sender=Staff)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHZlcmJvc2VfbmFtZSA9ICdUb29scycK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
