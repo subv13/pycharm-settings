@@ -1468,9 +1468,9 @@
         <mark key="^" line="17" column="68" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/NewComplexReport.js" timestamp="1510132770639">
-        <mark key="[" line="235" column="0" />
-        <mark key="]" line="235" column="0" />
-        <mark key="." line="235" column="0" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/erp/update_backend.yml" timestamp="1509435451640">
         <mark key="[" line="83" column="35" />
@@ -1507,12 +1507,6 @@
         <mark key="]" line="5" column="76" />
         <mark key="^" line="5" column="28" />
         <mark key="." line="5" column="28" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/manage.py" timestamp="1510205503373">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/dishes/models.py" timestamp="1496897034457">
         <mark key="[" line="77" column="29" />
@@ -1892,10 +1886,10 @@
         <mark key="^" line="93" column="38" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/RobotATSReport.js" timestamp="1510132818279">
-        <mark key="[" line="113" column="0" />
-        <mark key="]" line="113" column="0" />
-        <mark key="." line="113" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/report/RobotATSReport.js" timestamp="1510295105126">
+        <mark key="[" line="32" column="13" />
+        <mark key="]" line="32" column="42" />
+        <mark key="." line="32" column="13" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/utils.py" timestamp="1500368886503">
         <mark key="[" line="16" column="30" />
@@ -2147,17 +2141,17 @@
       <jump line="46" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/farfor/settings.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">cG9zdF9zYXZlLmNvbm5lY3QoY3JlYXRlX21lZGljYWxfY2FyZHNfZm9yX25ld19zdGFmZiwgc2VuZGVyPVN0YWZmKQo=</text>
+      <register name="&quot;" type="4">
+        <text>panel</text>
       </register>
       <register name="-" type="4">
-        <text>RockNRollConfig</text>
+        <text>panel</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzY2hlbWUgPSAnbXlzcWwnCiAgICAgICAgaG9zdCA9ICcxMjcuMC4wLjEnCiAgICAgICAgcG9ydCA9IDMyNzkzCiAgICAgICAgdXNlcm5hbWUgPSAncm9vdCcKICAgICAgICBwYXNzd29yZCA9ICdrZWsnCiAgICAgICAgbmFtZSA9ICdmYXJmb3InCg==</text>
+      <register name="0" type="4">
+        <text>[xtype=report.robotATS.Panel]</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cG9zdF9zYXZlLmNvbm5lY3QoY3JlYXRlX21lZGljYWxfY2FyZHNfZm9yX25ld19zdGFmZiwgc2VuZGVyPVN0YWZmKQo=</text>
