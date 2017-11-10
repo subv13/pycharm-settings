@@ -84,6 +84,13 @@
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
       </file>
+      <file name="$USER_HOME$/smenateam/dj_1_8/dj_1_8/settings.py" timestamp="1510204726231">
+        <mark key="'" line="28" column="25" />
+        <mark key="[" line="103" column="12" />
+        <mark key="]" line="103" column="16" />
+        <mark key="^" line="103" column="16" />
+        <mark key="." line="103" column="16" />
+      </file>
       <file name="$USER_HOME$/venvs/farfor-dj-1.6/lib/python2.7/site-packages/django/__init__.py" timestamp="1510228178841" />
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/select-day/select-day.jade" timestamp="1489395805559">
         <mark key="[" line="19" column="63" />
@@ -115,6 +122,13 @@
         <mark key="^" line="14" column="72" />
         <mark key="." line="14" column="72" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/notificationCenter/factories/NotificationWidgetFactory.js" timestamp="1510056735806">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="515" column="29" />
+        <mark key="]" line="515" column="30" />
+        <mark key="^" line="522" column="84" />
+        <mark key="." line="515" column="30" />
+      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/route/serializers.py" timestamp="1500529316411">
         <mark key="[" line="6" column="62" />
         <mark key="]" line="6" column="80" />
@@ -145,7 +159,7 @@
         <mark key="^" line="37" column="68" />
         <mark key="." line="37" column="68" />
       </file>
-      <file name="$USER_HOME$/venvs/farfor-dj-1.6/lib/python2.7/site-packages/django/apps/registry.py" timestamp="1510299464896" />
+      <file name="$USER_HOME$/venvs/farfor-dj-1.6/lib/python2.7/site-packages/django/apps/registry.py" timestamp="1510308044310" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/app.py" timestamp="1508219668200">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="0" />
@@ -181,6 +195,13 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/orders/managers.py" timestamp="1510308194102">
+        <mark key="'" line="32" column="34" />
+        <mark key="[" line="32" column="46" />
+        <mark key="]" line="32" column="34" />
+        <mark key="." line="32" column="34" />
+        <mark key="^" line="32" column="34" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/doctors/templates/doctors/detail.html" timestamp="1487657384161">
         <mark key="[" line="131" column="8" />
@@ -616,13 +637,6 @@
         <mark key="^" line="51" column="25" />
         <mark key="." line="51" column="25" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/staff/signals.py" timestamp="1510229259566">
-        <mark key="d" line="1" column="28" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="2" column="15" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/haystack.py" timestamp="1491994629362">
         <mark key="[" line="83" column="0" />
         <mark key="]" line="83" column="0" />
@@ -731,7 +745,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/venvs/farfor-dj-1.6/lib/python2.7/site-packages/django/core/management/__init__.py" timestamp="1510205515279" />
+      <file name="$USER_HOME$/venvs/farfor-dj-1.6/lib/python2.7/site-packages/django/core/management/__init__.py" timestamp="1510307822561" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" timestamp="1508409813858">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="9" />
@@ -946,7 +960,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510298026586">
+      <file name="/Dummy.txt" timestamp="1510308194506">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1030,11 +1044,10 @@
         <mark key="^" line="28" column="9" />
         <mark key="." line="28" column="9" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/staff/models/__init__.py" timestamp="1510227065879">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="627" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/staff/models/__init__.py" timestamp="1510308129757">
+        <mark key="[" line="601" column="0" />
+        <mark key="]" line="601" column="0" />
+        <mark key="." line="601" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/models/courier.py" timestamp="1501224020528">
         <mark key="[" line="15" column="0" />
@@ -1352,7 +1365,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1510305344315">
+      <file name="/Python Console" timestamp="1510308201068">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.py" timestamp="1510300589460">
@@ -1834,10 +1847,11 @@
         <mark key="^" line="28" column="18" />
         <mark key="." line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/tools/erp/printer/printer_api.py" timestamp="1510223982459">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/tools/erp/printer/printer_api.py" timestamp="1510307683868">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="21" column="7" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/frontend/update_desktop_frontend.yml" timestamp="1509434838023">
         <mark key="[" line="27" column="63" />
@@ -2061,8 +2075,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="390" column="34" filename="$USER_HOME$/smenateam/farfor/farfor/apps/geo/models/__init__.py" />
-      <jump line="71" column="15" filename="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" />
       <jump line="90" column="37" filename="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" />
       <jump line="91" column="30" filename="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" />
       <jump line="260" column="8" filename="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" />
@@ -2161,13 +2173,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/notificationCenter/factories/NotificationWidgetFactory.js" />
       <jump line="39" column="25" filename="$USER_HOME$/smenateam/dj_1_8/dj_1_8/settings.py" />
       <jump line="46" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/farfor/settings.py" />
+      <jump line="5" column="14" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/tools/erp/printer/printer_api.py" />
+      <jump line="32" column="34" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/orders/managers.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text>get_model</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
@@ -2179,25 +2193,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnZGVmYXVsdCc6ICJzb3V0aC5kYi5teXNxbCIK</text>
+        <text encoding="base64">IyApCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFNPVVRIX0RBVEFCQVNFX0FEQVBURVIgPSB7Cg==</text>
+        <text encoding="base64">IyAgICAgZWxzZSBOb25lCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NvdXRoJywK</text>
+        <text encoding="base64">IyAgICAgaWYgU3RhZmYub2JqZWN0cy5maWx0ZXIodXNlcj11KS5leGlzdHMoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGVmYXVsdF9hcHBfY29uZmlnID0gJ2FwcHMudG9vbHMuYXBwLlRvb2xzQXBwJwo=</text>
+        <text encoding="base64">IyAgICAgbGFtYmRhIHU6IFN0YWZmLm9iamVjdHMuZmlsdGVyKHVzZXI9dSlbMF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVmYXVsdF9hcHBfY29uZmlnID0gJ2FwcHMuc3RhZmYuYXBwcy5TdGFmZkNvbmZpZycK</text>
+        <text encoding="base64">IyBVc2VyLnN0YWZmID0gcHJvcGVydHkoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHZlcmJvc2VfbmFtZSA9ICdUb29scycK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
