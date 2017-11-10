@@ -679,11 +679,10 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/frontend/models.py" timestamp="1510314183414">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="47" column="28" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/frontend/models.py" timestamp="1510317776036">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/extjs/utils1.py" timestamp="1496144871647">
         <mark key="[" line="624" column="88" />
@@ -984,7 +983,7 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/frontend/signals.py" timestamp="1510316493307">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/frontend/signals.py" timestamp="1510317854501">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -2213,7 +2212,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSB5YW5kZXhfbW9uZXkuc2lnbmFscyBpbXBvcnQgcGF5bWVudF9jb21wbGV0ZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>u</text>
@@ -2225,31 +2224,31 @@
         <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzLnNpZ25hbHMgaW1wb3J0IHByZV9zYXZlLCBwb3N0X3NhdmUsIHBvc3RfZGVsZXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSB5YW5kZXhfbW9uZXkuc2lnbmFscyBpbXBvcnQgcGF5bWVudF9jb21wbGV0ZWQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ZnJvbSBfX2Z1dHVyZV9fCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGF5bWVudF9jb21wbGV0ZWQuY29ubmVjdCh5YWthc3NhX3BheW1lbnRfcmVjZWl2ZWQpCg==</text>
+        <text encoding="base64">ZnJvbSB5YW5kZXhfbW9uZXkuc2lnbmFscyBpbXBvcnQgcGF5bWVudF9jb21wbGV0ZWQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAubW9kZWxzIGltcG9ydCBCYW5uZXIK</text>
+        <text encoding="base64">cGF5bWVudF9jb21wbGV0ZWQuY29ubmVjdCh5YWthc3NhX3BheW1lbnRfcmVjZWl2ZWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhcHBzLmxhc3RfbW9kaWZpZWQudGFza3MgaW1wb3J0IFJlY2FsY3VsYXRlQmFubmVyTGlzdExhc3RNb2RpZmllZFZhbHVlRm9yQ2l0eVRhc2sK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzLnNpZ25hbHMgaW1wb3J0IHBvc3Rfc2F2ZQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ZnJvbSAubW9kZWxzIGltcG9ydCBCYW5uZXIK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ZnJvbSBhcHBzLmxhc3RfbW9kaWZpZWQudGFza3MgaW1wb3J0IFJlY2FsY3VsYXRlQmFubmVyTGlzdExhc3RNb2RpZmllZFZhbHVlRm9yQ2l0eVRhc2sK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwb3N0X3NhdmUuY29ubmVjdChyZWNhbGN1bGF0ZV9iYW5uZXJfbGlzdHMsIEJhbm5lcikK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzLnNpZ25hbHMgaW1wb3J0IHBvc3Rfc2F2ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
