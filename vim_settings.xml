@@ -27,6 +27,9 @@
         <mark key="." line="3" column="59" />
         <mark key="^" line="3" column="59" />
       </file>
+      <file name="/a.dummy" timestamp="1506410030735">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/shedule/shedule.styl" timestamp="1489408451128">
         <mark key="[" line="4" column="9" />
         <mark key="]" line="5" column="19" />
@@ -129,11 +132,6 @@
         <mark key="^" line="8" column="19" />
         <mark key="." line="8" column="19" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ng-test/.editorconfig" timestamp="1510394719208">
-        <mark key="[" line="6" column="14" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/config/redis.py" timestamp="1487230277291">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -163,6 +161,12 @@
         <mark key="]" line="23" column="23" />
         <mark key="." line="23" column="23" />
         <mark key="^" line="23" column="23" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/message.service.ts" timestamp="1510407932584">
+        <mark key="[" line="11" column="32" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="32" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/smenaschool-frontend/frontend/markup/blocks/order/order.jade" timestamp="1497170461753">
         <mark key="[" line="3" column="18" />
@@ -313,11 +317,20 @@
         <mark key="." line="112" column="0" />
         <mark key="^" line="33" column="7" />
       </file>
+      <file name="/a.sql" timestamp="1504702216750">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/extjs/urls.py" timestamp="1506333551587">
         <mark key="[" line="2" column="34" />
         <mark key="]" line="2" column="45" />
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/messages/messages.component.ts" timestamp="1510408149561">
+        <mark key="[" line="10" column="16" />
+        <mark key="]" line="10" column="21" />
+        <mark key="^" line="10" column="21" />
+        <mark key="." line="10" column="21" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/galleries/models.py" timestamp="1487659166879">
         <mark key="[" line="35" column="31" />
@@ -365,6 +378,12 @@
         <mark key="]" line="239" column="0" />
         <mark key="^" line="13" column="25" />
         <mark key="." line="239" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/heroes/heroes.py" timestamp="1510407546955">
+        <mark key="[" line="12" column="16" />
+        <mark key="]" line="12" column="11" />
+        <mark key="^" line="12" column="11" />
+        <mark key="." line="12" column="11" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/news/news/settings.py" timestamp="1496561829783">
         <mark key="[" line="57" column="17" />
@@ -431,6 +450,9 @@
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="13" />
         <mark key="." line="18" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1505983484947">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/templates/search/indexes/orders/flight_text.txt" timestamp="1488777639486">
         <mark key="[" line="0" column="0" />
@@ -604,14 +626,6 @@
         <mark key="^" line="6" column="80" />
         <mark key="." line="6" column="80" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/7min/7min.py" timestamp="1507091928511">
-        <mark key="t" line="26" column="12" />
-        <mark key="y" line="26" column="12" />
-        <mark key="[" line="33" column="18" />
-        <mark key="]" line="27" column="19" />
-        <mark key="^" line="27" column="19" />
-        <mark key="." line="33" column="19" />
-      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/smenaschool1/app1/templates/app1/hello_world.html" timestamp="1493962932504">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="21" />
@@ -707,6 +721,9 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
         <mark key="^" line="64" column="16" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/urls.py" timestamp="1486125114419">
+        <mark key="[" line="78" column="36" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/staff/OkladStaffList.js" timestamp="1495006752771">
         <mark key="[" line="18" column="42" />
@@ -851,10 +868,9 @@
         <mark key="." line="88" column="55" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/app.module.ts" timestamp="1510405493409">
-        <mark key="[" line="19" column="16" />
-        <mark key="]" line="20" column="18" />
-        <mark key="." line="20" column="18" />
-        <mark key="^" line="20" column="18" />
+        <mark key="]" line="9" column="18" />
+        <mark key="." line="9" column="18" />
+        <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/admin/FlatPageForm.js" timestamp="1505741744477">
         <mark key="[" line="54" column="78" />
@@ -892,6 +908,9 @@
         <mark key="^" line="80" column="53" />
         <mark key="." line="80" column="53" />
       </file>
+      <file name="/dummy.sql" timestamp="1506685036037">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/templates/login.html" timestamp="1505987616397">
         <mark key="[" line="17" column="84" />
         <mark key="]" line="17" column="114" />
@@ -921,6 +940,12 @@
         <mark key="]" line="75" column="0" />
         <mark key="^" line="83" column="36" />
         <mark key="." line="75" column="0" />
+      </file>
+      <file name="/code.py" timestamp="1490704241986">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/kitchen_service/AccountStore.js" timestamp="1505212955023">
+        <mark key="[" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/requirements.txt" timestamp="1488543479689">
         <mark key="[" line="44" column="13" />
@@ -975,6 +1000,9 @@
         <mark key="]" line="0" column="106" />
         <mark key="^" line="0" column="106" />
         <mark key="." line="0" column="106" />
+      </file>
+      <file name="/a.regexp" timestamp="1487930657899">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1506662274431">
         <mark key="[" line="37" column="67" />
@@ -1215,11 +1243,11 @@
         <mark key="." line="39" column="12" />
         <mark key="^" line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/heroes/heroes.component.ts" timestamp="1510406013707">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="7" />
-        <mark key="." line="25" column="7" />
-        <mark key="^" line="25" column="7" />
+      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/heroes/heroes.component.ts" timestamp="1510408226352">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="25" column="23" />
+        <mark key="." line="25" column="23" />
+        <mark key="^" line="25" column="23" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/SummaryTable.js" timestamp="1503911172058">
         <mark key="[" line="88" column="0" />
@@ -1245,17 +1273,20 @@
         <mark key="." line="21" column="31" />
         <mark key="^" line="21" column="31" />
       </file>
+      <file name="/Python Console" timestamp="1506432699807">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1495004785715">
         <mark key="[" line="104" column="18" />
         <mark key="]" line="104" column="74" />
         <mark key="^" line="104" column="74" />
         <mark key="." line="104" column="74" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/app.component.html" timestamp="1510396208017">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="1" column="25" />
-        <mark key="^" line="1" column="25" />
+      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/app.component.html" timestamp="1510407675580">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+        <mark key="^" line="2" column="13" />
       </file>
       <file name="/fragment.py" timestamp="1506405774699">
         <mark key="[" line="0" column="0" />
@@ -1399,13 +1430,17 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="49" column="7" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/messages/messages.component.html" timestamp="1510408133277">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/vncenter/frontend/markup/blocks/layout/layout.jade" timestamp="1489151054098">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="12" />
         <mark key="." line="11" column="12" />
         <mark key="^" line="8" column="11" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/app.component.ts" timestamp="1510395269887" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" timestamp="1495689167336">
         <mark key="[" line="277" column="22" />
         <mark key="]" line="277" column="24" />
@@ -1472,11 +1507,14 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/hero.service.ts" timestamp="1510405942431">
-        <mark key="[" line="2" column="33" />
-        <mark key="]" line="2" column="42" />
-        <mark key="." line="2" column="42" />
-        <mark key="^" line="2" column="42" />
+      <file name="/fragment.js" timestamp="1510408060290">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/hero.service.ts" timestamp="1510408040759">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="15" column="62" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/smenaschool1/.gitignore" timestamp="1493888735141">
         <mark key="[" line="2" column="6" />
@@ -1645,6 +1683,9 @@
         <mark key="." line="28" column="4" />
         <mark key="^" line="28" column="3" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/57878842-5d45-4db5-af94-dbffc7fdca5c/console.sql" timestamp="1487571191782">
+        <mark key="[" line="12" column="38" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/templates/home.html" timestamp="1505986086943">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="8" column="13" />
@@ -1661,6 +1702,9 @@
         <mark key="]" line="101" column="56" />
         <mark key="." line="101" column="56" />
         <mark key="^" line="101" column="56" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/main_page/api/geo.py" timestamp="1505124035814">
+        <mark key="[" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/doctors/admin.py" timestamp="1489407481893">
         <mark key="[" line="30" column="62" />
@@ -1722,6 +1766,9 @@
         <mark key="^" line="25" column="23" />
         <mark key="." line="25" column="23" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/71cd3e9e-fc1a-4e44-8243-a05c265848b1/console.sql" timestamp="1489402450556">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/Operator.js" timestamp="1492516701968">
         <mark key="[" line="445" column="60" />
         <mark key="]" line="445" column="23" />
@@ -1770,11 +1817,20 @@
         <mark key="." line="115" column="37" />
         <mark key="^" line="115" column="37" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/app-routing.module.ts" timestamp="1510408437689">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/sitemap.html" timestamp="1501493789549">
         <mark key="[" line="15" column="48" />
         <mark key="]" line="15" column="52" />
         <mark key="." line="15" column="52" />
         <mark key="^" line="15" column="52" />
+      </file>
+      <file name="/Django Console" timestamp="1497949487955">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/Application.js" timestamp="1505458374456">
         <mark key="[" line="39" column="16" />
@@ -1817,6 +1873,9 @@
         <mark key="]" line="13" column="68" />
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="68" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/c7b67c4a-d597-42b5-95fb-41aa645a88ed/console_2.sql" timestamp="1496238940827">
+        <mark key="[" line="1" column="1" />
       </file>
       <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1502097383485">
         <mark key="[" line="53" column="11" />
@@ -2032,44 +2091,44 @@
       <jump line="65" column="0" filename="$USER_HOME$/PycharmProjects/ng-test/src/styles.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Rx</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="-" type="4">
-        <text>Rx</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFtjbGFzcy5zZWxlY3RlZF09Imhlcm8gPT09IHNlbGVjdGVkSGVybyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgeydpZCc6IDEsICduYW1lJzogJ2xvbCd9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvUngnOwppbXBvcnQgeyBvZiB9IGZyb20gJ3J4anMvb2JzZXJ2YWJsZS9vZic7Cgo=</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvUngnOwppbXBvcnQgeyBvZiB9IGZyb20gJ3J4anMvb2JzZXJ2YWJsZS9vZic7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgTmdNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9jb3JlJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSEVST0VTIH0gZnJvbSAnLi9tb2NrLWhlcm9lcyc7Cg==</text>
+        <text encoding="base64">ICBkZWNsYXJhdGlvbnM6IFtdCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB7IEhlcm8gfSBmcm9tICcuL2hlcm8nOwo=</text>
+        <text encoding="base64">ICBdLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGltcG9ydCB7IEhlcm8gfSBmcm9tICcuL2hlcm8nOwo=</text>
+        <text encoding="base64">ICAgIENvbW1vbk1vZHVsZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpbXBvcnRzOiBbCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QE5nTW9kdWxlKHsK</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
