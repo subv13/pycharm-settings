@@ -669,6 +669,12 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/heroes/heroes-mock.ts" timestamp="1510400290450">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/erp/update_backend.yml" timestamp="1502687809590">
         <mark key="[" line="19" column="160" />
         <mark key="]" line="19" column="122" />
@@ -1219,11 +1225,11 @@
         <mark key="." line="39" column="12" />
         <mark key="^" line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/heroes/heroes.component.ts" timestamp="1510397160601">
-        <mark key="[" line="1" column="31" />
-        <mark key="]" line="1" column="27" />
-        <mark key="." line="1" column="27" />
-        <mark key="^" line="1" column="27" />
+      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/heroes/heroes.component.ts" timestamp="1510400330845">
+        <mark key="[" line="12" column="42" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/SummaryTable.js" timestamp="1503911172058">
         <mark key="[" line="88" column="0" />
@@ -2018,44 +2024,44 @@
       <jump line="11" column="29" filename="$USER_HOME$/smenateam/farfor/farfor-ofd-service/templates/404.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>m</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">aW1wb3J0IHsgSEVST0VTIH0K</text>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aW5zb3VuZC5CZWVwKDIwMDAsIDUwMCkKCg==</text>
+        <text encoding="base64">ICAgIHtpZDogMTEsIG5hbWU6ICdsdWwnfSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSEVST0VTIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHtpZDogMTEsIG5hbWU6ICdsdWwnfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PGRpdj48c3Bhbj5uYW1lOiA8L3NwYW4+e3sgaGVyby5uYW1lIH19PC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">SGVybwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">PGRpdj48c3Bhbj5uYW1lOiA8L3NwYW4+e3sgaGVyby5uYW1lIH19PC9kaXY+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgc3JjPSJkYXRhOmltYWdlL3N2Zyt4bWw7YmFzZTY0LFBITjJaeUI0Yld4dWN6MGlhSFIwY0RvdkwzZDNkeTUzTXk1dmNtY3ZNakF3TUM5emRtY2lJSFpwWlhkQ2IzZzlJakFnTUNBeU5UQWdNalV3SWo0S0lDQWdJRHh3WVhSb0lHWnBiR3c5SWlORVJEQXdNekVpSUdROUlrMHhNalVnTXpCTU16RXVPU0EyTXk0eWJERTBMaklnTVRJekxqRk1NVEkxSURJek1HdzNPQzQ1TFRRekxqY2dNVFF1TWkweE1qTXVNWG9pSUM4K0NpQWdJQ0E4Y0dGMGFDQm1hV3hzUFNJalF6TXdNREpHSWlCa1BTSk5NVEkxSURNd2RqSXlMakl0TGpGV01qTXdiRGM0TGprdE5ETXVOeUF4TkM0eUxURXlNeTR4VERFeU5TQXpNSG9pSUM4K0NpQWdJQ0E4Y0dGMGFDQWdabWxzYkQwaUkwWkdSa1pHUmlJZ1pEMGlUVEV5TlNBMU1pNHhURFkyTGpnZ01UZ3lMalpvTWpFdU4yd3hNUzQzTFRJNUxqSm9ORGt1Tkd3eE1TNDNJREk1TGpKSU1UZ3pUREV5TlNBMU1pNHhlbTB4TnlBNE15NHphQzB6Tkd3eE55MDBNQzQ1SURFM0lEUXdMamw2SWlBdlBnb2dJRHd2YzNablBnPT0iPgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxpbWcgd2lkdGg9IjMwMCIK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
