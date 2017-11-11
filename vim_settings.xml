@@ -439,9 +439,9 @@
         <mark key="." line="0" column="14" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/heroes/heroes.component.css" timestamp="1510403448411">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/orders/kkt/KKT.js" timestamp="1506239368957">
         <mark key="[" line="4" column="0" />
@@ -850,10 +850,11 @@
         <mark key="^" line="88" column="55" />
         <mark key="." line="88" column="55" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/app.module.ts" timestamp="1510403395551">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/app.module.ts" timestamp="1510405493409">
+        <mark key="[" line="19" column="16" />
+        <mark key="]" line="20" column="18" />
+        <mark key="." line="20" column="18" />
+        <mark key="^" line="20" column="18" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/admin/FlatPageForm.js" timestamp="1505741744477">
         <mark key="[" line="54" column="78" />
@@ -1214,11 +1215,11 @@
         <mark key="." line="39" column="12" />
         <mark key="^" line="39" column="12" />
       </file>
-      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/heroes/heroes.component.ts" timestamp="1510401686418">
-        <mark key="[" line="23" column="32" />
-        <mark key="]" line="23" column="32" />
-        <mark key="." line="23" column="32" />
-        <mark key="^" line="23" column="32" />
+      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/heroes/heroes.component.ts" timestamp="1510406013707">
+        <mark key="[" line="25" column="22" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+        <mark key="^" line="25" column="7" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/SummaryTable.js" timestamp="1503911172058">
         <mark key="[" line="88" column="0" />
@@ -1470,6 +1471,12 @@
         <mark key="]" line="0" column="37" />
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
+      </file>
+      <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/hero.service.ts" timestamp="1510405942431">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="2" column="42" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/smenaschool1/.gitignore" timestamp="1493888735141">
         <mark key="[" line="2" column="6" />
@@ -2025,11 +2032,11 @@
       <jump line="65" column="0" filename="$USER_HOME$/PycharmProjects/ng-test/src/styles.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">LyogTWFzdGVyIFN0eWxlcyAqLwo=</text>
+      <register name="&quot;" type="4">
+        <text>Rx</text>
       </register>
       <register name="-" type="4">
-        <text>selectedHero</text>
+        <text>Rx</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
@@ -2038,31 +2045,31 @@
         <text encoding="base64">ICAgIFtjbGFzcy5zZWxlY3RlZF09Imhlcm8gPT09IHNlbGVjdGVkSGVybyIK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyogTWFzdGVyIFN0eWxlcyAqLwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvUngnOwppbXBvcnQgeyBvZiB9IGZyb20gJ3J4anMvb2JzZXJ2YWJsZS9vZic7Cgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyogWW91IGNhbiBhZGQgZ2xvYmFsIHN0eWxlcyB0byB0aGlzIGZpbGUsIGFuZCBhbHNvIGltcG9ydCBvdGhlciBzdHlsZSBmaWxlcyAqLwo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgT2JzZXJ2YWJsZSB9IGZyb20gJ3J4anMvUngnOwppbXBvcnQgeyBvZiB9IGZyb20gJ3J4anMvb2JzZXJ2YWJsZS9vZic7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoK</text>
+        <text encoding="base64">aW1wb3J0IHsgSEVST0VTIH0gZnJvbSAnLi9tb2NrLWhlcm9lcyc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q29weXJpZ2h0IDIwMTcgR29vZ2xlIEluYy4gQWxsIFJpZ2h0cyBSZXNlcnZlZC4K</text>
+        <text encoding="base64">ICAgIGltcG9ydCB7IEhlcm8gfSBmcm9tICcuL2hlcm8nOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VXNlIG9mIHRoaXMgc291cmNlIGNvZGUgaXMgZ292ZXJuZWQgYnkgYW4gTUlULXN0eWxlIGxpY2Vuc2UgdGhhdAo=</text>
+        <text encoding="base64">ICAgIGltcG9ydCB7IEhlcm8gfSBmcm9tICcuL2hlcm8nOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y2FuIGJlIGZvdW5kIGluIHRoZSBMSUNFTlNFIGZpbGUgYXQgaHR0cDovL2FuZ3VsYXIuaW8vbGljZW5zZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
