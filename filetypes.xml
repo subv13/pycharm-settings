@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="flight_text" type="PLAIN_TEXT" />
       <mapping ext="2017-10-24_11" type="PLAIN_TEXT" />
+      <mapping pattern="hero" type="TypeScript" />
       <mapping pattern="update" type="YAML_EX" />
     </extensionMap>
   </component>
