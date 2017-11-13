@@ -1,27 +1,28 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 2.7.12 virtualenv at ~/venvs/medcenter" />
+      <name value="Python 2.7.12 (/usr/bin/python2.7)" />
       <type value="Python SDK" />
       <version value="Python 2.7.12" />
-      <homePath value="$USER_HOME$/venvs/medcenter/bin/python2.7" />
+      <homePath value="/usr/bin/python2.7" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/medcenter/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/venvs/medcenter/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/medcenter/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/2054257050" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/.local/lib/python2.7/site-packages" type="simple" />
+            <root url="file:///usr/local/lib/python2.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/PILcompat" type="simple" />
+            <root url="file:///usr/lib/python2.7/dist-packages/gtk-2.0" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1247972723" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
           </root>
         </classPath>
         <sourcePath>
@@ -31,42 +32,26 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 2.7.12 virtualenv at ~/venvs/farfor" />
+      <name value="Python 2.7.12 virtualenv at ~/.venvs/djgit" />
       <type value="Python SDK" />
       <version value="Python 2.7.12" />
-      <homePath value="$USER_HOME$/venvs/farfor/bin/python2.7" />
+      <homePath value="$USER_HOME$/.venvs/djgit/bin/python2.7" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/django-any-imagefield" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/django-chronograph" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/django-chunks" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/django-cked" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/django-crispy-forms" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/django-elasticsearch" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/django-smarter" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/django-tastypie" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/django-yandex-money" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/farfor-elections" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/pybarcode" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/xlwt" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/django-pipeline" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/src/bitbucket-cli" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor/lib/python2.7/site-packages/newrelic-2.38.0.31" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-606591287" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+            <root url="file://$USER_HOME$/.venvs/djgit/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/djgit/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/djgit/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/djgit/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1139166357" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
           </root>
         </classPath>
         <sourcePath>
@@ -76,287 +61,22 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 2.7.13 virtualenv at ~/venvs/ourchildren" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="$USER_HOME$/venvs/ourchildren/bin/python2.7" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/ourchildren/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/venvs/ourchildren/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/ourchildren/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-412596220" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 3.6.0 virtualenv at ~/venvs/ourchildren" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.0" />
-      <homePath value="$USER_HOME$/venvs/ourchildren/bin/python3.6" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/ourchildren/lib/python3.6" />
-            <root type="simple" url="file://$USER_HOME$/venvs/ourchildren/lib/python3.6/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python3/3.6.0/Frameworks/Python.framework/Versions/3.6/lib/python3.6" />
-            <root type="simple" url="file://$USER_HOME$/venvs/ourchildren/lib/python3.6/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-412595260" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.13 virtualenv at ~/venvs/vino" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="$USER_HOME$/venvs/vino/bin/python2.7" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/vino/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/venvs/vino/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/vino/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/vino/src/smart-select" />
-            <root type="simple" url="file://$USER_HOME$/venvs/vino/src/django-newsletter" />
-            <root type="simple" url="file://$USER_HOME$/venvs/vino/src/djangoseo" />
-            <root type="simple" url="file://$USER_HOME$/venvs/vino/src/django-ckeditor-master" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-588523413" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.13 virtualenv at ~/venvs/farfor_courier_api" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="$USER_HOME$/venvs/farfor_courier_api/bin/python2.7" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor_courier_api/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor_courier_api/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor_courier_api/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor_courier_api/src/flask-configurations" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor_courier_api/src/farfor-models" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor_courier_api/src/farfor-d-bus" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor_courier_api/lib/python2.7/site-packages/newrelic-2.78.0.57" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-659709742" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.10 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.10" />
-      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
-            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-2125986627" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.13 (/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="/usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/160944109" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.13 (/usr/local/bin/python)" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="/usr/local/bin/python" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/-923448878" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Kahlua" />
-      <type value="Lua SDK" />
-      <homePath value="" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/Lua/stdlibrary" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/Lua/stdlibrary" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="LuaJ" />
-      <type value="Lua SDK" />
-      <homePath value="" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/Lua/stdlibrary" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://$APPLICATION_PLUGINS_DIR$/Lua/stdlibrary" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.13 virtualenv at ~/venvs/farfor-pad-event-service" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="$USER_HOME$/venvs/farfor-pad-event-service/bin/python2.7" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor-pad-event-service/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor-pad-event-service/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor-pad-event-service/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/farfor-pad-event-service/src/flask-configurations" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/155233156" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.12 virtualenv at ~/venvs/museum" />
+      <name value="Python 2.7.12 virtualenv at ~/.venvs/delivery_project" />
       <type value="Python SDK" />
       <version value="Python 2.7.12" />
-      <homePath value="$USER_HOME$/venvs/museum/bin/python2.7" />
+      <homePath value="$USER_HOME$/.venvs/delivery_project/bin/python2.7" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/museum/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/venvs/museum/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.12_2/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/museum/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/1050593929" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/1340928671" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
           </root>
         </classPath>
         <sourcePath>
@@ -366,87 +86,26 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 2.7.13 virtualenv at ~/venvs/haystack-farfor" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="$USER_HOME$/venvs/haystack-farfor/bin/python2.7" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/haystack-farfor/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/venvs/haystack-farfor/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/haystack-farfor/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/782768400" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.13 virtualenv at ~/venvs/vncenter" />
-      <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="$USER_HOME$/venvs/vncenter/bin/python2.7" />
-      <roots>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/vncenter/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/venvs/vncenter/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/vncenter/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/vncenter/src/django-colorfield-master" />
-            <root type="simple" url="file://$USER_HOME$/venvs/vncenter/src/django-colorful-master" />
-            <root type="simple" url="file://$USER_HOME$/venvs/vncenter/src/django-configurations-master" />
-            <root type="simple" url="file://$USER_HOME$/venvs/vncenter/src/django-constance-master" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/890596996" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
-          </root>
-        </classPath>
-        <sourcePath>
-          <root type="composite" />
-        </sourcePath>
-      </roots>
-      <additional />
-    </jdk>
-    <jdk version="2">
-      <name value="Python 2.7.13 virtualenv at ~/venvs/looking-goods" />
+      <name value="Python 2.7.12 virtualenv at ~/.venvs/delivery" />
       <type value="Python SDK" />
       <version value="Python 2.7.12" />
-      <homePath value="$USER_HOME$/venvs/looking-goods/bin/python2.7" />
+      <homePath value="$USER_HOME$/.venvs/delivery/bin/python2.7" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/looking_goods/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/venvs/looking_goods/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/looking_goods/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/1993530675" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+            <root url="file://$USER_HOME$/.venvs/delivery/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/delivery/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/delivery/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/delivery/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-956132539" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
           </root>
         </classPath>
         <sourcePath>
@@ -456,94 +115,93 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Python 2.7.13 virtualenv at ~/venvs/lrkc" />
+      <name value="Python 2.7 (farfor)" />
       <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="$USER_HOME$/venvs/lrkc/bin/python2.7" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/.venvs/farfor/bin/python" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/lrkc/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/venvs/lrkc/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/lrkc/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/708000917" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+            <root url="file://$USER_HOME$/.venvs/farfor/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/django-chronograph" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/django-tastypie" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/django-any-imagefield" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/django-chunks" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/django-cked" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/django-crispy-forms" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/django-elasticsearch" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/django-pipeline" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/django-smarter" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/django-yandex-money" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/farfor-all-logging-client" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/farfor-elections" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/pybarcode" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/xlwt" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/src/django-social-auth" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/local/lib/python2.7/site-packages/newrelic-2.38.0.31" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/farfor/lib/python2.7/site-packages/newrelic-2.38.0.31" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-947893480" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
           </root>
         </classPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/workspace/smenateam/farfor" />
     </jdk>
     <jdk version="2">
-      <name value="Python 2.7.13 virtualenv at ~/venvs/formula1" />
+      <name value="Python 2.7 (heroes)" />
       <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="$USER_HOME$/venvs/formula1/bin/python2.7" />
+      <homePath value="$USER_HOME$/workspace/python/heroes/venv/Scripts/python.exe" />
       <roots>
         <classPath>
-          <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/formula1/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/venvs/formula1/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/formula1/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/1557275778" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
-          </root>
+          <root type="composite" />
         </classPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/workspace/python/heroes" />
     </jdk>
     <jdk version="2">
-      <name value="Python 2.7.13 virtualenv at ~/venvs/smenaschool1" />
+      <name value="Python 2.7 (heroes) (1)" />
       <type value="Python SDK" />
-      <version value="Python 2.7.13" />
-      <homePath value="$USER_HOME$/venvs/smenaschool1/bin/python2.7" />
+      <version value="Python 2.7.12" />
+      <homePath value="$USER_HOME$/.venvs/heroes/bin/python2.7" />
       <roots>
         <classPath>
           <root type="composite">
-            <root type="simple" url="file://$USER_HOME$/venvs/smenaschool1/lib/python2.7" />
-            <root type="simple" url="file://$USER_HOME$/venvs/smenaschool1/lib/python2.7/lib-dynload" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
-            <root type="simple" url="file:///usr/local/Cellar/python/2.7.13/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
-            <root type="simple" url="file://$USER_HOME$/venvs/smenaschool1/lib/python2.7/site-packages" />
-            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2017.1/python_stubs/767654838" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" />
-            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" />
+            <root url="file://$USER_HOME$/.venvs/heroes/lib/python2.7" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/heroes/lib/python2.7/lib-dynload" type="simple" />
+            <root url="file:///usr/lib/python2.7" type="simple" />
+            <root url="file:///usr/lib/python2.7/plat-x86_64-linux-gnu" type="simple" />
+            <root url="file:///usr/lib/python2.7/lib-tk" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/heroes/local/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.venvs/heroes/lib/python2.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-1867366215" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
           </root>
         </classPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional />
+      <additional ASSOCIATED_PROJECT_PATH="$USER_HOME$/workspace/python/heroes" />
     </jdk>
   </component>
 </application>

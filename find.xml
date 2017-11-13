@@ -1,48 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
-    <recentFileMasks>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.jade</mask>
-      <mask>*.jad</mask>
-      <mask>*.ja</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.p</mask>
-      <mask>*/mana.py</mask>
-      <mask>*/man.py</mask>
-      <mask>*/ma.py</mask>
-      <mask>*/m.py</mask>
-      <mask>*/.py</mask>
-      <mask>*mana.py</mask>
-      <mask>*manag.py</mask>
-      <mask>*managm.py</mask>
-      <mask>*managme.py</mask>
-      <mask>*managmen.py</mask>
-      <mask>*managment.py</mask>
-      <mask>*managment/.py</mask>
-      <mask>*managment/*.py</mask>
-      <mask>*managment*.py</mask>
-      <mask>*managmen*.py</mask>
-      <mask>a*.py</mask>
-      <mask>ap*.py</mask>
-      <mask>app*.py</mask>
-      <mask>apps/*.py</mask>
-      <mask>apps*.py</mask>
-      <mask>*.py</mask>
-    </recentFileMasks>
   </component>
 </application>

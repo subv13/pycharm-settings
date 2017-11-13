@@ -1,10 +1,6 @@
 <application>
-  <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="" />
-    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
+  <component name="DefaultFont">
+    <option name="FONT_FAMILY" value="Source Code Pro" />
+    <option name="FONT_SCALE" value="1.25" />
   </component>
 </application>
