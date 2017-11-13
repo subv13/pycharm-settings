@@ -2,6 +2,14 @@
   <MarkdownNavigatorCodeStyleSettings>
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
+  <Python>
+    <option name="NEW_LINE_AFTER_COLON" value="true" />
+    <option name="NEW_LINE_AFTER_COLON_MULTI_CLAUSE" value="false" />
+    <option name="FROM_IMPORT_NEW_LINE_AFTER_LEFT_PARENTHESIS" value="true" />
+    <option name="FROM_IMPORT_NEW_LINE_BEFORE_RIGHT_PARENTHESIS" value="true" />
+    <option name="FROM_IMPORT_PARENTHESES_FORCE_IF_MULTILINE" value="true" />
+    <option name="FROM_IMPORT_TRAILING_COMMA_IF_MULTILINE" value="true" />
+  </Python>
   <codeStyleSettings language="JSON">
     <indentOptions>
       <option name="INDENT_SIZE" value="4" />
