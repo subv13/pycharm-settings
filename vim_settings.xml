@@ -1160,6 +1160,12 @@
         <mark key="^" line="39" column="13" />
         <mark key="." line="39" column="13" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/django_social_auth/.gitignore" timestamp="1510664513779">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="24" column="4" />
+        <mark key="^" line="24" column="4" />
+        <mark key="." line="24" column="4" />
+      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/track/models.py" timestamp="1500378871461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="23" />
@@ -2320,7 +2326,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1510664068132">
+      <file name="/Python Console" timestamp="1510664608077">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/urls.py" timestamp="1496743950730">
