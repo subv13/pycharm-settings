@@ -476,6 +476,13 @@
         <mark key="^" line="57" column="49" />
         <mark key="." line="57" column="49" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/.gitignore" timestamp="1510654015666">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="81" column="40" />
+        <mark key="]" line="83" column="15" />
+        <mark key="^" line="83" column="15" />
+        <mark key="." line="83" column="15" />
+      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/route/urls.py" timestamp="1500527956711">
         <mark key="[" line="10" column="39" />
         <mark key="]" line="10" column="44" />
@@ -917,6 +924,13 @@
         <mark key="]" line="4" column="4" />
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/frontend/models.py" timestamp="1510638837351">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="320" column="113" />
+        <mark key="]" line="321" column="3" />
+        <mark key="." line="321" column="3" />
+        <mark key="^" line="321" column="3" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/extjs/utils1.py" timestamp="1496144871647">
         <mark key="[" line="624" column="88" />
@@ -1541,10 +1555,12 @@
         <mark key="^" line="37" column="68" />
         <mark key="." line="37" column="68" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/remove_south_migraions.py" timestamp="1510651700377">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="8" />
-        <mark key="." line="6" column="8" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/remove_south_migraions.py" timestamp="1510654358686">
+        <mark key="'" line="17" column="43" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="16" column="39" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/cme/wsgi.py" timestamp="1500547608769">
         <mark key="[" line="15" column="50" />
@@ -2282,6 +2298,13 @@
         <mark key="." line="2" column="39" />
         <mark key="^" line="2" column="39" />
       </file>
+      <file name="$USER_HOME$/workspace/smenaschool/delivery/main/templates/main/weekly_menu.html" timestamp="1496587832926">
+        <mark key="'" line="16" column="1" />
+        <mark key="[" line="42" column="46" />
+        <mark key="]" line="42" column="43" />
+        <mark key="^" line="42" column="43" />
+        <mark key="." line="42" column="43" />
+      </file>
       <file name="$USER_HOME$/smenateam/vncenter/build/static/js/main.js" timestamp="1490089212658">
         <mark key="[" line="51" column="21" />
         <mark key="]" line="51" column="23" />
@@ -2839,13 +2862,15 @@
       <jump line="15" column="1" filename="$USER_HOME$/workspace/smenaschool/delivery/main/templates/main/weekly_menu.html" />
       <jump line="0" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/frontend/models.py" />
       <jump line="32" column="36" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/tools/apps.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/.gitignore" />
+      <jump line="15" column="43" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/remove_south_migraions.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50IHJvb3QsIGRpcnMsIGZpbGVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
@@ -2854,34 +2879,34 @@
         <text encoding="base64">ICAgIE9yZGVyID0gYXBwcy5nZXRfbW9kZWwoJ29yZGVycycsICdPcmRlcicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIHByaW50IHJvb3QsIGRpcnMsIGZpbGVzCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yIHJvb3QsIGRpcnMsIGZpbGVzIGluIG9zLndhbGsoJy4nKToKICAgIHByaW50IHJvb3QsIGRpcnMsIGZpbGVzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBzdHJpbmcgaW1wb3J0IFRlbXBsYXRlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uYXBwcyBpbXBvcnQgYXBwcwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQgcm9vdCwgZGlycywgZmlsZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uYXBwcyBpbXBvcnQgYXBwcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3MubXYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3MucAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgCg==</text>
+        <text encoding="base64">ICAgIGlmIAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
