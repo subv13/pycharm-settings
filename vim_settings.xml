@@ -592,10 +592,10 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1510070130113">
+      <file name="/dummy.sql" timestamp="1510662832284">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510659831958">
+      <file name="/Dummy.txt" timestamp="1510662813277">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1189,7 +1189,7 @@
         <mark key="^" line="49" column="24" />
         <mark key="." line="49" column="24" />
       </file>
-      <file name="$USER_HOME$/venvs/farfor-dj-1.6/lib/python2.7/site-packages/south/db/__init__.py" timestamp="1510659448230" />
+      <file name="$USER_HOME$/venvs/farfor-dj-1.6/lib/python2.7/site-packages/south/db/__init__.py" timestamp="1510662498580" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/staff/app.py" timestamp="1510303880501">
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="16" />
@@ -2454,7 +2454,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1510659452546">
+      <file name="/Python Console" timestamp="1510662502820">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/urls.py" timestamp="1496743950730">
@@ -2595,6 +2595,7 @@
         <mark key="^" line="14" column="16" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/venvs/farfor-dj-1.6/lib/python2.7/site-packages/django_geoip/migrations/0002_countrynames.py" timestamp="1510662448103" />
       <file name="$USER_HOME$/smenateam/looking-goods/project/config/database.py" timestamp="1488950333497">
         <mark key="[" line="13" column="27" />
         <mark key="]" line="13" column="28" />
