@@ -506,7 +506,6 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/orders/notification/__init__.py" timestamp="1510639330117" />
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" timestamp="1489123504494">
         <mark key="[" line="32" column="119" />
         <mark key="]" line="32" column="88" />
@@ -943,7 +942,6 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/orders/extjs/views.py" timestamp="1510643958600" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/api.py" timestamp="1494580519010">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -990,7 +988,6 @@
         <mark key="^" line="104" column="74" />
         <mark key="." line="104" column="74" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/utils/signals.py" timestamp="1510648147864" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/erp/update_backend.yml" timestamp="1509435451640">
         <mark key="[" line="83" column="35" />
         <mark key="]" line="83" column="33" />
@@ -1544,7 +1541,11 @@
         <mark key="^" line="37" column="68" />
         <mark key="." line="37" column="68" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/remove_south_migraions.py" timestamp="1510650114246" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/remove_south_migraions.py" timestamp="1510651700377">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/cme/wsgi.py" timestamp="1500547608769">
         <mark key="[" line="15" column="50" />
         <mark key="]" line="15" column="62" />
@@ -2841,10 +2842,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBzdHJpbmcgaW1wb3J0IFRlbXBsYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>settings</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
@@ -2853,16 +2854,16 @@
         <text encoding="base64">ICAgIE9yZGVyID0gYXBwcy5nZXRfbW9kZWwoJ29yZGVycycsICdPcmRlcicpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBzdHJpbmcgaW1wb3J0IFRlbXBsYXRlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uYXBwcyBpbXBvcnQgYXBwcwo=</text>
+        <text encoding="base64">Zm9yIHJvb3QsIGRpcnMsIGZpbGVzIGluIG9zLndhbGsoJy4nKToKICAgIHByaW50IHJvb3QsIGRpcnMsIGZpbGVzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzdHJpbmcgaW1wb3J0IFRlbXBsYXRlCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ZnJvbSBkamFuZ28uYXBwcyBpbXBvcnQgYXBwcwo=</text>
@@ -2871,16 +2872,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uYXBwcyBpbXBvcnQgYXBwcwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgCmZyb20gZGphbmdvLmNvcmUubWFuYWdlbWVudC5iYXNlIGltcG9ydCBCYXNlQ29tbWFuZCwgQ29tbWFuZEVycm9yCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgc2V0dGluZ3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5tYWlsIGltcG9ydCBzZW5kX21haWwK</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uY29uZiBpbXBvcnQgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
