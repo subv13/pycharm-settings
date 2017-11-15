@@ -908,7 +908,7 @@
         <mark key="^" line="56" column="15" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1510558011902">
+      <file name="/fragment.py" timestamp="1510746406345">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="." line="0" column="30" />
@@ -973,11 +973,11 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/extjs/utils1.py" timestamp="1510743740415">
-        <mark key="[" line="100" column="51" />
-        <mark key="]" line="100" column="21" />
-        <mark key="^" line="100" column="21" />
-        <mark key="." line="100" column="21" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/extjs/utils1.py" timestamp="1510746607929">
+        <mark key="[" line="5" column="10" />
+        <mark key="]" line="6" column="15" />
+        <mark key="." line="6" column="15" />
+        <mark key="^" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/admin.py" timestamp="1502689071213">
         <mark key="[" line="7" column="22" />
@@ -2536,7 +2536,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1510739691267">
+      <file name="/Python Console" timestamp="1510745183151">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/urls.py" timestamp="1496743950730">
@@ -3030,10 +3030,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15ja2VkLycsIGluY2x1ZGUoJ2NrZWQudXJscycpKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>MARKETING_SECTIONS</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
@@ -3042,7 +3042,7 @@
         <text encoding="base64">cmVxdWVzdHM9PTIuMTguNAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHVybChyJ15ja2VkLycsIGluY2x1ZGUoJ2NrZWQudXJscycpKSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -3051,25 +3051,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmYXJmb3JfYWxsX2xvZ2dpbmdfY2xpZW50LmNsaWVudCBpbXBvcnQgCg==</text>
+        <text encoding="base64">aW1wb3J0IHNpeAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAuc2lnbmFscyBpbXBvcnQgb2JqZWN0X2RlbGV0ZWQsIG9iamVjdF9jcmVhdGVkLCBvYmplY3RfY2hhbmdlZAo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBRCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZ2VuZXJpYyBpbXBvcnQgKExpc3RWaWV3LCBDcmVhdGVWaWV3IGFzIEJhc2VDcmVhdGVWaWV3KQo=</text>
+        <text encoding="base64">ZnJvbSBhcHBzLm9yZGVycy5jb25zdGFudHMgaW1wb3J0IE9SREVSX1NPVVJDRSwgTUFSS0VUSU5HX1NFQ1RJT05TX0ZPUl9PUkRFUl9TT1VSQ0VTCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBzb3JsLnRodW1ibmFpbCBpbXBvcnQgZ2V0X3RodW1ibmFpbAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIGl0ZW1bJ2Rpc2NvdW50J10gPCBydWxlLnZhbHVlOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2VsZi5nZXRfcXVlcnlzZXRfc29ydCgpKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc3VwZXIoTGlzdFdpZGdldFZpZXcsIHNlbGYpLmdldF9xdWVyeXNldCgpLmZpbHRlcigqKnNlbGYuZ2V0X3F1ZXJ5c2V0X2ZpbHRlcnMoKSkub3JkZXJfYnkoCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
