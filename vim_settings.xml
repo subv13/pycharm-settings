@@ -54,6 +54,7 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/urls/api.py" timestamp="1510743511881" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/frontend/update_backend.yml" timestamp="1495540748093">
         <mark key="[" line="19" column="110" />
         <mark key="]" line="19" column="122" />
@@ -88,7 +89,12 @@
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/models/discounts.py" timestamp="1510740813249" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/models/discounts.py" timestamp="1510742958819">
+        <mark key="[" line="12" column="35" />
+        <mark key="]" line="12" column="34" />
+        <mark key="^" line="12" column="34" />
+        <mark key="." line="12" column="34" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/api.py" timestamp="1500635065755">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="50" column="0" />
@@ -599,7 +605,7 @@
       <file name="/dummy.sql" timestamp="1510724683274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510740814406">
+      <file name="/Dummy.txt" timestamp="1510743496043">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -967,11 +973,11 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/extjs/utils1.py" timestamp="1496144871647">
-        <mark key="[" line="624" column="88" />
-        <mark key="]" line="624" column="88" />
-        <mark key="^" line="624" column="88" />
-        <mark key="." line="624" column="88" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/extjs/utils1.py" timestamp="1510743740415">
+        <mark key="[" line="100" column="51" />
+        <mark key="]" line="100" column="21" />
+        <mark key="^" line="100" column="21" />
+        <mark key="." line="100" column="21" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/admin.py" timestamp="1502689071213">
         <mark key="[" line="7" column="22" />
