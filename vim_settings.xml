@@ -615,7 +615,7 @@
       <file name="/dummy.sql" timestamp="1510724683274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510825367079">
+      <file name="/Dummy.txt" timestamp="1510826577072">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1069,6 +1069,13 @@
         <mark key="]" line="104" column="74" />
         <mark key="^" line="104" column="74" />
         <mark key="." line="104" column="74" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/main_page/admin.py" timestamp="1510826016763">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="6" column="13" />
+        <mark key="." line="6" column="13" />
+        <mark key="^" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/erp/update_backend.yml" timestamp="1510656147708">
         <mark key="[" line="1" column="0" />
@@ -2793,11 +2800,11 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/requirements/base.in" timestamp="1510825293672">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="17" column="9" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/requirements/base.in" timestamp="1510826365670">
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/smenateam/docker-env/apps/Dockerfile-backend" timestamp="1509798988206">
         <mark key="[" line="24" column="42" />
@@ -3066,13 +3073,16 @@
       <jump line="19" column="52" filename="$USER_HOME$/smenateam/farfor/farfor-playbooks/kitchen_operational_service/staging/update.yml" />
       <jump line="1097" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/geo/models/__init__.py" />
       <jump line="336" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/utils/cbv.py" />
+      <jump line="76" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/main_page/admin.py" />
+      <jump line="24" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/main_page/admin.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/main_page/admin.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cHltb3JwaHkyLTAuOAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
@@ -3081,34 +3091,34 @@
         <text>verbose_name=_('Группа товаров, подпадающие под скидку'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cHltb3JwaHkyLTAuOAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cHltb3JwaHkyLTAuOAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhcHBzLmZyb250ZW5kLm1vZGVscyBpbXBvcnQgQmFza2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBRCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udXRpbHMudHJhbnNsYXRpb24gaW1wb3J0IHVnZXR0ZXh0X2xhenkgYXMgXwo=</text>
+        <text encoding="base64">IyBhZG1pbi5zaXRlLnJlZ2lzdGVyKG1vZGVscy5TdGF0aXN0aWNzVmFsdWUsIFN0YXRpc3RpY3NWYWx1ZUFkbWluKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBweW1vcnBoeSBpbXBvcnQgZ2V0X21vcnBoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnJvbSBtcHR0Lm1vZGVscyBpbXBvcnQgTVBUVE1vZGVsLCBUcmVlRm9yZWlnbktleQo=</text>
+        <text encoding="base64">ICAgIGxpc3RfZmlsdGVyID0gKCdjaXRpZXMnLCAnY2l0aWVzX2FsbCcpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzIGltcG9ydCBNaW4sIE1heAo=</text>
+        <text encoding="base64">ICAgIGxpc3RfZGlzcGxheSA9ICgndGl0bGUnLCAnbnVtYmVyJykK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
