@@ -89,11 +89,11 @@
         <mark key="^" line="13" column="68" />
         <mark key="." line="13" column="68" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/models/discounts.py" timestamp="1510815198339">
-        <mark key="[" line="36" column="76" />
-        <mark key="]" line="36" column="75" />
-        <mark key="^" line="36" column="75" />
-        <mark key="." line="36" column="75" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/models/discounts.py" timestamp="1510815813656">
+        <mark key="[" line="36" column="96" />
+        <mark key="]" line="36" column="96" />
+        <mark key="^" line="36" column="96" />
+        <mark key="." line="36" column="96" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/api.py" timestamp="1500635065755">
         <mark key="[" line="49" column="0" />
@@ -979,11 +979,11 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/extjs/utils1.py" timestamp="1510814985146">
-        <mark key="[" line="133" column="54" />
-        <mark key="]" line="133" column="53" />
-        <mark key="." line="133" column="53" />
-        <mark key="^" line="133" column="53" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/extjs/utils1.py" timestamp="1510815360436">
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="141" column="43" />
+        <mark key="." line="141" column="43" />
+        <mark key="^" line="141" column="43" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/reports2/admin.py" timestamp="1502689071213">
         <mark key="[" line="7" column="22" />
@@ -3041,8 +3041,8 @@
       <jump line="336" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/utils/cbv.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>verbose_name=_('Группа товаров, подпадающие под скидку'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -3054,7 +3054,7 @@
         <text>verbose_name=_('Группа товаров, подпадающие под скидку'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -3063,25 +3063,25 @@
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
