@@ -615,7 +615,7 @@
       <file name="/dummy.sql" timestamp="1510724683274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510826577072">
+      <file name="/Dummy.txt" timestamp="1510827104298">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -2129,6 +2129,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/chunks/templatetags/chunks.py" timestamp="1510827170821" />
       <file name="$USER_HOME$/smenateam/medcenter/project/templates/base.html" timestamp="1487757564994">
         <mark key="[" line="115" column="39" />
         <mark key="]" line="115" column="37" />
@@ -2800,11 +2801,11 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/requirements/base.in" timestamp="1510826365670">
-        <mark key="[" line="16" column="15" />
-        <mark key="]" line="14" column="16" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="14" column="16" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/requirements/base.in" timestamp="1510827246150">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+        <mark key="." line="13" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/smenateam/docker-env/apps/Dockerfile-backend" timestamp="1509798988206">
         <mark key="[" line="24" column="42" />
@@ -3079,17 +3080,17 @@
       <jump line="0" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/main_page/admin.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>#Старое древнее</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
       </register>
       <register name="0" type="4">
-        <text>verbose_name=_('Группа товаров, подпадающие под скидку'</text>
+        <text>#Старое древнее</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
