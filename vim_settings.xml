@@ -575,10 +575,10 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1510724683274">
+      <file name="/dummy.sql" timestamp="1510898050065">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510896105751">
+      <file name="/Dummy.txt" timestamp="1510898107330">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -650,11 +650,11 @@
         <mark key="^" line="21" column="6" />
         <mark key="." line="21" column="6" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/menu/models.py" timestamp="1500891841482">
-        <mark key="[" line="131" column="21" />
-        <mark key="]" line="132" column="3" />
-        <mark key="^" line="132" column="3" />
-        <mark key="." line="132" column="3" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/menu/models.py" timestamp="1510898111324">
+        <mark key="[" line="130" column="0" />
+        <mark key="]" line="130" column="0" />
+        <mark key="." line="130" column="0" />
+        <mark key="^" line="84" column="7" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/kitchen_service/PadController.js" timestamp="1505211626161">
         <mark key="[" line="28" column="7" />
@@ -2089,11 +2089,11 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/menu/models.py" timestamp="1510896184725">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-        <mark key="^" line="3" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/menu/models.py" timestamp="1510898519806">
+        <mark key="[" line="797" column="0" />
+        <mark key="]" line="797" column="0" />
+        <mark key="." line="797" column="0" />
+        <mark key="^" line="764" column="3" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/admin/FlatPageForm.js" timestamp="1505741744477">
         <mark key="[" line="54" column="78" />
@@ -2933,7 +2933,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c8a5668</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
@@ -2948,28 +2948,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBweXRpbHMudHJhbnNsaXQgaW1wb3J0IHNsdWdpZnkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGRhdGV0aW1lCg==</text>
+        <text encoding="base64">ICAgICMgICAgIHJldHVybiBjb21wb25lbnRfbGlzdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY29tcG9uZW50X2l0ZW0pCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">TXlTUUwtcHl0aG9uPT0xLjIuNQo=</text>
+        <text encoding="base64">ICAgICMgICAgICAgICAgICAgICAgIGNvbXBvbmVudF9saXN0ID0gX2FkZF9jb21wb25lbnQoY29tcG9uZW50X2xpc3QsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgICAgICAgICAgZm9yIGNvbXBvbmVudF9pdGVtIGluIHN1YmNvbXBvbmVudHM6Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y2VsZXJ5PT00LjEuMAo=</text>
+        <text encoding="base64">ICAgICMgICAgICAgICAgICAgc3ViY29tcG9uZW50cyA9IGl0ZW0uZ2V0X2NvbXBvbmVudHMocXVhbnRpdHkgKiBjb21wb25lbnQucXVhbnRpdHkpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RqYW5nb19tYXZlbicsCg==</text>
+        <text encoding="base64">ICAgICMgICAgICAgICAgICAgaXRlbSA9IFByb2R1Y3Qub2JqZWN0cy5nZXQocGs9Y29tcG9uZW50Lm9iamVjdF9pZCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICMgICAgICAgICBpZiBjb21wb25lbnQuY29udGVudF90eXBlID09IENvbnRlbnRUeXBlLm9iamVjdHMuZ2V0X2Zvcl9tb2RlbChQcm9kdWN0KToK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
