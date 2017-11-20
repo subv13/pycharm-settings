@@ -612,7 +612,7 @@
       <file name="/dummy.sql" timestamp="1510898050065">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511178452725">
+      <file name="/Dummy.txt" timestamp="1511179036028">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -2427,11 +2427,11 @@
         <mark key="." line="40" column="10" />
         <mark key="^" line="40" column="10" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/__init__.py" timestamp="1506768995840">
-        <mark key="[" line="1507" column="0" />
-        <mark key="]" line="1507" column="0" />
-        <mark key="^" line="1456" column="11" />
-        <mark key="." line="1507" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/__init__.py" timestamp="1511179107338">
+        <mark key="[" line="201" column="0" />
+        <mark key="]" line="201" column="0" />
+        <mark key="^" line="1453" column="11" />
+        <mark key="." line="201" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/SummaryTable.js" timestamp="1503911172058">
         <mark key="[" line="88" column="0" />
@@ -2609,7 +2609,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1511174557637">
+      <file name="/Python Console" timestamp="1511178807646">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/urls.py" timestamp="1496743950730">
@@ -2785,6 +2785,12 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
         <mark key="^" line="64" column="16" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/mobile/views/menu.py" timestamp="1511178871372">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="86" column="18" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/django_basic/.gitignore" timestamp="1491803573986">
         <mark key="[" line="1" column="5" />
@@ -3075,7 +3081,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBmYXJmb3JfbW9kZWxzIGltcG9ydCBpbml0X2RiCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICByZXR1cm4gc2VsZi50ZW1wbGF0ZV9uYW1lCg==</text>
       </register>
       <register name="-" type="4">
         <text>query</text>
@@ -3087,34 +3093,34 @@
         <text encoding="base64">e3sgb2JqZWN0LnNob3J0X3RleHQgfX0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBmYXJmb3JfbW9kZWxzIGltcG9ydCBpbml0X2RiCg==</text>
+        <text encoding="base64">ICAgICAgICAjICAgICByZXR1cm4gc2VsZi50ZW1wbGF0ZV9uYW1lCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBwcm9qZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAjIGlmIHZpZXcgPT0gJzEnOgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBhcHBzLmNhY2hpbmcuZGVjb3JhdG9ycyBpbXBvcnQgY2FjaGVfcGFnZQo=</text>
+        <text encoding="base64">ICAgICAgICAjIHZpZXcgPSBzZWxmLnJlcXVlc3Quc2Vzc2lvbi5nZXQoJ3YnKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZ2VuZXJpYyBpbXBvcnQgUmVkaXJlY3RWaWV3LCBUZW1wbGF0ZVZpZXcK</text>
+        <text encoding="base64">ICAgICAgICBwcmludCAna2VrZScK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBwcm9qZWN0Cg==</text>
+        <text encoding="base64">ICAgIEBtZXRob2RfZGVjb3JhdG9yKGNhY2hlX3BhZ2UpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBhcHBzLmNhY2hpbmcuZGVjb3JhdG9ycyBpbXBvcnQgY2FjaGVfcGFnZQo=</text>
+        <text encoding="base64">ZnJvbSBmYXJmb3JfbW9kZWxzIGltcG9ydCBpbml0X2RiCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBwcm9qZWN0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBhcHBzLmNhY2hpbmcuZGVjb3JhdG9ycyBpbXBvcnQgY2FjaGVfcGFnZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZ2VuZXJpYyBpbXBvcnQgUmVkaXJlY3RWaWV3LCBUZW1wbGF0ZVZpZXcK</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
