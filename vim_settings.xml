@@ -588,6 +588,18 @@
         <mark key="^" line="40" column="91" />
         <mark key="." line="40" column="91" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/README.MD" timestamp="1511261388788">
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="53" />
+        <mark key="." line="16" column="53" />
+        <mark key="^" line="16" column="53" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/README.md" timestamp="1511261479901">
+        <mark key="[" line="4" column="234" />
+        <mark key="]" line="4" column="235" />
+        <mark key="^" line="4" column="234" />
+        <mark key="." line="4" column="235" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/social_auth/backends/__init__.py" timestamp="1510828081864">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="4" />
@@ -2065,11 +2077,11 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/requirements.txt" timestamp="1511255356164">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="7" column="33" />
-        <mark key="." line="7" column="33" />
-        <mark key="^" line="7" column="33" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/requirements.txt" timestamp="1511261134398">
+        <mark key="[" line="7" column="56" />
+        <mark key="]" line="7" column="61" />
+        <mark key="." line="7" column="61" />
+        <mark key="^" line="7" column="61" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ng-test/src/environments/environment.ts" timestamp="1510474322234">
         <mark key="[" line="7" column="13" />
@@ -2684,7 +2696,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1511255729012">
+      <file name="/Python Console" timestamp="1511260762170">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/urls.py" timestamp="1496743950730">
@@ -3178,17 +3190,17 @@
       <jump line="9" column="64" filename="$USER_HOME$/smenateam/farfor/farfor-ofd-service/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
+      <register name="&quot;" type="4">
+        <text>Int</text>
       </register>
       <register name="-" type="4">
-        <text>rebranch</text>
+        <text>Int</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNlc3Npb24oKS5xdWVyeShPcmRlcikuZmlsdGVyKAogICAgICAgICAgICAgICAgT3JkZXIuaWQgPT0gb3JkZXJfaWQsCiAgICAgICAgICAgICAgICBPcmRlci5wb2ludF9pZCA9PSBzZWxmLmp3dF9wYXlsb2FkLnBvaW50X2lkLAogICAgICAgICAgICAgICAgT3JkZXIuc3RhdHVzICE9IE9yZGVyLlNUQVRVUy5SRUpFQ1RFRAogICAgICAgICAgICApLmZpcnN0KCkK</text>
+        <text encoding="base64">ICBvcmRlcl9pZD1bSW50XSAtIElEINC30LDQutCw0LfQsAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBlbHNlOgo=</text>
