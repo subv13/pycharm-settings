@@ -2735,12 +2735,12 @@
         <mark key="." line="25" column="8" />
         <mark key="^" line="25" column="20" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" timestamp="1511248426418">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" timestamp="1511254189517">
         <mark key="k" line="151" column="39" />
-        <mark key="[" line="116" column="42" />
-        <mark key="]" line="116" column="43" />
-        <mark key="." line="116" column="43" />
-        <mark key="^" line="116" column="43" />
+        <mark key="[" line="116" column="52" />
+        <mark key="]" line="116" column="61" />
+        <mark key="." line="116" column="61" />
+        <mark key="^" line="116" column="61" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/frontend/management/commands/update_search_indexes.py" timestamp="1510649587712">
         <mark key="[" line="10" column="13" />
