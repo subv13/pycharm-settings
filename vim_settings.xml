@@ -558,6 +558,13 @@
         <mark key="^" line="334" column="78" />
         <mark key="." line="334" column="78" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/README.md" timestamp="1511244290037">
+        <mark key="'" line="9" column="64" />
+        <mark key="[" line="9" column="62" />
+        <mark key="]" line="9" column="68" />
+        <mark key="^" line="9" column="68" />
+        <mark key="." line="9" column="68" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1501924090825">
         <mark key="[" line="6" column="18" />
         <mark key="]" line="6" column="18" />
@@ -1013,10 +1020,10 @@
         <mark key="^" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/app.py" timestamp="1506254230562">
-        <mark key="[" line="103" column="21" />
-        <mark key="]" line="103" column="20" />
-        <mark key="^" line="103" column="20" />
-        <mark key="." line="103" column="20" />
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="20" />
+        <mark key="^" line="34" column="20" />
+        <mark key="." line="34" column="20" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/django/cache.py" timestamp="1487926048709">
         <mark key="[" line="5" column="0" />
@@ -2673,6 +2680,13 @@
         <mark key="^" line="340" column="49" />
         <mark key="." line="340" column="49" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/cash/models.py" timestamp="1511181708780">
+        <mark key="'" line="71" column="15" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="7" column="63" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/quality_reviews/api.py" timestamp="1500642539373">
         <mark key="[" line="83" column="66" />
         <mark key="]" line="83" column="68" />
@@ -2958,7 +2972,7 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/deployment/playbooks/staging/update" timestamp="1506776049523">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-ofd-service/deployment/playbooks/staging/update" timestamp="1511243931265">
         <mark key="[" line="23" column="25" />
         <mark key="]" line="23" column="26" />
         <mark key="^" line="23" column="26" />
@@ -3195,13 +3209,14 @@
       <jump line="23" column="40" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/frontend/views/search_views.py" />
       <jump line="71" column="15" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/cash/models.py" />
       <jump line="139" column="51" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/search_indexes.py" />
+      <jump line="9" column="64" filename="$USER_HOME$/smenateam/farfor/farfor-ofd-service/README.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>staging</text>
       </register>
       <register name="-" type="4">
-        <text>has_fiscal_check</text>
+        <text>staging</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
