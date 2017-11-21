@@ -627,7 +627,7 @@
       <file name="/dummy.sql" timestamp="1511241106374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511248874024">
+      <file name="/Dummy.txt" timestamp="1511264661476">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -2311,6 +2311,7 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/templates/franch/index.html" timestamp="1511264696647" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/marketing/models/slot_machine.py" timestamp="1510568903379">
         <mark key="[" line="42" column="100" />
         <mark key="]" line="43" column="3" />
