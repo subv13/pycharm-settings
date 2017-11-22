@@ -612,7 +612,7 @@
       <file name="/dummy.sql" timestamp="1511241106374">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511348012119">
+      <file name="/Dummy.txt" timestamp="1511353805392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1510,6 +1510,12 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="35" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/utils.py" timestamp="1511353901598">
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="77" />
+        <mark key="." line="17" column="77" />
+        <mark key="^" line="17" column="77" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/d_bus/middleware.py" timestamp="1500296760922">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="14" />
@@ -1626,6 +1632,12 @@
         <mark key="]" line="7" column="13" />
         <mark key="." line="7" column="13" />
         <mark key="^" line="7" column="13" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/services.py" timestamp="1511353875983">
+        <mark key="[" line="18" column="12" />
+        <mark key="]" line="18" column="7" />
+        <mark key="." line="18" column="7" />
+        <mark key="^" line="18" column="7" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/route/serializers.py" timestamp="1500529316411">
         <mark key="[" line="6" column="62" />
@@ -2024,11 +2036,11 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/requirements.txt" timestamp="1511261134398">
-        <mark key="[" line="7" column="56" />
-        <mark key="]" line="7" column="61" />
-        <mark key="." line="7" column="61" />
-        <mark key="^" line="7" column="61" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/requirements.txt" timestamp="1511353721114">
+        <mark key="[" line="24" column="7" />
+        <mark key="]" line="24" column="12" />
+        <mark key="." line="24" column="12" />
+        <mark key="^" line="24" column="12" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ng-test/src/environments/environment.ts" timestamp="1510474322234">
         <mark key="[" line="7" column="13" />
@@ -3048,10 +3060,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5leGNlcHRpb25zIGltcG9ydCBJbXByb3Blcmx5Q29uZmlndXJlZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>requests</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
@@ -3060,34 +3072,34 @@
         <text encoding="base64">ICAgIHVybChyJ15ncm91cC9jbGllbnRzL29yZGVyL2NvdW50LyQnLCBSZXBvcnRHcm91cENsaWVudHNPcmRlckNvdW50LmFzX3ZpZXcoKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uY29yZS5leGNlcHRpb25zIGltcG9ydCBJbXByb3Blcmx5Q29uZmlndXJlZAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgSW1wcm9wZXJseUNvbmZpZ3VyZWQoJ9Ch0LrQvtC90YTQuNCz0YPRgNC40YDRg9C50YLQtSDQutC70Y7RhyDQtNC+0YHRgtGD0L/QsCDQuiBBUEkg0LTQu9GPINGB0LXRgNCy0LjRgdCwINCa0JrQoicpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBub3QgaGFzYXR0cihzZXR0aW5ncywgJ0tLVF9BUElfS0VZJyk6Cg==</text>
+        <text encoding="base64">aW1wb3J0IHJlcXVlc3RzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjINCY0YnQtdC8INC/0L7RgdC70LXQtNC90LjQuSDRh9C10Log0L/RgNC40YXQvtC00LAg0Lgg0LXRgdC70Lgg0YMg0L3QtdCz0L4g0L3QtdGCINGH0LXQutCwINCy0L7Qt9Cy0YDQsNGC0LAsINC30L3QsNGH0LjRgiDQt9Cw0LrQsNC3INGE0LjRgdC60LDQu9C40LfQuNGA0L7QstCw0L0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB1cmxsaWIzLnV0aWwucmV0cnkgaW1wb3J0IFJldHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZhbHNlCg==</text>
+        <text encoding="base64">ZnJvbSB1cmxsaWIzLnV0aWwucmV0cnkgaW1wb3J0IFJldHJ5CmZyb20gcmVxdWVzdHMuYWRhcHRlcnMgaW1wb3J0IEhUVFBBZGFwdGVyCgoKZGVmIHJlcXVlc3RzX3JldHJ5X3Nlc3Npb24oCiAgICByZXRyaWVzPTMsCiAgICBiYWNrb2ZmX2ZhY3Rvcj0wLjMsCiAgICBzdGF0dXNfZm9yY2VsaXN0PSg1MDAsIDUwMiwgNTA0KSwKICAgIHNlc3Npb249Tm9uZSwKKToKICAgICIiIgogICAg0KTRg9C90LrRhtC40Y8g0LLQvtC30LLRgNCw0YnQsNGO0YnQsNGPINGB0LXRgdGB0LjRjiwg0LrQvtGC0L7RgNCw0Y8g0L/QvtC30LLQvtC70Y/QtdGCINC00LXQu9Cw0YLRjCDQt9Cw0L/RgNC+0YHRiyDQuiDQstC90LXRiNC40L3QuNC8CiAgICDRgdC10YDQstC40YHQsNC8INCyINC90LXRgdC60L7Qu9GM0LrQviDQv9C+0L/Ri9GC0L7QugogICAgOnBhcmFtIHJldHJpZXM6INCa0L7Qu9C40YfQtdGB0YLQstC+INC/0L7Qv9GL0YLQvtC6CiAgICA6cGFyYW0gYmFja29mZl9mYWN0b3I6INCk0LDQutGC0L7RgCDRgNC+0YHRgtCwINGB0LvQuNC/0L7QsiDQvNC10LbQtNGDINC/0L7Qv9GL0YLQutCw0LzQuAogICAgOnBhcmFtIHN0YXR1c19mb3JjZWxpc3Q6INCh0L/QuNGB0L7QuiDRgdGC0LDRgtGD0YHQvtCyINCyINC+0YLQstC10YIg0L3QsCDQutC+0YLQvtGA0YvQtSDQtNC10LvQsNGC0Ywg0L/QvtCy0YLQvtGACiAgICDQt9Cw0L/RgNC+0YHQsAogICAgOnBhcmFtIHNlc3Npb246INCh0LXRgdGB0LjRjwogICAgOnJldHVybjogU2Vzc2lvbgogICAgIiIiCiAgICBzZXNzaW9uID0gc2Vzc2lvbiBvciByZXF1ZXN0cy5TZXNzaW9uKCkKCiAgICByZXRyeSA9IFJldHJ5KAogICAgICAgIHRvdGFsPXJldHJpZXMsCiAgICAgICAgcmVhZD1yZXRyaWVzLAogICAgICAgIGNvbm5lY3Q9cmV0cmllcywKICAgICAgICBiYWNrb2ZmX2ZhY3Rvcj1iYWNrb2ZmX2ZhY3RvciwKICAgICAgICBzdGF0dXNfZm9yY2VsaXN0PXN0YXR1c19mb3JjZWxpc3QsCiAgICApCgogICAgYWRhcHRlciA9IEhUVFBBZGFwdGVyKG1heF9yZXRyaWVzPXJldHJ5KQogICAgc2Vzc2lvbi5tb3VudCgnaHR0cDovLycsIGFkYXB0ZXIpCiAgICBzZXNzaW9uLm1vdW50KCdodHRwczovLycsIGFkYXB0ZXIpCgogICAgcmV0dXJuIHNlc3Npb24K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBsYXN0X2Z1bmRfY2hlY2sucmVmdW5kX2NoZWNrIGlzIG5vdCBOb25lOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSB1cmxsaWIzLnV0aWwucmV0cnkgaW1wb3J0IFJldHJ5CmZyb20gcmVxdWVzdHMuYWRhcHRlcnMgaW1wb3J0IEhUVFBBZGFwdGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
