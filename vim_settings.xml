@@ -54,6 +54,7 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/ManagerTabPanel.js" timestamp="1511430420628" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/frontend/update_backend.yml" timestamp="1495540748093">
         <mark key="[" line="19" column="110" />
         <mark key="]" line="19" column="122" />
@@ -536,6 +537,7 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/GeneralOrderList.js" timestamp="1511430400973" />
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" timestamp="1489123504494">
         <mark key="[" line="32" column="119" />
         <mark key="]" line="32" column="88" />
@@ -629,7 +631,7 @@
       <file name="/dummy.sql" timestamp="1511429491806">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511428983848">
+      <file name="/Dummy.txt" timestamp="1511430169023">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -2248,6 +2250,7 @@
         <mark key="^" line="23" column="93" />
         <mark key="." line="23" column="93" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/menu/models.py" timestamp="1511429806310" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/admin/FlatPageForm.js" timestamp="1505741744477">
         <mark key="[" line="54" column="78" />
         <mark key="]" line="54" column="78" />
