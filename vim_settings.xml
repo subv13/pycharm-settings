@@ -1030,10 +1030,10 @@
         <mark key="^" line="104" column="74" />
         <mark key="." line="104" column="74" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/report/extjs/urls.py" timestamp="1511357032492">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/report/extjs/urls.py" timestamp="1511417714201">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/farfor/staging/erp/update_backend.yml" timestamp="1510656147708">
         <mark key="[" line="1" column="0" />
@@ -3103,7 +3103,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ExtjsAPI</text>
@@ -3115,34 +3115,34 @@
         <text encoding="base64">ICAgIHVybChyJ15ncm91cC9jbGllbnRzL29yZGVyL2NvdW50LyQnLCBSZXBvcnRHcm91cENsaWVudHNPcmRlckNvdW50LmFzX3ZpZXcoKSksCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFNFUlZJQ0VTX0FQSV9LRVkgPSAnXlcpc194c2tTfSliTCxvTDFwMC9rfW1XWC1vUW98X2t6MUxySitOM0gzJi04dl5UY0lNIkJjJnVVdlB+TF0wJwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">X19hdXRob3JfXyA9ICdhYWEnCg==</text>
+        <text encoding="base64">ICAgIFNFUlZJQ0VTX0FQSV9LRVkgPSAnXlcpc194c2tTfSliTCxvTDFwMC9rfW1XWC1vUW98X2t6MUxySitOM0gzJi04dl5UY0lNIkJjJnVVdlB+TF0wJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFUK</text>
+        <text encoding="base64">X19hdXRob3JfXyA9ICdhYWEnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZGVjb3JhdG9ycy5jc3JmIGltcG9ydCAK</text>
+        <text encoding="base64">ICAgIFUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZGVjb3JhdG9ycy5jc3JmIGltcG9ydCAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAjIEdldCB2YWxpZGF0aW9ucyBmcm9tIHRoZSBWYWxpZGF0aW9uRXJyb3Igb2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>17</text>
