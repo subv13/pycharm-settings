@@ -186,7 +186,7 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/users/views.py" timestamp="1506606883695">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/users/views.py" timestamp="1511432400083">
         <mark key="[" line="188" column="0" />
         <mark key="]" line="188" column="0" />
         <mark key="." line="188" column="0" />
@@ -267,11 +267,6 @@
         <mark key="]" line="7" column="4" />
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/services_api.py" timestamp="1511418708865">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/tests/push_notifications.py" timestamp="1509617412933">
         <mark key="[" line="7" column="34" />
@@ -537,7 +532,7 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/GeneralOrderList.js" timestamp="1511430400973" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/GeneralOrderList.js" timestamp="1511433773121" />
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/feedback/callme.html" timestamp="1489123504494">
         <mark key="[" line="32" column="119" />
         <mark key="]" line="32" column="88" />
@@ -568,7 +563,7 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/geo/models/__init__.py" timestamp="1511430542346">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/geo/models/__init__.py" timestamp="1511432370888">
         <mark key="[" line="821" column="8" />
         <mark key="]" line="821" column="48" />
         <mark key="^" line="821" column="48" />
@@ -631,7 +626,7 @@
       <file name="/dummy.sql" timestamp="1511430514329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511431034026">
+      <file name="/Dummy.txt" timestamp="1511433684385">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -2421,11 +2416,11 @@
         <mark key="^" line="14" column="54" />
         <mark key="." line="33" column="12" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/OrderList.js" timestamp="1491826372759">
-        <mark key="[" line="171" column="64" />
-        <mark key="]" line="171" column="64" />
-        <mark key="^" line="177" column="64" />
-        <mark key="." line="171" column="64" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/OrderList.js" timestamp="1511433781518">
+        <mark key="[" line="140" column="0" />
+        <mark key="]" line="140" column="12" />
+        <mark key="^" line="145" column="13" />
+        <mark key="." line="140" column="12" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/models/courier.py" timestamp="1501224020528">
         <mark key="[" line="15" column="0" />
@@ -2717,11 +2712,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/services_api/views.py" timestamp="1511415125232">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/report/admin.py" timestamp="1511181898420">
         <mark key="[" line="14" column="0" />
@@ -3085,6 +3075,7 @@
         <mark key="^" line="34" column="7" />
         <mark key="." line="34" column="7" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/kkt/CheckList.js" timestamp="1511432797956" />
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/doctors/models.py" timestamp="1493373133664">
         <mark key="[" line="61" column="18" />
         <mark key="]" line="61" column="17" />
@@ -3145,13 +3136,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>textfield</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
       </register>
-      <register name="0" type="4">
-        <text>exclude_ids</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgeHR5cGU6ICd0ZXh0ZmllbGQnLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3160,28 +3151,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNvbHVtbnMgPSBbCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0cyA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaGVhZGVyOiAnSUQnLAogICAgICAgICAgICAgICAgZGF0YUluZGV4OiAnaWQnLAogICAgICAgICAgICAgICAgd2lkdGg6IDY1CiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGhlYWRlcjogJ9CR0YDQtdC90LQnLAogICAgICAgICAgICAgICAgZGF0YUluZGV4OiAnYnJhbmQnLAogICAgICAgICAgICAgICAgZmxleDogMSwKICAgICAgICAgICAgICAgIHJlbmRlcmVyOiBmdW5jdGlvbiAoYSwgZSkgewogICAgICAgICAgICAgICAgICAgIHJldHVybiAoZS5yZWNvcmQuZGF0YS5icmFuZCkgPyBlLnJlY29yZC5kYXRhLmJyYW5kLm5hbWUgOiAnJzsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaGVhZGVyOiAn0KLQvtGH0LrQsCcsCiAgICAgICAgICAgICAgICBkYXRhSW5kZXg6ICdwb2ludCcsCiAgICAgICAgICAgICAgICBmbGV4OiAxLAogICAgICAgICAgICAgICAgcmVuZGVyZXI6IGZ1bmN0aW9uIChhLCBlKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIChlLnJlY29yZC5kYXRhLnBvaW50KSA/IGUucmVjb3JkLmRhdGEucG9pbnQubmFtZSA6ICcnOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBoZWFkZXI6ICfQlNC+0YHRgtCw0LLQutCwJywKICAgICAgICAgICAgICAgIGRhdGFJbmRleDogJ2RlbGl2ZXJ5X2F0JywKICAgICAgICAgICAgICAgIHR5cGU6ICd0ZXh0JywKICAgICAgICAgICAgICAgIHdpZHRoOiAxMDAKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgeHR5cGU6ICdib29sZWFuY29sdW1uJywKICAgICAgICAgICAgICAgIHdpZHRoOiA0MCwKICAgICAgICAgICAgICAgIGhlYWRlcjogJ9Ca0L4g0LLRgNC10LzQtdC90LgnLAogICAgICAgICAgICAgICAgZGF0YUluZGV4OiAnZGVsaXZlcnlfYXRfY2xpZW50JywKICAgICAgICAgICAgICAgIHRydWVUZXh0OiAnPGkgY2xhc3M9ImZhLWljb24tdXNlciI+PC9pPicsCiAgICAgICAgICAgICAgICBmYWxzZVRleHQ6ICcnLAogICAgICAgICAgICAgICAgdHlwZTogJ2Jvb2xlYW4nLAogICAgICAgICAgICAgICAgYWxpZ246ICdjZW50ZXInCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGhlYWRlcjogJ9CU0LDRgtCwINGB0L7Qt9C00LDQvdC40Y8nLAogICAgICAgICAgICAgICAgZGF0YUluZGV4OiAnY3JlYXRlZF9hdCcsCiAgICAgICAgICAgICAgICB0eXBlOiAndGV4dCcsCiAgICAgICAgICAgICAgICB3aWR0aDogMTAwCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGhlYWRlcjogJ9Ci0LXQu9C10YTQvtC9JywKICAgICAgICAgICAgICAgIGRhdGFJbmRleDogJ3Bob25lJywKICAgICAgICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICAgICAgICByZW5kZXJlcjogZnVuY3Rpb24gKGEsIGUpIHsKICAgICAgICAgICAgICAgICAgICByZXR1cm4gKGUucmVjb3JkLmRhdGEucGhvbmUpID8gZS5yZWNvcmQuZGF0YS5waG9uZS5waG9uZSA6ICcnOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBoZWFkZXI6ICfQmtC70LjQtdC90YInLAogICAgICAgICAgICAgICAgZGF0YUluZGV4OiAnY2xpZW50JywKICAgICAgICAgICAgICAgIGZsZXg6IDIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgaGVhZGVyOiAn0JDQtNGA0LXRgScsCiAgICAgICAgICAgICAgICBkYXRhSW5kZXg6ICdhZGRyZXNzX2Rpc3BsYXknLAogICAgICAgICAgICAgICAgZmxleDogNAogICAgICAgICAgICB9LAogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBoZWFkZXI6ICfQodGC0L7QuNC80L7RgdGC0YwnLAogICAgICAgICAgICAgICAgZGF0YUluZGV4OiAnY2FzaF9wcmljZScsCiAgICAgICAgICAgICAgICBmbGV4OiAxLAogICAgICAgICAgICAgICAgYWxpZ246ICdyaWdodCcKICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgeHR5cGU6ICdib29sZWFuY29sdW1uJywKICAgICAgICAgICAgICAgIHdpZHRoOiA0MCwKICAgICAgICAgICAgICAgIGhlYWRlcjogJ9Ch0LDQvNC+0LLRi9Cy0L7QtycsCiAgICAgICAgICAgICAgICBkYXRhSW5kZXg6ICdwaWNrdXAnLAogICAgICAgICAgICAgICAgdHJ1ZVRleHQ6ICc8aSBjbGFzcz0iZmEtaWNvbi10cnVjayI+PC9pPicsCiAgICAgICAgICAgICAgICBmYWxzZVRleHQ6ICcnLAogICAgICAgICAgICAgICAgdHlwZTogJ2Jvb2xlYW4nLAogICAgICAgICAgICAgICAgYWxpZ246ICdjZW50ZXInCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGZsZXg6IDEsCiAgICAgICAgICAgICAgICBoZWFkZXI6ICfQotC40L8g0L7Qv9C70LDRgtGLJywKICAgICAgICAgICAgICAgIGRhdGFJbmRleDogJ3BheV9tZXRob2QnLAogICAgICAgICAgICAgICAgYWxpZ246ICdjZW50ZXInCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGhlYWRlcjogJ9Ch0YLQsNGC0YPRgSDQvtC/0LvQsNGC0YsnLAogICAgICAgICAgICAgICAgZGF0YUluZGV4OiAncGF5X3N0YXR1cycsCiAgICAgICAgICAgICAgICBmbGV4OiAxLAogICAgICAgICAgICAgICAgYWxpZ246ICdjZW50ZXInCiAgICAgICAgICAgIH0sCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIGhlYWRlcjogJ9Ch0YLQsNGC0YPRgScsCiAgICAgICAgICAgICAgICBkYXRhSW5kZXg6ICdzdGF0dXMnLAogICAgICAgICAgICAgICAgZmxleDogMSwKICAgICAgICAgICAgICAgIGFsaWduOiAnY2VudGVyJywKCiAgICAgICAgICAgIH0sCgogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB4dHlwZTogJ2FjdGlvbmNvbHVtbicsCiAgICAgICAgICAgICAgICB0ZXh0OiAn0J/QtdGA0LXRhdC+0LQnLAogICAgICAgICAgICAgICAgYWxpZ246ICdjZW50ZXInLAogICAgICAgICAgICAgICAgd2lkdGg6IDU1LAogICAgICAgICAgICAgICAgZGF0YUluZGV4OiAnYWN0aW9uX29yZGVyJywKICAgICAgICAgICAgICAgIGl0ZW1zOiBbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICB0b29sdGlwOiAn0KHQvNC10L3QsCDRgdGC0LDRgtGD0YHQsCcsCiAgICAgICAgICAgICAgICAgICAgICAgIGljb246IFNUQVRJQ19VUkwKICAgICAgICAgICAgICAgICAgICAgICAgKyAnZ2x5cGhpY29ucy9nbHlwaGljb25zXzIwMF9kb3dubG9hZC5wbmcnLAogICAgICAgICAgICAgICAgICAgICAgICBoYW5kbGVyOiBmdW5jdGlvbiAoZ3JpZCwgcm93SW5kZXgsIGNvbEluZGV4KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICB2YXIgcmVjb3JkID0gZ3JpZC5nZXRTdG9yZSgpLmdldEF0KHJvd0luZGV4KTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciB0YWJzdmlld2VyID0gZ3JpZC51cCgnb3BlcmF0b3J2aWV3ZXIsbWFuYWdlcnZpZXdlcixzdXBlcm9wZXJhdG9ydmlld2VyJyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBGYXJmb3IuYXBwLmdldE9yZGVyQ29udHJvbGxlcigpLmNoYW5nZU9yZGVyU3RhdHVzKHJlY29yZC5kYXRhLCB0YWJzdmlld2VyKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIF0KICAgICAgICAgICAgfSwKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgeHR5cGU6ICdhY3Rpb25jb2x1bW4nLAogICAgICAgICAgICAgICAgZmxleDogMSwKICAgICAgICAgICAgICAgIGFsaWduOiAnY2VudGVyJywKICAgICAgICAgICAgICAgIHRleHQ6ICfQlNC10LnRgdGC0LLQuNGPJywKICAgICAgICAgICAgICAgIGl0ZW1zOiBbCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICB0b29sdGlwOiAn0KDQtdC00LDQutGC0LjRgNC+0LLQsNGC0YwnLAogICAgICAgICAgICAgICAgICAgICAgICBpY29uQ2xzOiAnaWNvbi1lZGl0JywKICAgICAgICAgICAgICAgICAgICAgICAgaWNvbjogU1RBVElDX1VSTAogICAgICAgICAgICAgICAgICAgICAgICArICdnbHlwaGljb25zL2dseXBoaWNvbnNfMDMwX3BlbmNpbC5wbmcnLAogICAgICAgICAgICAgICAgICAgIH0sCiAgICAgICAgICAgICAgICAgICAgewogICAgICAgICAgICAgICAgICAgICAgICB0b29sdGlwOiAn0J7RgtC80LXQvdCwJywKICAgICAgICAgICAgICAgICAgICAgICAgaWNvbkNsczogJ2ljb24tcmVqZWN0JywKICAgICAgICAgICAgICAgICAgICAgICAgaWNvbjogU1RBVElDX1VSTAogICAgICAgICAgICAgICAgICAgICAgICArICdnbHlwaGljb25zL2dseXBoaWNvbnNfMTk3X3JlbW92ZS5wbmcnCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgXQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBsLm1hcC5mCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+        <text encoding="base64">CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmNhbGxQYXJlbnQoYXJndW1lbnRzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>87</text>
