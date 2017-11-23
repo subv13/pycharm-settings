@@ -261,7 +261,7 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/services_api.py" timestamp="1511357045509">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/services_api.py" timestamp="1511418708865">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -1029,6 +1029,12 @@
         <mark key="]" line="104" column="74" />
         <mark key="^" line="104" column="74" />
         <mark key="." line="104" column="74" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/managment/configs/farfor/staging-services/django-kkt-api.py" timestamp="1511418820612">
+        <mark key="[" line="8" column="48" />
+        <mark key="]" line="8" column="35" />
+        <mark key="^" line="8" column="35" />
+        <mark key="." line="8" column="35" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/report/extjs/urls.py" timestamp="1511417714201">
         <mark key="[" line="12" column="0" />
@@ -2284,7 +2290,7 @@
         <mark key="^" line="43" column="3" />
         <mark key="." line="43" column="3" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/config/erp_api.py" timestamp="1511411353457">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/config/erp_api.py" timestamp="1511418758418">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="48" />
         <mark key="^" line="0" column="30" />
@@ -2441,6 +2447,12 @@
         <mark key="]" line="126" column="25" />
         <mark key="^" line="126" column="25" />
         <mark key="." line="126" column="25" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/managment/configs/farfor/staging/django-erp.py" timestamp="1511418814619">
+        <mark key="[" line="176" column="20" />
+        <mark key="]" line="176" column="86" />
+        <mark key="^" line="176" column="86" />
+        <mark key="." line="176" column="86" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/frontend/markup/pages/temp/_all.jade" timestamp="1487755944596">
         <mark key="[" line="23" column="52" />
@@ -2826,6 +2838,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/managment/.gitignore" timestamp="1511418866018">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/management/commands/remove_flight_elastic.py" timestamp="1498200639973">
         <mark key="[" line="72" column="57" />
         <mark key="]" line="74" column="22" />
@@ -3106,7 +3124,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>ExtjsAPI</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
@@ -3121,31 +3139,31 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFNFUlZJQ0VTX0FQSV9LRVkgPSAnXlcpc194c2tTfSliTCxvTDFwMC9rfW1XWC1vUW98X2t6MUxySitOM0gzJi04dl5UY0lNIkJjJnVVdlB+TF0wJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">X19hdXRob3JfXyA9ICdhYWEnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIFUK</text>
+        <text encoding="base64">ICAgIEFVVEhfVVNFUl9NT0RFTCA9ICd1c2Vycy5FcnBVc2VyJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MuZGVjb3JhdG9ycy5jc3JmIGltcG9ydCAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFzcwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgo=</text>
+        <text encoding="base64">ICAgIFNFUlZJQ0VTX0FQSV9LRVkgPSAnXlcpc194c2tTfSliTCxvTDFwMC9rfW1XWC1vUW98X2t6MUxySitOM0gzJi04dl5UY0lNIkJjJnVVdlB+TF0wJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0cnk6Cg==</text>
+        <text encoding="base64">X19hdXRob3JfXyA9ICdhYWEnCg==</text>
       </register>
       <register name=":" type="4">
-        <text>17</text>
+        <text>87</text>
       </register>
     </registers>
     <search>
@@ -3166,7 +3184,6 @@
         <entry>south</entry>
       </history-search>
       <history-cmd>
-        <entry>::w</entry>
         <entry>w:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>1176</entry>
@@ -3186,6 +3203,7 @@
         <entry>843</entry>
         <entry>q</entry>
         <entry>17</entry>
+        <entry>87</entry>
       </history-cmd>
       <history-expr />
       <history-input />
