@@ -60,6 +60,12 @@
         <mark key="." line="19" column="122" />
         <mark key="^" line="19" column="122" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/frontend/views/search_views.py" timestamp="1511427451504">
+        <mark key="[" line="44" column="117" />
+        <mark key="]" line="46" column="22" />
+        <mark key="." line="46" column="22" />
+        <mark key="^" line="46" column="22" />
+      </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/templates/includes/header_menu.html" timestamp="1487756698751">
         <mark key="[" line="14" column="75" />
         <mark key="]" line="14" column="72" />
@@ -3128,46 +3134,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYmVjb21lX3VzZXI6IHNlcnZpY2VzCiAgICAgIGJlY29tZV9tZXRob2Q6IHN1CiAgICAgIGJlY29tZTogdHJ1ZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>city</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgYmVjb21lX3VzZXI6IHNlcnZpY2VzCiAgICAgIGJlY29tZV9tZXRob2Q6IHN1CiAgICAgIGJlY29tZTogdHJ1ZQo=</text>
+      <register name="0" type="4">
+        <text>exclude_ids</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsLm1hcC5mCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cnkgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEFVVEhfVVNFUl9NT0RFTCA9ICd1c2Vycy5FcnBVc2VyJwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">LmlkZWEK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFNFUlZJQ0VTX0FQSV9LRVkgPSAnXlcpc194c2tTfSliTCxvTDFwMC9rfW1XWC1vUW98X2t6MUxySitOM0gzJi04dl5UY0lNIkJjJnVVdlB+TF0wJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>87</text>
