@@ -60,11 +60,11 @@
         <mark key="." line="19" column="122" />
         <mark key="^" line="19" column="122" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/frontend/views/search_views.py" timestamp="1511427451504">
-        <mark key="[" line="44" column="117" />
-        <mark key="]" line="46" column="22" />
-        <mark key="." line="46" column="22" />
-        <mark key="^" line="46" column="22" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/frontend/views/search_views.py" timestamp="1511429603881">
+        <mark key="[" line="48" column="94" />
+        <mark key="]" line="48" column="94" />
+        <mark key="." line="48" column="94" />
+        <mark key="^" line="48" column="94" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/templates/includes/header_menu.html" timestamp="1487756698751">
         <mark key="[" line="14" column="75" />
@@ -626,10 +626,10 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1511241106374">
+      <file name="/dummy.sql" timestamp="1511429491806">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511419961683">
+      <file name="/Dummy.txt" timestamp="1511428983848">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1858,7 +1858,7 @@
         <mark key="^" line="99" column="53" />
         <mark key="." line="99" column="53" />
       </file>
-      <file name="/a.sql" timestamp="1504702216750">
+      <file name="/a.sql" timestamp="1511429053287">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/production/erp/release/update_frontend.yml" timestamp="1505126656560">
@@ -3137,7 +3137,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>city</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
@@ -3152,28 +3152,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsLm1hcC5mCg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0cyA9IAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBsLm1hcC5mCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">LmlkZWEK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmlkZWEK</text>
       </register>
       <register name=":" type="4">
         <text>87</text>
