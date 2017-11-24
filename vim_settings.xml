@@ -612,7 +612,7 @@
       <file name="/dummy.sql" timestamp="1511430514329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511523371781">
+      <file name="/Dummy.txt" timestamp="1511524951264">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -3118,7 +3118,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHslIGVuZGZvciAlfQo=</text>
       </register>
       <register name=":" type="4">
-        <text>87</text>
+        <text>2620</text>
       </register>
     </registers>
     <search>
@@ -3139,7 +3139,6 @@
         <entry>south</entry>
       </history-search>
       <history-cmd>
-        <entry>w:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>1176</entry>
         <entry>966</entry>
@@ -3159,6 +3158,7 @@
         <entry>q</entry>
         <entry>17</entry>
         <entry>87</entry>
+        <entry>2620</entry>
       </history-cmd>
       <history-expr />
       <history-input />
