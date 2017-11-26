@@ -691,7 +691,7 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511702711147">
+      <file name="/Dummy.txt" timestamp="1511705790392">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1076,11 +1076,11 @@
         <mark key="^" line="132" column="12" />
         <mark key="." line="132" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/js/shop/src/app/recipes/recipes-list/recipes-list.component.ts" timestamp="1511703353338">
-        <mark key="[" line="15" column="34" />
-        <mark key="]" line="15" column="34" />
-        <mark key="^" line="15" column="34" />
-        <mark key="." line="15" column="34" />
+      <file name="$USER_HOME$/workspace/js/shop/src/app/recipes/recipes-list/recipes-list.component.ts" timestamp="1511705567440">
+        <mark key="[" line="10" column="56" />
+        <mark key="]" line="10" column="92" />
+        <mark key="^" line="10" column="92" />
+        <mark key="." line="10" column="92" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/staff/courierApplication/CourierApplicationUserForm.js" timestamp="1487570139429">
         <mark key="[" line="65" column="54" />
@@ -1115,11 +1115,10 @@
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/geo/migrations/0002_auto_20171124_1618.py" timestamp="1511522495384">
         <mark key="'" line="128" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/js/shop/src/app/recipes/recipes-list/recipes-list.component.html" timestamp="1511701571644">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="16" />
-        <mark key="." line="0" column="16" />
-        <mark key="^" line="0" column="16" />
+      <file name="$USER_HOME$/workspace/js/shop/src/app/recipes/recipes-list/recipes-list.component.html" timestamp="1511705908180">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/home/views.py" timestamp="1493375736972">
         <mark key="[" line="2" column="0" />
@@ -3157,46 +3156,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbSI+SXRlbSAzPC9saT4K</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>b</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC14cy01IGNvbC1zbS01IGNvbC1tZC01IGNvbC1sZy01Ij4KICAgICAgICA8YXBwLXJlY2lwZXMtbGlzdD48L2FwcC1yZWNpcGVzLWxpc3Q+CiAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbSI+SXRlbSAzPC9saT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJlY2lwZXMgPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbSI+SXRlbSAyPC9saT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yKG5hbWU6IHN0cmluZywgZGVzY3JpcHRpb246IHN0cmluZywgaW1hZ2VQYXRoOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgICAgIHRoaXMuZGVzY3JpcHRpb24gPSBkZXNjcmlwdGlvbjsKICAgICAgICB0aGlzLmltYWdlUGF0aCA9IGltYWdlUGF0aDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICA8L3VsPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dWwgY2xhc3M9Imxpc3QtZ3JvdXAtaXRlbSI+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0cnVjdG9yCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PGFwcC1yZWNpcGUtaXRlbT48L2FwcC1yZWNpcGUtaXRlbT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlNlcGFyYXRlZCBsaW5rPC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnV0dG9uPjwvYnV0dG9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9IiMiPlNvbWV0aGluZyBlbHNlIGhlcmU8L2E+PC9saT4K</text>
+        <text encoding="base64">WyhuZ01vZGVsKV09ImJpbmRpbmciCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIENvbGxlY3QgdGhlIG5hdiBsaW5rcywgZm9ybXMsIGFuZCBvdGhlciBjb250ZW50IGZvciB0b2dnbGluZyAtLT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
