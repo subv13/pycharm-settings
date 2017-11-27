@@ -609,7 +609,7 @@
       <file name="/dummy.sql" timestamp="1511430514329">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511775773043">
+      <file name="/Dummy.txt" timestamp="1511777570177">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1481,6 +1481,7 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="1375" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/clients/extjs/views.py" timestamp="1511777382386" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-d-bus/farfor_d_bus/logger.py" timestamp="1511355286146">
         <mark key="[" line="5" column="52" />
         <mark key="]" line="5" column="66" />
@@ -3166,7 +3167,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC90YWJsZT4K</text>
       </register>
       <register name=":" type="4">
-        <text>323</text>
+        <text>602</text>
       </register>
     </registers>
     <search>
@@ -3187,8 +3188,6 @@
         <entry>south</entry>
       </history-search>
       <history-cmd>
-        <entry>1176</entry>
-        <entry>966</entry>
         <entry>e</entry>
         <entry>w\</entry>
         <entry>:w</entry>
@@ -3207,6 +3206,8 @@
         <entry>87</entry>
         <entry>2620</entry>
         <entry>323</entry>
+        <entry encoding="base64">JzwsJz42MDI=</entry>
+        <entry>602</entry>
       </history-cmd>
       <history-expr />
       <history-input />
