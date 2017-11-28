@@ -72,6 +72,7 @@
         <mark key="^" line="14" column="72" />
         <mark key="." line="14" column="72" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/django/database.py" timestamp="1511851925392" />
       <file name="$USER_HOME$/smenateam/smenaschool/news/articles/views.py" timestamp="1496563549650">
         <mark key="[" line="18" column="17" />
         <mark key="]" line="18" column="25" />
@@ -603,7 +604,7 @@
       <file name="/dummy.sql" timestamp="1511794039086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511850784755">
+      <file name="/Dummy.txt" timestamp="1511853569177">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -882,6 +883,7 @@
         <mark key="^" line="0" column="106" />
         <mark key="." line="0" column="106" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/page_types/templatetags/page_type_tags.py" timestamp="1511853077614" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/migrations/0050_auto__add_field_basket_order_id.py" timestamp="1490077257725">
         <mark key="[" line="12" column="87" />
         <mark key="]" line="12" column="98" />
@@ -909,7 +911,7 @@
         <mark key="^" line="46" column="3" />
         <mark key="." line="46" column="3" />
       </file>
-      <file name="/fragment.py" timestamp="1511530219238">
+      <file name="/fragment.py" timestamp="1511853365000">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1740,7 +1742,7 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/includes/breadcrumbs.html" timestamp="1511850834203">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/includes/breadcrumbs.html" timestamp="1511852120159">
         <mark key="[" line="7" column="14" />
         <mark key="]" line="7" column="15" />
         <mark key="." line="7" column="15" />
@@ -1845,6 +1847,7 @@
         <mark key="^" line="99" column="53" />
         <mark key="." line="99" column="53" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/page_types/managers.py" timestamp="1511853315922" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/production/erp/release/update_frontend.yml" timestamp="1505126656560">
         <mark key="[" line="6" column="63" />
         <mark key="]" line="6" column="57" />
@@ -2475,6 +2478,7 @@
         <mark key="." line="40" column="10" />
         <mark key="^" line="40" column="10" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/__init__.py" timestamp="1511853018465" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/SummaryTable.js" timestamp="1503911172058">
         <mark key="[" line="88" column="0" />
         <mark key="]" line="88" column="38" />
@@ -2643,7 +2647,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1511530080483">
+      <file name="/Python Console" timestamp="1511852124092">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/urls.py" timestamp="1496743950730">
@@ -3078,6 +3082,7 @@
         <mark key="^" line="34" column="7" />
         <mark key="." line="34" column="7" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/product_detail.html" timestamp="1511853061241" />
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/doctors/models.py" timestamp="1493373133664">
         <mark key="[" line="61" column="18" />
         <mark key="]" line="61" column="17" />
