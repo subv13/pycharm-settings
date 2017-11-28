@@ -603,7 +603,7 @@
       <file name="/dummy.sql" timestamp="1511794039086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511790397185">
+      <file name="/Dummy.txt" timestamp="1511849049876">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -2748,6 +2748,7 @@
         <mark key="." line="101" column="56" />
         <mark key="^" line="101" column="56" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/orders/OrderDetail.js" timestamp="1511848391155" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/tools/services/frontend/basket/actuality.py" timestamp="1510649550383">
         <mark key="[" line="5" column="38" />
         <mark key="]" line="5" column="27" />
