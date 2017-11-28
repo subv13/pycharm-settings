@@ -603,7 +603,7 @@
       <file name="/dummy.sql" timestamp="1511794039086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1511849049876">
+      <file name="/Dummy.txt" timestamp="1511850784755">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1739,6 +1739,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/includes/breadcrumbs.html" timestamp="1511850834203">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/doctors/templates/doctors/detail.html" timestamp="1487657384161">
         <mark key="[" line="131" column="8" />
@@ -3126,7 +3132,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IGxpbmsubmFtZSB9fQo=</text>
       </register>
       <register name="-" type="4">
         <text>integer</text>
@@ -3138,34 +3144,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJ1VTRVInOiAnZmFyZm9yJywKICAgICAgICAgICAgJ1BBU1NXT1JEJzogJ2tlaycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7IGxpbmsubmFtZSB9fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzLmJhc2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1BBU1NXT1JEJzogJ2tlaycsCg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28uZGIubW9kZWxzLmJhc2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ1VTRVInOiAncm9vdCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>602</text>
