@@ -2282,6 +2282,12 @@
         <mark key="^" line="7" column="63" />
         <mark key="." line="7" column="63" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/admin.py" timestamp="1511938944536">
+        <mark key="[" line="71" column="76" />
+        <mark key="]" line="71" column="85" />
+        <mark key="^" line="71" column="85" />
+        <mark key="." line="71" column="85" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/quality_reviews/QualityReviewIsClosedStore.js" timestamp="1500642831113">
         <mark key="[" line="7" column="66" />
         <mark key="]" line="7" column="83" />
@@ -3045,6 +3051,7 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="3" column="20" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/models/codes.py" timestamp="1511938942433" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/service/AllLoggingClientService1.js" timestamp="1508995523310">
         <mark key="[" line="0" column="50" />
         <mark key="]" line="0" column="50" />
