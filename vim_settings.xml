@@ -15,6 +15,11 @@
         <mark key="^" line="4" column="37" />
         <mark key="." line="4" column="37" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/layout/markup/blocks/specialOffer/specialOffer.styl" timestamp="1511935836022">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/urls/main.py" timestamp="1511854707553">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -2397,6 +2402,12 @@
         <mark key="^" line="9" column="40" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/basket/flux-apps/special-offers/react-components/container.jsx" timestamp="1511935611597">
+        <mark key="[" line="47" column="39" />
+        <mark key="]" line="47" column="41" />
+        <mark key="." line="47" column="41" />
+        <mark key="^" line="47" column="41" />
+      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/main/templates/main/index.html" timestamp="1496567121150">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="20" />
@@ -3149,10 +3160,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>staff</text>
+        <text>3px</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
@@ -3161,34 +3172,34 @@
         <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgZm9ybXMuVmFsaWRhdGlvbkVycm9yKCLQlNC70Y8g0LLQsNGI0LXQs9C+INCw0LrQutCw0YPQvdGC0LAg0L3QtSDRg9C60LDQt9Cw0L3QviDRgNCw0LHQvtGH0LXQtSDQvNC10YHRgtC+IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFpc2UgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ1bmsgPSBUcnVuay5vYmplY3RzLmZpbHRlcih1c2VkX291dGdvaW5nX2NhbGxfZXJwPVRydWUsIGNpdHlfaWQ9Y2xzLlVGQV9DSVRZX0lEKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ1bmsgPSBUcnVuay5vYmplY3RzLmZpbHRlcih1c2VkX291dGdvaW5nX2NhbGxfZXJwPVRydWUsIGNpdHlfaWQ9Y2xzLlVGQV9DSVRZX0lEKQo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b20gNXB4Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaXR5ID0gc2VsZi5fZ2V0X3N0YWZmX2NpdHkoc3RhZmYpCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV4Y2VwdCBJbmRleEVycm9yOgo=</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMnB4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjaXR5ID0gUGhvbmUub2JqZWN0cy5maWx0ZXIocGhvbmU9Y2xpZW50X3Bob25lKS5vcmRlcl9ieSgnLWlkJylbMF0uY2xpZW50LmNpdHkK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRyeToK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXhjZXB0IEluZGV4RXJyb3I6Cg==</text>
+        <text encoding="base64">ICAgIC8vYm9yZGVyOiAgc29saWQgI2U2YzY2YQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNpdHkgPSBDbGllbnQub2JqZWN0cy5maWx0ZXIobW9iaWxlPWNsaWVudF9waG9uZSlbMF0uY2l0eQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>602</text>
