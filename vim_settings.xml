@@ -705,6 +705,10 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="94" column="3" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/dev.webpack.config.js" timestamp="1511947202310">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="57" column="52" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/.gitignore" timestamp="1501071280397">
         <mark key="[" line="2" column="17" />
         <mark key="]" line="3" column="15" />
@@ -1077,6 +1081,12 @@
         <mark key="]" line="11" column="29" />
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/basket/flux-apps/persons/store.js" timestamp="1511947431086">
+        <mark key="[" line="52" column="8" />
+        <mark key="]" line="52" column="10" />
+        <mark key="." line="52" column="10" />
+        <mark key="^" line="52" column="10" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/dishes/models.py" timestamp="1496897034457">
         <mark key="[" line="77" column="29" />
@@ -3166,17 +3176,17 @@
       <jump line="128" column="28" filename="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/geo/migrations/0002_auto_20171124_1618.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJhd19pZF9maWVsZHMgPSAoJ2NsaWVudCcsICdvcmRlcl9hdXRvY29kZScsICdzdGFmZicsICdjb2RlJywgJ3NtcycsICdhdXRvY29kZXJ1bGUnKQo=</text>
+      <register name="&quot;" type="4">
+        <text>let</text>
       </register>
       <register name="-" type="4">
-        <text>3px</text>
+        <text>let</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHJhd19pZF9maWVsZHMgPSAoJ2NsaWVudCcsICdvcmRlcl9hdXRvY29kZScsICdzdGFmZicsICdjb2RlJywgJ3NtcycsICdhdXRvY29kZXJ1bGUnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVhZGVyX3NsaWRlcjogJy4vaGVhZGVyLXNsaWRlci9tYWluLmpzeCcsCiAgICAgICAgICAgIHBhZ2VzX3NsaWRlcjogJy4vcGFnZXMtc2xpZGVyL21haW4uanN4JywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
