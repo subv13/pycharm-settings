@@ -17,9 +17,9 @@
       <mask>*</mask>
       <mask>*.</mask>
       <mask>*.p</mask>
-      <mask>*.py</mask>
       <mask>h</mask>
       <mask>*.html</mask>
+      <mask>*.py</mask>
     </recentFileMasks>
   </component>
 </application>
