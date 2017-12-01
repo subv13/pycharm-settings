@@ -81,6 +81,12 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/basket/flux-apps/contacts/react-components/phone-check/container.jsx" timestamp="1512130951729">
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="32" column="15" />
+        <mark key="^" line="32" column="15" />
+        <mark key="." line="32" column="15" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/app.py" timestamp="1508219668200">
         <mark key="[" line="4" column="23" />
         <mark key="]" line="4" column="0" />
@@ -99,7 +105,6 @@
         <mark key="." line="65" column="57" />
         <mark key="^" line="65" column="57" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/basket/flux-apps/bonuses/actions.js" timestamp="1512118495295" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/erp/update_backend.yml" timestamp="1502687809590">
         <mark key="[" line="19" column="160" />
         <mark key="]" line="19" column="122" />
@@ -510,11 +515,11 @@
         <mark key="." line="10" column="44" />
         <mark key="^" line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/basket/flux-apps/contacts/react-components/password-set/container.jsx" timestamp="1511950712490">
-        <mark key="[" line="54" column="14" />
-        <mark key="]" line="54" column="14" />
-        <mark key="^" line="54" column="14" />
-        <mark key="." line="54" column="14" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/basket/flux-apps/contacts/react-components/password-set/container.jsx" timestamp="1512130929682">
+        <mark key="[" line="54" column="13" />
+        <mark key="]" line="54" column="22" />
+        <mark key="^" line="54" column="22" />
+        <mark key="." line="54" column="22" />
       </file>
       <file name="$USER_HOME$/smenateam/formula1/.gitignore" timestamp="1490355880663">
         <mark key="[" line="4" column="0" />
@@ -633,7 +638,7 @@
       <file name="/dummy.sql" timestamp="1512032518282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512121114180">
+      <file name="/Dummy.txt" timestamp="1512130959444">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1211,11 +1216,6 @@
         <mark key="]" line="11" column="0" />
         <mark key="^" line="10" column="23" />
         <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/django/media.py" timestamp="1511962883329">
-        <mark key="[" line="33" column="15" />
-        <mark key="]" line="33" column="15" />
-        <mark key="." line="33" column="15" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/staff/app.py" timestamp="1510303880501">
         <mark key="[" line="8" column="11" />
@@ -2468,7 +2468,7 @@
         <mark key="." line="0" column="20" />
         <mark key="^" line="0" column="20" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/basket/flux-apps/contacts/react-components/common/phone-verification/container.jsx" timestamp="1511956403116">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/basket/flux-apps/contacts/react-components/common/phone-verification/container.jsx" timestamp="1512130966561">
         <mark key="[" line="324" column="13" />
         <mark key="]" line="324" column="22" />
         <mark key="^" line="324" column="22" />
@@ -2515,11 +2515,6 @@
         <mark key="]" line="146" column="64" />
         <mark key="." line="146" column="64" />
         <mark key="^" line="146" column="64" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/header.html" timestamp="1512020147985">
-        <mark key="[" line="185" column="0" />
-        <mark key="]" line="185" column="0" />
-        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/delivery/delivery_and_payment.html" timestamp="1512110963768">
         <mark key="]" line="89" column="3" />
@@ -2692,11 +2687,6 @@
         <mark key="]" line="43" column="0" />
         <mark key="^" line="58" column="8" />
         <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/header-slider/main.jsx" timestamp="1512037953254">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/PycharmProjects/ng-test/src/app/heroes/heroes.component.html" timestamp="1510417847370">
         <mark key="[" line="1" column="3" />
@@ -2959,11 +2949,6 @@
         <mark key="." line="8" column="28" />
         <mark key="^" line="8" column="28" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/pages-slider/services/getPagesBanners.js" timestamp="1512050674974">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/requirements.in" timestamp="1501764039527">
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
@@ -3042,11 +3027,11 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/basket/flux-apps/contacts/react-components/signin/container.jsx" timestamp="1511950756328">
-        <mark key="[" line="78" column="13" />
-        <mark key="]" line="78" column="22" />
-        <mark key="^" line="78" column="22" />
-        <mark key="." line="78" column="22" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/basket/flux-apps/contacts/react-components/signin/container.jsx" timestamp="1512130920178">
+        <mark key="[" line="78" column="16" />
+        <mark key="]" line="78" column="13" />
+        <mark key="^" line="78" column="13" />
+        <mark key="." line="78" column="13" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/flatpages/models.py" timestamp="1510564525447">
         <mark key="[" line="22" column="42" />
@@ -3256,11 +3241,6 @@
         <mark key="]" line="142" column="34" />
         <mark key="^" line="142" column="34" />
         <mark key="." line="142" column="34" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/pages-slider/components/SmallSlider.jsx" timestamp="1512035424810">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/lottery/management/commands/make_lotosms.py" timestamp="1510649683452">
         <mark key="[" line="60" column="44" />
