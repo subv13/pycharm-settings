@@ -635,7 +635,7 @@
       <file name="/dummy.sql" timestamp="1512032518282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512115034721">
+      <file name="/Dummy.txt" timestamp="1512116156222">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -1591,6 +1591,7 @@
         <mark key="." line="65" column="35" />
         <mark key="^" line="65" column="35" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/basket/flux-apps/bonuses/store.js" timestamp="1512116173410" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/utils.py" timestamp="1511353901598">
         <mark key="[" line="17" column="4" />
         <mark key="]" line="17" column="77" />
