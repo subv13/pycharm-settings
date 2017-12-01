@@ -209,10 +209,10 @@
         <mark key="." line="2" column="16" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/includes/banners-on-new-pages.html" timestamp="1512115258115">
-        <mark key="[" line="1" column="7" />
-        <mark key="]" line="1" column="31" />
-        <mark key="." line="1" column="7" />
-        <mark key="^" line="1" column="6" />
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="0" column="31" />
+        <mark key="." line="0" column="7" />
+        <mark key="^" line="0" column="6" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/referral/models.py" timestamp="1510570616119">
         <mark key="[" line="1" column="0" />
@@ -497,9 +497,6 @@
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/delivery/area_delivery_page.html" timestamp="1512112371771">
         <mark key="[" line="129" column="21" />
-        <mark key="]" line="130" column="3" />
-        <mark key="^" line="130" column="3" />
-        <mark key="." line="130" column="3" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/news/news/settings.py" timestamp="1496561829783">
         <mark key="[" line="57" column="17" />
@@ -2525,10 +2522,9 @@
         <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/delivery/delivery_and_payment.html" timestamp="1512110963768">
-        <mark key="[" line="214" column="21" />
-        <mark key="]" line="215" column="3" />
-        <mark key="^" line="215" column="3" />
-        <mark key="." line="215" column="3" />
+        <mark key="]" line="89" column="3" />
+        <mark key="^" line="89" column="3" />
+        <mark key="." line="89" column="3" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/apps/monkey_patch/__init__.py" timestamp="1488538076648">
         <mark key="[" line="1" column="34" />
