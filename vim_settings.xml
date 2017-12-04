@@ -556,6 +556,7 @@
         <mark key="^" line="334" column="78" />
         <mark key="." line="334" column="78" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/build/shoppingBasket-confirmation-code.html" timestamp="1512385989342" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/geo/models/__init__.py" timestamp="1511957254695">
         <mark key="[" line="821" column="8" />
         <mark key="]" line="821" column="48" />
@@ -625,7 +626,7 @@
       <file name="/dummy.sql" timestamp="1512032518282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512375473717">
+      <file name="/Dummy.txt" timestamp="1512386450074">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -979,6 +980,7 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/mobile/views/basket.py" timestamp="1512386699239" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/marketing/extjs/utils1.py" timestamp="1510818280902">
         <mark key="[" line="144" column="32" />
         <mark key="]" line="144" column="24" />
@@ -1708,7 +1710,7 @@
         <mark key="^" line="6" column="80" />
         <mark key="." line="6" column="80" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/production/frontend/pre-release/update_backend.yml" timestamp="1512384149248">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/production/frontend/pre-release/update_backend.yml" timestamp="1512385829256">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -3277,7 +3279,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX3VzZXI6ICJmYXJmb3IiCg==</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -3289,37 +3291,37 @@
         <text>this.state.bonusBalance</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX3VzZXI6ICJmYXJmb3IiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgIC0KICAgICAgICAgICAgcGlwOiByZXF1aXJlbWVudHM9Int7IHByb2plY3RfZGlyIH19L3JlcXVpcmVtZW50cy50eHQiIHZpcnR1YWxlbnY9Int7IHZpcnR1YWxlbnZfZGlyIH19IiBleHRyYV9hcmdzPSctLWV4aXN0cy1hY3Rpb249dycKICAgICAgICAgICAgYmVjb21lOiB0cnVlCiAgICAgICAgICAgIGJlY29tZV9tZXRob2Q6ICJzdSIKICAgICAgICAgICAgbmFtZTogItCj0YHRgtCw0L3QvtCy0LrQsCDQt9Cw0LLQuNGB0LjQvNC+0YHRgtC10LkiCiAgICAgICAgICAgIGJlY29tZV91c2VyOiAiZmFyZm9yIg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX3VzZXI6ICJmYXJmb3IiCg==</text>
-      </register>
-      <register name="4" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbmFtZTogItCj0YHRgtCw0L3QvtCy0LrQsCDQt9Cw0LLQuNGB0LjQvNC+0YHRgtC10LkiCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX21ldGhvZDogInN1Igo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmVjb21lOiB0cnVlCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcGlwOiByZXF1aXJlbWVudHM9Int7IHByb2plY3RfZGlyIH19L3JlcXVpcmVtZW50cy50eHQiIHZpcnR1YWxlbnY9Int7IHZpcnR1YWxlbnZfZGlyIH19IiBleHRyYV9hcmdzPSctLWV4aXN0cy1hY3Rpb249dycK</text>
       </register>
-      <register name="8" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgIC0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICAgIC0KICAgICAgICAgICAgcGlwOiByZXF1aXJlbWVudHM9Int7IHByb2plY3RfZGlyIH19L3JlcXVpcmVtZW50cy50eHQiIHZpcnR1YWxlbnY9Int7IHZpcnR1YWxlbnZfZGlyIH19IiBleHRyYV9hcmdzPSctLWV4aXN0cy1hY3Rpb249dycKICAgICAgICAgICAgYmVjb21lOiB0cnVlCiAgICAgICAgICAgIGJlY29tZV9tZXRob2Q6ICJzdSIKICAgICAgICAgICAgbmFtZTogItCj0YHRgtCw0L3QvtCy0LrQsCDQt9Cw0LLQuNGB0LjQvNC+0YHRgtC10LkiCiAgICAgICAgICAgIGJlY29tZV91c2VyOiAiZmFyZm9yIg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX3VzZXI6ICJmYXJmb3IiCg==</text>
       </register>
       <register name=":" type="4">
-        <text>602</text>
+        <text>202</text>
       </register>
     </registers>
     <search>
@@ -3340,7 +3342,6 @@
         <entry>south</entry>
       </history-search>
       <history-cmd>
-        <entry>e</entry>
         <entry>w\</entry>
         <entry>:w</entry>
         <entry>1450</entry>
@@ -3360,6 +3361,7 @@
         <entry>323</entry>
         <entry encoding="base64">JzwsJz42MDI=</entry>
         <entry>602</entry>
+        <entry>202</entry>
       </history-cmd>
       <history-expr />
       <history-input />
