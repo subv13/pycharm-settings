@@ -2817,6 +2817,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/managers.py" timestamp="1512370130858" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/settings.py" timestamp="1511346256600">
         <mark key="[" line="258" column="0" />
         <mark key="]" line="258" column="35" />
@@ -3272,11 +3273,11 @@
       <jump line="75" column="72" filename="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/includes/left_menu.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLmJvbnVzQmFsYW5jZSwgbmV4dFN0YXRlLmJvbnVzQmFsYW5jZSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>print</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>south</text>
@@ -3285,34 +3286,34 @@
         <text>this.state.bonusBalance</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLmJvbnVzQmFsYW5jZSwgbmV4dFN0YXRlLmJvbnVzQmFsYW5jZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA6dHlwZSBwb3B1cHM6IG1hcmtldGluZy5tb2RlbHMuUG9wVXAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLmJvbnVzQmFsYW5jZSwgbmV4dFN0YXRlLmJvbnVzQmFsYW5jZSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5zdGF0ZS5ib251c0JhbGFuY2UgPT09IG5leHRTdGF0ZS5ib251c0JhbGFuY2UpIHsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5zdGF0ZS5ib251c0JhbGFuY2UgPT09IG5leHRTdGF0ZS5ib251c0JhbGFuY2UpIHsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g0J/Ri9GC0LDQtdC80YHRjyDQstC30Y/RgtGMINC40YUg0YEg0LHRjdC60LXQvdC00LAg0Lgg0L7QsdC90L7QstC40YLRjCDRgdC+0YHRgtC+0Y/QvdC40LUK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g0KTQuNC60YEg0L7RgtC+0LHRgNCw0LbQtdC90LjRjyDQsdC+0L3Rg9GB0L7QsiDQv9C+0YHQu9C1INC70L7Qs9C40L3QsCDRh9C10YDQtdC3INC60L7RgNC30LjQvdGDCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g0J/Ri9GC0LDQtdC80YHRjyDQstC30Y/RgtGMINC40YUg0YEg0LHRjdC60LXQvdC00LAg0Lgg0L7QsdC90L7QstC40YLRjCDRgdC+0YHRgtC+0Y/QvdC40LUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5zdGF0ZS5ib251c0JhbGFuY2UgPT09IHVuZGVmaW5lZCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8g0KTQuNC60YEg0L7RgtC+0LHRgNCw0LbQtdC90LjRjyDQsdC+0L3Rg9GB0L7QsiDQv9C+0YHQu9C1INC70L7Qs9C40L3QsCDRh9C10YDQtdC3INC60L7RgNC30LjQvdGDCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLmdldEJvbnVzZXMoKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGhpcy5zdGF0ZS5ib251c0JhbGFuY2UgPT09IHVuZGVmaW5lZCkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>602</text>
