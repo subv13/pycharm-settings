@@ -2377,7 +2377,7 @@
         <mark key="^" line="25" column="16" />
         <mark key="." line="25" column="8" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/production/erp/pre-release/update_backend.yml" timestamp="1512374964111">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/production/erp/pre-release/update_backend.yml" timestamp="1512381874276">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
@@ -3272,7 +3272,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX3VzZXI6ICJmYXJmb3IiCg==</text>
       </register>
       <register name="-" type="4">
         <text>o</text>
@@ -3284,34 +3284,34 @@
         <text>this.state.bonusBalance</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX3VzZXI6ICJmYXJmb3IiCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogItCj0YHRgtCw0L3QvtCy0LrQsCDQt9Cw0LLQuNGB0LjQvNC+0YHRgtC10LkiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIGJlY29tZV91c2VyOiAiZmFyZm9yIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX21ldGhvZDogInN1Igo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIG5hbWU6ICLQo9GB0YLQsNC90L7QstC60LAg0LfQsNCy0LjRgdC40LzQvtGB0YLQtdC5Igo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lOiB0cnVlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIGJlY29tZV9tZXRob2Q6ICJzdSIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGlwOiByZXF1aXJlbWVudHM9Int7IHByb2plY3RfZGlyIH19L3JlcXVpcmVtZW50cy50eHQiIHZpcnR1YWxlbnY9Int7IHZpcnR1YWxlbnZfZGlyIH19IiBleHRyYV9hcmdzPSctLWV4aXN0cy1hY3Rpb249dycK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIGJlY29tZTogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyAgICAgICAgICAgIHBpcDogcmVxdWlyZW1lbnRzPSJ7eyBwcm9qZWN0X2RpciB9fS9yZXF1aXJlbWVudHMudHh0IiB2aXJ0dWFsZW52PSJ7eyB2aXJ0dWFsZW52X2RpciB9fSIgZXh0cmFfYXJncz0nLS1leGlzdHMtYWN0aW9uPXcnCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX3VzZXI6ICJmYXJmb3IiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyAgICAgICAgICAtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmFtZTogItCj0YHRgtCw0L3QvtCy0LrQsCDQt9Cw0LLQuNGB0LjQvNC+0YHRgtC10LkiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6dHlwZSBwb3B1cHM6IG1hcmtldGluZy5tb2RlbHMuUG9wVXAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmVjb21lX21ldGhvZDogInN1Igo=</text>
       </register>
       <register name=":" type="4">
         <text>602</text>
