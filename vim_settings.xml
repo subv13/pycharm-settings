@@ -225,7 +225,7 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/staff.py" timestamp="1512474370731">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-models/farfor_models/staff.py" timestamp="1512475255196">
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
@@ -639,10 +639,10 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/dummy.sql" timestamp="1512032518282">
+      <file name="/dummy.sql" timestamp="1512475835469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512474393892">
+      <file name="/Dummy.txt" timestamp="1512476046538">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -1566,12 +1566,12 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kitchen-operational-service/local_settings.py" timestamp="1512471340058">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kitchen-operational-service/local_settings.py" timestamp="1512476107164">
         <mark key="y" line="21" column="21" />
-        <mark key="[" line="47" column="13" />
-        <mark key="]" line="47" column="13" />
-        <mark key="^" line="47" column="13" />
-        <mark key="." line="47" column="13" />
+        <mark key="[" line="15" column="16" />
+        <mark key="]" line="15" column="23" />
+        <mark key="^" line="15" column="23" />
+        <mark key="." line="15" column="23" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/ofd_service/release/update" timestamp="1510656359099">
         <mark key="[" line="0" column="0" />
@@ -2802,7 +2802,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1512473902947">
+      <file name="/Python Console" timestamp="1512476153321">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/urls.py" timestamp="1496743950730">
@@ -3352,11 +3352,11 @@
       <jump line="20" column="63" filename="$USER_HOME$/smenateam/farfor/farfor-kitchen-operational-service/requirements.in" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>farfor_master</text>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>farfor_master</text>
       </register>
       <register name="/" type="4">
         <text>stat</text>
