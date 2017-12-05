@@ -632,7 +632,8 @@
       <file name="/dummy.sql" timestamp="1512032518282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512468215137">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/settings_local.py" timestamp="1512470778668" />
+      <file name="/Dummy.txt" timestamp="1512470784669">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -756,11 +757,11 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-d-bus/farfor_d_bus/listener.py" timestamp="1511174257511">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="6" column="16" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-d-bus/farfor_d_bus/listener.py" timestamp="1512471160154">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="84" />
+        <mark key="^" line="22" column="84" />
+        <mark key="." line="22" column="84" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/knowledge/models.py" timestamp="1511530823302">
         <mark key="[" line="27" column="58" />
@@ -1557,12 +1558,12 @@
         <mark key="." line="20" column="11" />
         <mark key="^" line="20" column="11" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kitchen-operational-service/local_settings.py" timestamp="1512451836203">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kitchen-operational-service/local_settings.py" timestamp="1512471340058">
         <mark key="y" line="21" column="21" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="23" column="21" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="47" column="13" />
+        <mark key="]" line="47" column="13" />
+        <mark key="^" line="47" column="13" />
+        <mark key="." line="47" column="13" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/ofd_service/release/update" timestamp="1510656359099">
         <mark key="[" line="0" column="0" />
