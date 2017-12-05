@@ -632,7 +632,7 @@
       <file name="/dummy.sql" timestamp="1512032518282">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512454307431">
+      <file name="/Dummy.txt" timestamp="1512468215137">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -1539,7 +1539,7 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="1375" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-d-bus/farfor_d_bus/logger.py" timestamp="1511355286146">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-d-bus/farfor_d_bus/logger.py" timestamp="1512468117223">
         <mark key="[" line="5" column="52" />
         <mark key="]" line="5" column="66" />
         <mark key="^" line="5" column="66" />
@@ -1778,11 +1778,6 @@
         <mark key="]" line="37" column="68" />
         <mark key="^" line="37" column="68" />
         <mark key="." line="37" column="68" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/farfor/settings.py" timestamp="1512394407801">
-        <mark key="[" line="196" column="0" />
-        <mark key="]" line="196" column="0" />
-        <mark key="." line="196" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/cme/wsgi.py" timestamp="1500547608769">
         <mark key="[" line="15" column="50" />
@@ -3194,11 +3189,7 @@
         <mark key="^" line="93" column="38" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kitchen-operational-service/requirements_staging.txt" timestamp="1512451291700">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kitchen-operational-service/requirements_staging.txt" timestamp="1512451291700" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/charity/models.py" timestamp="1511530942152">
         <mark key="[" line="48" column="44" />
         <mark key="]" line="15" column="30" />
