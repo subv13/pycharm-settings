@@ -627,7 +627,7 @@
       <file name="/dummy.sql" timestamp="1512475835469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512545814862">
+      <file name="/Dummy.txt" timestamp="1512546043697">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -2766,7 +2766,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1512545747393">
+      <file name="/Python Console" timestamp="1512545905399">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/urls.py" timestamp="1496743950730">
@@ -3159,6 +3159,7 @@
         <mark key="^" line="93" column="38" />
         <mark key="." line="102" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/orders/managers.py" timestamp="1512546042701" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/charity/models.py" timestamp="1511530942152">
         <mark key="[" line="48" column="44" />
         <mark key="]" line="15" column="30" />
