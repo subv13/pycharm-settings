@@ -719,6 +719,7 @@
         <mark key="^" line="21" column="6" />
         <mark key="." line="21" column="6" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/utils/channel_manager.py" timestamp="1512539228661" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/controller/kitchen_service/PadController.js" timestamp="1505211626161">
         <mark key="[" line="28" column="7" />
         <mark key="]" line="28" column="9" />
@@ -2175,7 +2176,7 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-kitchen-operational-service/listener.py" timestamp="1512470092849">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-kitchen-operational-service/listener.py" timestamp="1512538754237">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -3211,6 +3212,7 @@
         <mark key="^" line="15" column="30" />
         <mark key="." line="48" column="44" />
       </file>
+      <file name="$USER_HOME$/venvs/farfor-kos/lib/python2.7/site-packages/pika/adapters/blocking_connection.py" timestamp="1512539183653" />
       <file name="$USER_HOME$/smenateam/smenaschool/cme/.gitignore" timestamp="1500472075265">
         <mark key="[" line="2" column="5" />
         <mark key="]" line="3" column="20" />
