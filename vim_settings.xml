@@ -69,11 +69,11 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/callcontrol/models.py" timestamp="1512550618606">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="13" column="43" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/callcontrol/models.py" timestamp="1512552325814">
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="31" column="46" />
+        <mark key="^" line="31" column="46" />
+        <mark key="." line="31" column="46" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/galleries/templates/galleries/blocks/gallery.html" timestamp="1487754962420">
         <mark key="[" line="13" column="62" />
@@ -651,7 +651,7 @@
       <file name="/dummy.sql" timestamp="1512475835469">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512546043697">
+      <file name="/Dummy.txt" timestamp="1512552327037">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
