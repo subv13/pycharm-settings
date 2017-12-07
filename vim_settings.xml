@@ -57,6 +57,7 @@
         <mark key="^" line="46" column="65" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/production/frontend/pre-release/update_mobile_frontend.yml" timestamp="1512652268971" />
       <file name="$USER_HOME$/smenateam/medcenter/project/templates/includes/header_menu.html" timestamp="1487756698751">
         <mark key="[" line="14" column="75" />
         <mark key="]" line="14" column="72" />
@@ -1572,6 +1573,7 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="66" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/production/frontend/pre-release/update_desktop_frontend.yml" timestamp="1512654714353" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/.gitignore" timestamp="1512648806358">
         <mark key="[" line="55" column="54" />
         <mark key="]" line="55" column="53" />
@@ -1739,6 +1741,11 @@
         <mark key="]" line="18" column="9" />
         <mark key="^" line="18" column="9" />
         <mark key="." line="18" column="9" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/layout/markup/blocks/mainSlider/mainSlider.styl" timestamp="1512654197038">
+        <mark key="[" line="0" column="13" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/frontend/markup/blocks/select-day/select-day.jade" timestamp="1489395805559">
         <mark key="[" line="19" column="63" />
@@ -2943,11 +2950,10 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/header-slider/components/Slider.jsx" timestamp="1512044550353">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/header-slider/components/Slider.jsx" timestamp="1512654586361">
         <mark key="[" line="55" column="0" />
         <mark key="]" line="55" column="0" />
         <mark key="." line="55" column="0" />
-        <mark key="^" line="31" column="7" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/content/migrations/0001_initial.py" timestamp="1511774001555">
         <mark key="[" line="35" column="31" />
@@ -3134,7 +3140,7 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/basket/flux-apps/contacts/react-components/signin/container.jsx" timestamp="1512560674955">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-frontend/js-apps/basket/flux-apps/contacts/react-components/signin/container.jsx" timestamp="1512653875559">
         <mark key="[" line="78" column="16" />
         <mark key="]" line="78" column="13" />
         <mark key="^" line="78" column="13" />
@@ -3413,10 +3419,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IGhyZWY9InslIGNhdGVnb3J5X3BhZ2VfdXJsIGl0ZW0uc2x1ZyBpdGVtLmphcGFuIHJlcXVlc3QuY2l0eS5kb21haW5fcHJlZml4ICV9Ig==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IGhyZWY9InslIGNhdGVnb3J5X3BhZ2VfdXJsIGl0ZW0uc2x1ZyBpdGVtLmphcGFuIHJlcXVlc3QuY2l0eS5kb21haW5fcHJlZml4ICV9Ig==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>stat</text>
@@ -3425,34 +3431,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg0JjRgdGF0L7QtNGPINC40Lcg0LrQvtC70LjRh9C10YHRgtCy0LAg0YPRh9Cw0YHRgtC90LjQutC+0LIg0LLQsNGI0LXQuSDRgtGA0LDQv9C10LfRiywg0LzRiyDQsdC10YHQv9C70LDRgtC90L4g0YPQutC+0LzQv9C70LXQutGC0YPQtdC8INCS0LDRiCDQt9Cw0LrQsNC3INCw0LrRgdC10YHRgdGD0LDRgNCw0LzQuAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9InslIGNhdGVnb3J5X3BhZ2VfdXJsIGl0ZW0uc2x1ZyBpdGVtLmphcGFuIHJlcXVlc3QuY2l0eS5kb21haW5fcHJlZml4ICV9Igo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhyZWY9InslIGNhdGVnb3J5X3BhZ2VfdXJsIGl0ZW0uc2x1ZyBpdGVtLmphcGFuIHJlcXVlc3QuY2l0eS5kb21haW5fcHJlZml4ICV9Igo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IGl0ZW0ubmFtZSB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IGl0ZW0ubmFtZSB9fQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHslIGVuZGlmICV9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHslIGVsc2UgJX1ocmVmPSJ7JSBjYXRlZ29yeV9wYWdlX3VybCBpdGVtLnNsdWcgaXRlbS5qYXBhbiByZXF1ZXN0LmRvbWFpbl9wcmVmaXggJX0iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHslIGVuZGlmICV9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHslIGlmIGNhdGVnb3J5ID09IGl0ZW0gJX1jbGFzcz0iY3VycmVudCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHslIGVsc2UgJX1ocmVmPSJ7JSBjYXRlZ29yeV9wYWdlX3VybCBpdGVtLnNsdWcgaXRlbS5qYXBhbiByZXF1ZXN0LmRvbWFpbl9wcmVmaXggJX0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>425</text>
