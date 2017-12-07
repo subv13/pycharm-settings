@@ -1566,7 +1566,7 @@
         <mark key="^" line="5" column="66" />
         <mark key="." line="5" column="66" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/.gitignore" timestamp="1512040286298">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/.gitignore" timestamp="1512648806358">
         <mark key="[" line="55" column="54" />
         <mark key="]" line="55" column="53" />
         <mark key="^" line="55" column="53" />
@@ -2288,11 +2288,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="8" column="0" />
-      </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/staticfiles/frontend/source/project/styles/styles_compiled_from_less.css" timestamp="1512633426007">
-        <mark key="[" line="5517" column="0" />
-        <mark key="]" line="5517" column="0" />
-        <mark key="." line="5517" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/medcenter/project/templates/base.html" timestamp="1487757564994">
         <mark key="[" line="115" column="39" />
