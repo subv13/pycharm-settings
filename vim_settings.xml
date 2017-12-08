@@ -548,7 +548,7 @@
         <mark key="^" line="0" column="37" />
         <mark key="." line="0" column="37" />
       </file>
-      <file name="$USER_HOME$/venvs/farfor-dj-1.8/lib/python2.7/site-packages/django/utils/translation/trans_real.py" timestamp="1512732625664" />
+      <file name="$USER_HOME$/venvs/farfor-dj-1.8/lib/python2.7/site-packages/django/utils/translation/trans_real.py" timestamp="1512734978525" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/includes/sub_slider.html" timestamp="1512025930388">
         <mark key="[" line="9" column="97" />
         <mark key="]" line="9" column="97" />
@@ -974,7 +974,7 @@
         <mark key="^" line="46" column="3" />
         <mark key="." line="46" column="3" />
       </file>
-      <file name="/fragment.py" timestamp="1512732951941">
+      <file name="/fragment.py" timestamp="1512735013212">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1623,11 +1623,11 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/farfor/config/django/i18n.py" timestamp="1512733667204">
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="22" />
-        <mark key="^" line="8" column="22" />
-        <mark key="." line="8" column="22" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/farfor/config/django/i18n.py" timestamp="1512734919855">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="8" column="25" />
+        <mark key="^" line="8" column="25" />
+        <mark key="." line="8" column="25" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/orders/OrderListStore.js" timestamp="1511248634991">
         <mark key="[" line="14" column="83" />
@@ -2852,7 +2852,7 @@
         <mark key="." line="83" column="68" />
         <mark key="^" line="83" column="68" />
       </file>
-      <file name="/Python Console" timestamp="1512733124903">
+      <file name="/Python Console" timestamp="1512734982597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/delivery/delivery/urls.py" timestamp="1496743950730">
