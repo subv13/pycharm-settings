@@ -648,7 +648,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512729556462">
+      <file name="/Dummy.txt" timestamp="1512731397433">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -825,6 +825,7 @@
         <mark key="^" line="214" column="23" />
         <mark key="." line="214" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/django/middleware.py" timestamp="1512731087226" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/requests_retry_session.py" timestamp="1502175820649">
         <mark key="[" line="35" column="38" />
         <mark key="]" line="36" column="3" />
@@ -2429,7 +2430,7 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/farfor/config/django/middleware.py" timestamp="1512394535662">
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/farfor/config/django/middleware.py" timestamp="1512731403985">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="^" line="44" column="0" />
@@ -2579,6 +2580,7 @@
         <mark key="^" line="145" column="13" />
         <mark key="." line="140" column="12" />
       </file>
+      <file name="$USER_HOME$/venvs/farfor-dj-1.8/lib/python2.7/site-packages/django_hosts/middleware.py" timestamp="1512731384361" />
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1502434435750">
         <mark key="[" line="0" column="10" />
         <mark key="]" line="0" column="9" />
