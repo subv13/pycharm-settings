@@ -1807,11 +1807,12 @@
         <mark key="." line="36" column="5" />
         <mark key="^" line="36" column="5" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/farfor/settings_local.py" timestamp="1512545000489">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="^" line="7" column="26" />
-        <mark key="." line="21" column="0" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/farfor/settings_local.py" timestamp="1512730483383">
+        <mark key="y" line="6" column="21" />
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="24" />
+        <mark key="^" line="19" column="24" />
+        <mark key="." line="19" column="24" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-kkt-api-service/serializers.py" timestamp="1506662274431">
         <mark key="[" line="37" column="67" />
@@ -2530,6 +2531,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/frontend/subapps/sberbank/tasks.py" timestamp="1512730175710" />
       <file name="$USER_HOME$/smenateam/lrkc/project/staticfiles/js/blocks/Schedule.js" timestamp="1489469268099">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -3432,17 +3434,17 @@
       <jump line="20" column="63" filename="$USER_HOME$/smenateam/farfor/farfor-kitchen-operational-service/requirements.in" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>farfor</text>
       </register>
       <register name="-" type="4">
-        <text>False</text>
+        <text>farfor</text>
       </register>
       <register name="/" type="4">
         <text>stat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg0JjRgdGF0L7QtNGPINC40Lcg0LrQvtC70LjRh9C10YHRgtCy0LAg0YPRh9Cw0YHRgtC90LjQutC+0LIg0LLQsNGI0LXQuSDRgtGA0LDQv9C10LfRiywg0LzRiyDQsdC10YHQv9C70LDRgtC90L4g0YPQutC+0LzQv9C70LXQutGC0YPQtdC8INCS0LDRiCDQt9Cw0LrQsNC3INCw0LrRgdC10YHRgdGD0LDRgNCw0LzQuAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ1VTRVInOiAncm9vdCcsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
