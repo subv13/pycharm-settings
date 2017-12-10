@@ -631,7 +631,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512893351986">
+      <file name="/Dummy.txt" timestamp="1512893691975">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -2941,6 +2941,12 @@
         <mark key="]" line="4" column="13" />
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="13" />
+      </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-mobile-frontend/js-apps/src/views/basket/order-checkout/components/time-choice.jsx" timestamp="1512893584159">
+        <mark key="[" line="124" column="52" />
+        <mark key="]" line="124" column="50" />
+        <mark key="^" line="124" column="50" />
+        <mark key="." line="124" column="50" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/content/migrations/0001_initial.py" timestamp="1511774001555">
         <mark key="[" line="35" column="31" />
