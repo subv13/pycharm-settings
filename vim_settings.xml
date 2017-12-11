@@ -764,6 +764,12 @@
         <mark key="^" line="22" column="84" />
         <mark key="." line="22" column="84" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/model/marketing/PopUp.js" timestamp="1512994134716">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/knowledge/models.py" timestamp="1511530823302">
         <mark key="[" line="27" column="58" />
         <mark key="]" line="27" column="58" />
@@ -2386,7 +2392,7 @@
         <mark key="." line="15" column="13" />
         <mark key="^" line="15" column="13" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/urls.py" timestamp="1512983346916">
+      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/urls.py" timestamp="1512994036847">
         <mark key="[" line="72" column="34" />
         <mark key="]" line="72" column="33" />
         <mark key="." line="72" column="33" />
@@ -3386,8 +3392,8 @@
       <jump line="6" column="15" filename="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/order/topToolbar/ChooseClientPopup.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>pk</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAndGVtcGxhdGVfaWQnLAo=</text>
       </register>
       <register name="-" type="4">
         <text>pk</text>
@@ -3399,37 +3405,37 @@
         <text encoding="base64">djFfYXBpLnJlZ2lzdGVyKENpdHlSZXNvdXJjZSgpKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAndGVtcGxhdGVfaWQnLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VtaV9maWx0ZXJlZC5maWx0ZXIocXNldCkgaWYgcXNldCBlbHNlIHNlbWlfZmlsdGVyZWQK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gc2VtaV9maWx0ZXJlZC5maWx0ZXIocXNldCkgaWYgcXNldCBlbHNlIHNlbWlfZmlsdGVyZWQK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzZW1pX2ZpbHRlcmVkID0gc3VwZXIoQ2l0eVNpbXBsZVJlc291cmNlLCBzZWxmKS5hcHBseV9maWx0ZXJzKHJlcXVlc3QsIGFwcGxpY2FibGVfZmlsdGVycykK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHBsaWNhYmxlX2ZpbHRlcnNbZmlsdGVyX2l0ZW1bJ3Byb3BlcnR5J11dID0gZmlsdGVyX2l0ZW1bJ3ZhbHVlJ10K</text>
+        <text encoding="base64">ICAgICAgICBzZW1pX2ZpbHRlcmVkID0gc3VwZXIoQ2l0eVNpbXBsZVJlc291cmNlLCBzZWxmKS5hcHBseV9maWx0ZXJzKHJlcXVlc3QsIGFwcGxpY2FibGVfZmlsdGVycykK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICd2YWx1ZScgaW4gZmlsdGVyX2l0ZW06Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhcHBsaWNhYmxlX2ZpbHRlcnNbZmlsdGVyX2l0ZW1bJ3Byb3BlcnR5J11dID0gZmlsdGVyX2l0ZW1bJ3ZhbHVlJ10K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIGZpbHRlcl9pdGVtIGluIGZpbHRlcnM6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICd2YWx1ZScgaW4gZmlsdGVyX2l0ZW06Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVycyA9IGpzb24ubG9hZHMocmVxdWVzdC5HRVRbJ2ZpbHRlciddKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIGZpbHRlcl9pdGVtIGluIGZpbHRlcnM6Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAnZmlsdGVyJyBpbiByZXF1ZXN0LkdFVDoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsdGVycyA9IGpzb24ubG9hZHMocmVxdWVzdC5HRVRbJ2ZpbHRlciddKQo=</text>
       </register>
       <register name=":" type="4">
-        <text>425</text>
+        <text>1966</text>
       </register>
     </registers>
     <search>
@@ -3454,7 +3460,6 @@
         <entry>stat</entry>
       </history-search>
       <history-cmd>
-        <entry>1450</entry>
         <entry>W</entry>
         <entry>625</entry>
         <entry>1216</entry>
@@ -3474,6 +3479,7 @@
         <entry>202</entry>
         <entry>522</entry>
         <entry>425</entry>
+        <entry>1966</entry>
       </history-cmd>
       <history-expr />
       <history-input />
