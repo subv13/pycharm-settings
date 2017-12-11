@@ -268,6 +268,12 @@
         <mark key="^" line="20" column="16" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/management/commands/create_search_indexes.py" timestamp="1512982329610">
+        <mark key="[" line="16" column="34" />
+        <mark key="]" line="16" column="11" />
+        <mark key="^" line="16" column="11" />
+        <mark key="." line="16" column="11" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/farfor/config/apps/geo.py" timestamp="1510203901080">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="4" />
@@ -631,7 +637,7 @@
         <mark key="." line="30" column="18" />
         <mark key="^" line="30" column="18" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512969182144">
+      <file name="/Dummy.txt" timestamp="1512981984526">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
