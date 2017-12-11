@@ -800,7 +800,12 @@
         <mark key="." line="23" column="30" />
         <mark key="^" line="31" column="31" />
       </file>
-      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/django/middleware.py" timestamp="1512731087226" />
+      <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/django/middleware.py" timestamp="1512977780565">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="37" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/requests_retry_session.py" timestamp="1502175820649">
         <mark key="[" line="35" column="38" />
         <mark key="]" line="36" column="3" />
@@ -3411,8 +3416,8 @@
       <jump line="6" column="15" filename="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/order/topToolbar/ChooseClientPopup.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -3424,34 +3429,34 @@
         <text encoding="base64">ICAgICAgICAnY2xvc2UnOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdDbG9zZWQnKQogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpc3RlbmVyczogewogICAgICAgICdiZWZvcmVjbG9zZSc6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgY29uc29sZS5sb2coJ0JlZm9yZSBjbG9zZScpCiAgICAgICAgfSwKICAgICAgICAnY2xvc2UnOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKCdDbG9zZWQnKQogICAgICAgIH0KICAgIH0sCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlkOiAnbW9iaWxlJywK</text>
+        <text encoding="base64">XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQ6ICduZXdjbGllbnRmb3JtJywK</text>
+        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5hdXRoLm1pZGRsZXdhcmUuQXV0aGVudGljYXRpb25NaWRkbGV3YXJlJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWQ6ICdjbGllbnRfbGlzdF9mb3JtJywK</text>
+        <text encoding="base64">ICAgICdkamFuZ28ubWlkZGxld2FyZS5jc3JmLkNzcmZWaWV3TWlkZGxld2FyZScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICdkamFuZ28uY29udHJpYi5zZXNzaW9ucy5taWRkbGV3YXJlLlNlc3Npb25NaWRkbGV3YXJlJywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnQ2hvb3NlIGNsaWVudCcpCg==</text>
+        <text encoding="base64">ICAgICdkamFuZ29faG9zdHMubWlkZGxld2FyZS5Ib3N0c01pZGRsZXdhcmUnLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICdkamFuZ28ubWlkZGxld2FyZS5jb21tb24uQ29tbW9uTWlkZGxld2FyZScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlcjogZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">ICAgICMg0L7RgdC90L7QstC90L7QtQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUuCg==</text>
+        <text encoding="base64">YWxsX21pZGRsZXdhcmVfY2xhc3NlcyA9IFsK</text>
       </register>
       <register name=":" type="4">
         <text>425</text>
