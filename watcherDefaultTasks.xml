@@ -8,15 +8,9 @@
       <option name="fileExtension" value="js" />
       <option name="immediateSync" value="true" />
       <option name="name" value="Babel" />
-      <option name="output" value="dist\$FileDirRelativeToProjectRoot$\$FileNameWithoutExtension$.js:dist\$FileDirRelativeToProjectRoot$\$FileNameWithoutExtension$.js.map" />
+      <option name="output" value="dist/$FileDirRelativeToProjectRoot$/$FileNameWithoutExtension$.js:dist/$FileDirRelativeToProjectRoot$/$FileNameWithoutExtension$.js.map" />
       <option name="outputFilters">
-        <array>
-          <FilterInfo>
-            <option name="description" value="" />
-            <option name="name" value="" />
-            <option name="regExp" value="" />
-          </FilterInfo>
-        </array>
+        <array />
       </option>
       <option name="outputFromStdout" value="false" />
       <option name="program" value="" />
