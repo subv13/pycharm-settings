@@ -1356,11 +1356,11 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/python/asyncio_test/main.py" timestamp="1515226323809">
-        <mark key="[" line="9" column="11" />
-        <mark key="]" line="9" column="10" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="9" column="10" />
+      <file name="$USER_HOME$/workspace/python/asyncio_test/main.py" timestamp="1515227134423">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="10" column="14" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/js/rxjs-test/src/app/rxjs/rxjs.component.ts" timestamp="1511687278614">
         <mark key="[" line="18" column="49" />
@@ -2781,7 +2781,7 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1515226365457">
+      <file name="/Python Console" timestamp="1515227135599">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/index.py" timestamp="1502365430239">
@@ -3511,7 +3511,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGF3YSBmCg==</text>
+        <text encoding="base64">ICAgIGYgPSBoZWxsb193b3JsZCgpCg==</text>
       </register>
       <register name="-" type="4">
         <text>`${this.heroesURL}/${heroId}`</text>
@@ -3523,31 +3523,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcCgoKSA9PiB0aGlzLmxvZygnZmV0Y2ggaGVyb2VzJykpLAogICAgICAgICAgICAgICAgY2F0Y2hFcnJvcih0aGlzLmhhbmRsZUVycm9yKCdnZXRIZXJvZXMnLCBbXSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGF3YSBmCg==</text>
+        <text encoding="base64">ICAgIGYgPSBoZWxsb193b3JsZCgpCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGF3YSBmCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb2YoSEVST0VTLmZpbmQoaGVybyA9PiBoZXJvLmlkID09PSBoZXJvSWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2VTZXJ2aWNlLmFkZCgnSGVyb1NlcnZpY2U6IGxvYWQgaGVybycpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb2YoSEVST0VTLmZpbmQoaGVybyA9PiBoZXJvLmlkID09PSBoZXJvSWQpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2VTZXJ2aWNlLmFkZCgnSGVyb1NlcnZpY2U6IGxvYWQgaGVybycpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
