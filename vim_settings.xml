@@ -1356,11 +1356,11 @@
         <mark key="." line="0" column="32" />
         <mark key="^" line="0" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/python/asyncio_test/main.py" timestamp="1515227134423">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
+      <file name="$USER_HOME$/workspace/python/asyncio_test/main.py" timestamp="1515261634325">
+        <mark key="[" line="10" column="15" />
+        <mark key="]" line="10" column="14" />
         <mark key="^" line="10" column="14" />
-        <mark key="." line="8" column="0" />
+        <mark key="." line="10" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/js/rxjs-test/src/app/rxjs/rxjs.component.ts" timestamp="1511687278614">
         <mark key="[" line="18" column="49" />
