@@ -873,6 +873,12 @@
         <mark key="." line="49" column="17" />
         <mark key="^" line="96" column="75" />
       </file>
+      <file name="/mnt/workspace/python/ufapy/ufapy.md" timestamp="1515400449996">
+        <mark key="[" line="4" column="9" />
+        <mark key="]" line="5" column="21" />
+        <mark key="." line="5" column="21" />
+        <mark key="^" line="5" column="21" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/remove_south_migraions.py" timestamp="1511528288682">
         <mark key="[" line="11" column="46" />
         <mark key="]" line="11" column="28" />
@@ -3510,11 +3516,11 @@
       <jump line="65" column="0" filename="$USER_HOME$/PycharmProjects/ng-test/src/styles.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGYgPSBoZWxsb193b3JsZCgpCg==</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>`${this.heroesURL}/${heroId}`</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
@@ -3523,34 +3529,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcCgoKSA9PiB0aGlzLmxvZygnZmV0Y2ggaGVyb2VzJykpLAogICAgICAgICAgICAgICAgY2F0Y2hFcnJvcih0aGlzLmhhbmRsZUVycm9yKCdnZXRIZXJvZXMnLCBbXSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGYgPSBoZWxsb193b3JsZCgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaW50KGYpCg==</text>
+        <text encoding="base64">ICAgIGYgPSBoZWxsb193b3JsZCgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF3YSBmCg==</text>
+        <text encoding="base64">ICAgIHByaW50KGYpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgIGF3YSBmCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gb2YoSEVST0VTLmZpbmQoaGVybyA9PiBoZXJvLmlkID09PSBoZXJvSWQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gb2YoSEVST0VTLmZpbmQoaGVybyA9PiBoZXJvLmlkID09PSBoZXJvSWQpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2VTZXJ2aWNlLmFkZCgnSGVyb1NlcnZpY2U6IGxvYWQgaGVybycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2VTZXJ2aWNlLmFkZCgnSGVyb1NlcnZpY2U6IGxvYWQgaGVybycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
