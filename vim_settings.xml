@@ -401,6 +401,11 @@
         <mark key="." line="16" column="30" />
         <mark key="^" line="16" column="30" />
       </file>
+      <file name="/mnt/workspace/python/ufapy/rest/views.py" timestamp="1515422488695">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/config/database.py" timestamp="1488268390165">
         <mark key="[" line="4" column="38" />
         <mark key="]" line="4" column="29" />
@@ -484,6 +489,12 @@
         <mark key="]" line="7" column="11" />
         <mark key="." line="7" column="11" />
         <mark key="^" line="7" column="11" />
+      </file>
+      <file name="/mnt/workspace/python/ufapy/rest/urls.py" timestamp="1515421361974">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="27" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/management/commands/update_onlinepay_status.py" timestamp="1491566356293">
         <mark key="[" line="28" column="0" />
@@ -884,11 +895,11 @@
         <mark key="." line="49" column="17" />
         <mark key="^" line="96" column="75" />
       </file>
-      <file name="/mnt/workspace/python/ufapy/ufapy.md" timestamp="1515418368154">
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="14" />
-        <mark key="^" line="22" column="14" />
-        <mark key="." line="22" column="14" />
+      <file name="/mnt/workspace/python/ufapy/ufapy.md" timestamp="1515422666796">
+        <mark key="[" line="25" column="37" />
+        <mark key="]" line="25" column="37" />
+        <mark key="^" line="25" column="36" />
+        <mark key="." line="25" column="36" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/remove_south_migraions.py" timestamp="1511528288682">
         <mark key="[" line="11" column="46" />
@@ -1160,6 +1171,12 @@
         <mark key="^" line="45" column="51" />
         <mark key="." line="45" column="51" />
       </file>
+      <file name="/mnt/workspace/python/ufapy/rest/services.py" timestamp="1515422441446">
+        <mark key="[" line="7" column="30" />
+        <mark key="]" line="7" column="32" />
+        <mark key="." line="7" column="32" />
+        <mark key="^" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/smenateam/lrkc/.gitignore" timestamp="1489136988519">
         <mark key="[" line="131" column="14" />
         <mark key="]" line="132" column="12" />
@@ -1294,6 +1311,10 @@
         <mark key="]" line="2" column="32" />
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
+      </file>
+      <file name="/mnt/workspace/python/ufapy/rest/models.py" timestamp="1515421273610">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="39" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/staticfiles/js/blocks/templates/schedule.html" timestamp="1489415146766">
         <mark key="[" line="3" column="50" />
@@ -3551,46 +3572,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KiAuL21hbmFnZS5weSBzdGFydGFwcCBkYl93b3JrCg==</text>
+        <text encoding="base64">KiDQodCz0LXQvdC10YDQuNGA0L7QstCw0YLRjCDQtNC+0LrRgyDQvdCwINC80LXRgtC+0LQg0YHQtdGA0LLQuNGB0LAK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>object</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">KiAuL21hbmFnZS5weSBzdGFydGFwcCBkYl93b3JrCg==</text>
+        <text encoding="base64">KiDQodCz0LXQvdC10YDQuNGA0L7QstCw0YLRjCDQtNC+0LrRgyDQvdCwINC80LXRgtC+0LQg0YHQtdGA0LLQuNGB0LAK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiAuL21hbmFnZS5weSBzdGFydGFwcCBkYl93b3JrCg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQuZm9ybWF0KCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">KiAuLwo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QHVuaWNvZGVfY29tcGF0aWJsZQo=</text>
+        <text encoding="base64">ICAgICAgICA6cnR5cGU6IGludAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDcmVhdGUgeW91ciBtb2RlbHMgaGVyZS4K</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiDQoNC10LfRg9C70YzRgtCw0YIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYjog0JLRgtC+0YDQvtC5INC/0LDRgNCw0LzQtdGC0YAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">0JjQtyDQutC+0YDQvtCx0LrQuCDQv9C+0LTQtNC10YDQttC40LLQsNC10YIgRGphbmdvCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gYTog0J/QtdGA0LLRi9C5INC/0LDRgNCw0LzQtdGC0YAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICDQlNC10LvQsNC10YIg0LrQsNC60LjQtS3RgtC+INCy0YvRh9C40LvQtdC90LjRjwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyMjINCU0LXQsdCw0LPQs9C40L3Qswo=</text>
+        <text encoding="base64">ICAgICAgICAiIiIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxsaT48L2xpPgo=</text>
+        <text encoding="base64">ICAgICAgICAjIHR5cGU6IChpbnQsIGludCkgLT4gaW50Cg==</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
