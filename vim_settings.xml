@@ -2712,6 +2712,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1515418214989">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/mnt/workspace/smenateam/kitchen-service/app/__init__.py" timestamp="1517656348965">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="12" column="6" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="/mnt/workspace/python/ufapy/tests/rest/http/some_enpoint.json" timestamp="1515516357098">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="7" />
@@ -3611,8 +3617,8 @@
       <jump line="69" column="34" filename="/mnt/workspace/smenateam/farfor/apps/helpdesk/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -3630,28 +3636,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGNlcHQgRXJwVXNlci5Eb2VzTm90RXhpc3Q6Cg==</text>
+        <text encoding="base64">Q09SUyhhcHApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">MS4g0JHQvtCz0LDRgtGL0Lkg0LDQstGC0L7QutC+0LzQv9C70LjRggo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Mi4g0JjQvdGB0L/QtdC60YbQuNGPINC60L7QtNCwCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">NS4g0KDQtdGE0LDQutGC0L7RgNC40L3Qswo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">NC4g0JTQvtC60YPQvNC10L3RgtCw0YbQuNGPCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MgaW1wb3J0IFZpZXcK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBleGNlcHQgRXJwVXNlci5Eb2VzTm90RXhpc3Q6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">MS4g0JHQvtCz0LDRgtGL0Lkg0LDQstGC0L7QutC+0LzQv9C70LjRggo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Mi4g0JjQvdGB0L/QtdC60YbQuNGPINC60L7QtNCwCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">NS4g0KDQtdGE0LDQutGC0L7RgNC40L3Qswo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">NC4g0JTQvtC60YPQvNC10L3RgtCw0YbQuNGPCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">QGNzcmZfZXhlbXB0Cg==</text>
+        <text encoding="base64">ZnJvbSBkamFuZ28udmlld3MgaW1wb3J0IFZpZXcK</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
