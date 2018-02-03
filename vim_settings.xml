@@ -546,6 +546,12 @@
         <mark key="^" line="13" column="64" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="/mnt/workspace/smenateam/kitchen-service/docs/API.md" timestamp="1517658190871">
+        <mark key="[" line="76" column="7" />
+        <mark key="]" line="76" column="3" />
+        <mark key="^" line="76" column="3" />
+        <mark key="." line="76" column="3" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/settings_local.py" timestamp="1506254243070">
         <mark key="[" line="81" column="41" />
         <mark key="]" line="81" column="40" />
@@ -2715,10 +2721,11 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/mnt/workspace/smenateam/kitchen-service/app/api/repositories.py" timestamp="1517657440148">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
+      <file name="/mnt/workspace/smenateam/kitchen-service/app/api/repositories.py" timestamp="1517658611874">
+        <mark key="[" line="33" column="79" />
+        <mark key="]" line="33" column="79" />
+        <mark key="." line="33" column="79" />
+        <mark key="^" line="33" column="79" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1515418214989">
         <mark key="[" line="0" column="0" />
@@ -3628,47 +3635,47 @@
       <jump line="69" column="34" filename="/mnt/workspace/smenateam/farfor/apps/helpdesk/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+      <register name="&quot;" type="4">
+        <text>filter(lambda order: order['id'] in orders, self.orders)</text>
       </register>
       <register name="-" type="4">
-        <text>unicode</text>
+        <text>filter(lambda order: order['id'] in orders, self.orders)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">R0VUIGh0dHA6Ly8xMjcuMC4wLjE6ODAwMC9yZXN0L3NvbWUvZW5kcG9pbnQvP2E9MSZiPTMK</text>
+      <register name="0" type="4">
+        <text>filter(lambda order: order['kitchen_status'] == kitchen_status, self.orders)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA6dHlwZSBraXRjaGVuX3N0YXR1czogc3RyCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gaWRzOgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0ga2l0Y2hlbl9zdGF0dXM6IAo=</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gb3JkZXJfaWRzOgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA6dHlwZSBraXRjaGVuX3N0YXR1czogb2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0gb3JkZXJzOiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAjIHR5cGU6ICh1bmljb2RlKSAtPiBvYmplY3QK</text>
+        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA6dHlwZSBraXRjaGVuX3N0YXR1czogc3RyCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Q09SUyhhcHApCg==</text>
+        <text encoding="base64">ICAgICAgICA6cGFyYW0ga2l0Y2hlbl9zdGF0dXM6IAo=</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
