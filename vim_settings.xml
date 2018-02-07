@@ -492,14 +492,6 @@
         <mark key="^" line="137" column="22" />
         <mark key="." line="137" column="22" />
       </file>
-      <file name="/mnt/workspace/smenateam/kitchen-service/app/api/views.py" timestamp="1517726651665">
-        <mark key="'" line="32" column="13" />
-        <mark key="y" line="19" column="30" />
-        <mark key="[" line="33" column="17" />
-        <mark key="]" line="33" column="41" />
-        <mark key="." line="33" column="41" />
-        <mark key="^" line="33" column="41" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/farfor-notifications-api-service.conf" timestamp="1508826977370">
         <mark key="[" line="28" column="8" />
         <mark key="]" line="28" column="8" />
@@ -547,13 +539,6 @@
         <mark key="]" line="5" column="0" />
         <mark key="^" line="13" column="64" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="/mnt/workspace/smenateam/kitchen-service/docs/API.md" timestamp="1517684440505">
-        <mark key="y" line="126" column="4" />
-        <mark key="[" line="126" column="63" />
-        <mark key="]" line="126" column="63" />
-        <mark key="^" line="129" column="63" />
-        <mark key="." line="126" column="63" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/settings_local.py" timestamp="1506254243070">
         <mark key="[" line="81" column="41" />
@@ -783,7 +768,7 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1517723538196">
+      <file name="/Dummy.txt" timestamp="1518019179135">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -2526,12 +2511,6 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
       </file>
-      <file name="/mnt/workspace/smenateam/kitchen-service/tests/http/api.http" timestamp="1517734050650">
-        <mark key="[" line="12" column="30" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/frontend/api.py" timestamp="1510555582329">
         <mark key="[" line="47" column="0" />
         <mark key="]" line="48" column="0" />
@@ -2750,18 +2729,6 @@
         <mark key="^" line="3" column="36" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/mnt/workspace/smenateam/kitchen-service/app/api/repositories.py" timestamp="1517685127230">
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="35" column="7" />
-        <mark key="." line="35" column="7" />
-        <mark key="^" line="35" column="7" />
-      </file>
-      <file name="/mnt/workspace/smenateam/kitchen-service/app/__init__.py" timestamp="1517726564796">
-        <mark key="[" line="22" column="18" />
-        <mark key="]" line="22" column="33" />
-        <mark key="." line="22" column="33" />
-        <mark key="^" line="22" column="33" />
-      </file>
       <file name="/mnt/workspace/python/ufapy/tests/rest/http/some_enpoint.json" timestamp="1515516357098">
         <mark key="[" line="2" column="8" />
         <mark key="]" line="2" column="7" />
@@ -2923,7 +2890,7 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1517726508513">
+      <file name="/Python Console" timestamp="1518019223929">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/index.py" timestamp="1502365430239">
