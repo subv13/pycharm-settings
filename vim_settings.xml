@@ -768,7 +768,7 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518877695624">
+      <file name="/Dummy.txt" timestamp="1518880838484">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -3669,7 +3669,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>843</text>
+        <text>338</text>
       </register>
     </registers>
     <search>
@@ -3693,7 +3693,6 @@
         <entry>south</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>1176</entry>
         <entry>966</entry>
         <entry>e</entry>
@@ -3713,6 +3712,7 @@
         <entry>17</entry>
         <entry>87</entry>
         <entry>2620</entry>
+        <entry>338</entry>
       </history-cmd>
       <history-expr />
       <history-input />
