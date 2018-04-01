@@ -763,7 +763,7 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1519471341640">
+      <file name="/Dummy.txt" timestamp="1522584139295">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -2548,7 +2548,6 @@
         <mark key="^" line="4" column="4" />
         <mark key="." line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/smenateam/farfor/apps/frontend/templates/frontend/promocode.html" timestamp="1519471327571" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/update_erp_frontend.yml" timestamp="1487587326017">
         <mark key="[" line="23" column="111" />
         <mark key="]" line="24" column="11" />
@@ -3170,6 +3169,7 @@
         <mark key="^" line="25" column="132" />
         <mark key="." line="25" column="132" />
       </file>
+      <file name="$USER_HOME$/workspace/smenateam/farfor/templates/report_template/bill_farfor3.html" timestamp="1522583632598" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/clients/receivers.py" timestamp="1510647416857">
         <mark key="[" line="11" column="39" />
         <mark key="]" line="11" column="68" />
@@ -3430,13 +3430,6 @@
         <mark key="]" line="27" column="58" />
         <mark key="^" line="27" column="58" />
         <mark key="." line="27" column="58" />
-      </file>
-      <file name="/mnt/workspace/python/ufapy/ufapy/urls.py" timestamp="1515515278544">
-        <mark key="y" line="0" column="0" />
-        <mark key="[" line="8" column="37" />
-        <mark key="]" line="8" column="36" />
-        <mark key="^" line="8" column="36" />
-        <mark key="." line="8" column="36" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/subapps/kkt/migrations/0016_make_uuid.py" timestamp="1505901703378">
         <mark key="[" line="15" column="59" />
