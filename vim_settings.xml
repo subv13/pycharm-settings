@@ -583,6 +583,7 @@
         <mark key="." line="1" column="91" />
         <mark key="^" line="1" column="91" />
       </file>
+      <file name="$USER_HOME$/workspace/smenateam/farfor/apps/marketing/models/codes.py" timestamp="1522684514313" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/management/commands/remove_empty_flights_elastic.py" timestamp="1501934718940">
         <mark key="[" line="14" column="31" />
         <mark key="]" line="14" column="31" />
@@ -763,7 +764,7 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522584139295">
+      <file name="/Dummy.txt" timestamp="1522684405313">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1108,7 +1109,7 @@
         <mark key="." line="77" column="0" />
         <mark key="^" line="76" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/smenateam/farfor/apps/frontend/views/__init__.py" timestamp="1519470415813">
+      <file name="$USER_HOME$/workspace/smenateam/farfor/apps/frontend/views/__init__.py" timestamp="1522684072642">
         <mark key="[" line="1478" column="0" />
         <mark key="]" line="1478" column="0" />
         <mark key="." line="1478" column="0" />
@@ -3439,7 +3440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="423" column="16" filename="$USER_HOME$/smenateam/formula1/project/staticfiles/js/main.js" />
       <jump line="139" column="0" filename="$USER_HOME$/smenateam/formula1/project/staticfiles/js/analytics.js" />
       <jump line="5" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/results/validate_product_before_add/validate_product_before_add_2.txt" />
       <jump line="971" column="44" filename="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/api/basket.py" />
@@ -3539,6 +3539,7 @@
       <jump line="65" column="0" filename="$USER_HOME$/PycharmProjects/ng-test/src/styles.css" />
       <jump line="69" column="34" filename="/mnt/workspace/smenateam/farfor/apps/helpdesk/models.py" />
       <jump line="32" column="13" filename="/mnt/workspace/smenateam/kitchen-service/app/api/views.py" />
+      <jump line="1464" column="6" filename="$USER_HOME$/workspace/smenateam/farfor/apps/frontend/views/__init__.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -3683,6 +3684,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
