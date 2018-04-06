@@ -492,12 +492,6 @@
         <mark key="^" line="137" column="22" />
         <mark key="." line="137" column="22" />
       </file>
-      <file name="/mnt/workspace/smenateam/kitchen-service/app/api/views.py" timestamp="1517657157747">
-        <mark key="[" line="19" column="40" />
-        <mark key="]" line="19" column="43" />
-        <mark key="." line="19" column="43" />
-        <mark key="^" line="19" column="43" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-notifications-api-service/farfor-notifications-api-service.conf" timestamp="1508826977370">
         <mark key="[" line="28" column="8" />
         <mark key="]" line="28" column="8" />
@@ -2729,12 +2723,6 @@
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1515418214989">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/mnt/workspace/smenateam/kitchen-service/app/__init__.py" timestamp="1517656348965">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="12" column="6" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="/mnt/workspace/python/ufapy/tests/rest/http/some_enpoint.json" timestamp="1515516357098">
         <mark key="[" line="2" column="8" />
