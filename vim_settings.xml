@@ -73,6 +73,13 @@
         <mark key="." line="17" column="3" />
         <mark key="^" line="17" column="3" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1523108845153">
+        <mark key="y" line="7" column="25" />
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="15" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="20" column="15" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/newsletters/models/newsletter.py" timestamp="1510649830283">
         <mark key="[" line="65" column="26" />
         <mark key="]" line="65" column="11" />
@@ -2110,11 +2117,12 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
-      <file name="/mnt/workspace/smenateam/assignment/assignment.md" timestamp="1523097730232">
-        <mark key="[" line="0" column="45" />
-        <mark key="]" line="0" column="44" />
-        <mark key="^" line="0" column="44" />
-        <mark key="." line="0" column="44" />
+      <file name="/mnt/workspace/smenateam/assignment/assignment.md" timestamp="1523109097105">
+        <mark key="y" line="45" column="50" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/Toolbar.js" timestamp="1509514845570">
         <mark key="[" line="3" column="41" />
@@ -2893,7 +2901,7 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1517653925648">
+      <file name="/Python Console" timestamp="1523107978483">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1501924090825">
@@ -3638,46 +3646,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>`</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>`</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>filter(lambda order: order['kitchen_status'] == kitchen_status, self.orders)</text>
+      <register name="0" type="2">
+        <text encoding="base64">fCBuYW1lICAgICAgIHwgc3RyaW5nIHwgICAgICAgICAgfCDQmNC80Y8g0LrQu9C40LXQvdGC0LAgfAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">fCBuYW1lICAgICAgIHwgc3RyaW5nIHwgICAgICAgICAgfCDQvdCw0LfQstCw0L3QuNC1ICAgICAgICAgIHwK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICogdHlwZSAoa2l0Y2hlbnxjbGllbnQpLSDRgtC40L8g0YfQtdC60LAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICogcG9pbnRfaWQgLSDRgtC+0YfQutCwLCDQuiDQutC+0YLQvtGA0L7QuSDQv9GA0LjQstGP0LfQsNC9INC/0YDQuNC90YLQtdGACg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICogYXBpX2tleSAtINC60LvRjtGHINC00L7RgdGC0YPQv9CwINC6IEFQSSDQtNC70Y8gZGVza3RvcC3QutC70LjQtdC90YLQsCDQv9C10YfQsNGC0LgK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXNzCg==</text>
+        <text encoding="base64">ICAgICogY2hlY2tfdHlwZSAtINGC0LjQvyDRh9C10LrQsCwg0LrQvtGC0L7RgNGL0Lkg0L/RgNC40L3RgtC10YAg0L/QtdGH0LDRgtCw0LXRgiAoa2l0Y2hlbnxjbGllbnQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gaWRzOgo=</text>
+        <text encoding="base64">ICAgICogbmFtZSAtINC90LDQt9Cy0LDQvdC40LUg0L/RgNC40L3RgtC10YDQsAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gb3JkZXJfaWRzOgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA6cGFyYW0gb3JkZXJzOiAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA6cmV0dXJuOiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
