@@ -552,6 +552,9 @@
         <mark key="^" line="81" column="40" />
         <mark key="." line="81" column="40" />
       </file>
+      <file name="/mnt/workspace/smenateam/assignment/requirements.in" timestamp="1523091548518">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/app.py" timestamp="1501238013115">
         <mark key="[" line="19" column="37" />
         <mark key="]" line="21" column="31" />
@@ -1340,10 +1343,6 @@
         <mark key="]" line="2" column="32" />
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="32" />
-      </file>
-      <file name="/mnt/workspace/python/ufapy/rest/models.py" timestamp="1515421273610">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="39" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/staticfiles/js/blocks/templates/schedule.html" timestamp="1489415146766">
         <mark key="[" line="3" column="50" />
@@ -3016,6 +3015,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="/mnt/workspace/smenateam/assignment/.gitignore" timestamp="1523091489666">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="5" />
+        <mark key="^" line="0" column="5" />
+        <mark key="." line="0" column="5" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/main_page/utils/statistics.py" timestamp="1510917315328">
         <mark key="[" line="60" column="69" />
