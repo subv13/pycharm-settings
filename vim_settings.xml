@@ -552,8 +552,11 @@
         <mark key="^" line="81" column="40" />
         <mark key="." line="81" column="40" />
       </file>
-      <file name="/mnt/workspace/smenateam/assignment/requirements.in" timestamp="1523091548518">
+      <file name="/mnt/workspace/smenateam/assignment/requirements.in" timestamp="1523097034004">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-print-api-service/app.py" timestamp="1501238013115">
         <mark key="[" line="19" column="37" />
@@ -2107,6 +2110,12 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
+      <file name="/mnt/workspace/smenateam/assignment/assignment.md" timestamp="1523097108536">
+        <mark key="[" line="0" column="45" />
+        <mark key="]" line="0" column="44" />
+        <mark key="^" line="0" column="44" />
+        <mark key="." line="0" column="44" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/Toolbar.js" timestamp="1509514845570">
         <mark key="[" line="3" column="41" />
         <mark key="]" line="3" column="34" />
@@ -3628,11 +3637,11 @@
       <jump line="69" column="34" filename="/mnt/workspace/smenateam/farfor/apps/helpdesk/models.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>`</text>
       </register>
       <register name="-" type="4">
-        <text>filter(lambda order: order['id'] in orders, self.orders)</text>
+        <text>`</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
