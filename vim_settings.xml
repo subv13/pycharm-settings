@@ -2117,11 +2117,13 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
-      <file name="/mnt/workspace/smenateam/assignment/assignment.md" timestamp="1523162805398">
-        <mark key="y" line="23" column="12" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/mnt/workspace/smenateam/assignment/assignment.md" timestamp="1523165547365">
+        <mark key="'" line="186" column="0" />
+        <mark key="y" line="24" column="70" />
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="^" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/Toolbar.js" timestamp="1509514845570">
         <mark key="[" line="3" column="41" />
@@ -3542,10 +3544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/elasticsearch.py" />
-      <jump line="423" column="16" filename="$USER_HOME$/smenateam/formula1/project/staticfiles/js/main.js" />
-      <jump line="139" column="0" filename="$USER_HOME$/smenateam/formula1/project/staticfiles/js/analytics.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/results/validate_product_before_add/validate_product_before_add_2.txt" />
       <jump line="971" column="44" filename="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/api/basket.py" />
       <jump line="46" column="55" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/tests/create_order_by_operator/create_order_by_operator.py" />
       <jump line="47" column="12" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/tests/create_order_by_operator/create_order_by_operator.py" />
@@ -3642,19 +3640,23 @@
       <jump line="11" column="29" filename="$USER_HOME$/smenateam/farfor/farfor-ofd-service/templates/404.html" />
       <jump line="65" column="0" filename="$USER_HOME$/PycharmProjects/ng-test/src/styles.css" />
       <jump line="69" column="34" filename="/mnt/workspace/smenateam/farfor/apps/helpdesk/models.py" />
+      <jump line="54" column="22" filename="/mnt/workspace/smenateam/assignment/assignment.md" />
+      <jump line="13" column="0" filename="/mnt/workspace/smenateam/assignment/assignment.md" />
+      <jump line="117" column="7" filename="/mnt/workspace/smenateam/assignment/assignment.md" />
+      <jump line="212" column="0" filename="/mnt/workspace/smenateam/assignment/assignment.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>*</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJ25hbWUnOiAn0JLQutGD0YHQvdCw0Y8g0L/QuNGG0YbQsCcsCiAgICAgICAgICAgICAgICAncXVhbnRpdHknOiAyLAogICAgICAgICAgICAgICAgJ3VuaXRfcHJpY2UnOiAyNTAKICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">ICB8INCf0LDRgNCw0LzQtdGC0YAgfCDQotC40L8gICB8INCX0L3QsNGH0LXQvdC40LUgfCDQntC/0LjRgdCw0L3QuNC1ICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8CiAgfC0tLS0tLS0tLS18LS0tLS0tLXwtLS0tLS0tLS0tfC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tfAogIHwgb3JkZXIgICAgfCBPcmRlciB8ICAgICAgICAgIHzQl9Cw0LrQsNC3INC00LvRjyDQutC+0YLQvtGA0L7Qs9C+INC90YPQttC90L4g0YHQvtC30LTQsNGC0Ywg0YfQtdC60LggfAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -3663,28 +3665,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">0KHQtdGA0LLQuNGBINCx0YPQtNC10YIg0L/RgNC40L3QuNC80LDRgtGMINC30LDQv9GA0L7RgdGLINC90LAg0YHQvtC30L3QuNC1INGH0LXQutC+0LIg0LTQu9GPINGD0LrQsNC30LDQvdC90L7Qs9C+INC30LDQutCw0LfQsAo=</text>
+        <text encoding="base64">ICB8IHBob25lICAgICAgfCBzdHJpbmcgfCAgICAgICAgICB8INC90L7QvNC10YAg0YLQtdC70LXRhNC+0L3QsCB8Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fCBwb2ludF9pZCB8IGludCAgICB8ICAgICAgICAgIHwg0YLQvtGH0LrQsCDQvdCwINC60L7RgtC+0YDQvtC5INCz0L7RgtC+0LLQuNGC0YHRjyDQt9Cw0LrQsNC3ICAgICAgICAgICAgICB8Cg==</text>
+        <text encoding="base64">ICB8IG5hbWUgICAgICAgfCBzdHJpbmcgfCAgICAgICAgICB8INC40LzRjyDQutC70LjQtdC90YLQsCAgICB8Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">fCBwb2ludF9pZCAgIHwgaW50ICAgIHwgICAgICAgICAgICAgICAgIHwg0YLQvtGH0LrQsCDQuiDQutC+0YLQvtGA0L7QuSDQv9GA0LjQstGP0LfQsNC9INC/0YDQuNC90YLQtdGAICAgICAgICAgICAgICB8Cg==</text>
+        <text encoding="base64">ICB8LS0tLS0tLS0tLS0tfC0tLS0tLS0tfC0tLS0tLS0tLS18LS0tLS0tLS0tLS0tLS0tLXwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICdwb2ludF9pZCc6IDEsCg==</text>
+        <text encoding="base64">ICB8INCf0L7Qu9C1ICAgICAgIHwg0KLQuNC/ICAgIHwg0JfQvdCw0YfQtdC90LjQtSB8INCe0L/QuNGB0LDQvdC40LUgICAgICAgfAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDbGllbnQ6Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">0J3Rg9C20L3QviDQvdCw0L/QuNGB0LDRgtGMINGB0LXRgNCy0LjRgSDRgNC10LDQu9C40LfRg9GO0YnQuNC5IEFQSSDQtNC70Y8g0L/QtdGH0LDRgtC4INGH0LXQutC+0LIuCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB8IHVuaXRfcHJpY2UgfCBpbnQgICAgfCAgICAgICAgICB8INGG0LXQvdCwINC30LAg0LXQtNC40L3QuNGG0YMgfAo=</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
