@@ -800,11 +800,11 @@
       <file name="/code.py" timestamp="1490704241986">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1502434435750">
-        <mark key="[" line="0" column="10" />
-        <mark key="]" line="0" column="9" />
-        <mark key="^" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" timestamp="1523191339812">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="24" />
+        <mark key="." line="13" column="24" />
+        <mark key="^" line="13" column="24" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-courier-api/views.py" timestamp="1505467729090">
         <mark key="[" line="232" column="0" />
@@ -937,6 +937,12 @@
         <mark key="]" line="11" column="28" />
         <mark key="." line="11" column="28" />
         <mark key="^" line="11" column="28" />
+      </file>
+      <file name="/mnt/workspace/smenateam/assignment/docker-compose.yml" timestamp="1523191036366">
+        <mark key="[" line="4" column="49" />
+        <mark key="]" line="6" column="14" />
+        <mark key="^" line="6" column="14" />
+        <mark key="." line="6" column="14" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-playbooks/README.md" timestamp="1509371476071">
         <mark key="[" line="2" column="8" />
@@ -2095,13 +2101,13 @@
         <mark key="^" line="26" column="15" />
         <mark key="." line="26" column="15" />
       </file>
-      <file name="/mnt/workspace/smenateam/assignment/assignment.md" timestamp="1523178393519">
-        <mark key="'" line="192" column="0" />
-        <mark key="y" line="145" column="14" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="154" column="16" />
-        <mark key="^" line="138" column="21" />
-        <mark key="." line="150" column="0" />
+      <file name="/mnt/workspace/smenateam/assignment/assignment.md" timestamp="1523197424521">
+        <mark key="'" line="239" column="0" />
+        <mark key="y" line="171" column="30" />
+        <mark key="[" line="37" column="118" />
+        <mark key="]" line="38" column="92" />
+        <mark key="." line="38" column="92" />
+        <mark key="^" line="38" column="92" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/report/complex/Toolbar.js" timestamp="1509514845570">
         <mark key="[" line="3" column="41" />
@@ -2736,12 +2742,12 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
-      <file name="/mnt/workspace/smenateam/assignment/templates/client_check.html" timestamp="1523178322645">
+      <file name="/mnt/workspace/smenateam/assignment/templates/client_check.html" timestamp="1523191476052">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="25" />
-        <mark key="^" line="4" column="25" />
-        <mark key="." line="4" column="25" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="24" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/django-chunks/chunks/models.py" timestamp="1510663031523">
         <mark key="[" line="3" column="0" />
@@ -2989,11 +2995,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/mnt/workspace/smenateam/assignment/.gitignore" timestamp="1523091489666">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="5" />
-        <mark key="^" line="0" column="5" />
-        <mark key="." line="0" column="5" />
+      <file name="/mnt/workspace/smenateam/assignment/.gitignore" timestamp="1523191830997">
+        <mark key="[" line="1" column="5" />
+        <mark key="]" line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+        <mark key="." line="1" column="5" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/main_page/utils/statistics.py" timestamp="1510917315328">
         <mark key="[" line="60" column="69" />
@@ -3462,12 +3468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="12" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/tests/create_order_by_operator/create_order_by_operator.py" />
-      <jump line="88" column="38" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/results/create_order_by_operator/create_order_by_operator.txt" />
-      <jump line="1280" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/results/create_order_by_operator/create_order_by_operator.txt" />
-      <jump line="0" column="0" filename="$USER_HOME$/smenateam/farfor/farfor-highload-tests/results/create_order_by_operator/create_order_by_operator.txt" />
-      <jump line="390" column="34" filename="$USER_HOME$/smenateam/farfor/farfor/apps/geo/models/__init__.py" />
-      <jump line="71" column="15" filename="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" />
       <jump line="90" column="37" filename="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" />
       <jump line="91" column="30" filename="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" />
       <jump line="260" column="8" filename="$USER_HOME$/smenateam/farfor/farfor/apps/tools/haystack/elasticsearch/backend.py" />
@@ -3562,49 +3562,55 @@
       <jump line="212" column="0" filename="/mnt/workspace/smenateam/assignment/assignment.md" />
       <jump line="0" column="0" filename="/mnt/workspace/smenateam/assignment/templates/client_check.html" />
       <jump line="31" column="24" filename="/mnt/workspace/smenateam/assignment/templates/kitchen_check.html" />
+      <jump line="30" column="37" filename="/mnt/workspace/smenateam/assignment/assignment.md" />
+      <jump line="229" column="0" filename="/mnt/workspace/smenateam/assignment/assignment.md" />
+      <jump line="230" column="0" filename="/mnt/workspace/smenateam/assignment/assignment.md" />
+      <jump line="9" column="0" filename="/mnt/workspace/smenateam/assignment/assignment.md" />
+      <jump line="166" column="0" filename="/mnt/workspace/smenateam/assignment/assignment.md" />
+      <jump line="236" column="0" filename="/mnt/workspace/smenateam/assignment/assignment.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Title</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="-" type="4">
-        <text>Title</text>
+        <text>wkhtmltopdf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICduYW1lJzogJ9Cd0LUg0LzQtdC90LXQtSDQstC60YPRgdC90YvQuSDRgNC+0LvQuycsCiAgICAgICAgICAgICAgICAgICdxdWFudGl0eSc6IDEsCiAgICAgICAgICAgICAgICAgICd1bml0X3ByaWNlJzogMjgwCiAgICAgICAgICAgICAgfSwK</text>
+        <text encoding="base64">W3draHRtbHRvcGRmXTogaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9yL29wZW5sYWJzL2RvY2tlci13a2h0bWx0b3BkZi1hYXMvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaQo=</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdWw+Cg==</text>
+        <text encoding="base64">0JzQvtC00LXQu9C4INC4INC80LXRgtC+0LTRiyBBUEkg0L7Qv9C40YHQsNC90Ysg0LIg0LTQvtC60YPQvNC10L3RgtC1INC90LjQttC1LCDQstGR0YDRgdGC0LrQsCBIVE1MLdGI0LDQsdC70L7QvdC+0LIg0LTQu9GPINGH0LXQutC+0LIg0LvQtdC20LjRgiDQsiDRgNC10L/QvtC30LjRgtC+0YDQuNC4INCyINC/0LDQv9C60LUgdGVtcGxhdGVzCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGk+OTE3MzMzMjIyMjwvbGk+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9ImZvbnQtd2VpZ2h0LWJvbGQiPtCY0LLQsNC9PC9saT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0ibGlzdC11bnN0eWxlZCI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sIGNvbC0zIj4K</text>
+        <text encoding="base64">NS4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGgzIGNsYXNzPSJjb2wgY29sLTYiPtCzLiDQo9GE0LAsINGD0LsuINCb0LXQvdC40L3QsCwg0LQuIDQyPC9oMz4K</text>
+        <text encoding="base64">fCBjaGVja190eXBlIHwgc3RyaW5nIHwga2l0Y2hlblx8Y2xpZW50IHwg0YLQuNC/INGH0LXQutCwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">My4gaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9yL29wZW5sYWJzL2RvY2tlci13a2h0bWx0b3BkZi1hYXMvCg==</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
@@ -3706,6 +3712,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
