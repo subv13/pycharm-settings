@@ -968,12 +968,12 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="1" column="29" />
       </file>
-      <file name="/mnt/workspace/smenateam/assignment/templates/kitchen_check.html" timestamp="1523178331896">
-        <mark key="t" line="35" column="23" />
-        <mark key="'" line="31" column="24" />
-        <mark key="[" line="4" column="11" />
-        <mark key="]" line="4" column="23" />
-        <mark key="." line="4" column="23" />
+      <file name="/mnt/workspace/smenateam/assignment/templates/kitchen_check.html" timestamp="1523198193904">
+        <mark key="t" line="34" column="23" />
+        <mark key="'" line="30" column="24" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
         <mark key="^" line="4" column="23" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/track/models.py" timestamp="1500378871461">
@@ -3571,7 +3571,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogMjBweDsK</text>
       </register>
       <register name="-" type="4">
         <text>wkhtmltopdf</text>
@@ -3583,19 +3583,19 @@
         <text encoding="base64">W3draHRtbHRvcGRmXTogaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9yL29wZW5sYWJzL2RvY2tlci13a2h0bWx0b3BkZi1hYXMvCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZzogMjBweDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">0JzQvtC00LXQu9C4INC4INC80LXRgtC+0LTRiyBBUEkg0L7Qv9C40YHQsNC90Ysg0LIg0LTQvtC60YPQvNC10L3RgtC1INC90LjQttC1LCDQstGR0YDRgdGC0LrQsCBIVE1MLdGI0LDQsdC70L7QvdC+0LIg0LTQu9GPINGH0LXQutC+0LIg0LvQtdC20LjRgiDQsiDRgNC10L/QvtC30LjRgtC+0YDQuNC4INCyINC/0LDQv9C60LUgdGVtcGxhdGVzCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">0JzQvtC00LXQu9C4INC4INC80LXRgtC+0LTRiyBBUEkg0L7Qv9C40YHQsNC90Ysg0LIg0LTQvtC60YPQvNC10L3RgtC1INC90LjQttC1LCDQstGR0YDRgdGC0LrQsCBIVE1MLdGI0LDQsdC70L7QvdC+0LIg0LTQu9GPINGH0LXQutC+0LIg0LvQtdC20LjRgiDQsiDRgNC10L/QvtC30LjRgtC+0YDQuNC4INCyINC/0LDQv9C60LUgdGVtcGxhdGVzCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -3604,13 +3604,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">NS4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fCBjaGVja190eXBlIHwgc3RyaW5nIHwga2l0Y2hlblx8Y2xpZW50IHwg0YLQuNC/INGH0LXQutCwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8Cg==</text>
+        <text encoding="base64">NS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">My4gaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9yL29wZW5sYWJzL2RvY2tlci13a2h0bWx0b3BkZi1hYXMvCg==</text>
+        <text encoding="base64">fCBjaGVja190eXBlIHwgc3RyaW5nIHwga2l0Y2hlblx8Y2xpZW50IHwg0YLQuNC/INGH0LXQutCwICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB8Cg==</text>
       </register>
       <register name=":" type="4">
         <text>843</text>
