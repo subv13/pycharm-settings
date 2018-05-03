@@ -1120,7 +1120,7 @@
         <mark key="^" line="150" column="38" />
         <mark key="." line="1375" column="0" />
       </file>
-      <file name="/fragment.py" timestamp="1515417259944">
+      <file name="/fragment.py" timestamp="1525365625231">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="30" />
         <mark key="^" line="0" column="1" />
@@ -2361,6 +2361,13 @@
         <mark key="^" line="302" column="26" />
         <mark key="." line="302" column="26" />
       </file>
+      <file name="/mnt/workspace/python/work/work.py" timestamp="1525366952978">
+        <mark key="y" line="28" column="4" />
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="26" />
+        <mark key="^" line="26" column="26" />
+        <mark key="." line="26" column="26" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/store/views.py" timestamp="1510728562432">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2871,7 +2878,7 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
-      <file name="/Python Console" timestamp="1523107978483">
+      <file name="/Python Console" timestamp="1525365613369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" timestamp="1501924090825">
@@ -3585,43 +3592,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHdpdGggdGVybS5sb2NhdGlvbigqbG9jKToK</text>
       </register>
       <register name="-" type="4">
-        <text>wkhtmltopdf</text>
+        <text>eeeeeee</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">W3draHRtbHRvcGRmXTogaHR0cHM6Ly9odWIuZG9ja2VyLmNvbS9yL29wZW5sYWJzL2RvY2tlci13a2h0bWx0b3BkZi1hYXMvCg==</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0X2JveCh0ZXJtLCBsb2M9KDAsIDQpLCB0ZXh0PSdrZWsnLCBsYWJlbD0na2VrZWVlZWVlZWVlZWUnKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">ICAgIHdpdGggdGVybS5sb2NhdGlvbigqbG9jKToK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBrID0gc3Rkc2NyLmdldGNoKCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAjIFdhaXQgZm9yIG5leHQgaW5wdXQK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBrID0gc3Rkc2NyLmdldGNoKCkK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAjIFdhaXQgZm9yIG5leHQgaW5wdXQK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodGVybS5yanVzdCh0ZXJtLm9uX3JlZCgna2VrJyksIHdpZHRoPTEwKSkK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB3aXRoIHRlcm0ubG9jYXRpb24oMCwgOCk6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQobGFiZWwpCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGVybS5tb3ZlX3gobG9jWzBdICsgMSkK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzdGRzY3IucmVmcmVzaCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiBsYWJlbDoK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAjIFJlZnJlc2ggdGhlIHNjcmVlbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGVybS5tb3ZlKCkK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
