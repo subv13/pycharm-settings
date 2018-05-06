@@ -784,7 +784,7 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525586487491">
+      <file name="/Dummy.txt" timestamp="1525589484509">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -2028,7 +2028,7 @@
         <mark key="^" line="33" column="14" />
         <mark key="." line="32" column="21" />
       </file>
-      <file name="/a.sql" timestamp="1515418169452">
+      <file name="/a.sql" timestamp="1525589448293">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/mnt/workspace/python/ufapy/debugging/templates/simple_view.html" timestamp="1515417250368">
@@ -2463,11 +2463,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="94" column="3" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8aed6060-e405-4f6d-a91f-9ca9eac71800/console.sql" timestamp="1525587612098">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="27" />
-        <mark key="^" line="19" column="27" />
-        <mark key="." line="19" column="27" />
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/db/8aed6060-e405-4f6d-a91f-9ca9eac71800/console.sql" timestamp="1525589443377">
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="21" column="13" />
+        <mark key="^" line="21" column="13" />
+        <mark key="." line="21" column="13" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/orders/management/commands/remove_flights_elastic.py" timestamp="1498208006968">
         <mark key="[" line="75" column="0" />
@@ -3599,11 +3599,11 @@
       <jump line="236" column="0" filename="/mnt/workspace/smenateam/assignment/assignment.md" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ZnJvbTsK</text>
+      <register name="&quot;" type="4">
+        <text>postgres</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>postgres</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
