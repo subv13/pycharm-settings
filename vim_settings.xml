@@ -787,7 +787,8 @@
         <mark key="^" line="13" column="62" />
         <mark key="." line="13" column="62" />
       </file>
-      <file name="/mnt/workspace/smenateam/kkt-api/app.py" timestamp="1529140203082">
+      <file name="/mnt/workspace/smenateam/kkt-api/app.py" timestamp="1529145103918">
+        <mark key="'" line="29" column="4" />
         <mark key="[" line="40" column="18" />
         <mark key="]" line="40" column="23" />
         <mark key="." line="40" column="23" />
@@ -1071,11 +1072,11 @@
         <mark key="." line="90" column="17" />
         <mark key="^" line="90" column="17" />
       </file>
-      <file name="/mnt/workspace/smenateam/kkt-api/setup.cfg" timestamp="1529140498917">
-        <mark key="[" line="0" column="8" />
-        <mark key="]" line="0" column="17" />
-        <mark key="^" line="1" column="14" />
-        <mark key="." line="0" column="8" />
+      <file name="/mnt/workspace/smenateam/kkt-api/setup.cfg" timestamp="1529143987227">
+        <mark key="[" line="22" column="29" />
+        <mark key="]" line="22" column="34" />
+        <mark key="." line="22" column="34" />
+        <mark key="^" line="22" column="34" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.json" timestamp="1505908628016">
         <mark key="[" line="0" column="109" />
@@ -2200,11 +2201,11 @@
         <mark key="." line="3" column="15" />
       </file>
       <file name="/mnt/workspace/smenateam/kkt-api/views.py" timestamp="1529140446404">
-        <mark key="'" line="432" column="32" />
-        <mark key="[" line="530" column="10" />
-        <mark key="]" line="530" column="10" />
-        <mark key="." line="530" column="10" />
-        <mark key="^" line="530" column="10" />
+        <mark key="'" line="430" column="32" />
+        <mark key="[" line="528" column="10" />
+        <mark key="]" line="528" column="10" />
+        <mark key="." line="528" column="10" />
+        <mark key="^" line="528" column="10" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/requirements.in" timestamp="1510721510075">
         <mark key="[" line="40" column="0" />
@@ -3315,6 +3316,10 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
+      <file name="/mnt/workspace/smenateam/kkt-api/yapf_test.py" timestamp="1529145017002">
+        <mark key="[" line="27" column="69" />
+        <mark key="." line="16" column="112" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/tools/haystack/signals.py" timestamp="1510638756393">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -3578,7 +3583,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="607" column="21" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/api.py" />
       <jump line="777" column="0" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/api.py" />
       <jump line="81" column="37" filename="$USER_HOME$/smenateam/farfor/farfor/apps/lottery/api.py" />
       <jump line="1330" column="26" filename="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/__init__.py" />
@@ -3678,49 +3682,50 @@
       <jump line="38" column="45" filename="/mnt/workspace/smenateam/farfor-kkt-api-service/views/mixins.py" />
       <jump line="519" column="0" filename="/mnt/workspace/smenateam/kkt-api/views.py" />
       <jump line="432" column="32" filename="/mnt/workspace/smenateam/kkt-api/views.py" />
+      <jump line="29" column="4" filename="/mnt/workspace/smenateam/kkt-api/app.py" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Exception</text>
+        <text># yapf: disable</text>
       </register>
       <register name="-" type="4">
-        <text>Exception</text>
+        <text># yapf: disable</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">TUFTVEVSX0RCX1VSTCA9IG9zLmVudmlyb24uZ2V0KCdNQVNURVJfREJfVVJMJykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2tleSc6ICd2YWx1ZScsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWFjaF9kaWN0X2VudHJ5X29uX3NlcGFyYXRlX2xpbmU9ZmFsc2UK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSB1cmxzIGltcG9ydCAqCg==</text>
+        <text encoding="base64">O2RlZGVudF9jbG9zaW5nX2JyYWNrZXRzPWYK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">O2NvYWxlc2NlX2JyYWNrZXRzPTAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bG9hZF9kb3RlbnYoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyDQn9C+0LTQs9GA0YPQttCw0LXQvCDQvdCw0YHRgtGA0L7QudC60Lgg0LjQtyAuZW52Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBmbGFzay5jbGkgaW1wb3J0IGxvYWRfZG90ZW52Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBhc3MK</text>
+        <text encoding="base64">aW1wb3J0X2hlYWRpbmdfZGphbmdvPWRqYW5nbwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmIGlkZW50aXR5KCk6Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>437</text>
