@@ -435,7 +435,6 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
-      <file name="/mnt/workspace/smenateam/farfor-playbooks/roles/kkt/templates/env.j2" timestamp="1529067512589" />
       <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1502097383485">
         <mark key="[" line="53" column="11" />
         <mark key="]" line="53" column="10" />
@@ -2701,7 +2700,6 @@
         <mark key="^" line="30" column="24" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/kkt-api/lib/python2.7/site-packages/requests/exceptions.py" timestamp="1529140385950" />
       <file name="$USER_HOME$/smenateam/medcenter/project/apps/home/views.py" timestamp="1487757890091">
         <mark key="[" line="142" column="28" />
         <mark key="]" line="142" column="34" />
@@ -3316,9 +3314,11 @@
         <mark key="^" line="5" column="27" />
         <mark key="." line="5" column="27" />
       </file>
-      <file name="/mnt/workspace/smenateam/kkt-api/yapf_test.py" timestamp="1529145017002">
-        <mark key="[" line="24" column="69" />
-        <mark key="." line="16" column="112" />
+      <file name="/mnt/workspace/smenateam/kkt-api/yapf_test.py" timestamp="1529226098055">
+        <mark key="[" line="8" column="101" />
+        <mark key="]" line="8" column="131" />
+        <mark key="." line="8" column="131" />
+        <mark key="^" line="8" column="131" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/tools/haystack/signals.py" timestamp="1510638756393">
         <mark key="[" line="6" column="0" />
@@ -3686,10 +3686,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text># yapf: disable</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text># yapf: disable</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
