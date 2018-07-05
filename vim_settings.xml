@@ -801,6 +801,13 @@
         <mark key="^" line="13" column="62" />
         <mark key="." line="13" column="62" />
       </file>
+      <file name="/mnt/workspace/smenateam/kkt-api/app.py" timestamp="1530783629315">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="32" column="31" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="40" column="23" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/lottery/management/commands/lottery_drawing.py" timestamp="1510649023720">
         <mark key="[" line="4" column="65" />
         <mark key="]" line="4" column="50" />
@@ -1365,6 +1372,13 @@
         <mark key="]" line="21" column="13" />
         <mark key="^" line="21" column="13" />
         <mark key="." line="21" column="13" />
+      </file>
+      <file name="/mnt/workspace/smenateam/farfor-kkt-api-service/views/mixins.py" timestamp="1528041321563">
+        <mark key="'" line="38" column="45" />
+        <mark key="[" line="38" column="53" />
+        <mark key="]" line="38" column="52" />
+        <mark key="^" line="38" column="52" />
+        <mark key="." line="38" column="52" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/urls.py" timestamp="1486125114419">
         <mark key="[" line="78" column="36" />
@@ -1954,6 +1968,7 @@
         <mark key="^" line="6" column="18" />
         <mark key="." line="6" column="18" />
       </file>
+      <file name="/mnt/workspace/smenateam/farfor-ee/apps/staff/models/__init__.py" timestamp="1530783657411" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/frontend/apps.py" timestamp="1510637852932">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="0" />
@@ -2211,6 +2226,13 @@
         <mark key="]" line="3" column="15" />
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
+      </file>
+      <file name="/mnt/workspace/smenateam/kkt-api/views.py" timestamp="1529140446404">
+        <mark key="'" line="430" column="32" />
+        <mark key="[" line="528" column="10" />
+        <mark key="]" line="528" column="10" />
+        <mark key="." line="528" column="10" />
+        <mark key="^" line="528" column="10" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/requirements.in" timestamp="1510721510075">
         <mark key="[" line="40" column="0" />
@@ -3633,7 +3655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="777" column="0" filename="$USER_HOME$/smenateam/farfor/farfor/apps/orders/extjs/api.py" />
       <jump line="81" column="37" filename="$USER_HOME$/smenateam/farfor/farfor/apps/lottery/api.py" />
       <jump line="1330" column="26" filename="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/views/__init__.py" />
       <jump line="199" column="5" filename="$USER_HOME$/smenateam/farfor/farfor-frontend/layout/markup/blocks/statusOrder/statusOrder.styl" />
@@ -3733,10 +3754,11 @@
       <jump line="519" column="0" filename="/mnt/workspace/smenateam/kkt-api/views.py" />
       <jump line="432" column="32" filename="/mnt/workspace/smenateam/kkt-api/views.py" />
       <jump line="29" column="4" filename="/mnt/workspace/smenateam/kkt-api/app.py" />
+      <jump line="68" column="46" filename="/mnt/workspace/smenateam/farfor-ee/apps/calls/views.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>790</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="-" type="4">
         <text>790</text>
@@ -3748,34 +3770,34 @@
         <text encoding="base64">ICAgICAgICAgICAgJ2tleSc6ICd2YWx1ZScsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnkgaW1wb3J0IHNoYXJlZF90YXNrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSBmYXJmb3IuY2VsZXJ5IGltcG9ydCBhcHAgYXMgY2VsZXJ5Cg==</text>
+        <text encoding="base64">ZnJvbSBjZWxlcnkgaW1wb3J0IHNoYXJlZF90YXNrCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnJvbSBmYXJmb3IuY2VsZXJ5IGltcG9ydCBhcHAgYXMgY2VsZXJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IWFwcHMvYmV0L3N0YXRpY2ZpbGVzL1JFQURNRS5tZAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IWFwcHMvYmV0L3N0YXRpY2ZpbGVzL2JldC8K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">YXBwcy9iZXQvc3RhdGljZmlsZXMvKgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgIC0KICAgICAgICAgICAgcGlwOiByZXF1aXJlbWVudHM9Int7IHByb2plY3RfZGlyIH19L3JlcXVpcmVtZW50cy50eHQiIHZpcnR1YWxlbnY9Int7IHZpcnR1YWxlbnZfZGlyIH19IiBleHRyYV9hcmdzPSctLWV4aXN0cy1hY3Rpb249dycKICAgICAgICAgICAgYmVjb21lOiB0cnVlCiAgICAgICAgICAgIGJlY29tZV9tZXRob2Q6ICJzdSIKICAgICAgICAgICAgbmFtZTogItCj0YHRgtCw0L3QvtCy0LrQsCDQt9Cw0LLQuNGB0LjQvNC+0YHRgtC10LkiCiAgICAgICAgICAgIGJlY29tZV91c2VyOiAiZmFyZm9yIg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">IWFwcHMvYmV0L3N0YXRpY2ZpbGVzL1JFQURNRS5tZAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IWFwcHMvYmV0L3N0YXRpY2ZpbGVzL2JldC8K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">YXBwcy9iZXQvc3RhdGljZmlsZXMvKgo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>437</text>
@@ -3880,6 +3902,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
