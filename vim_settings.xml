@@ -358,6 +358,9 @@
         <mark key="^" line="5" column="39" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="/marketing_code [postgres@localhost]" timestamp="1530782177352">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/constants/Notifications.js" timestamp="1510032272930">
         <mark key="[" line="40" column="81" />
         <mark key="]" line="40" column="91" />
@@ -789,7 +792,7 @@
         <mark key="^" line="0" column="30" />
         <mark key="." line="2" column="48" />
       </file>
-      <file name="/dummy.sql" timestamp="1525587388781">
+      <file name="/dummy.sql" timestamp="1530782177964">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/pages/views.py" timestamp="1490708666971">
@@ -798,20 +801,13 @@
         <mark key="^" line="13" column="62" />
         <mark key="." line="13" column="62" />
       </file>
-      <file name="/mnt/workspace/smenateam/kkt-api/app.py" timestamp="1529145103918">
-        <mark key="'" line="29" column="4" />
-        <mark key="[" line="40" column="18" />
-        <mark key="]" line="40" column="23" />
-        <mark key="." line="40" column="23" />
-        <mark key="^" line="40" column="23" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/apps/lottery/management/commands/lottery_drawing.py" timestamp="1510649023720">
         <mark key="[" line="4" column="65" />
         <mark key="]" line="4" column="50" />
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528040864662">
+      <file name="/Dummy.txt" timestamp="1530781816527">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -1369,13 +1365,6 @@
         <mark key="]" line="21" column="13" />
         <mark key="^" line="21" column="13" />
         <mark key="." line="21" column="13" />
-      </file>
-      <file name="/mnt/workspace/smenateam/farfor-kkt-api-service/views/mixins.py" timestamp="1528041321563">
-        <mark key="'" line="38" column="45" />
-        <mark key="[" line="38" column="53" />
-        <mark key="]" line="38" column="52" />
-        <mark key="^" line="38" column="52" />
-        <mark key="." line="38" column="52" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/urls.py" timestamp="1486125114419">
         <mark key="[" line="78" column="36" />
@@ -2223,13 +2212,6 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="/mnt/workspace/smenateam/kkt-api/views.py" timestamp="1529140446404">
-        <mark key="'" line="430" column="32" />
-        <mark key="[" line="528" column="10" />
-        <mark key="]" line="528" column="10" />
-        <mark key="." line="528" column="10" />
-        <mark key="^" line="528" column="10" />
-      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.6/requirements.in" timestamp="1510721510075">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -2283,6 +2265,9 @@
         <mark key="]" line="14" column="54" />
         <mark key="." line="14" column="54" />
         <mark key="^" line="14" column="54" />
+      </file>
+      <file name="/bet_campaign [postgres@localhost]" timestamp="1530781857932">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/templates/search/indexes/orders/flight_text.txt" timestamp="1488777639486">
         <mark key="[" line="0" column="0" />
@@ -2511,6 +2496,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="49" column="7" />
+      </file>
+      <file name="/mnt/workspace/smenateam/farfor-ee/bet.json" timestamp="1530782212926">
+        <mark key="[" line="9" column="21" />
+        <mark key="]" line="9" column="21" />
+        <mark key="." line="9" column="21" />
+        <mark key="^" line="9" column="21" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/forms/form_sent.html" timestamp="1488536316480">
         <mark key="[" line="19" column="40" />
@@ -2891,6 +2882,12 @@
         <mark key="^" line="26" column="19" />
         <mark key="." line="26" column="19" />
       </file>
+      <file name="/mnt/workspace/smenateam/farfor-ee/apps/bet/api/views.py" timestamp="1530781737295">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="28" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/django-chunks/chunks/models.py" timestamp="1510663031523">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="0" />
@@ -3174,6 +3171,12 @@
         <mark key="]" line="26" column="10" />
         <mark key="^" line="26" column="10" />
         <mark key="." line="26" column="10" />
+      </file>
+      <file name="/mnt/workspace/smenateam/farfor-ee/apps/geo/utils.py" timestamp="1530781629875">
+        <mark key="[" line="22" column="85" />
+        <mark key="]" line="22" column="90" />
+        <mark key="^" line="22" column="90" />
+        <mark key="." line="22" column="90" />
       </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/departments/urls.py" timestamp="1489139342004">
         <mark key="[" line="5" column="41" />
@@ -3732,11 +3735,11 @@
       <jump line="29" column="4" filename="/mnt/workspace/smenateam/kkt-api/app.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>790</text>
       </register>
       <register name="-" type="4">
-        <text>erp</text>
+        <text>790</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDw1XD4=</text>
