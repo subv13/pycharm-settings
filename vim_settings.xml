@@ -192,6 +192,7 @@
         <mark key="^" line="1" column="37" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="/mnt/workspace/smenateam/bet/config/staging.env.js" timestamp="1530773961954" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/service/AllLoggingClientService.js" timestamp="1509451064866">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -2325,6 +2326,12 @@
         <mark key="." line="30" column="7" />
         <mark key="^" line="30" column="7" />
       </file>
+      <file name="/mnt/workspace/smenateam/bet/Dockerfile" timestamp="1530774129395">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="11" />
+        <mark key="^" line="0" column="11" />
+        <mark key="." line="0" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/python/delivery_project/main/views.py" timestamp="1496039685413">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="37" />
@@ -2907,6 +2914,11 @@
         <mark key="]" line="0" column="51" />
         <mark key="^" line="0" column="51" />
         <mark key="." line="6" column="51" />
+      </file>
+      <file name="/mnt/workspace/smenateam/farfor-playbooks/farfor/master/frontend/update_backend.yml" timestamp="1530774036678">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/smenateam/docker-compose.yml" timestamp="1509953271679">
         <mark key="[" line="21" column="0" />
@@ -3712,25 +3724,25 @@
         <text encoding="base64">ICAgICAgICAgIC0KICAgICAgICAgICAgcGlwOiByZXF1aXJlbWVudHM9Int7IHByb2plY3RfZGlyIH19L3JlcXVpcmVtZW50cy50eHQiIHZpcnR1YWxlbnY9Int7IHZpcnR1YWxlbnZfZGlyIH19IiBleHRyYV9hcmdzPSctLWV4aXN0cy1hY3Rpb249dycKICAgICAgICAgICAgYmVjb21lOiB0cnVlCiAgICAgICAgICAgIGJlY29tZV9tZXRob2Q6ICJzdSIKICAgICAgICAgICAgbmFtZTogItCj0YHRgtCw0L3QvtCy0LrQsCDQt9Cw0LLQuNGB0LjQvNC+0YHRgtC10LkiCiAgICAgICAgICAgIGJlY29tZV91c2VyOiAiZmFyZm9yIg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZWFjaF9kaWN0X2VudHJ5X29uX3NlcGFyYXRlX2xpbmU9ZmFsc2UK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">O2RlZGVudF9jbG9zaW5nX2JyYWNrZXRzPWYK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">O2NvYWxlc2NlX2JyYWNrZXRzPTAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICAgICAgIC0KICAgICAgICAgICAgcGlwOiByZXF1aXJlbWVudHM9Int7IHByb2plY3RfZGlyIH19L3JlcXVpcmVtZW50cy50eHQiIHZpcnR1YWxlbnY9Int7IHZpcnR1YWxlbnZfZGlyIH19IiBleHRyYV9hcmdzPSctLWV4aXN0cy1hY3Rpb249dycKICAgICAgICAgICAgYmVjb21lOiB0cnVlCiAgICAgICAgICAgIGJlY29tZV9tZXRob2Q6ICJzdSIKICAgICAgICAgICAgbmFtZTogItCj0YHRgtCw0L3QvtCy0LrQsCDQt9Cw0LLQuNGB0LjQvNC+0YHRgtC10LkiCiAgICAgICAgICAgIGJlY29tZV91c2VyOiAiZmFyZm9yIg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZWFjaF9kaWN0X2VudHJ5X29uX3NlcGFyYXRlX2xpbmU9ZmFsc2UK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">O2RlZGVudF9jbG9zaW5nX2JyYWNrZXRzPWYK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">O2NvYWxlc2NlX2JyYWNrZXRzPTAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>437</text>
