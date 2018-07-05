@@ -3436,6 +3436,12 @@
         <mark key="^" line="7" column="4" />
         <mark key="." line="7" column="4" />
       </file>
+      <file name="/mnt/workspace/smenateam/farfor-ee/farfor/site_hosts.py" timestamp="1530774923384">
+        <mark key="[" line="15" column="45" />
+        <mark key="]" line="15" column="45" />
+        <mark key="^" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/farfor/email_backends.py" timestamp="1510916326516">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="0" />
