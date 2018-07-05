@@ -452,6 +452,11 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="50" />
       </file>
+      <file name="/mnt/workspace/smenateam/farfor-playbooks/farfor/master/erp/update_backend.yml" timestamp="1530773367936">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/kkt_api_mock/app.py" timestamp="1502097383485">
         <mark key="[" line="53" column="11" />
         <mark key="]" line="53" column="10" />
@@ -476,7 +481,7 @@
         <mark key="^" line="15" column="30" />
         <mark key="." line="48" column="44" />
       </file>
-      <file name="/mnt/workspace/smenateam/farfor-ee/apps/utils/decimal.py" timestamp="1530787705173" />
+      <file name="/mnt/workspace/smenateam/farfor-ee/apps/utils/decimal.py" timestamp="1530790004450" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/templates/search/indexes/content/news_text.txt" timestamp="1511169503838">
         <mark key="[" line="2" column="10" />
         <mark key="]" line="2" column="21" />
@@ -1012,6 +1017,11 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="26" />
       </file>
+      <file name="/mnt/workspace/smenateam/kkt-api/utils.py" timestamp="1529067743679">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/lrkc/project/apps/pages/templates/pages/contentpage_detail.html" timestamp="1490708678032">
         <mark key="[" line="12" column="72" />
         <mark key="]" line="12" column="53" />
@@ -1125,6 +1135,11 @@
         <mark key="]" line="45" column="27" />
         <mark key="^" line="45" column="27" />
         <mark key="." line="45" column="27" />
+      </file>
+      <file name="/mnt/workspace/smenateam/farfor-kkt-api-service/config/erp_api.py" timestamp="1528007656691">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/mnt/workspace/smenateam/kkt-api/.env" timestamp="1529067676744">
         <mark key="[" line="0" column="27" />
@@ -2568,6 +2583,11 @@
         <mark key="^" line="0" column="50" />
         <mark key="." line="0" column="50" />
       </file>
+      <file name="/mnt/workspace/smenateam/farfor-playbooks/requirements.yml" timestamp="1529067470435">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/store/quality_reviews/QualityReviewStatusStore.js" timestamp="1500639140520">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="7" column="63" />
@@ -2709,6 +2729,11 @@
         <mark key="^" line="58" column="8" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="/mnt/workspace/smenateam/farfor-ee/.gitignore" timestamp="1530779991506">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/smenaschool/smenaschool1/.gitignore" timestamp="1493888735141">
         <mark key="[" line="2" column="6" />
         <mark key="]" line="4" column="4" />
@@ -2811,11 +2836,21 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="20" />
       </file>
+      <file name="/mnt/workspace/smenateam/farfor-ee/apps/frontend/views/api/basket.py" timestamp="1530790183053">
+        <mark key="[" line="874" column="0" />
+        <mark key="]" line="874" column="0" />
+        <mark key="." line="874" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/courier_service.py" timestamp="1504515627432">
         <mark key="[" line="11" column="49" />
         <mark key="]" line="11" column="50" />
         <mark key="." line="11" column="50" />
         <mark key="^" line="11" column="50" />
+      </file>
+      <file name="/mnt/workspace/smenateam/farfor-ee/apps/marketing/managers.py" timestamp="1530790044039">
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="0" />
+        <mark key="." line="267" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/project/templates/forms/includes/form_detail.html" timestamp="1488368703247">
         <mark key="[" line="14" column="6" />
@@ -2864,6 +2899,11 @@
         <mark key="]" line="33" column="82" />
         <mark key="." line="33" column="82" />
         <mark key="^" line="33" column="82" />
+      </file>
+      <file name="/mnt/workspace/smenateam/farfor-kkt-api-service/config/jwt.py" timestamp="1528007666061">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="/mnt/workspace/python/ufapy/tests/rest/http/some_enpoint.json" timestamp="1515516357098">
         <mark key="[" line="2" column="8" />
@@ -2962,6 +3002,11 @@
         <mark key="^" line="0" column="51" />
         <mark key="." line="6" column="51" />
       </file>
+      <file name="/mnt/workspace/smenateam/farfor-playbooks/farfor/master/frontend/update_backend.yml" timestamp="1530774036678">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/smenateam/docker-compose.yml" timestamp="1509953271679">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -3009,6 +3054,11 @@
         <mark key="]" line="2" column="16" />
         <mark key="^" line="2" column="16" />
         <mark key="." line="2" column="16" />
+      </file>
+      <file name="/mnt/workspace/smenateam/farfor-ee/apps/marketing/admin.py" timestamp="1530790101045">
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="101" column="0" />
+        <mark key="." line="101" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/vncenter/frontend/markup/blocks/check/check.styl" timestamp="1488533567081">
         <mark key="[" line="4" column="17" />
@@ -3762,8 +3812,8 @@
       <jump line="0" column="0" filename="/mnt/workspace/smenateam/farfor-ee/farfor/settings/erp/ru_staging.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>CONFIGURATION</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlLWVlCg==</text>
       </register>
       <register name="-" type="4">
         <text>CONFIGURATION</text>
@@ -3775,34 +3825,34 @@
         <text encoding="base64">RlJPTlRFTkRfU1RBVElDX1VSTCA9ICdodHRwczovL2Nkbi5mcmZyc3RhZ2luZy5ydScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlLWVlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgICAicGsiOiAxLAogICAgICAgICJtb2RlbCI6ICJiZXQuYmV0IiwKICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAic3RhdHVzIjogIm5vdF92YWxpZCIsCiAgICAgICAgICAgICJwcml6ZSI6IDE0NjE5OTUsCiAgICAgICAgICAgICJjcmVhdGVkX2F0IjogIjIwMTgtMDYtMDRUMTQ6MTM6MDBaIiwKICAgICAgICAgICAgImVtYWlsIjogIiIsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDEiOiAxLAogICAgICAgICAgICAiY2xpZW50IjogOTcxNjY2LAogICAgICAgICAgICAicmVzdWx0IjogbnVsbCwKICAgICAgICAgICAgInBhcnRpY2lwYW50MiI6IDEsCiAgICAgICAgICAgICJyZXN1bHRfc2VuZCI6IGZhbHNlLAogICAgICAgICAgICAib3JkZXIiOiA0NzEzNDI1LAogICAgICAgICAgICAibWF0Y2giOiAxCiAgICAgICAgfQogICAgfSwKICAgIHsKICAgICAgICAicGsiOiAyLAogICAgICAgICJtb2RlbCI6ICJiZXQuYmV0IiwKICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAic3RhdHVzIjogIm5vdF92YWxpZCIsCiAgICAgICAgICAgICJwcml6ZSI6IDE0NTc5NzcsCiAgICAgICAgICAgICJjcmVhdGVkX2F0IjogIjIwMTgtMDYtMDRUMTQ6MTg6MDBaIiwKICAgICAgICAgICAgImVtYWlsIjogIiIsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDEiOiAyLAogICAgICAgICAgICAiY2xpZW50IjogOTcxNjY2LAogICAgICAgICAgICAicmVzdWx0IjogbnVsbCwKICAgICAgICAgICAgInBhcnRpY2lwYW50MiI6IDIsCiAgICAgICAgICAgICJyZXN1bHRfc2VuZCI6IGZhbHNlLAogICAgICAgICAgICAib3JkZXIiOiA0NzEzNDI2LAogICAgICAgICAgICAibWF0Y2giOiAxCiAgICAgICAgfQogICAgfSwKICAgIHsKICAgICAgICAicGsiOiAzLAogICAgICAgICJtb2RlbCI6ICJiZXQuYmV0IiwKICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAic3RhdHVzIjogIm5vdF92YWxpZCIsCiAgICAgICAgICAgICJwcml6ZSI6IDE0NTc5NzksCiAgICAgICAgICAgICJjcmVhdGVkX2F0IjogIjIwMTgtMDYtMDVUMTE6NDk6MDBaIiwKICAgICAgICAgICAgImVtYWlsIjogIiIsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDEiOiA2LAogICAgICAgICAgICAiY2xpZW50IjogNDI5NDk2LAogICAgICAgICAgICAicmVzdWx0IjogbnVsbCwKICAgICAgICAgICAgInBhcnRpY2lwYW50MiI6IDcsCiAgICAgICAgICAgICJyZXN1bHRfc2VuZCI6IGZhbHNlLAogICAgICAgICAgICAib3JkZXIiOiA0NzEzNDM0LAogICAgICAgICAgICAibWF0Y2giOiAxCiAgICAgICAgfQogICAgfSwKICAgIHsKICAgICAgICAicGsiOiA0LAogICAgICAgICJtb2RlbCI6ICJiZXQuYmV0IiwKICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAic3RhdHVzIjogIm5vdF92YWxpZCIsCiAgICAgICAgICAgICJwcml6ZSI6IDE0NTc5ODEsCiAgICAgICAgICAgICJjcmVhdGVkX2F0IjogIjIwMTgtMDYtMDVUMTI6Mjc6MDBaIiwKICAgICAgICAgICAgImVtYWlsIjogIiIsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDEiOiAxLAogICAgICAgICAgICAiY2xpZW50IjogOTcxNjY2LAogICAgICAgICAgICAicmVzdWx0IjogbnVsbCwKICAgICAgICAgICAgInBhcnRpY2lwYW50MiI6IDIsCiAgICAgICAgICAgICJyZXN1bHRfc2VuZCI6IGZhbHNlLAogICAgICAgICAgICAib3JkZXIiOiA0NzEzNDM1LAogICAgICAgICAgICAibWF0Y2giOiAxCiAgICAgICAgfQogICAgfSwKICAgIHsKICAgICAgICAicGsiOiA1LAogICAgICAgICJtb2RlbCI6ICJiZXQuYmV0IiwKICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAic3RhdHVzIjogIm5vdF92YWxpZCIsCiAgICAgICAgICAgICJwcml6ZSI6IDE0NTc5ODMsCiAgICAgICAgICAgICJjcmVhdGVkX2F0IjogIjIwMTgtMDYtMDZUMDc6NTE6MDBaIiwKICAgICAgICAgICAgImVtYWlsIjogIiIsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDEiOiAyLAogICAgICAgICAgICAiY2xpZW50IjogOTcxNjY2LAogICAgICAgICAgICAicmVzdWx0IjogbnVsbCwKICAgICAgICAgICAgInBhcnRpY2lwYW50MiI6IDIsCiAgICAgICAgICAgICJyZXN1bHRfc2VuZCI6IGZhbHNlLAogICAgICAgICAgICAib3JkZXIiOiA0NzEzNDQ2LAogICAgICAgICAgICAibWF0Y2giOiAxCiAgICAgICAgfQogICAgfSwKICAgIHsKICAgICAgICAicGsiOiA2LAogICAgICAgICJtb2RlbCI6ICJiZXQuYmV0IiwKICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAic3RhdHVzIjogIm5vdF92YWxpZCIsCiAgICAgICAgICAgICJwcml6ZSI6IDE0NTc5ODUsCiAgICAgICAgICAgICJjcmVhdGVkX2F0IjogIjIwMTgtMDYtMDZUMDk6MTQ6MDBaIiwKICAgICAgICAgICAgImVtYWlsIjogIiIsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDEiOiAyLAogICAgICAgICAgICAiY2xpZW50IjogOTcxNjY2LAogICAgICAgICAgICAicmVzdWx0IjogbnVsbCwKICAgICAgICAgICAgInBhcnRpY2lwYW50MiI6IDIsCiAgICAgICAgICAgICJyZXN1bHRfc2VuZCI6IGZhbHNlLAogICAgICAgICAgICAib3JkZXIiOiA0NzEzNDI0LAogICAgICAgICAgICAibWF0Y2giOiAxCiAgICAgICAgfQogICAgfSwKICAgIHsKICAgICAgICAicGsiOiA3LAogICAgICAgICJtb2RlbCI6ICJiZXQuYmV0IiwKICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAic3RhdHVzIjogIm5vdF92YWxpZCIsCiAgICAgICAgICAgICJwcml6ZSI6IDE0NTc5ODcsCiAgICAgICAgICAgICJjcmVhdGVkX2F0IjogIjIwMTgtMDYtMDZUMDk6MTU6MDBaIiwKICAgICAgICAgICAgImVtYWlsIjogIiIsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDEiOiAxLAogICAgICAgICAgICAiY2xpZW50IjogOTcxNjY2LAogICAgICAgICAgICAicmVzdWx0IjogbnVsbCwKICAgICAgICAgICAgInBhcnRpY2lwYW50MiI6IDEsCiAgICAgICAgICAgICJyZXN1bHRfc2VuZCI6IGZhbHNlLAogICAgICAgICAgICAib3JkZXIiOiA0NzEzNDQxLAogICAgICAgICAgICAibWF0Y2giOiAxCiAgICAgICAgfQogICAgfSwKICAgIHsKICAgICAgICAicGsiOiA4LAogICAgICAgICJtb2RlbCI6ICJiZXQuYmV0IiwKICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAic3RhdHVzIjogIm5vdF92YWxpZCIsCiAgICAgICAgICAgICJwcml6ZSI6IDE0NTc5ODksCiAgICAgICAgICAgICJjcmVhdGVkX2F0IjogIjIwMTgtMDYtMDZUMDk6MjU6MDBaIiwKICAgICAgICAgICAgImVtYWlsIjogIiIsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDEiOiAyLAogICAgICAgICAgICAiY2xpZW50IjogOTcxNjY2LAogICAgICAgICAgICAicmVzdWx0IjogbnVsbCwKICAgICAgICAgICAgInBhcnRpY2lwYW50MiI6IDIsCiAgICAgICAgICAgICJyZXN1bHRfc2VuZCI6IGZhbHNlLAogICAgICAgICAgICAib3JkZXIiOiA0NzEzNDM2LAogICAgICAgICAgICAibWF0Y2giOiAxCiAgICAgICAgfQogICAgfSwKICAgIHsKICAgICAgICAicGsiOiAxMCwKICAgICAgICAibW9kZWwiOiAiYmV0LmJldCIsCiAgICAgICAgImZpZWxkcyI6IHsKICAgICAgICAgICAgInN0YXR1cyI6ICJsb3NlIiwKICAgICAgICAgICAgInByaXplIjogMTQ2MTk4NSwKICAgICAgICAgICAgImNyZWF0ZWRfYXQiOiAiMjAxOC0wNi0wNlQxMToxMDowNloiLAogICAgICAgICAgICAiZW1haWwiOiAiR2ZkQG1lLmNvbSIsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDEiOiAzMiwKICAgICAgICAgICAgImNsaWVudCI6IDQyOTQ5NiwKICAgICAgICAgICAgInJlc3VsdCI6IG51bGwsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDIiOiAyMywKICAgICAgICAgICAgInJlc3VsdF9zZW5kIjogdHJ1ZSwKICAgICAgICAgICAgIm9yZGVyIjogNDcxMzQ1NiwKICAgICAgICAgICAgIm1hdGNoIjogMgogICAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgICAgInBrIjogMTEsCiAgICAgICAgIm1vZGVsIjogImJldC5iZXQiLAogICAgICAgICJmaWVsZHMiOiB7CiAgICAgICAgICAgICJzdGF0dXMiOiAibG9zZSIsCiAgICAgICAgICAgICJwcml6ZSI6IDE0NjE5ODYsCiAgICAgICAgICAgICJjcmVhdGVkX2F0IjogIjIwMTgtMDYtMDZUMTE6MzQ6MzVaIiwKICAgICAgICAgICAgImVtYWlsIjogbnVsbCwKICAgICAgICAgICAgInBhcnRpY2lwYW50MSI6IDEsCiAgICAgICAgICAgICJjbGllbnQiOiA5NzE2NjYsCiAgICAgICAgICAgICJyZXN1bHQiOiBudWxsLAogICAgICAgICAgICAicGFydGljaXBhbnQyIjogMSwKICAgICAgICAgICAgInJlc3VsdF9zZW5kIjogdHJ1ZSwKICAgICAgICAgICAgIm9yZGVyIjogNDcxMzQ1NSwKICAgICAgICAgICAgIm1hdGNoIjogMgogICAgICAgIH0KICAgIH0sCiAgICB7CiAgICAgICAgInBrIjogMTIsCiAgICAgICAgIm1vZGVsIjogImJldC5iZXQiLAogICAgICAgICJmaWVsZHMiOiB7CiAgICAgICAgICAgICJzdGF0dXMiOiAibG9zZSIsCiAgICAgICAgICAgICJwcml6ZSI6IDE0NjE5ODcsCiAgICAgICAgICAgICJjcmVhdGVkX2F0IjogIjIwMTgtMDYtMDZUMTE6NDY6MjZaIiwKICAgICAgICAgICAgImVtYWlsIjogIjEyMzEyQG1lLmNvbSIsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDEiOiAyLAogICAgICAgICAgICAiY2xpZW50IjogNDI5NDk2LAogICAgICAgICAgICAicmVzdWx0IjogbnVsbCwKICAgICAgICAgICAgInBhcnRpY2lwYW50MiI6IDMsCiAgICAgICAgICAgICJyZXN1bHRfc2VuZCI6IHRydWUsCiAgICAgICAgICAgICJvcmRlciI6IDQ3MTM0NTksCiAgICAgICAgICAgICJtYXRjaCI6IDIKICAgICAgICB9CiAgICB9LAogICAgewogICAgICAgICJwayI6IDEzLAogICAgICAgICJtb2RlbCI6ICJiZXQuYmV0IiwKICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAic3RhdHVzIjogImxvc2UiLAogICAgICAgICAgICAicHJpemUiOiAxNDYxOTg4LAogICAgICAgICAgICAiY3JlYXRlZF9hdCI6ICIyMDE4LTA2LTA2VDExOjU3OjMwWiIsCiAgICAgICAgICAgICJlbWFpbCI6IG51bGwsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDEiOiA0LAogICAgICAgICAgICAiY2xpZW50IjogNDI5NDk2LAogICAgICAgICAgICAicmVzdWx0IjogbnVsbCwKICAgICAgICAgICAgInBhcnRpY2lwYW50MiI6IDcsCiAgICAgICAgICAgICJyZXN1bHRfc2VuZCI6IHRydWUsCiAgICAgICAgICAgICJvcmRlciI6IDQ3MTM0NjAsCiAgICAgICAgICAgICJtYXRjaCI6IDIKICAgICAgICB9CiAgICB9LAogICAgewogICAgICAgICJwayI6IDE0LAogICAgICAgICJtb2RlbCI6ICJiZXQuYmV0IiwKICAgICAgICAiZmllbGRzIjogewogICAgICAgICAgICAic3RhdHVzIjogImxvc2UiLAogICAgICAgICAgICAicHJpemUiOiAxNDYxOTg5LAogICAgICAgICAgICAiY3JlYXRlZF9hdCI6ICIyMDE4LTA2LTA2VDExOjU3OjUyWiIsCiAgICAgICAgICAgICJlbWFpbCI6ICI2NkBtZS5jb20iLAogICAgICAgICAgICAicGFydGljaXBhbnQxIjogNiwKICAgICAgICAgICAgImNsaWVudCI6IDQyOTQ5NiwKICAgICAgICAgICAgInJlc3VsdCI6IG51bGwsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDIiOiA3LAogICAgICAgICAgICAicmVzdWx0X3NlbmQiOiB0cnVlLAogICAgICAgICAgICAib3JkZXIiOiA0NzEzNDY1LAogICAgICAgICAgICAibWF0Y2giOiAyCiAgICAgICAgfQogICAgfSwKICAgIHsKICAgICAgICAicGsiOiAxNSwKICAgICAgICAibW9kZWwiOiAiYmV0LmJldCIsCiAgICAgICAgImZpZWxkcyI6IHsKICAgICAgICAgICAgInN0YXR1cyI6ICJsb3NlIiwKICAgICAgICAgICAgInByaXplIjogMTQ2MTk5MCwKICAgICAgICAgICAgImNyZWF0ZWRfYXQiOiAiMjAxOC0wNi0wNlQxMjoxNzo0M1oiLAogICAgICAgICAgICAiZW1haWwiOiBudWxsLAogICAgICAgICAgICAicGFydGljaXBhbnQxIjogNSwKICAgICAgICAgICAgImNsaWVudCI6IDQyOTQ5NiwKICAgICAgICAgICAgInJlc3VsdCI6IG51bGwsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDIiOiA3LAogICAgICAgICAgICAicmVzdWx0X3NlbmQiOiB0cnVlLAogICAgICAgICAgICAib3JkZXIiOiA0NzEzNDY5LAogICAgICAgICAgICAibWF0Y2giOiAyCiAgICAgICAgfQogICAgfSwKICAgIHsKICAgICAgICAicGsiOiAxNiwKICAgICAgICAibW9kZWwiOiAiYmV0LmJldCIsCiAgICAgICAgImZpZWxkcyI6IHsKICAgICAgICAgICAgInN0YXR1cyI6ICJsb3NlIiwKICAgICAgICAgICAgInByaXplIjogMTQ2MTk5MSwKICAgICAgICAgICAgImNyZWF0ZWRfYXQiOiAiMjAxOC0wNi0wNlQxMjoxOTowM1oiLAogICAgICAgICAgICAiZW1haWwiOiAiQmhndEBtZS5jb20iLAogICAgICAgICAgICAicGFydGljaXBhbnQxIjogNiwKICAgICAgICAgICAgImNsaWVudCI6IDQyOTQ5NiwKICAgICAgICAgICAgInJlc3VsdCI6IG51bGwsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDIiOiA4LAogICAgICAgICAgICAicmVzdWx0X3NlbmQiOiB0cnVlLAogICAgICAgICAgICAib3JkZXIiOiA0NzEzNDcwLAogICAgICAgICAgICAibWF0Y2giOiAyCiAgICAgICAgfQogICAgfSwKICAgIHsKICAgICAgICAicGsiOiAxMDgsCiAgICAgICAgIm1vZGVsIjogImJldC5iZXQiLAogICAgICAgICJmaWVsZHMiOiB7CiAgICAgICAgICAgICJzdGF0dXMiOiAid2luIiwKICAgICAgICAgICAgInByaXplIjogMTQ2MTk5NiwKICAgICAgICAgICAgImNyZWF0ZWRfYXQiOiAiMjAxOC0wNi0xNFQxMTowNzowMFoiLAogICAgICAgICAgICAiZW1haWwiOiAibWNyaWRlZG5iQGdtYWlsLmNvbSIsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDEiOiAxLAogICAgICAgICAgICAiY2xpZW50IjogMTIzMzc5NCwKICAgICAgICAgICAgInJlc3VsdCI6IG51bGwsCiAgICAgICAgICAgICJwYXJ0aWNpcGFudDIiOiAyLAogICAgICAgICAgICAicmVzdWx0X3NlbmQiOiBmYWxzZSwKICAgICAgICAgICAgIm9yZGVyIjogNDcxMzU0MiwKICAgICAgICAgICAgIm1hdGNoIjogMwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUsIFt7InRpdGxlIjogZXJyb3JfbWVzc2FnZV90aXRsZSwgImJvZHkiOiBfKHUi0JrQvtGA0LfQuNC90LAg0L/Rg9GB0YLQsCIpfV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2U6Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlLWVlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnJvbSBjZWxlcnkgaW1wb3J0IHNoYXJlZF90YXNrCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZnJvbSBmYXJmb3IuY2VsZXJ5IGltcG9ydCBhcHAgYXMgY2VsZXJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBOb25lLCBbeyJ0aXRsZSI6IGVycm9yX21lc3NhZ2VfdGl0bGUsICJib2R5IjogXyh1J9Cj0LrQsNC30LDQvdC90YvQuSDQsNC00YDQtdGBINC90LUg0L3QsNC50LTQtdC9Jyl9XQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IWFwcHMvYmV0L3N0YXRpY2ZpbGVzL1JFQURNRS5tZAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlLWVlCg==</text>
       </register>
       <register name=":" type="4">
         <text>437</text>
