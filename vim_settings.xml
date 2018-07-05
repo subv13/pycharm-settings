@@ -2836,10 +2836,10 @@
         <mark key="." line="23" column="20" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="/mnt/workspace/smenateam/farfor-ee/apps/frontend/views/api/basket.py" timestamp="1530790183053">
-        <mark key="[" line="874" column="0" />
-        <mark key="]" line="874" column="0" />
-        <mark key="." line="874" column="0" />
+      <file name="/mnt/workspace/smenateam/farfor-ee/apps/frontend/views/api/basket.py" timestamp="1530791313736">
+        <mark key="[" line="953" column="0" />
+        <mark key="]" line="953" column="0" />
+        <mark key="." line="953" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/farfor/config/apps/courier_service.py" timestamp="1504515627432">
         <mark key="[" line="11" column="49" />
@@ -3834,25 +3834,25 @@
         <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUsIFt7InRpdGxlIjogZXJyb3JfbWVzc2FnZV90aXRsZSwgImJvZHkiOiBfKHUi0JrQvtGA0LfQuNC90LAg0L/Rg9GB0YLQsCIpfV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgfV0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF8odSLQmNC3LdC30LAg0LHQvtC70YzRiNC+0Lkg0L3QsNCz0YDRg9C30LrQuCDQvdCwINC60YPRhdC90LUg0LLRiyDQvdC1INC80L7QttC10YLQtSDQvtGE0L7RgNC80LjRgtGMINC30LDQutCw0Lcg0L3QsCDRjdGC0L4g0LLRgNC10LzRjyIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlLWVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0aXRsZSI6IGVycm9yX21lc3NhZ2VfdGl0bGUsICJib2R5IjoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUsIFt7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBOb25lLCBbeyJ0aXRsZSI6IGVycm9yX21lc3NhZ2VfdGl0bGUsICJib2R5IjogXyh1J9Cj0LrQsNC30LDQvdC90YvQuSDQsNC00YDQtdGBINC90LUg0L3QsNC50LTQtdC9Jyl9XQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBQb2ludFBvd2VyTWFuYWdlci5pc19wb2ludF9leGNlZWRlZF9hdChwb2ludCwgZGVsaXZlcnlfYXQpOgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlLWVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUsIFt7InRpdGxlIjogZXJyb3JfbWVzc2FnZV90aXRsZSwgImJvZHkiOiBfKHUi0J3QtdC70YzQt9GPINC+0YTQvtGA0LzQuNGC0Ywg0LfQsNC60LDQtyDQvdCwINGN0YLQviDQstGA0LXQvNGPIil9XQo=</text>
       </register>
       <register name=":" type="4">
         <text>437</text>
