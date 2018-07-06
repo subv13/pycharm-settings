@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/mnt/workspace/smenateam/farfor-ee/apps/mobile_api/views/basket.py" timestamp="1530852903713" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/staff/api.py" timestamp="1495004785715">
         <mark key="[" line="104" column="18" />
         <mark key="]" line="104" column="74" />
@@ -1744,7 +1743,6 @@
         <mark key="^" line="162" column="6" />
         <mark key="." line="155" column="4" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.json" timestamp="1530853573334" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/farfor/urls.py" timestamp="1510833378201">
         <mark key="[" line="265" column="0" />
         <mark key="]" line="265" column="0" />
@@ -2023,6 +2021,7 @@
         <mark key="^" line="53" column="50" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/.pyenv/versions/farfor-ee/lib/python2.7/site-packages/django/conf/locale/ru/LC_MESSAGES/django.po" timestamp="1530865710452" />
       <file name="$USER_HOME$/smenateam/farfor/farfor-dj-1.8/apps/restaurant/admin.py" timestamp="1510833131371">
         <mark key="[" line="2" column="53" />
         <mark key="]" line="2" column="75" />
@@ -2064,6 +2063,12 @@
         <mark key="]" line="4" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="/mnt/workspace/smenateam/farfor-playbooks/roles/erp/files/erp-ru-staging/nginx.conf" timestamp="1530866776459">
+        <mark key="[" line="28" column="32" />
+        <mark key="]" line="28" column="43" />
+        <mark key="^" line="28" column="43" />
+        <mark key="." line="28" column="43" />
       </file>
       <file name="$USER_HOME$/smenateam/smenaschool/cme/manage.py" timestamp="1500370238753">
         <mark key="[" line="11" column="0" />
@@ -2127,6 +2132,12 @@
       </file>
       <file name="/t [postgres@localhost]" timestamp="1525587267750">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/mnt/workspace/smenateam/farfor-ee/farfor/settings/site/base.py" timestamp="1530866245949">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="52" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/db/71cd3e9e-fc1a-4e44-8243-a05c265848b1/console.sql" timestamp="1489402450556">
         <mark key="[" line="0" column="0" />
@@ -2196,6 +2207,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="^" line="24" column="30" />
         <mark key="." line="13" column="0" />
+      </file>
+      <file name="/mnt/workspace/smenateam/farfor-ee/farfor/settings/base.py" timestamp="1530866249531">
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="." line="241" column="0" />
       </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor-erp-extjs/app/view/shift/ShiftStaffList.js" timestamp="1491549074619">
         <mark key="[" line="99" column="52" />
@@ -3118,6 +3134,12 @@
         <mark key="^" line="24" column="10" />
         <mark key="." line="24" column="10" />
       </file>
+      <file name="/mnt/workspace/smenateam/farfor-ee/farfor/settings/erp/base.py" timestamp="1530866350123">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/smenateam/farfor/farfor/apps/frontend/templates/frontend/contacts.html" timestamp="1511769296816">
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
@@ -3292,7 +3314,6 @@
         <mark key="^" line="0" column="8" />
         <mark key="." line="0" column="8" />
       </file>
-      <file name="$USER_HOME$/.pyenv/versions/2.7.14/lib/python2.7/httplib.py" timestamp="1530853307604" />
       <file name="$USER_HOME$/smenateam/farfor/farfor/deployment/playbooks/staging/erp/update_backend.yml" timestamp="1502687809590">
         <mark key="[" line="19" column="160" />
         <mark key="]" line="19" column="122" />
@@ -3821,7 +3842,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlLWVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhcHBzLnV0aWxzLmNvbnRleHRfcHJvY2Vzc29ycy5jaXRpZXNfdG9fZW5hYmxlX2lvc19zbWFydF9iYW5uZXInLAo=</text>
       </register>
       <register name="-" type="4">
         <text>CONFIGURATION</text>
@@ -3833,37 +3854,37 @@
         <text encoding="base64">RlJPTlRFTkRfU1RBVElDX1VSTCA9ICdodHRwczovL2Nkbi5mcmZyc3RhZ2luZy5ydScK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiByZWxlYXNlLWVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhcHBzLnV0aWxzLmNvbnRleHRfcHJvY2Vzc29ycy5jaXRpZXNfdG9fZW5hYmxlX2lvc19zbWFydF9iYW5uZXInLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhcHBzLmZyb250ZW5kLmNvbnRleHRfcHJvY2Vzc29ycy5zaWRlYmFyX25ld3MnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfV0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhcHBzLmZyb250ZW5kLmNvbnRleHRfcHJvY2Vzc29ycy5kZWJ1ZycsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIF8odSLQmNC3LdC30LAg0LHQvtC70YzRiNC+0Lkg0L3QsNCz0YDRg9C30LrQuCDQvdCwINC60YPRhdC90LUg0LLRiyDQvdC1INC80L7QttC10YLQtSDQvtGE0L7RgNC80LjRgtGMINC30LDQutCw0Lcg0L3QsCDRjdGC0L4g0LLRgNC10LzRjyIpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhcHBzLmZyb250ZW5kLmNvbnRleHRfcHJvY2Vzc29ycy5sb2dpbl9zb2NpYWxfYWNjb3VudHMnLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJ0aXRsZSI6IGVycm9yX21lc3NhZ2VfdGl0bGUsICJib2R5IjoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhcHBzLmZyb250ZW5kLmNvbnRleHRfcHJvY2Vzc29ycy5oZWFkZXJfYmFza2V0X2NvbmZpZycsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUsIFt7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhcHBzLmZyb250ZW5kLmNvbnRleHRfcHJvY2Vzc29ycy5jaXR5X3Byb2Nlc3NvcicsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiBQb2ludFBvd2VyTWFuYWdlci5pc19wb2ludF9leGNlZWRlZF9hdChwb2ludCwgZGVsaXZlcnlfYXQpOgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhcHBzLnV0aWxzLmNvbnRleHRfcHJvY2Vzc29ycy5zaXRlX3Byb2Nlc3NvcicsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIE5vbmUsIFt7InRpdGxlIjogZXJyb3JfbWVzc2FnZV90aXRsZSwgImJvZHkiOiBfKHUi0J3QtdC70YzQt9GPINC+0YTQvtGA0LzQuNGC0Ywg0LfQsNC60LDQtyDQvdCwINGN0YLQviDQstGA0LXQvNGPIil9XQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>437</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -3905,9 +3926,9 @@
         <entry>17</entry>
         <entry>87</entry>
         <entry>2620</entry>
-        <entry>wq</entry>
         <entry>41</entry>
         <entry>437</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
