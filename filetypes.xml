@@ -5,7 +5,6 @@
       <mapping pattern=".prettierrc" type="JSON" />
       <mapping pattern="ufapy" type="Markdown" />
       <mapping pattern=".nev" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern="rn" type="PLAIN_TEXT" />
       <mapping pattern="flight_text" type="PLAIN_TEXT" />
       <mapping ext="me" type="PLAIN_TEXT" />
